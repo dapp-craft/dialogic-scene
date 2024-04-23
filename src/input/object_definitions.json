@@ -1,0 +1,5541 @@
+{
+  "ObjectDefinitions": [
+    {
+      "Type": "Point",
+      "Class": "Primitive",
+      "Properties": [
+        {
+          "Property": "x",
+          "Type": "Float"
+        },
+        {
+          "Property": "y",
+          "Type": "Float"
+        }
+      ]
+    },
+    {
+      "Type": "Color",
+      "Class": "Primitive",
+      "Properties": [
+        {
+          "Property": "a",
+          "Type": "Float"
+        },
+        {
+          "Property": "r",
+          "Type": "Float"
+        },
+        {
+          "Property": "g",
+          "Type": "Float"
+        },
+        {
+          "Property": "b",
+          "Type": "Float"
+        }
+      ]
+    },
+    {
+      "Type": "Size",
+      "Class": "Primitive",
+      "Properties": [
+        {
+          "Property": "w",
+          "Type": "Float"
+        },
+        {
+          "Property": "h",
+          "Type": "Float"
+        }
+      ]
+    },
+    {
+      "Type": "Rect",
+      "Class": "Primitive",
+      "Properties": [
+        {
+          "Property": "x",
+          "Type": "Float"
+        },
+        {
+          "Property": "y",
+          "Type": "Float"
+        },
+        {
+          "Property": "w",
+          "Type": "Float"
+        },
+        {
+          "Property": "h",
+          "Type": "Float"
+        }
+      ]
+    },
+    {
+      "Type": "PreviewImage",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "ViewBox",
+          "Type": "Rect"
+        },
+        {
+          "Property": "Mode",
+          "Type": "PreviewImageViewBoxModes"
+        },
+        {
+          "Property": "Asset",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Transformation",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "Pivot",
+          "Type": "Point"
+        },
+        {
+          "Property": "Rotation",
+          "Type": "Float"
+        },
+        {
+          "Property": "Translation",
+          "Type": "Point"
+        },
+        {
+          "Property": "Matrix",
+          "Type": "Array",
+          "ItemType": "Float"
+        }
+      ]
+    },
+    {
+      "Type": "OutgoingConnection",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "Label",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "TargetPin",
+          "Type": "InputPin"
+        },
+        {
+          "Property": "Target",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "IncomingConnection",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "Label",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "SourcePin",
+          "Type": "OutputPin"
+        },
+        {
+          "Property": "Source",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "OutputPin",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "Text",
+          "Type": "Script_Instruction"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "Owner",
+          "Type": "Id"
+        },
+        {
+          "Property": "Connections",
+          "Type": "Array",
+          "ItemType": "OutgoingConnection"
+        }
+      ]
+    },
+    {
+      "Type": "InputPin",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "Text",
+          "Type": "Script_Condition"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "Owner",
+          "Type": "Id"
+        },
+        {
+          "Property": "Connections",
+          "Type": "Array",
+          "ItemType": "OutgoingConnection"
+        }
+      ]
+    },
+    {
+      "Type": "LocationAnchor",
+      "Class": "ArticyObject",
+      "Properties": [
+        {
+          "Property": "AnchorPositionX",
+          "Type": "Float"
+        },
+        {
+          "Property": "AnchorPositionY",
+          "Type": "Float"
+        },
+        {
+          "Property": "AnchorColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "AnchorSize",
+          "Type": "LocationAnchorSize"
+        }
+      ]
+    },
+    {
+      "Type": "animations",
+      "Class": "Enum",
+      "DisplayName": "animations",
+      "Values": {
+        "neutral_01": 1,
+        "confident_01": 2,
+        "bored_01": 3,
+        "serious_01": 4,
+        "surprised_01": 5,
+        "nervous_01": 6,
+        "thinking_01": 7,
+        "nonsense_01": 8,
+        "ashamed_01": 9,
+        "annoyed_01": 10,
+        "tears_01": 11,
+        "scared_01": 12,
+        "sad_01": 13,
+        "lovestruck_01": 14,
+        "happy_01": 15,
+        "excited_01": 16,
+        "breakdown_01": 17,
+        "pain_01": 18,
+        "angry_01": 19,
+        "pitch_01": 20,
+        "praying_01": 21,
+        "intense_01": 22,
+        "reading_01": 23,
+        "none": 24,
+        "indifferent_01": 25
+      },
+      "DisplayNames": {
+        "neutral_01": "neutral_01",
+        "confident_01": "confident_01",
+        "bored_01": "bored_01",
+        "serious_01": "serious_01",
+        "surprised_01": "surprised_01",
+        "nervous_01": "nervous_01",
+        "thinking_01": "thinking_01",
+        "nonsense_01": "nonsense_01",
+        "ashamed_01": "ashamed_01",
+        "annoyed_01": "annoyed_01",
+        "tears_01": "tears_01",
+        "scared_01": "scared_01",
+        "sad_01": "sad_01",
+        "lovestruck_01": "lovestruck_01",
+        "happy_01": "happy_01",
+        "excited_01": "excited_01",
+        "breakdown_01": "breakdown_01",
+        "pain_01": "pain_01",
+        "angry_01": "angry_01",
+        "pitch_01": "pitch_01",
+        "praying_01": "praying_01",
+        "intense_01": "intense_01",
+        "reading_01": "reading_01",
+        "none": "none",
+        "indifferent_01": "indifferent_01"
+      }
+    },
+    {
+      "Type": "directionOfView",
+      "Class": "Enum",
+      "DisplayName": "directionOfView",
+      "Values": {
+        "left_01": 1,
+        "right_01": 2,
+        "front_01": 3,
+        "back_01": 4,
+        "none": 5
+      },
+      "DisplayNames": {
+        "left_01": "left_01",
+        "right_01": "right_01",
+        "front_01": "front_01",
+        "back_01": "back_01",
+        "none": "none"
+      }
+    },
+    {
+      "Type": "charactersName",
+      "Class": "Enum",
+      "DisplayName": "charactersName",
+      "Values": {
+        "socrates": 1,
+        "ari": 2,
+        "billy": 3,
+        "arbiter": 4,
+        "euthyphro": 5,
+        "protagoras": 6,
+        "hobbes": 7,
+        "mill": 8,
+        "kant": 9,
+        "crowd": 10,
+        "notification": 11,
+        "none": 12
+      },
+      "DisplayNames": {
+        "socrates": "socrates",
+        "ari": "ari",
+        "billy": "billy",
+        "arbiter": "arbiter",
+        "euthyphro": "euthyphro",
+        "protagoras": "protagoras",
+        "hobbes": "hobbes",
+        "mill": "mill",
+        "kant": "kant",
+        "crowd": "crowd",
+        "notification": "notification",
+        "none": "none"
+      }
+    },
+    {
+      "Type": "animationsAllCharacters",
+      "Class": "Enum",
+      "DisplayName": "animationsAllCharacters",
+      "Values": {
+        "neutral_01": 1,
+        "confident_01": 2,
+        "bored_01": 3,
+        "serious_01": 4,
+        "surprised_01": 5,
+        "nervous_01": 6,
+        "thinking_01": 7,
+        "nonsense_01": 8,
+        "embarassed_01": 9,
+        "annoyed_01": 10,
+        "tears_01": 11,
+        "scared_01": 12,
+        "sad_01": 13,
+        "lovestruck_01": 14,
+        "happy_01": 15,
+        "excited_01": 16,
+        "breakdown_01": 17,
+        "pain_01": 18,
+        "angry_01": 19,
+        "pitch_01": 20,
+        "praying_01": 21,
+        "intense_01": 22,
+        "reading_01": 23,
+        "none": 24
+      },
+      "DisplayNames": {
+        "neutral_01": "neutral_01",
+        "confident_01": "confident_01",
+        "bored_01": "bored_01",
+        "serious_01": "serious_01",
+        "surprised_01": "surprised_01",
+        "nervous_01": "nervous_01",
+        "thinking_01": "thinking_01",
+        "nonsense_01": "nonsense_01",
+        "embarassed_01": "embarassed_01",
+        "annoyed_01": "annoyed_01",
+        "tears_01": "tears_01",
+        "scared_01": "scared_01",
+        "sad_01": "sad_01",
+        "lovestruck_01": "lovestruck_01",
+        "happy_01": "happy_01",
+        "excited_01": "excited_01",
+        "breakdown_01": "breakdown_01",
+        "pain_01": "pain_01",
+        "angry_01": "angry_01",
+        "pitch_01": "pitch_01",
+        "praying_01": "praying_01",
+        "intense_01": "intense_01",
+        "reading_01": "reading_01",
+        "none": "none"
+      }
+    },
+    {
+      "Type": "bubbleSpeech",
+      "Class": "Enum",
+      "DisplayName": "bubbleSpeech",
+      "Values": {
+        "ThoughtsBubble": 1,
+        "NormalBubble": 2,
+        "OutcryBubble": 3,
+        "none": 4
+      },
+      "DisplayNames": {
+        "ThoughtsBubble": "ThoughtsBubble",
+        "NormalBubble": "NormalBubble",
+        "OutcryBubble": "OutcryBubble",
+        "none": "none"
+      }
+    },
+    {
+      "Type": "typeNode",
+      "Class": "Enum",
+      "DisplayName": "typeNode",
+      "Values": {
+        "dialog_node": 1,
+        "service_node": 2,
+        "cutscene_node": 3
+      },
+      "DisplayNames": {
+        "dialog_node": "dialog_node",
+        "service_node": "service_node",
+        "cutscene_node": "cutscene_node"
+      }
+    },
+    {
+      "Type": "ShapeType",
+      "Class": "Enum",
+      "DisplayName": "ShapeType",
+      "Values": {
+        "Invalid": 0,
+        "Spot": 1,
+        "Circle": 2,
+        "Rectangle": 3,
+        "Path": 4,
+        "Polygon": 5,
+        "Link": 6
+      },
+      "DisplayNames": {
+        "Invalid": "Invalid",
+        "Spot": "Spot",
+        "Circle": "Circle",
+        "Rectangle": "Rectangle",
+        "Path": "Path",
+        "Polygon": "Polygon",
+        "Link": "Link"
+      }
+    },
+    {
+      "Type": "SelectabilityModes",
+      "Class": "Enum",
+      "DisplayName": "SelectabilityModes",
+      "Values": {
+        "Unselectable": 0,
+        "Selectable": 1
+      },
+      "DisplayNames": {
+        "Unselectable": "Unselectable",
+        "Selectable": "Selectable"
+      }
+    },
+    {
+      "Type": "VisibilityModes",
+      "Class": "Enum",
+      "DisplayName": "VisibilityModes",
+      "Values": {
+        "Invisible": 0,
+        "Visible": 1
+      },
+      "DisplayNames": {
+        "Invisible": "Invisible",
+        "Visible": "Visible"
+      }
+    },
+    {
+      "Type": "OutlineStyle",
+      "Class": "Enum",
+      "DisplayName": "OutlineStyle",
+      "Values": {
+        "Solid": 0,
+        "Dot": 1,
+        "Dash": 2,
+        "DashDot": 3,
+        "DashDotDot": 4
+      },
+      "DisplayNames": {
+        "Solid": "Solid",
+        "Dot": "Dot",
+        "Dash": "Dash",
+        "DashDot": "DashDot",
+        "DashDotDot": "DashDotDot"
+      }
+    },
+    {
+      "Type": "PathCaps",
+      "Class": "Enum",
+      "DisplayName": "PathCaps",
+      "Values": {
+        "ColoredDot": 0,
+        "None": 1,
+        "LineArrowHead": 2,
+        "FilledArrowHead": 3,
+        "Diamond": 4,
+        "Square": 5,
+        "Disc": 6
+      },
+      "DisplayNames": {
+        "ColoredDot": "ColoredDot",
+        "None": "None",
+        "LineArrowHead": "LineArrowHead",
+        "FilledArrowHead": "FilledArrowHead",
+        "Diamond": "Diamond",
+        "Square": "Square",
+        "Disc": "Disc"
+      }
+    },
+    {
+      "Type": "LocationAnchorSize",
+      "Class": "Enum",
+      "DisplayName": "LocationAnchorSize",
+      "Values": {
+        "Small": 0,
+        "Medium": 1,
+        "Large": 2
+      },
+      "DisplayNames": {
+        "Small": "Small",
+        "Medium": "Medium",
+        "Large": "Large"
+      }
+    },
+    {
+      "Type": "PreviewImageViewBoxModes",
+      "Class": "Enum",
+      "DisplayName": "PreviewImageViewBoxModes",
+      "Values": {
+        "FromAsset": 0,
+        "Custom": 1
+      },
+      "DisplayNames": {
+        "FromAsset": "FromAsset",
+        "Custom": "Custom"
+      }
+    },
+    {
+      "Type": "FlowFragment",
+      "Class": "FlowFragment",
+      "DisplayName": "FlowFragment",
+      "Properties": [
+        {
+          "Property": "Attachments",
+          "Type": "Array",
+          "ItemType": "Id"
+        },
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "Dialogue",
+      "Class": "Dialogue",
+      "DisplayName": "Dialogue",
+      "Properties": [
+        {
+          "Property": "Attachments",
+          "Type": "Array",
+          "ItemType": "Id"
+        },
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "environmentTemplate",
+      "Class": "Dialogue",
+      "InheritsFrom": "Dialogue",
+      "Template": {
+        "TechnicalName": "environmentTemplate",
+        "DisplayName": "environmentTemplate",
+        "Features": [
+          {
+            "TechnicalName": "environment",
+            "DisplayName": "environment",
+            "Properties": [
+              {
+                "Property": "themeSong",
+                "Type": "Id",
+                "DisplayName": "themeSong"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "themeSong",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Class": "DialogueFragment",
+      "DisplayName": "DialogueFragment",
+      "Properties": [
+        {
+          "Property": "MenuText",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "StageDirections",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Speaker",
+          "Type": "Id"
+        },
+        {
+          "Property": "SplitHeight",
+          "Type": "Float"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "nodeTemplateFrame_00",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_00",
+        "DisplayName": "nodeTemplateFrameBilly",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_06",
+            "DisplayName": "characterInFrame_06",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_05",
+            "DisplayName": "characterInFrame_05",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_02",
+            "DisplayName": "characterInFrame_02",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_01",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_01",
+        "DisplayName": "nodeTemplateFrameEuthyphro",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_06",
+            "DisplayName": "characterInFrame_06",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_05",
+            "DisplayName": "characterInFrame_05",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_02",
+            "DisplayName": "characterInFrame_02",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_03",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_03",
+        "DisplayName": "nodeTemplateFrameHobbes",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_05",
+            "DisplayName": "characterInFrame_05",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_07",
+            "DisplayName": "characterInFrame_07",
+            "Properties": [
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              },
+              {
+                "Property": "animations",
+                "Type": "animations",
+                "DisplayName": "animations"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              },
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_04",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_04",
+        "DisplayName": "nodeTemplateFrameMill",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_07",
+            "DisplayName": "characterInFrame_07",
+            "Properties": [
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              },
+              {
+                "Property": "animations",
+                "Type": "animations",
+                "DisplayName": "animations"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              },
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_05",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_05",
+        "DisplayName": "nodeTemplateFrameKant",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_07",
+            "DisplayName": "characterInFrame_07",
+            "Properties": [
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              },
+              {
+                "Property": "animations",
+                "Type": "animations",
+                "DisplayName": "animations"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              },
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_06",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_06",
+        "DisplayName": "nodeTemplateFrameArbiter",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_08",
+            "DisplayName": "characterInFrame_08",
+            "Properties": [
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              },
+              {
+                "Property": "animations",
+                "Type": "animations",
+                "DisplayName": "animations"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              },
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_07",
+            "DisplayName": "characterInFrame_07",
+            "Properties": [
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              },
+              {
+                "Property": "animations",
+                "Type": "animations",
+                "DisplayName": "animations"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              },
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_06",
+            "DisplayName": "characterInFrame_06",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_05",
+            "DisplayName": "characterInFrame_05",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_02",
+            "DisplayName": "characterInFrame_02",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_02",
+      "Class": "DialogueFragment",
+      "InheritsFrom": "DialogueFragment",
+      "Template": {
+        "TechnicalName": "nodeTemplateFrame_02",
+        "DisplayName": "nodeTemplateFrameProtagoras",
+        "Features": [
+          {
+            "TechnicalName": "node",
+            "DisplayName": "node",
+            "Properties": [
+              {
+                "Property": "typeNode",
+                "Type": "typeNode",
+                "DisplayName": "typeNode"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Float",
+                "DisplayName": "autoScrollingTimer"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "Id",
+                "DisplayName": "soundEffect"
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "Id",
+                "DisplayName": "sceneOverlay"
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "bubbleSpeech",
+                "DisplayName": "bubbleSpeech"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Float",
+                "DisplayName": "speedSpeech"
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Float",
+                "DisplayName": "shakeCameraIntensity"
+              },
+              {
+                "Property": "title",
+                "Type": "ArticyString",
+                "DisplayName": "title"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Float",
+                "DisplayName": "moveCamera"
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "ArticyString",
+                "DisplayName": "hpButtonName"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Bool",
+                "DisplayName": "showHpButton"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "typeNode",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "autoScrollingTimer",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "60",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": "sec"
+              },
+              {
+                "Property": "soundEffect",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "sceneOverlay",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Image"
+                ],
+                "AllowedModelTemplates": []
+              },
+              {
+                "Property": "bubbleSpeech",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "speedSpeech",
+                "Type": "Number",
+                "MinValue": "0.1",
+                "MaxValue": "5",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "shakeCameraIntensity",
+                "Type": "Number",
+                "MinValue": "0",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "title",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "moveCamera",
+                "Type": "Number",
+                "MinValue": "-5",
+                "MaxValue": "5",
+                "Precision": "0",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": null
+              },
+              {
+                "Property": "hpButtonName",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "showHpButton",
+                "Type": "Boolean",
+                "DisplayAsCombobox": "False"
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_06",
+            "DisplayName": "characterInFrame_06",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_05",
+            "DisplayName": "characterInFrame_05",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_04",
+            "DisplayName": "characterInFrame_04",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-12",
+                "MaxValue": "12",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_03",
+            "DisplayName": "characterInFrame_03",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_02",
+            "DisplayName": "characterInFrame_02",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          },
+          {
+            "TechnicalName": "characterInFrame_01",
+            "DisplayName": "characterInFrame_01",
+            "Properties": [
+              {
+                "Property": "animations",
+                "Type": "animationsAllCharacters",
+                "DisplayName": "animations"
+              },
+              {
+                "Property": "name",
+                "Type": "charactersName",
+                "DisplayName": "name"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "directionOfView",
+                "DisplayName": "directionOfView"
+              },
+              {
+                "Property": "position",
+                "Type": "Float",
+                "DisplayName": "position"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "animations",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "name",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "directionOfView",
+                "Type": "Enum",
+                "IsLocalized": "False",
+                "SortMode": "BySortIndex"
+              },
+              {
+                "Property": "position",
+                "Type": "Number",
+                "MinValue": "-25",
+                "MaxValue": "25",
+                "Precision": "1",
+                "MinPrecision": "0",
+                "MaxPrecision": "0",
+                "Unit": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "Hub",
+      "Class": "Hub",
+      "DisplayName": "Hub",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "ideaSlate",
+      "Class": "Hub",
+      "InheritsFrom": "Hub",
+      "Template": {
+        "TechnicalName": "ideaSlate",
+        "DisplayName": "ideaSlate",
+        "Features": []
+      }
+    },
+    {
+      "Type": "chapterConnector",
+      "Class": "Hub",
+      "InheritsFrom": "Hub",
+      "Template": {
+        "TechnicalName": "chapterConnector",
+        "DisplayName": "chapterConnector",
+        "Features": [
+          {
+            "TechnicalName": "chapterConnectorTemplate",
+            "DisplayName": "сhapterСonnectorTemplate",
+            "Properties": [
+              {
+                "Property": "previousChapter",
+                "Type": "ArticyString",
+                "DisplayName": "previousСhapter"
+              },
+              {
+                "Property": "nextChapter",
+                "Type": "ArticyString",
+                "DisplayName": "nextСhapter"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "previousChapter",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              },
+              {
+                "Property": "nextChapter",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "False",
+                "AllowsLinebreaks": "False",
+                "HasVoiceOver": "False"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "Comment",
+      "Class": "Comment",
+      "DisplayName": "Comment",
+      "Properties": [
+        {
+          "Property": "CreatedBy",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "CreatedOn",
+          "Type": "DateTime"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Jump",
+      "Class": "Jump",
+      "DisplayName": "Jump",
+      "Properties": [
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "Target",
+          "Type": "Id"
+        },
+        {
+          "Property": "TargetPin",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "Entity",
+      "Class": "Entity",
+      "DisplayName": "Entity",
+      "Properties": [
+        {
+          "Property": "Attachments",
+          "Type": "Array",
+          "ItemType": "Id"
+        },
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyMultiLanguageString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "characterProperties",
+      "Class": "Entity",
+      "InheritsFrom": "Entity",
+      "Template": {
+        "TechnicalName": "characterProperties",
+        "DisplayName": "characterProperties",
+        "Features": [
+          {
+            "TechnicalName": "cueSound",
+            "DisplayName": "cueSound",
+            "Properties": [
+              {
+                "Property": "textSound",
+                "Type": "Id",
+                "DisplayName": "textSound"
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "textSound",
+                "Type": "ReferenceSlot",
+                "AllowedModelTypes": [
+                  "Asset"
+                ],
+                "PlaceholderValue": "",
+                "AllowedAssetCategories": [
+                  "None",
+                  "Audio"
+                ],
+                "AllowedModelTemplates": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "Location",
+      "Class": "Location",
+      "DisplayName": "Location",
+      "Properties": [
+        {
+          "Property": "Attachments",
+          "Type": "Array",
+          "ItemType": "Id"
+        },
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Spot",
+      "Class": "Spot",
+      "DisplayName": "Spot",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "ShowDisplayName",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "DisplayNameColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "DisplayNameSize",
+          "Type": "Int"
+        },
+        {
+          "Property": "OutlineColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "OutlineSize",
+          "Type": "Float"
+        },
+        {
+          "Property": "OutlineStyle",
+          "Type": "OutlineStyle"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Zone",
+      "Class": "Zone",
+      "DisplayName": "Zone",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Vertices",
+          "Type": "Array",
+          "ItemType": "Point"
+        },
+        {
+          "Property": "Transform",
+          "Type": "Transformation"
+        },
+        {
+          "Property": "ShapeType",
+          "Type": "ShapeType"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "OutlineColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "OutlineSize",
+          "Type": "Float"
+        },
+        {
+          "Property": "OutlineStyle",
+          "Type": "OutlineStyle"
+        },
+        {
+          "Property": "ShowDisplayName",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "DisplayNameColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "DisplayNameSize",
+          "Type": "Int"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Path",
+      "Class": "Path",
+      "DisplayName": "Path",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Vertices",
+          "Type": "Array",
+          "ItemType": "Point"
+        },
+        {
+          "Property": "Transform",
+          "Type": "Transformation"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "ShowDisplayName",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "DisplayNameColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "DisplayNameSize",
+          "Type": "Int"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "OutlineColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "OutlineSize",
+          "Type": "Float"
+        },
+        {
+          "Property": "OutlineStyle",
+          "Type": "OutlineStyle"
+        },
+        {
+          "Property": "StartCap",
+          "Type": "PathCaps"
+        },
+        {
+          "Property": "EndCap",
+          "Type": "PathCaps"
+        },
+        {
+          "Property": "LineWidth",
+          "Type": "Float"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Link",
+      "Class": "Link",
+      "DisplayName": "Link",
+      "Properties": [
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "Target",
+          "Type": "Id"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "ShowDisplayName",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "DisplayNameColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "DisplayNameSize",
+          "Type": "Int"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Asset",
+      "Class": "Asset",
+      "DisplayName": "Asset",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Filename",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "OriginalSource",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Condition",
+      "Class": "Condition",
+      "DisplayName": "Condition",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Expression",
+          "Type": "Script_Condition"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "Instruction",
+      "Class": "Instruction",
+      "DisplayName": "Instruction",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Expression",
+          "Type": "Script_Instruction"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "InputPins",
+          "Type": "Array",
+          "ItemType": "InputPin"
+        },
+        {
+          "Property": "OutputPins",
+          "Type": "Array",
+          "ItemType": "OutputPin"
+        }
+      ]
+    },
+    {
+      "Type": "LocationText",
+      "Class": "LocationText",
+      "DisplayName": "LocationText",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Anchors",
+          "Type": "Array",
+          "ItemType": "LocationAnchor"
+        },
+        {
+          "Property": "Vertices",
+          "Type": "Array",
+          "ItemType": "Point"
+        },
+        {
+          "Property": "Transform",
+          "Type": "Transformation"
+        },
+        {
+          "Property": "ShapeType",
+          "Type": "ShapeType"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "OutlineColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "OutlineSize",
+          "Type": "Float"
+        },
+        {
+          "Property": "OutlineStyle",
+          "Type": "OutlineStyle"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "ForcedWidth",
+          "Type": "Float"
+        },
+        {
+          "Property": "ForcedHeight",
+          "Type": "Float"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "LocationImage",
+      "Class": "LocationImage",
+      "DisplayName": "LocationImage",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Anchors",
+          "Type": "Array",
+          "ItemType": "LocationAnchor"
+        },
+        {
+          "Property": "Vertices",
+          "Type": "Array",
+          "ItemType": "Point"
+        },
+        {
+          "Property": "Transform",
+          "Type": "Transformation"
+        },
+        {
+          "Property": "ShapeType",
+          "Type": "ShapeType"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Visibility",
+          "Type": "VisibilityModes"
+        },
+        {
+          "Property": "OutlineColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "OutlineSize",
+          "Type": "Float"
+        },
+        {
+          "Property": "OutlineStyle",
+          "Type": "OutlineStyle"
+        },
+        {
+          "Property": "Selectability",
+          "Type": "SelectabilityModes"
+        },
+        {
+          "Property": "DropShadow",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "ClipRect",
+          "Type": "Rect"
+        },
+        {
+          "Property": "ImageOpacity",
+          "Type": "Float"
+        },
+        {
+          "Property": "ImageAsset",
+          "Type": "Id"
+        },
+        {
+          "Property": "CachedImageWidth",
+          "Type": "Int"
+        },
+        {
+          "Property": "CachedImageHeight",
+          "Type": "Int"
+        },
+        {
+          "Property": "ShowDisplayName",
+          "Type": "Boolean"
+        },
+        {
+          "Property": "DisplayNameColor",
+          "Type": "Color"
+        },
+        {
+          "Property": "DisplayNameSize",
+          "Type": "Int"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "Document",
+      "Class": "Document",
+      "DisplayName": "Document",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "TextObject",
+      "Class": "TextObject",
+      "DisplayName": "TextObject",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "Attachments",
+          "Type": "Array",
+          "ItemType": "Id"
+        },
+        {
+          "Property": "PreviewImage",
+          "Type": "PreviewImage"
+        },
+        {
+          "Property": "Color",
+          "Type": "Color"
+        },
+        {
+          "Property": "Text",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "Position",
+          "Type": "Point"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        },
+        {
+          "Property": "Size",
+          "Type": "Size"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        }
+      ]
+    },
+    {
+      "Type": "UserFolder",
+      "Class": "UserFolder",
+      "DisplayName": "UserFolder",
+      "Properties": [
+        {
+          "Property": "DisplayName",
+          "Type": "ArticyString"
+        },
+        {
+          "Property": "ExternalId",
+          "Type": "String"
+        },
+        {
+          "Property": "ShortId",
+          "Type": "UInt"
+        },
+        {
+          "Property": "Id",
+          "Type": "Id"
+        },
+        {
+          "Property": "TechnicalName",
+          "Type": "String"
+        },
+        {
+          "Property": "Parent",
+          "Type": "Id"
+        },
+        {
+          "Property": "ZIndex",
+          "Type": "Float"
+        }
+      ]
+    }
+  ]
+}

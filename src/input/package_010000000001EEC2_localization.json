@@ -1,0 +1,14 @@
+{
+  "Dlg_FB527298.DisplayName": {
+    "": {
+      "Text": "Victory"
+    },
+    "Context": "Flow/Victory"
+  },
+  "DFr_E883C585.Text": {
+    "": {
+      "Text": "victory"
+    },
+    "Context": "Flow/Victory/12_notification: \"victory\""
+  }
+}

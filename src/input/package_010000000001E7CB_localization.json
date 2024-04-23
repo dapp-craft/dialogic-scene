@@ -1,0 +1,2654 @@
+{
+  "Dlg_80F852FC.DisplayName": {
+    "": {
+      "Text": "mills1"
+    },
+    "Context": "Flow/mills1"
+  },
+  "Dlg_05AED2B3.DisplayName": {
+    "": {
+      "Text": "mills1.1"
+    },
+    "Context": "Flow/mills1.1"
+  },
+  "Dlg_2445FA14.DisplayName": {
+    "": {
+      "Text": "mills1.2"
+    },
+    "Context": "Flow/mills1.2"
+  },
+  "Dlg_D41650B3.DisplayName": {
+    "": {
+      "Text": "millp1"
+    },
+    "Context": "Flow/millp1"
+  },
+  "Dlg_9E9D289F.DisplayName": {
+    "": {
+      "Text": "mills2"
+    },
+    "Context": "Flow/mills2"
+  },
+  "Dlg_9B5A05E6.DisplayName": {
+    "": {
+      "Text": "milla1start"
+    },
+    "Context": "Flow/milla1start"
+  },
+  "Dlg_37FB1680.DisplayName": {
+    "": {
+      "Text": "mill_gameover"
+    },
+    "Context": "Flow/mill_gameover"
+  },
+  "Dlg_238FB255.DisplayName": {
+    "": {
+      "Text": "milla1ch4"
+    },
+    "Context": "Flow/milla1ch4"
+  },
+  "Dlg_3CF181D5.DisplayName": {
+    "": {
+      "Text": "mill3"
+    },
+    "Context": "Flow/mill3"
+  },
+  "Dlg_93E635DA.DisplayName": {
+    "": {
+      "Text": "Mill3.1"
+    },
+    "Context": "Flow/Mill3.1"
+  },
+  "Dlg_89795357.DisplayName": {
+    "": {
+      "Text": "millp2"
+    },
+    "Context": "Flow/millp2"
+  },
+  "Dlg_1C399E31.DisplayName": {
+    "": {
+      "Text": "mills4"
+    },
+    "Context": "Flow/mills4"
+  },
+  "Dlg_8A6D406B.DisplayName": {
+    "": {
+      "Text": "milla2"
+    },
+    "Context": "Flow/milla2"
+  },
+  "Dlg_94B4E5A0.DisplayName": {
+    "": {
+      "Text": "mills5"
+    },
+    "Context": "Flow/mills5"
+  },
+  "Dlg_EA5F3754.DisplayName": {
+    "": {
+      "Text": "Mills5.2"
+    },
+    "Context": "Flow/Mills5.2"
+  },
+  "Dlg_829422E7.DisplayName": {
+    "": {
+      "Text": "Mills5.3"
+    },
+    "Context": "Flow/Mills5.3"
+  },
+  "Dlg_2446A82C.DisplayName": {
+    "": {
+      "Text": "Mills5.4"
+    },
+    "Context": "Flow/Mills5.4"
+  },
+  "Dlg_9460237B.DisplayName": {
+    "": {
+      "Text": "mills5.1"
+    },
+    "Context": "Flow/mills5.1"
+  },
+  "DFr_282BBFD6.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon's backside."
+    },
+    "Context": "Flow/milla1start/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_37F494C1.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/milla1start/i1: \"Mill believes that something can be...\""
+  },
+  "DFr_855FE572.Text": {
+    "": {
+      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
+    },
+    "Context": "Flow/milla1start/i2: \"According to Mill, it is irrelevant...\""
+  },
+  "DFr_3490760E.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon's backside."
+    },
+    "Context": "Flow/milla2/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_1C87B893.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/milla2/i1: \"Mill believes that something can be...\""
+  },
+  "DFr_64591E32.Text": {
+    "": {
+      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
+    },
+    "Context": "Flow/milla2/i2: \"According to Mill, it is irrelevant...\""
+  },
+  "DFr_7DB0174A.Text": {
+    "": {
+      "Text": "If following a rule would create unhappiness, we should replace it with a more nuanced rule."
+    },
+    "Context": "Flow/milla2/i3: \"If following a rule would create un...\""
+  },
+  "DFr_D58B5F64.Text": {
+    "": {
+      "Text": "Well, ^^^^^I must say, ^^^Socrates, ^^^^^I’m impressed."
+    },
+    "Context": "Flow/mills1/04_arbiter: \"Well, ^^^^^I must say, ^^^Socrates,...\""
+  },
+  "DFr_0F678250.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/mills1/01_socrates: \"Huh?\""
+  },
+  "DFr_2F7B5F33.Text": {
+    "": {
+      "Text": "Hobbes holds significant clout here in the Intelligible Realm."
+    },
+    "Context": "Flow/mills1/04_arbiter: \"Hobbes holds significant clout here...\""
+  },
+  "DFr_0F061415.Text": {
+    "": {
+      "Text": "His ideas influenced later prominent thinkers such as John Locke, ^^^Jean-Jacques Rousseau, ^^^and John Rawls."
+    },
+    "Context": "Flow/mills1/04_arbiter: \"His ideas influenced later prominen...\""
+  },
+  "DFr_0BB442B0.Text": {
+    "": {
+      "Text": "Besting him, ^^^^or even getting him to question the logic of his ideas, ^^^^is a significant accomplishment."
+    },
+    "Context": "Flow/mills1/04_arbiter: \"Besting him, ^^^^or even getting hi...\""
+  },
+  "DFr_04D26312.Text": {
+    "": {
+      "Text": "...so does this mean Dad gets to come home now?"
+    },
+    "Context": "Flow/mills1/02_ari: \"...so does this mean Dad gets to co...\""
+  },
+  "DFr_F505E9D2.Text": {
+    "": {
+      "Text": "No.^^^^.^^^^.^^^^ ^^^^^^^the door’s still closed."
+    },
+    "Context": "Flow/mills1/01_socrates: \"No.^^^^.^^^^.^^^^ ^^^^^^^the door’s...\""
+  },
+  "DFr_757A4C18.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^Your successes here, ^^^^while impressive, ^^^^cannot be construed as providing an answer."
+    },
+    "Context": "Flow/mills1/04_arbiter: \"Indeed. ^^^^^^Your successes here,...\""
+  },
+  "DFr_E5068F38.Text": {
+    "": {
+      "Text": "They only mean that Socrates is ready to face even greater challenges!"
+    },
+    "Context": "Flow/mills1/04_arbiter: \"They only mean that Socrates is rea...\""
+  },
+  "DFr_915BF45B.Text": {
+    "": {
+      "Text": "...Great."
+    },
+    "Context": "Flow/mills1/02_ari: \"...Great.\""
+  },
+  "DFr_05A7C6EB.Text": {
+    "": {
+      "Text": "Okay then. ^^^^^^So which arrogant know-it-all do I have the honor of facing next?"
+    },
+    "Context": "Flow/mills1/01_socrates: \"Okay then. ^^^^^^So which arrogant...\""
+  },
+  "DFr_C18EC63E.Text": {
+    "": {
+      "Text": "I believe that would be me."
+    },
+    "Context": "Flow/mills1.1/08_mill: \"I believe that would be me.\""
+  },
+  "DFr_61D8527E.Text": {
+    "": {
+      "Text": "Wait... ^^^^^wait! ^^^^^^...is that...?"
+    },
+    "Context": "Flow/mills1.1/02_ari: \"Wait... ^^^^^wait! ^^^^^^...is that...\""
+  },
+  "DFr_1DFCD687.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^John Stuart Mill, ^^^^^at your service."
+    },
+    "Context": "Flow/mills1.2/08_mill: \"^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^John...\""
+  },
+  "DFr_E6A3E655.Text": {
+    "": {
+      "Text": "*gasp* ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/mills1.2/02_ari: \"*gasp* ^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_CAF34779.Text": {
+    "": {
+      "Text": "IT IS!"
+    },
+    "Context": "Flow/mills1.2/02_ari: \"IT IS!\""
+  },
+  "DFr_5ADA9C22.Text": {
+    "": {
+      "Text": "\"It is... ^^^^^^^who?"
+    },
+    "Context": "Flow/mills1.2/01_socrates: \"\"It is... ^^^^^^^who?\""
+  },
+  "DFr_DFBBC5A9.Text": {
+    "": {
+      "Text": "\"John Stuart Mill! ^^^^^One of the most prominent Utilitarian philosophers, ^^^Dad!!"
+    },
+    "Context": "Flow/mills1.2/02_ari: \"\"John Stuart Mill! ^^^^^One of the...\""
+  },
+  "DFr_7C418348.Text": {
+    "": {
+      "Text": "He was a member of Parliament, ^^^^and an early feminist as well."
+    },
+    "Context": "Flow/mills1.2/02_ari: \"He was a member of Parliament, ^^^^...\""
+  },
+  "DFr_783AAD1D.Text": {
+    "": {
+      "Text": "I’ve mentioned him at least four times today!!"
+    },
+    "Context": "Flow/mills1.2/02_ari: \"I’ve mentioned him at least four ti...\""
+  },
+  "DFr_E05AB192.Text": {
+    "": {
+      "Text": "I’m sorry, ^^^^ I’m sorry!"
+    },
+    "Context": "Flow/mills1.2/01_socrates: \"I’m sorry, ^^^^ I’m sorry!\""
+  },
+  "DFr_CDC6F3D8.Text": {
+    "": {
+      "Text": "Not to worry, ^^^^old chap. ^^^^^^I’m sure we will get to know each other quite well by the end of the day."
+    },
+    "Context": "Flow/mills1.2/08_mill: \"Not to worry, ^^^^old chap. ^^^^^^I...\""
+  },
+  "DFr_76051410.Text": {
+    "": {
+      "Text": "Shall we begin?"
+    },
+    "Context": "Flow/mills1.2/08_mill: \"Shall we begin?\""
+  },
+  "DFr_08A6CF8F.Text": {
+    "": {
+      "Text": "In our society, ^^^^good comes from the accomplishment of some desirable end."
+    },
+    "Context": "Flow/millp1/08_mill: \"In our society, ^^^^good comes from...\""
+  },
+  "DFr_7C92E70C.Text": {
+    "": {
+      "Text": "However, ^^^^happiness and freedom from suffering are the only things truly desirable as ends."
+    },
+    "Context": "Flow/millp1/08_mill: \"However, ^^^^happiness and freedom...\""
+  },
+  "DFr_1319B585.Text": {
+    "": {
+      "Text": "Thus, ^^^^actions are right in proportion as they tend to promote happiness; wrong as they tend to produce unhappiness."
+    },
+    "Context": "Flow/millp1/08_mill: \"Thus, ^^^^actions are right in prop...\""
+  },
+  "DFr_F3BE5BDA.Text": {
+    "": {
+      "Text": "As a result, ^^^^one should choose every action in order to maximize overall happiness."
+    },
+    "Context": "Flow/millp1/08_mill: \"As a result, ^^^^one should choose...\""
+  },
+  "DFr_75DEB69B.Text": {
+    "": {
+      "Text": "And there you have it, ^^^gentlemen. ^^^^^^Happiness must be the source of all good."
+    },
+    "Context": "Flow/mills2/08_mill: \"And there you have it, ^^^gentlemen...\""
+  },
+  "DFr_F78535E4.Text": {
+    "": {
+      "Text": "“Good is Happiness” added to the Idea Slate."
+    },
+    "Context": "Flow/mills2/12_notification: \"“Good is Happiness” added to the Id...\""
+  },
+  "DFr_5DBECAF6.Text": {
+    "": {
+      "Text": "This is the core idea behind ^^^^^^^^^ “Act Utilitarianism.”"
+    },
+    "Context": "Flow/mills2/08_mill: \"This is the core idea behind ^^^^^^...\""
+  },
+  "DFr_907F4FCF.Text": {
+    "": {
+      "Text": "Eeeeeeeeee!!!! ^^^^^^^^^^He’s so amazing!! ^^^^^^^^^^^^^^^^^^^Isn’t he amazing, ^^^^^^^^Dad?!"
+    },
+    "Context": "Flow/mills2/02_ari: \"Eeeeeeeeee!!!! ^^^^^^^^^^He’s so am...\""
+  },
+  "DFr_4504576D.Text": {
+    "": {
+      "Text": "Uhhh... ^^^^I guess?"
+    },
+    "Context": "Flow/mills2/01_socrates: \"Uhhh... ^^^^I guess?\""
+  },
+  "DFr_0FB90003.Text": {
+    "": {
+      "Text": "(He’s about 200 years older than you... ^^^^^tone it down a notch...)"
+    },
+    "Context": "Flow/mills2/01_socrates: \"(He’s about 200 years older than yo...\""
+  },
+  "DFr_F1345666.Text": {
+    "": {
+      "Text": "^^^^^^^^Well, ^^^^^Socrates? ^^^^^^^You have heard John’s presentation. ^^^What is your intended course of action?"
+    },
+    "Context": "Flow/mills2/04_arbiter: \"^^^^^^^^Well, ^^^^^Socrates? ^^^^^^...\""
+  },
+  "DFr_3619733A.Text": {
+    "": {
+      "Text": "Well..."
+    },
+    "Context": "Flow/mills2/01_socrates: \"Well...\""
+  },
+  "DFr_04229E0D.Text": {
+    "": {
+      "Text": "Dad? ^^^^^^^^^Look, ^^^^this is the closest thing to the ^^^“nature of morality” ^^^we are going to get."
+    },
+    "Context": "Flow/mills2/02_ari: \"Dad? ^^^^^^^^^Look, ^^^^this is the...\""
+  },
+  "DFr_A0D9CB8C.Text": {
+    "": {
+      "Text": "How do you know that?"
+    },
+    "Context": "Flow/mills2/01_socrates: \"How do you know that?\""
+  },
+  "DFr_F0088A82.Text": {
+    "": {
+      "Text": "I’ve studied him for ages, ^^^^that’s how! ^^^^^^^^^^^"
+    },
+    "Context": "Flow/mills2/02_ari: \"I’ve studied him for ages, ^^^^that...\""
+  },
+  "DFr_80D5CF41.Text": {
+    "": {
+      "Text": "He’s brilliant!!"
+    },
+    "Context": "Flow/mills2/02_ari: \"He’s brilliant!!\""
+  },
+  "DFr_E1146535.Text": {
+    "": {
+      "Text": "Come on, ^^^^Dad, ^^^^if you just acknowledge that, ^^^^you can get out of here!"
+    },
+    "Context": "Flow/mills2/02_ari: \"Come on, ^^^^Dad, ^^^^if you just a...\""
+  },
+  "DFr_70E542FE.Text": {
+    "": {
+      "Text": "Hmmm..."
+    },
+    "Context": "Flow/mills2/01_socrates: \"Hmmm...\""
+  },
+  "DFr_41EDF705.Text": {
+    "": {
+      "Text": "Well, ^^^^Socrates? ^^^^^^Do you accept Mill’s principles?"
+    },
+    "Context": "Flow/mills2/04_arbiter: \"Well, ^^^^Socrates? ^^^^^^Do you ac...\""
+  },
+  "DFr_5FDEF317.Text": {
+    "": {
+      "Text": "...^^^^^Actually, ^^^^I believe I’ll ask the MP a few questions, ^^^^if you don’t mind."
+    },
+    "Context": "Flow/mills2/01_socrates: \"...^^^^^Actually, ^^^^I believe I’l...\""
+  },
+  "DFr_046C3C69.Text": {
+    "": {
+      "Text": "What?!"
+    },
+    "Context": "Flow/mills2/02_ari: \"What?!\""
+  },
+  "DFr_CDCE2E13.Text": {
+    "": {
+      "Text": "By all means, ^^^^go ahead."
+    },
+    "Context": "Flow/mills2/08_mill: \"By all means, ^^^^go ahead.\""
+  },
+  "DFr_5114B02A.Text": {
+    "": {
+      "Text": "It is only healthy for individuals to voice their queries. ^^^^^"
+    },
+    "Context": "Flow/mills2/08_mill: \"It is only healthy for individuals...\""
+  },
+  "DFr_12F41209.Text": {
+    "": {
+      "Text": "Trapped thoughts have no use, ^^^^after all."
+    },
+    "Context": "Flow/mills2/08_mill: \"Trapped thoughts have no use, ^^^^a...\""
+  },
+  "DFr_3FB810DE.Text": {
+    "": {
+      "Text": "In our society, ^^^^good comes from the accomplishment of some desirable end."
+    },
+    "Context": "Flow/milla1start/08_mill: \"In our society, ^^^^good comes from...\""
+  },
+  "DFr_9B128C95.Text": {
+    "": {
+      "Text": "However, ^^^^happiness and freedom from suffering are the only things truly desirable as ends."
+    },
+    "Context": "Flow/milla1start/08_mill: \"However, ^^^^happiness and freedom...\""
+  },
+  "DFr_EBD21712.Text": {
+    "": {
+      "Text": "Thus, ^^^^actions are right in proportion as they tend to promote happiness; wrong as they tend to produce unhappiness."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Thus, ^^^^actions are right in prop...\""
+  },
+  "DFr_FEEECE8C.Text": {
+    "": {
+      "Text": "As a result, ^^^^one should choose every action in order to maximize overall happiness."
+    },
+    "Context": "Flow/milla1start/08_mill: \"As a result, ^^^^one should choose...\""
+  },
+  "DFr_15C683FE.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_C322EAC8.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_0868FCFA.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_F92DC75F.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_65203589.Text": {
+    "": {
+      "Text": "What evidence do you have to support that?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_97A1FE8E.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_07070DD9.Text": {
+    "": {
+      "Text": "What evidence do you have to support this?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_8819AF32.Text": {
+    "": {
+      "Text": "What evidence do you have to support this?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_B4E74199.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_10FB9BB7.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_5A65C363.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_2E0274E8.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_FD9DE20E.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_879D1025.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_1278B65C.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla1start/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_C91DC784.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Hey!\""
+  },
+  "DFr_16DC6763.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_6693DD3C.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_861DE658.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla1start/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_131FECCE.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla1start/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_69069500.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Erm...\""
+  },
+  "DFr_11D7C04B.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_68EE569D.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla1start/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_9A6F8F61.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Hey!\""
+  },
+  "DFr_2F7BCBB0.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_9687AD0E.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla1start/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_F1D596FC.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla1start/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_9C2CBC98.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Erm...\""
+  },
+  "DFr_18DFBA86.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_7891C8C2.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4B2DA2E6.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_EE50C205.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla1start/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_C3E9FA18.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Hey!\""
+  },
+  "DFr_C08EE320.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_F5ECA951.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla1start/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_9F129915.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla1start/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_AFF3955C.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Erm...\""
+  },
+  "DFr_C1531552.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_607AFA83.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_E881C74E.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_1F150D7D.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla1start/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_0E56E179.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Hey!\""
+  },
+  "DFr_DA21BA40.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla1start/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_ABF4A81C.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla1start/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_8C7D80E8.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla1start/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_3101C237.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Erm...\""
+  },
+  "DFr_73DF65F0.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_A1D729A4.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_93C50119.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_B0EAB870.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_22D82060.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_06EDF104.Text": {
+    "": {
+      "Text": "What are you doing?"
+    },
+    "Context": "Flow/milla1start/02_ari: \"What are you doing?\""
+  },
+  "DFr_4699150D.Text": {
+    "": {
+      "Text": "I am examining his reasoning, Ari."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"I am examining his reasoning, Ari.\""
+  },
+  "DFr_CFCC4C52.Text": {
+    "": {
+      "Text": "But... ^^^^^^^his philosophy makes sense."
+    },
+    "Context": "Flow/milla1start/02_ari: \"But... ^^^^^^^his philosophy makes...\""
+  },
+  "DFr_89332300.Text": {
+    "": {
+      "Text": "Please don’t make this harder than it needs to be."
+    },
+    "Context": "Flow/milla1start/02_ari: \"Please don’t make this harder than...\""
+  },
+  "DFr_229122A2.Text": {
+    "": {
+      "Text": "(I’m sorry, Ari, but I can’t take that risk.)"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"(I’m sorry, Ari, but I can’t take t...\""
+  },
+  "DFr_EB188FC0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/milla1start/01_socrates: \"...\""
+  },
+  "DFr_7A728949.Text": {
+    "": {
+      "Text": "Simply, ^^^^“good” is created by achieving or obtaining things people desire."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Simply, ^^^^“good” is created by ac...\""
+  },
+  "DFr_7FFE7F17.Text": {
+    "": {
+      "Text": "Only this will improve the quality of life."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Only this will improve the quality...\""
+  },
+  "DFr_EA8455CF.Text": {
+    "": {
+      "Text": "In our society, ^^^^the things we value have positive effects."
+    },
+    "Context": "Flow/milla1start/08_mill: \"In our society, ^^^^the things we v...\""
+  },
+  "DFr_7D03EE58.Text": {
+    "": {
+      "Text": "For example, ^^^^^we value good parenting because it produces good members of society."
+    },
+    "Context": "Flow/milla1start/08_mill: \"For example, ^^^^^we value good par...\""
+  },
+  "DFr_26E626FA.Text": {
+    "": {
+      "Text": "There are countless such examples. ^^^^^^Unless you have some tangible counter argument, ^^^^I think this idea stands on its own merits."
+    },
+    "Context": "Flow/milla1start/08_mill: \"There are countless such examples....\""
+  },
+  "DFr_88165857.Text": {
+    "": {
+      "Text": "Pinpointing the origin of good seems like a logical place to begin our search, ^^^^wouldn’t you agree, ^^^^old chap?"
+    },
+    "Context": "Flow/milla1start/08_mill: \"Pinpointing the origin of good seem...\""
+  },
+  "DFr_46DA3DFC.Text": {
+    "": {
+      "Text": "Yes! ^^^^^^^Yes, I would!!"
+    },
+    "Context": "Flow/milla1start/02_ari: \"Yes! ^^^^^^^Yes, I would!!\""
+  },
+  "DFr_21E606F9.Text": {
+    "": {
+      "Text": "Thank you, Ariadne. ^^^^Your support is greatly appreciated."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Thank you, Ariadne. ^^^^Your suppor...\""
+  },
+  "DFr_74DCCFBD.Text": {
+    "": {
+      "Text": "Out of all the things we can strive for, ^^^^“happiness” is the only true end."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Out of all the things we can strive...\""
+  },
+  "DFr_E45F6775.Text": {
+    "": {
+      "Text": "Most things which mankind values— ^^^^^^love, ^^^^peace, ^^^^property— ^^^^^^are valued because they further some other end."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Most things which mankind values— ^...\""
+  },
+  "DFr_DE6D4522.Text": {
+    "": {
+      "Text": "Here, I further refine the idea of “good” by narrowing down the possible desirable ends."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Here, I further refine the idea of...\""
+  },
+  "DFr_B906BCA8.Text": {
+    "": {
+      "Text": "Everything else only serves to support this end."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Everything else only serves to supp...\""
+  },
+  "DFr_701759A0.Text": {
+    "": {
+      "Text": "If we follow such value chains to their conclusions, ^^^^^they all come to rest on happiness."
+    },
+    "Context": "Flow/milla1start/08_mill: \"If we follow such value chains to t...\""
+  },
+  "DFr_B30DE6B3.Text": {
+    "": {
+      "Text": "For example, ^^^^^peace ^^^furthers security ^^^which furthers luxury ^^^which furthers happiness. ^^^^^^See?"
+    },
+    "Context": "Flow/milla1start/08_mill: \"For example, ^^^^^peace ^^^furthers...\""
+  },
+  "DFr_096FC778.Text": {
+    "": {
+      "Text": "Very well reasoned."
+    },
+    "Context": "Flow/milla1start/04_arbiter: \"Very well reasoned.\""
+  },
+  "DFr_914E2ABA.Text": {
+    "": {
+      "Text": "If your actions make people happy, ^^^^there must be something positive about them."
+    },
+    "Context": "Flow/milla1start/08_mill: \"If your actions make people happy,...\""
+  },
+  "DFr_339FF6EF.Text": {
+    "": {
+      "Text": "This seems pretty self-sufficient to me."
+    },
+    "Context": "Flow/milla1start/08_mill: \"This seems pretty self-sufficient t...\""
+  },
+  "DFr_277C619A.Text": {
+    "": {
+      "Text": "Here, ^^^^I narrow down the pursuit of good as far as it can possibly be narrowed, ^^^^^laying forth the final support for my conclusion."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Here, ^^^^I narrow down the pursuit...\""
+  },
+  "DFr_6AD56581.Text": {
+    "": {
+      "Text": "Likewise, ^^^if your actions make people unhappy, ^^^^there must be some negative quality to them."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Likewise, ^^^if your actions make p...\""
+  },
+  "DFr_7D7364DA.Text": {
+    "": {
+      "Text": "Simply put, ^^^^an action is as right as the happiness it creates."
+    },
+    "Context": "Flow/milla1start/08_mill: \"Simply put, ^^^^an action is as rig...\""
+  },
+  "DFr_8B15EE49.Text": {
+    "": {
+      "Text": "But happiness for whom? ^^^^^For the self, ^^^or for others?"
+    },
+    "Context": "Flow/milla1start/01_socrates: \"But happiness for whom? ^^^^^For th...\""
+  },
+  "DFr_5ED208C4.Text": {
+    "": {
+      "Text": "The overall population. ^^^^^Distribution is irrelevant."
+    },
+    "Context": "Flow/milla1start/08_mill: \"The overall population. ^^^^^Distri...\""
+  },
+  "DFr_182CBA39.Text": {
+    "": {
+      "Text": "\"Huh, ^^^interesting."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"\"Huh, ^^^interesting.\""
+  },
+  "DFr_AF1687A2.Text": {
+    "": {
+      "Text": "“Happiness Distribution” added to the Idea Slate."
+    },
+    "Context": "Flow/milla1start/12_notification: \"“Happiness Distribution” added to t...\""
+  },
+  "DFr_6EFAD156.Text": {
+    "": {
+      "Text": "The most moral act is the one that most increases net happiness."
+    },
+    "Context": "Flow/milla1start/08_mill: \"The most moral act is the one that...\""
+  },
+  "DFr_82BB94F3.Text": {
+    "": {
+      "Text": "In my opinion, ^^^^^it is the natural product of my previous observations."
+    },
+    "Context": "Flow/milla1start/08_mill: \"In my opinion, ^^^^^it is the natur...\""
+  },
+  "DFr_54616246.Text": {
+    "": {
+      "Text": "My good fellow, ^^^^^that is my conclusion."
+    },
+    "Context": "Flow/milla1start/08_mill: \"My good fellow, ^^^^^that is my con...\""
+  },
+  "DFr_1D88DD24.Text": {
+    "": {
+      "Text": "If you need further clarification, ^^^^I suggest you reexamine my previous statements."
+    },
+    "Context": "Flow/milla1start/08_mill: \"If you need further clarification,...\""
+  },
+  "DFr_C854E1FD.Text": {
+    "": {
+      "Text": "If furthering happiness determines how right your actions are, ^^^^^clearly one should take the course that furthers it the most."
+    },
+    "Context": "Flow/milla1start/08_mill: \"If furthering happiness determines...\""
+  },
+  "DFr_0EC27A0E.Text": {
+    "": {
+      "Text": "Oh. ^^^^^^Right-o, ^^^^then."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"Oh. ^^^^^^Right-o, ^^^^then.\""
+  },
+  "DFr_121F2B01.Text": {
+    "": {
+      "Text": "Old chap, ^^^you seem to be having quite a bit of trouble."
+    },
+    "Context": "Flow/mill_gameover/08_mill: \"Old chap, ^^^you seem to be having...\""
+  },
+  "DFr_CE3B1BFF.Text": {
+    "": {
+      "Text": "Would you like to take a break?"
+    },
+    "Context": "Flow/mill_gameover/08_mill: \"Would you like to take a break?\""
+  },
+  "DFr_2A0F99BD.Text": {
+    "": {
+      "Text": "A break won’t change anything, ^^Milly."
+    },
+    "Context": "Flow/mill_gameover/02_ari: \"A break won’t change anything, ^^Mi...\""
+  },
+  "DFr_290E23D7.Text": {
+    "": {
+      "Text": "My dad should just accept your argument, ^^^so he can get out of here! ^^^^^^^^He’s being ridiculous!"
+    },
+    "Context": "Flow/mill_gameover/02_ari: \"My dad should just accept your argu...\""
+  },
+  "DFr_0B17EEC7.Text": {
+    "": {
+      "Text": "...^^^^Ari... ^^^^^^^do you REALLY think this is our ticket out of here?"
+    },
+    "Context": "Flow/mill_gameover/01_socrates: \"...^^^^Ari... ^^^^^^^do you REALLY...\""
+  },
+  "DFr_73328D02.Text": {
+    "": {
+      "Text": "Have I not made that clear? ^^^^^YES. ^^^^^^^^^If you had any humility left, ^^you would think so too!"
+    },
+    "Context": "Flow/mill_gameover/02_ari: \"Have I not made that clear? ^^^^^YE...\""
+  },
+  "DFr_172D0553.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/mill_gameover/01_socrates: \"...\""
+  },
+  "DFr_7DEA6FFB.Text": {
+    "": {
+      "Text": "Arbiter?"
+    },
+    "Context": "Flow/mill_gameover/01_socrates: \"Arbiter?\""
+  },
+  "DFr_293E3783.Text": {
+    "": {
+      "Text": "Yes, ^^^^^Socrates?"
+    },
+    "Context": "Flow/mill_gameover/04_arbiter: \"Yes, ^^^^^Socrates?\""
+  },
+  "DFr_E084CABD.Text": {
+    "": {
+      "Text": "I’d like to present Mill’s answer as the correct definition of morality."
+    },
+    "Context": "Flow/mill_gameover/01_socrates: \"I’d like to present Mill’s answer a...\""
+  },
+  "DFr_8D8AB992.Text": {
+    "": {
+      "Text": ".^.^.^^^^I see..."
+    },
+    "Context": "Flow/mill_gameover/04_arbiter: \".^.^.^^^^I see...\""
+  },
+  "DFr_1AE70CAC.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/mill_gameover/11_nobody: \"...\""
+  },
+  "DFr_415C9EC9.Text": {
+    "": {
+      "Text": "John Stuart Mill!"
+    },
+    "Context": "Flow/milla1ch4/01_socrates: \"John Stuart Mill!\""
+  },
+  "DFr_5F568F96.Text": {
+    "": {
+      "Text": "Yes, ^^^^Socrates?"
+    },
+    "Context": "Flow/milla1ch4/08_mill: \"Yes, ^^^^Socrates?\""
+  },
+  "DFr_45125683.Text": {
+    "": {
+      "Text": "I understand the reasoning behind your philosophy."
+    },
+    "Context": "Flow/milla1ch4/01_socrates: \"I understand the reasoning behind y...\""
+  },
+  "DFr_EE847E05.Text": {
+    "": {
+      "Text": "But applying your reasoning in all situations creates some worrisome implications!"
+    },
+    "Context": "Flow/milla1ch4/01_socrates: \"But applying your reasoning in all...\""
+  },
+  "DFr_7732096E.Text": {
+    "": {
+      "Text": "What... ^^^^Dad... ^^^^^are you serious!?"
+    },
+    "Context": "Flow/milla1ch4/02_ari: \"What... ^^^^Dad... ^^^^^are you ser...\""
+  },
+  "DFr_3D8B9FB9.Text": {
+    "": {
+      "Text": "Mill’s philosophy is perfect! ^^^^^You can’t just go— ^^^^^^^^"
+    },
+    "Context": "Flow/milla1ch4/02_ari: \"Mill’s philosophy is perfect! ^^^^^...\""
+  },
+  "DFr_21CD2646.Text": {
+    "": {
+      "Text": "Continue, ^^^^Socrates."
+    },
+    "Context": "Flow/milla1ch4/04_arbiter: \"Continue, ^^^^Socrates.\""
+  },
+  "DFr_B9DC0725.Text": {
+    "": {
+      "Text": "Gladly!"
+    },
+    "Context": "Flow/milla1ch4/01_socrates: \"Gladly!\""
+  },
+  "DFr_DD7D28B7.Text": {
+    "": {
+      "Text": "The problem here is that happiness is not equivalently exchanged! ^^^^It can be gained and lost in unequal measure."
+    },
+    "Context": "Flow/mill3/01_socrates: \"The problem here is that happiness...\""
+  },
+  "DFr_EB17C675.Text": {
+    "": {
+      "Text": "Since your philosophy does not care how happiness is distributed, ^^^^^this leads to some unfortunate scenarios!"
+    },
+    "Context": "Flow/mill3/01_socrates: \"Since your philosophy does not care...\""
+  },
+  "DFr_87B73BEC.Text": {
+    "": {
+      "Text": "Oh really? ^^^^Do explain."
+    },
+    "Context": "Flow/mill3/04_arbiter: \"Oh really? ^^^^Do explain.\""
+  },
+  "DFr_4DCA41BA.Text": {
+    "": {
+      "Text": "Let’s say, ^^^^for example, ^^^^that I’d gain twice as much happiness from punching Hobbes in the face as he’d lose from being punched."
+    },
+    "Context": "Flow/mill3/01_socrates: \"Let’s say, ^^^^for example, ^^^^tha...\""
+  },
+  "DFr_42236C33.Text": {
+    "": {
+      "Text": "(The guy was already pretty miserable, after all.)"
+    },
+    "Context": "Flow/mill3/01_socrates: \"(The guy was already pretty miserab...\""
+  },
+  "DFr_66908547.Text": {
+    "": {
+      "Text": "According to your philosophy, ^^^^in this situation punching Hobbes would be entirely moral, ^^^^^^as it would increase overall happiness!"
+    },
+    "Context": "Flow/mill3/01_socrates: \"According to your philosophy, ^^^^i...\""
+  },
+  "DFr_D4E16EA1.Text": {
+    "": {
+      "Text": "But as much as Hobbes was a jerk, ^^^^^I can’t believe random violence would be the right course of action!"
+    },
+    "Context": "Flow/mill3/01_socrates: \"But as much as Hobbes was a jerk, ^...\""
+  },
+  "DFr_C9D6BBE8.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^I think I prefer my debates not devolving into fistfights."
+    },
+    "Context": "Flow/mill3/04_arbiter: \"Indeed. ^^^^^I think I prefer my de...\""
+  },
+  "DFr_F83689BC.Text": {
+    "": {
+      "Text": "But Dad, ^^^^that’s just one example!"
+    },
+    "Context": "Flow/mill3/02_ari: \"But Dad, ^^^^that’s just one exampl...\""
+  },
+  "DFr_DD7BF1F1.Text": {
+    "": {
+      "Text": "Well then, ^^^^let me provide another, ^^^^Ari."
+    },
+    "Context": "Flow/mill3/01_socrates: \"Well then, ^^^^let me provide anoth...\""
+  },
+  "DFr_ABA84E6E.Text": {
+    "": {
+      "Text": "Let’s say there was a monster that would gain far more happiness from eating you than you’d ever gain over the course of your life."
+    },
+    "Context": "Flow/mill3/01_socrates: \"Let’s say there was a monster that...\""
+  },
+  "DFr_1308D579.Text": {
+    "": {
+      "Text": "Would the moral action then be to feed yourself to the monster?"
+    },
+    "Context": "Flow/mill3/01_socrates: \"Would the moral action then be to f...\""
+  },
+  "DFr_2565D3A9.Text": {
+    "": {
+      "Text": "Mill’s philosophy would say yes, ^^^^^^but that seems preposterous, ^^^^does it not?"
+    },
+    "Context": "Flow/mill3/01_socrates: \"Mill’s philosophy would say yes, ^^...\""
+  },
+  "DFr_FA6DAC57.Text": {
+    "": {
+      "Text": "Dad, ^^^^what are you doing?! ^^^^^That situation would never arise!"
+    },
+    "Context": "Flow/mill3/02_ari: \"Dad, ^^^^what are you doing?! ^^^^^...\""
+  },
+  "DFr_5B6F4161.Text": {
+    "": {
+      "Text": "Bringing imaginary monsters into a debate? ^^^^^Is that really how you intend to get home?"
+    },
+    "Context": "Flow/mill3/02_ari: \"Bringing imaginary monsters into a...\""
+  },
+  "DFr_5099A877.Text": {
+    "": {
+      "Text": "Actually, your father raises some good points."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Actually, your father raises some g...\""
+  },
+  "DFr_ECE13914.Text": {
+    "": {
+      "Text": "...What? ^^^^^^B-b^^^^^ut..."
+    },
+    "Context": "Flow/Mill3.1/02_ari: \"...What? ^^^^^^B-b^^^^^ut...\""
+  },
+  "DFr_FCEB3B5F.Text": {
+    "": {
+      "Text": "Ariadne, ^^^^he who knows only his own side of the case knows little of that."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Ariadne, ^^^^he who knows only his...\""
+  },
+  "DFr_CB67A4CF.Text": {
+    "": {
+      "Text": "As thinkers, ^^^^it is our job not only to challenge the thoughts of others, ^^^^^^but to challenge ourselves."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"As thinkers, ^^^^it is our job not...\""
+  },
+  "DFr_65D736B5.Text": {
+    "": {
+      "Text": "Both thought experiments Socrates presented are valid. ^^^^^^And both are troubling."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Both thought experiments Socrates p...\""
+  },
+  "DFr_B1903B5C.Text": {
+    "": {
+      "Text": "Judging every choice as it arises seems, ^^^^upon reflection, ^^^^difficult to defend."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Judging every choice as it arises s...\""
+  },
+  "DFr_4F121600.Text": {
+    "": {
+      "Text": "Are you serious? ^^^^Please, ^^^^^don’t let my dad run all over you!"
+    },
+    "Context": "Flow/Mill3.1/02_ari: \"Are you serious? ^^^^Please, ^^^^^d...\""
+  },
+  "DFr_FC881A71.Text": {
+    "": {
+      "Text": "Not to worry, ^^^^Ariadne, ^^^the core of my philosophy still stands strong."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Not to worry, ^^^^Ariadne, ^^^the c...\""
+  },
+  "DFr_E727ACFA.Text": {
+    "": {
+      "Text": "Allow me a moment, ^^^^gentlemen, ^^^^to present an altered position."
+    },
+    "Context": "Flow/Mill3.1/08_mill: \"Allow me a moment, ^^^^gentlemen, ^...\""
+  },
+  "DFr_9362BCE5.Text": {
+    "": {
+      "Text": "The problem you have described can be addressed through the application of universal rules."
+    },
+    "Context": "Flow/millp2/08_mill: \"The problem you have described can...\""
+  },
+  "DFr_1A9D91A5.Text": {
+    "": {
+      "Text": "These rules should be chosen in order to create the most happiness possible with as little harm as possible."
+    },
+    "Context": "Flow/millp2/08_mill: \"These rules should be chosen in ord...\""
+  },
+  "DFr_C3063A9A.Text": {
+    "": {
+      "Text": "While these rules may not maximize overall happiness, ^^^they will at least guarantee net happiness never decreases."
+    },
+    "Context": "Flow/millp2/08_mill: \"While these rules may not maximize...\""
+  },
+  "DFr_042BFA9B.Text": {
+    "": {
+      "Text": "Actions can be considered moral when they follow such rules."
+    },
+    "Context": "Flow/millp2/08_mill: \"Actions can be considered moral whe...\""
+  },
+  "DFr_57760E47.Text": {
+    "": {
+      "Text": "As you can see, ^^^^^it is still possible for happiness to be the source of morality."
+    },
+    "Context": "Flow/mills4/08_mill: \"As you can see, ^^^^^it is still po...\""
+  },
+  "DFr_3A4E157E.Text": {
+    "": {
+      "Text": "I believe I shall refer to this approach as... ^^^^^^^^^^ “Rule Utilitarianism.”"
+    },
+    "Context": "Flow/mills4/08_mill: \"I believe I shall refer to this app...\""
+  },
+  "DFr_E3DE8E0B.Text": {
+    "": {
+      "Text": "An interesting evolution of your ideas, ^^^^indeed."
+    },
+    "Context": "Flow/mills4/04_arbiter: \"An interesting evolution of your id...\""
+  },
+  "DFr_EF3428DE.Text": {
+    "": {
+      "Text": "You see, ^^^^Dad? ^^^^^^Mill’s philosophy is solid. ^^^^^As I told you."
+    },
+    "Context": "Flow/mills4/02_ari: \"You see, ^^^^Dad? ^^^^^^Mill’s phil...\""
+  },
+  "DFr_8CA6F210.Text": {
+    "": {
+      "Text": "Because, ^^^^you know, ^^^^I actually studied this stuff."
+    },
+    "Context": "Flow/mills4/02_ari: \"Because, ^^^^you know, ^^^^I actual...\""
+  },
+  "DFr_FA1406DC.Text": {
+    "": {
+      "Text": "Whatever happened to me having to decide for myself?"
+    },
+    "Context": "Flow/mills4/01_socrates: \"Whatever happened to me having to d...\""
+  },
+  "DFr_170D66AB.Text": {
+    "": {
+      "Text": "Yeah, ^^^^^well... ^^^^^^^^^ That was before you hopped on the smug wagon."
+    },
+    "Context": "Flow/mills4/02_ari: \"Yeah, ^^^^^well... ^^^^^^^^^ That w...\""
+  },
+  "DFr_C6241E90.Text": {
+    "": {
+      "Text": "(The... ^^^^^^smug wagon?)"
+    },
+    "Context": "Flow/mills4/01_socrates: \"(The... ^^^^^^smug wagon?)\""
+  },
+  "DFr_DB7AF7E1.Text": {
+    "": {
+      "Text": "Socrates? ^^^^Shall we continue?"
+    },
+    "Context": "Flow/mills4/04_arbiter: \"Socrates? ^^^^Shall we continue?\""
+  },
+  "DFr_0E8BDF61.Text": {
+    "": {
+      "Text": "...I... ^^^^^^guess so."
+    },
+    "Context": "Flow/mills4/01_socrates: \"...I... ^^^^^^guess so.\""
+  },
+  "DFr_85A39588.Text": {
+    "": {
+      "Text": "The problem you have described can be addressed through the application of universal rules."
+    },
+    "Context": "Flow/milla2/08_mill: \"The problem you have described can...\""
+  },
+  "DFr_63C23147.Text": {
+    "": {
+      "Text": "These rules should be chosen in order to create the most happiness possible with as little harm as possible."
+    },
+    "Context": "Flow/milla2/08_mill: \"These rules should be chosen in ord...\""
+  },
+  "DFr_8D462F03.Text": {
+    "": {
+      "Text": "While these rules may not maximize overall happiness, ^^^they will at least guarantee net happiness never decreases."
+    },
+    "Context": "Flow/milla2/08_mill: \"While these rules may not maximize...\""
+  },
+  "DFr_013238A3.Text": {
+    "": {
+      "Text": "Actions can be considered moral when they follow such rules."
+    },
+    "Context": "Flow/milla2/08_mill: \"Actions can be considered moral whe...\""
+  },
+  "DFr_480CAAD2.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_7AB90C36.Text": {
+    "": {
+      "Text": "What do you mean by “Rules?” ^^^^^Are we talking about contracts?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"What do you mean by “Rules?” ^^^^^A...\""
+  },
+  "DFr_A06955EC.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_2654CD40.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_255BDD9C.Text": {
+    "": {
+      "Text": "How will it be addressed?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"How will it be addressed?\""
+  },
+  "DFr_87627CA6.Text": {
+    "": {
+      "Text": "What evidence do you have to support this statement?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_0724EEC3.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_60AA0D98.Text": {
+    "": {
+      "Text": "Can you back up this statement?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Can you back up this statement?\""
+  },
+  "DFr_20F69EAD.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_9229F8FC.Text": {
+    "": {
+      "Text": "How’s this related to your argument?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"How’s this related to your argument...\""
+  },
+  "DFr_6CDF5293.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_32B9B095.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_DEE87D43.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla2/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_9375F8DE.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla2/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_0FEFED54.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Hey!\""
+  },
+  "DFr_D45E157F.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla2/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_A8590B01.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla2/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_B0EF85EB.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla2/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_17CEAAC2.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla2/01_socrates: \"Erm...\""
+  },
+  "DFr_585D5D6A.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_8A1B8689.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_0C6D50A3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_6A4EE06A.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla2/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_5754DAA9.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla2/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_FD8C759C.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Hey!\""
+  },
+  "DFr_E09D98DF.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla2/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_3B23E6EC.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla2/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_181240DD.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla2/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_6DBE581C.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla2/01_socrates: \"Erm...\""
+  },
+  "DFr_030F6666.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_E09CCA5C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C8D71039.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_1EEAEB84.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla2/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_61C12734.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla2/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_62DA222A.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Hey!\""
+  },
+  "DFr_F5FDCCBA.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_A0F24F14.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/milla2/01_socrates: \"...\""
+  },
+  "DFr_95BDCB26.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla2/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_1F209B25.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla2/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_244A1464.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla2/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_6ECA2196.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla2/01_socrates: \"Erm...\""
+  },
+  "DFr_7B53E7FF.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4AB82F6A.Text": {
+    "": {
+      "Text": "I... Um, that is..."
+    },
+    "Context": "Flow/milla2/08_mill: \"I... Um, that is...\""
+  },
+  "DFr_051A82EF.Text": {
+    "": {
+      "Text": "Don’t listen to a single word he says! ^^^^^^^^My Dad doesn’t look in a mirror very often."
+    },
+    "Context": "Flow/milla2/02_ari: \"Don’t listen to a single word he sa...\""
+  },
+  "DFr_A4C98FE6.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Hey!\""
+  },
+  "DFr_5085ADF4.Text": {
+    "": {
+      "Text": "I’m sorry, but I’m not quite seeing your point, old chap."
+    },
+    "Context": "Flow/milla2/08_mill: \"I’m sorry, but I’m not quite seeing...\""
+  },
+  "DFr_8B950954.Text": {
+    "": {
+      "Text": "That would be because there’s no point to see."
+    },
+    "Context": "Flow/milla2/04_arbiter: \"That would be because there’s no po...\""
+  },
+  "DFr_89AAE9CD.Text": {
+    "": {
+      "Text": "I officially don’t know this person."
+    },
+    "Context": "Flow/milla2/02_ari: \"I officially don’t know this person...\""
+  },
+  "DFr_B4C9DEDB.Text": {
+    "": {
+      "Text": "Erm..."
+    },
+    "Context": "Flow/milla2/01_socrates: \"Erm...\""
+  },
+  "DFr_B8C9345A.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_D37C4C22.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_994C476C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_EE2041D4.Text": {
+    "": {
+      "Text": "You described to me a problem of distribution: ^^^^^the fact Act Utilitarianism does not care where happiness goes."
+    },
+    "Context": "Flow/milla2/08_mill: \"You described to me a problem of di...\""
+  },
+  "DFr_67595982.Text": {
+    "": {
+      "Text": "Because these rules apply equally to everyone, ^^^^^^the problem of distribution is irrelevant."
+    },
+    "Context": "Flow/milla2/08_mill: \"Because these rules apply equally t...\""
+  },
+  "DFr_686A8FD3.Text": {
+    "": {
+      "Text": "I suppose, ^^^^in most ways, ^^^^this is my conclusion."
+    },
+    "Context": "Flow/milla2/08_mill: \"I suppose, ^^^^in most ways, ^^^^th...\""
+  },
+  "DFr_6FC73FE1.Text": {
+    "": {
+      "Text": "No. ^^^^While Hobbes’ theory and this one could result in some of the same guidelines, ^^^^the rationale behind their existence would be different."
+    },
+    "Context": "Flow/milla2/08_mill: \"No. ^^^^While Hobbes’ theory and th...\""
+  },
+  "DFr_68C6C4AB.Text": {
+    "": {
+      "Text": "As happiness is still the only ultimate end, ^^^^the only rules that make sense would be the ones that further that end."
+    },
+    "Context": "Flow/milla2/08_mill: \"As happiness is still the only ulti...\""
+  },
+  "DFr_94720894.Text": {
+    "": {
+      "Text": "Here, ^^^^I detail the form that the previously mentioned rules will take."
+    },
+    "Context": "Flow/milla2/08_mill: \"Here, ^^^^I detail the form that th...\""
+  },
+  "DFr_D19D853E.Text": {
+    "": {
+      "Text": "Most of the time, ^^^^the rules we follow should result in a net gain of happiness for society."
+    },
+    "Context": "Flow/milla2/08_mill: \"Most of the time, ^^^^the rules we...\""
+  },
+  "DFr_205C8885.Text": {
+    "": {
+      "Text": "Of course, ^^^^old chap."
+    },
+    "Context": "Flow/milla2/08_mill: \"Of course, ^^^^old chap.\""
+  },
+  "DFr_03426A5D.Text": {
+    "": {
+      "Text": "This premise explores how this approach applies to the core of my philosophy, ^^^^happiness as an end."
+    },
+    "Context": "Flow/milla2/08_mill: \"This premise explores how this appr...\""
+  },
+  "DFr_3CFB64AA.Text": {
+    "": {
+      "Text": "I believe this is clear. ^^^^If you follow the rules, ^^^^you will be acting morally."
+    },
+    "Context": "Flow/milla2/08_mill: \"I believe this is clear. ^^^^If you...\""
+  },
+  "DFr_0516ED99.Text": {
+    "": {
+      "Text": "Based on everything I have established here, ^^^^^following the rules will promote happiness most of the time."
+    },
+    "Context": "Flow/milla2/08_mill: \"Based on everything I have establis...\""
+  },
+  "DFr_22C02FD5.Text": {
+    "": {
+      "Text": "It demonstrates the implications of it. If we accept these rules can further moral good, than those who live by these rules are acting morally."
+    },
+    "Context": "Flow/milla2/08_mill: \"It demonstrates the implications of...\""
+  },
+  "DFr_EA6DFC3B.Text": {
+    "": {
+      "Text": "See, ^^^^Dad! ^^^^^^I told you, ^^^^Mill’s on to something here."
+    },
+    "Context": "Flow/milla2/02_ari: \"See, ^^^^Dad! ^^^^^^I told you, ^^^...\""
+  },
+  "DFr_3455CDDD.Text": {
+    "": {
+      "Text": "Now please... ^^^^stop being difficult and listen to what he has to say!"
+    },
+    "Context": "Flow/milla2/02_ari: \"Now please... ^^^^stop being diffic...\""
+  },
+  "DFr_8524CAC6.Text": {
+    "": {
+      "Text": "I am listening! ^^^^^^And I STILL have many questions for him."
+    },
+    "Context": "Flow/milla2/01_socrates: \"I am listening! ^^^^^^And I STILL h...\""
+  },
+  "DFr_4DABAFFC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/milla2/02_ari: \"...\""
+  },
+  "DFr_609C2917.Text": {
+    "": {
+      "Text": "(There’s something off about this solution. ^^^^^^I can feel it. ^^^^^I just need to do a little more digging.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(There’s something off about this s...\""
+  },
+  "DFr_B521D8E2.Text": {
+    "": {
+      "Text": "(Back to the top.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Back to the top.)\""
+  },
+  "DFr_7DEB7835.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_8EC6BFF3.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/milla2/01_socrates: \"...\""
+  },
+  "DFr_F30890F9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_8E4BC8E2.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/milla2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_17E16FA5.Text": {
+    "": {
+      "Text": "Hold on, ^^^Mill."
+    },
+    "Context": "Flow/milla2/01_socrates: \"Hold on, ^^^Mill.\""
+  },
+  "DFr_F31D568F.Text": {
+    "": {
+      "Text": "Based on your own principles, ^^^wouldn’t this method be immoral?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"Based on your own principles, ^^^wo...\""
+  },
+  "DFr_BEE9AA4E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/milla2/08_mill: \"...\""
+  },
+  "DFr_5FE6D295.Text": {
+    "": {
+      "Text": "Inferior maybe, ^^^but not immoral."
+    },
+    "Context": "Flow/milla2/08_mill: \"Inferior maybe, ^^^but not immoral.\""
+  },
+  "DFr_9154E736.Text": {
+    "": {
+      "Text": "As long as the rules created still increase happiness overall, ^^^I believe this is reconcilable with my ideals.."
+    },
+    "Context": "Flow/milla2/08_mill: \"As long as the rules created still...\""
+  },
+  "DFr_5768A184.Text": {
+    "": {
+      "Text": "Some gain is better than no gain, ^^^after all."
+    },
+    "Context": "Flow/milla2/08_mill: \"Some gain is better than no gain, ^...\""
+  },
+  "DFr_646F6DF1.Text": {
+    "": {
+      "Text": "This can be addressed by following general rules, ^^^^^which I will elaborate upon later."
+    },
+    "Context": "Flow/milla2/08_mill: \"This can be addressed by following...\""
+  },
+  "DFr_ABFB198A.Text": {
+    "": {
+      "Text": "They have the same chance of helping one group or individual as any any other."
+    },
+    "Context": "Flow/milla2/08_mill: \"They have the same chance of helpin...\""
+  },
+  "DFr_F5C1BC5B.Text": {
+    "": {
+      "Text": "(Huh. ^^^^^Will that really be the case?)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Huh. ^^^^^Will that really be the...\""
+  },
+  "DFr_6D92959A.Text": {
+    "": {
+      "Text": "You BEGAN with your conclusion!?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"You BEGAN with your conclusion!?\""
+  },
+  "DFr_0CD11FBF.Text": {
+    "": {
+      "Text": "Dad, don’t you think you are trying a bit hard to find things to criticise?"
+    },
+    "Context": "Flow/milla2/02_ari: \"Dad, don’t you think you are trying...\""
+  },
+  "DFr_BD4A9CDD.Text": {
+    "": {
+      "Text": "There are certain rules which, ^^^^if always followed, ^^^^would make society a happier place than if they were not."
+    },
+    "Context": "Flow/milla2/08_mill: \"There are certain rules which, ^^^^...\""
+  },
+  "DFr_2C545C6E.Text": {
+    "": {
+      "Text": "These are the rules which meet the qualifications of Rule Utilitarianism."
+    },
+    "Context": "Flow/milla2/08_mill: \"These are the rules which meet the...\""
+  },
+  "DFr_AA38BE5E.Text": {
+    "": {
+      "Text": "Thus, ^^^^it makes sense the rules which govern our actions should be chosen accordingly."
+    },
+    "Context": "Flow/milla2/08_mill: \"Thus, ^^^^it makes sense the rules...\""
+  },
+  "DFr_71247497.Text": {
+    "": {
+      "Text": "It’s an essential step in bringing everything together."
+    },
+    "Context": "Flow/milla2/08_mill: \"It’s an essential step in bringing...\""
+  },
+  "DFr_4A14E032.Text": {
+    "": {
+      "Text": "While this may not always be the case, ^^^^such as a situation where one’s free speech hurts another’s feelings..."
+    },
+    "Context": "Flow/milla2/08_mill: \"While this may not always be the ca...\""
+  },
+  "DFr_6B9A41BB.Text": {
+    "": {
+      "Text": "...society is much better off if these rules are always applied than if they are never applied."
+    },
+    "Context": "Flow/milla2/08_mill: \"...society is much better off if th...\""
+  },
+  "DFr_F511FF7D.Text": {
+    "": {
+      "Text": "Let us consider the rule that citizens are considered innocent until proven guilty. ^^^^^^I will demonstrate this rule increases overall happiness in most situations."
+    },
+    "Context": "Flow/milla2/08_mill: \"Let us consider the rule that citiz...\""
+  },
+  "DFr_476B6510.Text": {
+    "": {
+      "Text": "With this rule, ^^^^any man knows he will get a fair trial, ^^^^and thus is protected from false accusation."
+    },
+    "Context": "Flow/milla2/08_mill: \"With this rule, ^^^^any man knows h...\""
+  },
+  "DFr_DF5339DD.Text": {
+    "": {
+      "Text": "True, ^^^^sometimes guilty criminals get away as a result, ^^^^but can you imagine a world where this rule were not applied?"
+    },
+    "Context": "Flow/milla2/08_mill: \"True, ^^^^sometimes guilty criminal...\""
+  },
+  "DFr_4FBB319E.Text": {
+    "": {
+      "Text": "Power-hungry prosecutors would run innocent men into the ground, ^^^^with defense attorneys having to fight against ridiculous odds just to prove them innocent!"
+    },
+    "Context": "Flow/milla2/08_mill: \"Power-hungry prosecutors would run...\""
+  },
+  "DFr_FF42068C.Text": {
+    "": {
+      "Text": "That sounds terrible!"
+    },
+    "Context": "Flow/milla2/02_ari: \"That sounds terrible!\""
+  },
+  "DFr_A680CC30.Text": {
+    "": {
+      "Text": "Yes, ^^^^it truly would be."
+    },
+    "Context": "Flow/milla2/08_mill: \"Yes, ^^^^it truly would be.\""
+  },
+  "DFr_24872BE6.Text": {
+    "": {
+      "Text": "(Might make an interesting game, ^^^^though.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Might make an interesting game, ^^...\""
+  },
+  "DFr_26C3323A.Text": {
+    "": {
+      "Text": "Thus, we can assume those who follow the rules are performing morally."
+    },
+    "Context": "Flow/milla2/08_mill: \"Thus, we can assume those who follo...\""
+  },
+  "DFr_491D11B8.Text": {
+    "": {
+      "Text": "“Most of the time...” So even when the rules create unhappiness, ^^^^we should still follow them?"
+    },
+    "Context": "Flow/milla2/01_socrates: \"“Most of the time...” So even when...\""
+  },
+  "DFr_4E409A87.Text": {
+    "": {
+      "Text": "Well... ^^^^no. ^^^^Theoretically, ^^^^if in a certain situation following a rule created enough unhappiness, ^^^^that rule should be revamped."
+    },
+    "Context": "Flow/milla2/08_mill: \"Well... ^^^^no. ^^^^Theoretically,...\""
+  },
+  "DFr_2E286DBD.Text": {
+    "": {
+      "Text": "Broken, ^^^^and replaced with a more nuanced rule."
+    },
+    "Context": "Flow/milla2/08_mill: \"Broken, ^^^^and replaced with a mor...\""
+  },
+  "DFr_75A83F91.Text": {
+    "": {
+      "Text": "(Huh. ^^^^How interesting.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Huh. ^^^^How interesting.)\""
+  },
+  "DFr_80C2AB5A.Text": {
+    "": {
+      "Text": "“Rule Nuances” added to the Idea Slate."
+    },
+    "Context": "Flow/milla2/12_notification: \"“Rule Nuances” added to the Idea Sl...\""
+  },
+  "DFr_1F2D0065.Text": {
+    "": {
+      "Text": "The game’s up, ^^^^^“old chap.”"
+    },
+    "Context": "Flow/mills5/01_socrates: \"The game’s up, ^^^^^“old chap.”\""
+  },
+  "DFr_642E68A7.Text": {
+    "": {
+      "Text": "Oh no, Dad, don’t you dare throw this away!"
+    },
+    "Context": "Flow/mills5/02_ari: \"Oh no, Dad, don’t you dare throw th...\""
+  },
+  "DFr_51919F86.Text": {
+    "": {
+      "Text": "I dare!"
+    },
+    "Context": "Flow/mills5/01_socrates: \"I dare!\""
+  },
+  "DFr_20B9F0CC.Text": {
+    "": {
+      "Text": "Ari, ^^^^I know you idolize this man, ^^^^but it’s time to accept his ideas are not my way out of here."
+    },
+    "Context": "Flow/mills5/01_socrates: \"Ari, ^^^^I know you idolize this ma...\""
+  },
+  "DFr_26AB5EF7.Text": {
+    "": {
+      "Text": "For the philosophy he just proposed boils down to the same one as before!"
+    },
+    "Context": "Flow/mills5/01_socrates: \"For the philosophy he just proposed...\""
+  },
+  "DFr_18BE94BE.Text": {
+    "": {
+      "Text": "Now hold on, ^^^^I think that’s a bit unfair— ^^^^^^^^^"
+    },
+    "Context": "Flow/mills5/04_arbiter: \"Now hold on, ^^^^I think that’s a b...\""
+  },
+  "DFr_62EED43F.Text": {
+    "": {
+      "Text": "Is it?"
+    },
+    "Context": "Flow/mills5/01_socrates: \"Is it?\""
+  },
+  "DFr_73F5F530.Text": {
+    "": {
+      "Text": "John Stuart Mill! ^^^^^^You said rules should be created along lines which further happiness, ^^^^correct?"
+    },
+    "Context": "Flow/mills5/01_socrates: \"John Stuart Mill! ^^^^^^You said ru...\""
+  },
+  "DFr_802947DD.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/mills5/08_mill: \"Of course.\""
+  },
+  "DFr_C0F29B9A.Text": {
+    "": {
+      "Text": "And when the rules fail to further happiness, ^^^^they should be replaced with more nuanced rules?"
+    },
+    "Context": "Flow/mills5/01_socrates: \"And when the rules fail to further...\""
+  },
+  "DFr_DAF9BD36.Text": {
+    "": {
+      "Text": "Yes, ^^^^indeed."
+    },
+    "Context": "Flow/mills5/08_mill: \"Yes, ^^^^indeed.\""
+  },
+  "DFr_A3359E0D.Text": {
+    "": {
+      "Text": "What is the problem? ^^^^^^That’s very different from his original idea!"
+    },
+    "Context": "Flow/mills5/02_ari: \"What is the problem? ^^^^^^That’s v...\""
+  },
+  "DFr_5B1E94D7.Text": {
+    "": {
+      "Text": "Is that so? ^^^^Then answer me this:"
+    },
+    "Context": "Flow/mills5/01_socrates: \"Is that so? ^^^^Then answer me this...\""
+  },
+  "DFr_0BCFDBEB.Text": {
+    "": {
+      "Text": "If you keep making the rules more and more nuanced, ^^^^where will you wind up?"
+    },
+    "Context": "Flow/mills5/01_socrates: \"If you keep making the rules more a...\""
+  },
+  "DFr_4470FFFC.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/mills5/02_ari: \"Huh?\""
+  },
+  "DFr_154E9F17.Text": {
+    "": {
+      "Text": "...No... ^^^^^^^^^^^^^ NO!"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"...No... ^^^^^^^^^^^^^ NO!\""
+  },
+  "DFr_71D180A0.Text": {
+    "": {
+      "Text": "AHHHHHHHHHHHHRRRRGGGGGGGHHHHHHHHHH!"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"AHHHHHHHHHHHHRRRRGGGGGGGHHHHHHHHHH!\""
+  },
+  "DFr_EC6402E8.Text": {
+    "": {
+      "Text": "Ari?!^^^^"
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"Ari?!^^^^\""
+  },
+  "DFr_4EFCBF0F.Text": {
+    "": {
+      "Text": "You’re the monster, ^^^^Dad! ^^^^^^The real monster! ^^^^Don’t you see what you’re doing?!"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"You’re the monster, ^^^^Dad! ^^^^^^...\""
+  },
+  "DFr_B0D40654.Text": {
+    "": {
+      "Text": "This could’ve been your only hope of getting back! ^^^^^^OUR only hope of getting back!"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"This could’ve been your only hope o...\""
+  },
+  "DFr_28D46780.Text": {
+    "": {
+      "Text": "Ari, ^^^^I—"
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"Ari, ^^^^I—\""
+  },
+  "DFr_BF1BD644.Text": {
+    "": {
+      "Text": "You are useless, ^^^Dad! ^^^^^^Did you even stop to consider... ^^^^^ I—^^^^I—^^^^I—^^^^^^^^"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"You are useless, ^^^Dad! ^^^^^^Did...\""
+  },
+  "DFr_87411293.Text": {
+    "": {
+      "Text": "I WASTED MY LIFE TO GIVE YOU THIS CHANCE!"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"I WASTED MY LIFE TO GIVE YOU THIS C...\""
+  },
+  "DFr_3A8936E4.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.2/04_arbiter: \"...\""
+  },
+  "DFr_8F537AD5.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.2/08_mill: \"...\""
+  },
+  "DFr_EB128EC8.Text": {
+    "": {
+      "Text": "...What... ^^^^^^^^what did you just say?"
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"...What... ^^^^^^^^what did you jus...\""
+  },
+  "DFr_B97F53F8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"...\""
+  },
+  "DFr_9487B72F.Text": {
+    "": {
+      "Text": "What did you mean just now, ^^^^^Ari?!"
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"What did you mean just now, ^^^^^Ar...\""
+  },
+  "DFr_380DC12D.Text": {
+    "": {
+      "Text": "^^^^^^^^^...I put my own life on the line ^^^^^so you could take the Challenge."
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"^^^^^^^^^...I put my own life on th...\""
+  },
+  "DFr_7A3C5256.Text": {
+    "": {
+      "Text": "W-what? ^^^^^^ Are you serious?!"
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"W-what? ^^^^^^ Are you serious?!\""
+  },
+  "DFr_E24AD718.Text": {
+    "": {
+      "Text": "I thought if there was a chance... ^^^^^any chance... ^^^^^we should take it."
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"I thought if there was a chance......\""
+  },
+  "DFr_34A3BBB9.Text": {
+    "": {
+      "Text": "^^^^But Mill is one of the best philosophers out there. ^^^^^^And you’ve run right over him without a thought."
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"^^^^But Mill is one of the best phi...\""
+  },
+  "DFr_90226634.Text": {
+    "": {
+      "Text": "You’re going to wind up throwing away both our lives for the sake of your stupid “style points.”"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"You’re going to wind up throwing aw...\""
+  },
+  "DFr_6D0356E3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"...\""
+  },
+  "DFr_62E774E8.Text": {
+    "": {
+      "Text": "Ariadne Jones?"
+    },
+    "Context": "Flow/Mills5.2/08_mill: \"Ariadne Jones?\""
+  },
+  "DFr_3140BDE8.Text": {
+    "": {
+      "Text": "?"
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"?\""
+  },
+  "DFr_B2FDFEED.Text": {
+    "": {
+      "Text": "I understand where you are coming from, ^^^^but your father has not done ill by your sacrifice."
+    },
+    "Context": "Flow/Mills5.2/08_mill: \"I understand where you are coming f...\""
+  },
+  "DFr_FED2DAF8.Text": {
+    "": {
+      "Text": "Not since my days in parliament have I been subjected to such a spirited critique."
+    },
+    "Context": "Flow/Mills5.2/08_mill: \"Not since my days in parliament hav...\""
+  },
+  "DFr_CA95FA06.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.2/02_ari: \"...\""
+  },
+  "DFr_58BC0D20.Text": {
+    "": {
+      "Text": "Mill..."
+    },
+    "Context": "Flow/Mills5.2/01_socrates: \"Mill...\""
+  },
+  "DFr_D29A62D2.Text": {
+    "": {
+      "Text": "Listen, ^^^^^both of you."
+    },
+    "Context": "Flow/Mills5.2/08_mill: \"Listen, ^^^^^both of you.\""
+  },
+  "DFr_D2735613.Text": {
+    "": {
+      "Text": "Unquestionably, ^^^^^^^it is possible to do without happiness... ^^^^^^^^^^^^it is done involuntarily by nineteen-twentieths of mankind."
+    },
+    "Context": "Flow/Mills5.3/08_mill: \"Unquestionably, ^^^^^^^it is possib...\""
+  },
+  "DFr_CA5596EF.Text": {
+    "": {
+      "Text": "But you... ^^^^^^^^^^^you don’t have to be among them."
+    },
+    "Context": "Flow/Mills5.3/08_mill: \"But you... ^^^^^^^^^^^you don’t hav...\""
+  },
+  "DFr_20C39315.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"...\""
+  },
+  "DFr_98BFDDF6.Text": {
+    "": {
+      "Text": "Ari..."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"Ari...\""
+  },
+  "DFr_416FCA71.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"...\""
+  },
+  "DFr_AA03E4B0.Text": {
+    "": {
+      "Text": "Why didn’t you discuss this with me?"
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"Why didn’t you discuss this with me...\""
+  },
+  "DFr_781A091D.Text": {
+    "": {
+      "Text": "Would you have taken the Challenge if I had?"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"Would you have taken the Challenge...\""
+  },
+  "DFr_FDBDA224.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"...\""
+  },
+  "DFr_C4AA2638.Text": {
+    "": {
+      "Text": "Dad, I couldn’t just let you die! ^^^^^^^If I had, ^^^^^the loss of happiness would’ve been too great..."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"Dad, I couldn’t just let you die! ^...\""
+  },
+  "DFr_863437E6.Text": {
+    "": {
+      "Text": "But the Arbiter told me the Challenge was the only way to bring you back..."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"But the Arbiter told me the Challen...\""
+  },
+  "DFr_07F56533.Text": {
+    "": {
+      "Text": "And the reward ^^^^^^^could only match what was at stake. ^^^^^^^"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"And the reward ^^^^^^^could only ma...\""
+  },
+  "DFr_27482E67.Text": {
+    "": {
+      "Text": "So I..."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"So I...\""
+  },
+  "DFr_48C13AFA.Text": {
+    "": {
+      "Text": "What were you thinking, ^^^^Ari? ^^^^^^^^You should have gone home!"
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"What were you thinking, ^^^^Ari? ^^...\""
+  },
+  "DFr_AAF574C1.Text": {
+    "": {
+      "Text": "You’d have done the same thing if it were me!"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"You’d have done the same thing if i...\""
+  },
+  "DFr_1D88F122.Text": {
+    "": {
+      "Text": "Yes, ^^^^^well, ^^^^^^you’re my daughter—^^^^^^^^^^"
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"Yes, ^^^^^well, ^^^^^^you’re my dau...\""
+  },
+  "DFr_B39C21A8.Text": {
+    "": {
+      "Text": "And you’re my father, and believe it or not, I don’t want to lose you!"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"And you’re my father, and believe i...\""
+  },
+  "DFr_44471848.Text": {
+    "": {
+      "Text": "I did this because I honestly thought you deserved the chance! ^^^^^^^^And I’ve been helping you however I could!"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"I did this because I honestly thoug...\""
+  },
+  "DFr_36441F84.Text": {
+    "": {
+      "Text": "But... ^^^^^^^^ you’re not even taking this seriously."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"But... ^^^^^^^^ you’re not even tak...\""
+  },
+  "DFr_958155F1.Text": {
+    "": {
+      "Text": "How... how could you say that?!"
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"How... how could you say that?!\""
+  },
+  "DFr_47A26C61.Text": {
+    "": {
+      "Text": "You’ve faced philosophers with so many different ideas... ^^^^so many different outlooks."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"You’ve faced philosophers with so m...\""
+  },
+  "DFr_C8F514F7.Text": {
+    "": {
+      "Text": "Any one of them could have been onto something—^^^^ but you’ve torn all of them apart without a thought."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"Any one of them could have been ont...\""
+  },
+  "DFr_867052F9.Text": {
+    "": {
+      "Text": "Your cunning remarks... ^^^^your biting comments... ^^^^^"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"Your cunning remarks... ^^^^your bi...\""
+  },
+  "DFr_BE53C7A3.Text": {
+    "": {
+      "Text": "You don’t REALLY care about getting home, ^^^^you’re just showing off!"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"You don’t REALLY care about getting...\""
+  },
+  "DFr_E2C1CC43.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"...\""
+  },
+  "DFr_868A94DF.Text": {
+    "": {
+      "Text": "Look, ^^^^Ari... ^^^^^it’s true I’ve been getting a little carried away."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"Look, ^^^^Ari... ^^^^^it’s true I’v...\""
+  },
+  "DFr_DD414C77.Text": {
+    "": {
+      "Text": "I’ve never been good at this stuff... ^^^^^and you’ve always loved it... ^^^^^^^^^^I guess I’m just starting to see why."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"I’ve never been good at this stuff....\""
+  },
+  "DFr_E1981206.Text": {
+    "": {
+      "Text": "But it doesn’t matter, ^^^^^does it?"
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"But it doesn’t matter, ^^^^^does it...\""
+  },
+  "DFr_A7B4A4DF.Text": {
+    "": {
+      "Text": "In the end, ^^^^^you’ll still blaze through the options presented to you... ^^^^^^tearing them apart because you’re so sure they are wrong."
+    },
+    "Context": "Flow/Mills5.3/02_ari: \"In the end, ^^^^^you’ll still blaze...\""
+  },
+  "DFr_42F51D68.Text": {
+    "": {
+      "Text": "No, ^^^Ari, ^^^it’s actually the opposite."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"No, ^^^Ari, ^^^it’s actually the op...\""
+  },
+  "DFr_54762EC1.Text": {
+    "": {
+      "Text": "I feel like I don’t know anything. ^^^^^And I can’t accept their ideas without understanding them inside and out... ^^^^^^^^"
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"I feel like I don’t know anything....\""
+  },
+  "DFr_2204AB95.Text": {
+    "": {
+      "Text": "Especially now I know I’m not the only one at stake."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"Especially now I know I’m not the o...\""
+  },
+  "DFr_8255801C.Text": {
+    "": {
+      "Text": "I’m not here to prove them wrong. ^^^^^I’m here to see if they are right."
+    },
+    "Context": "Flow/Mills5.3/01_socrates: \"I’m not here to prove them wrong. ^...\""
+  },
+  "DFr_F3DD1790.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^...I’m sorry."
+    },
+    "Context": "Flow/Mills5.4/02_ari: \"^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_D8B03339.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"Huh?\""
+  },
+  "DFr_986EC7D7.Text": {
+    "": {
+      "Text": "...Mill was right. ^^^^^^^^^You’ve really been working hard. ^^^^^^^I just..."
+    },
+    "Context": "Flow/Mills5.4/02_ari: \"...Mill was right. ^^^^^^^^^You’ve...\""
+  },
+  "DFr_8A9728F6.Text": {
+    "": {
+      "Text": "It’s okay, ^^^^Ari. ^^^^^^I understand."
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"It’s okay, ^^^^Ari. ^^^^^^I underst...\""
+  },
+  "DFr_3725B0F7.Text": {
+    "": {
+      "Text": "Really?"
+    },
+    "Context": "Flow/Mills5.4/02_ari: \"Really?\""
+  },
+  "DFr_E540E442.Text": {
+    "": {
+      "Text": "Yeah. ^^^^Your dad’s a doofus sometimes."
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"Yeah. ^^^^Your dad’s a doofus somet...\""
+  },
+  "DFr_CF5657C7.Text": {
+    "": {
+      "Text": "You shouldn’t have done something like that... ^^^^^^^^"
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"You shouldn’t have done something l...\""
+  },
+  "DFr_A828AE85.Text": {
+    "": {
+      "Text": "but I’ll ground you for it when we make it home."
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"but I’ll ground you for it when we...\""
+  },
+  "DFr_F26161C8.Text": {
+    "": {
+      "Text": "...And promise me you’ll never take up gambling, okay? ^^^^You’re smart, but you don’t have a knack for playing the odds."
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"...And promise me you’ll never take...\""
+  },
+  "DFr_E1E746A0.Text": {
+    "": {
+      "Text": "...Heh. ^^^^I guess not."
+    },
+    "Context": "Flow/Mills5.4/02_ari: \"...Heh. ^^^^I guess not.\""
+  },
+  "DFr_F1C5967D.Text": {
+    "": {
+      "Text": "...^^^"
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"...^^^\""
+  },
+  "DFr_F5A25FE6.Text": {
+    "": {
+      "Text": "Arbiter!"
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"Arbiter!\""
+  },
+  "DFr_84274A34.Text": {
+    "": {
+      "Text": "I’m tired of this stupid world. ^^^^^Bring out your best Philosopher!"
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"I’m tired of this stupid world. ^^^...\""
+  },
+  "DFr_C7F1CA4E.Text": {
+    "": {
+      "Text": "It’s high time I provided returns on my daughter’s bet."
+    },
+    "Context": "Flow/Mills5.4/01_socrates: \"It’s high time I provided returns o...\""
+  },
+  "DFr_B246601A.Text": {
+    "": {
+      "Text": "You’ll wind up ^^^^^^^^^^^^^^^^^ with the idea we should act in order to maximize happiness!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"You’ll wind up ^^^^^^^^^^^^^^^^^ wi...\""
+  },
+  "DFr_542FA4FB.Text": {
+    "": {
+      "Text": "Wh-^^^^^WHAT?!"
+    },
+    "Context": "Flow/mills5.1/02_ari: \"Wh-^^^^^WHAT?!\""
+  },
+  "DFr_1C3C7242.Text": {
+    "": {
+      "Text": "The fact is, ^^^^no matter what rules Mill comes up with, ^^^^they’ll always be several steps removed from his original idea!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"The fact is, ^^^^no matter what rul...\""
+  },
+  "DFr_D9A56D53.Text": {
+    "": {
+      "Text": "And thus, ^^^^they are imperfect promotions of happiness!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"And thus, ^^^^they are imperfect pr...\""
+  },
+  "DFr_5ED0F06F.Text": {
+    "": {
+      "Text": "We’ll have to keep replacing these rules when they fall short, ^^^^^until we’re back where we started!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"We’ll have to keep replacing these...\""
+  },
+  "DFr_7035C2D7.Text": {
+    "": {
+      "Text": "Ah. ^^^^^^Excellent deduction, ^^^^Socrates!"
+    },
+    "Context": "Flow/mills5.1/04_arbiter: \"Ah. ^^^^^^Excellent deduction, ^^^^...\""
+  },
+  "DFr_C1A526DD.Text": {
+    "": {
+      "Text": "Indeed. ^^^^Most insightful."
+    },
+    "Context": "Flow/mills5.1/08_mill: \"Indeed. ^^^^Most insightful.\""
+  },
+  "DFr_C60774BA.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/mills5.1/02_ari: \"...\""
+  },
+  "DFr_BFD4E4A1.Text": {
+    "": {
+      "Text": "No matter how you spin it,^^^^ Rule Utilitarianism ultimately boils down to Act Utilitarianism!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"No matter how you spin it,^^^^ Rule...\""
+  },
+  "DFr_9B981C4B.Text": {
+    "": {
+      "Text": "And thus, all the problems we originally established are still there!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"And thus, all the problems we origi...\""
+  },
+  "DFr_71530E64.Text": {
+    "": {
+      "Text": "Our happiness is just waiting for a giant monster to come and gobble it up!"
+    },
+    "Context": "Flow/mills5.1/01_socrates: \"Our happiness is just waiting for a...\""
+  },
+  "DFr_4DDB3487.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/mills5.1/08_mill: \"...\""
+  },
+  "DFr_199C6CF9.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/mills5.1/02_ari: \"...\""
+  },
+  "DFr_8A65A1A8.Text": {
+    "": {
+      "Text": "No..."
+    },
+    "Context": "Flow/mills5.1/02_ari: \"No...\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

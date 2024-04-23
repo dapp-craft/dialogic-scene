@@ -1,0 +1,340 @@
+{
+  "GlobalVariables": [
+    {
+      "Namespace": "billy",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "prologuea1s1a_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea1s3a_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea1s1_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea1s3_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "backing_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea3s2_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea4s1_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea4s2_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "prologuea4s3_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "i0_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Socrates",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "credibility",
+          "Type": "Integer",
+          "Value": "5",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Euthyphro",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i2_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i3_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "eutha2s5b1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Hobbes",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i2_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i3_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "hobbesa2s3_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "hobbesa2s3c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i4_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "hobbesa3s3_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "hobbesa3s3c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Mill",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i2_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i3_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Kant",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i2_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i3_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "kanta3s3c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "kanta3s4_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Arbiter",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "arbitera1s1c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i2_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i3_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i0_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "i4_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "ChallengeButton_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera1s1_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera3s3c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera4s2b1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera4s2b2_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera4s2b2c1_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "arbitera4s3_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        }
+      ]
+    },
+    {
+      "Namespace": "Protagoras",
+      "Description": "",
+      "Variables": [
+        {
+          "Variable": "i1_unlock",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        },
+        {
+          "Variable": "protagorasa1s4_open",
+          "Type": "Boolean",
+          "Value": "True",
+          "Description": ""
+        },
+        {
+          "Variable": "protagorasa1s5_open",
+          "Type": "Boolean",
+          "Value": "False",
+          "Description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5852 @@
+{
+  "Dlg_21F545E8.DisplayName": {
+    "": {
+      "Text": "arbiters1"
+    },
+    "Context": "Flow/arbiters1"
+  },
+  "Dlg_F2A021AC.DisplayName": {
+    "": {
+      "Text": "arbiters1_1"
+    },
+    "Context": "Flow/arbiters1_1"
+  },
+  "Dlg_0A2E84DC.DisplayName": {
+    "": {
+      "Text": "arbiters1_2"
+    },
+    "Context": "Flow/arbiters1_2"
+  },
+  "Dlg_ABB6A7AF.DisplayName": {
+    "": {
+      "Text": "arbiters1_3"
+    },
+    "Context": "Flow/arbiters1_3"
+  },
+  "Dlg_728085FD.DisplayName": {
+    "": {
+      "Text": "arbiterp1"
+    },
+    "Context": "Flow/arbiterp1"
+  },
+  "Dlg_C4948C82.DisplayName": {
+    "": {
+      "Text": "arbiterp1_1"
+    },
+    "Context": "Flow/arbiterp1_1"
+  },
+  "Dlg_6F9DB6F7.DisplayName": {
+    "": {
+      "Text": "arbiterp1_2"
+    },
+    "Context": "Flow/arbiterp1_2"
+  },
+  "Dlg_2C5413B6.DisplayName": {
+    "": {
+      "Text": "arbitera1"
+    },
+    "Context": "Flow/arbitera1"
+  },
+  "Dlg_2449BC75.DisplayName": {
+    "": {
+      "Text": "arbitera1end"
+    },
+    "Context": "Flow/arbitera1end"
+  },
+  "Dlg_56CFC244.DisplayName": {
+    "": {
+      "Text": "arbitera1end_1"
+    },
+    "Context": "Flow/arbitera1end_1"
+  },
+  "Dlg_C3439DB0.DisplayName": {
+    "": {
+      "Text": "arbitera1end_2"
+    },
+    "Context": "Flow/arbitera1end_2"
+  },
+  "Dlg_F68DCED2.DisplayName": {
+    "": {
+      "Text": "arbiterp2"
+    },
+    "Context": "Flow/arbiterp2"
+  },
+  "Dlg_1168274C.DisplayName": {
+    "": {
+      "Text": "arbiterp2_1"
+    },
+    "Context": "Flow/arbiterp2_1"
+  },
+  "Dlg_0AA24930.DisplayName": {
+    "": {
+      "Text": "arbiterp2_2"
+    },
+    "Context": "Flow/arbiterp2_2"
+  },
+  "Dlg_58F75D93.DisplayName": {
+    "": {
+      "Text": "arbiterp2_3"
+    },
+    "Context": "Flow/arbiterp2_3"
+  },
+  "Dlg_36D5BAD6.DisplayName": {
+    "": {
+      "Text": "arbitera2"
+    },
+    "Context": "Flow/arbitera2"
+  },
+  "Dlg_D806C2DF.DisplayName": {
+    "": {
+      "Text": "arbitera2end"
+    },
+    "Context": "Flow/arbitera2end"
+  },
+  "Dlg_A403EA72.DisplayName": {
+    "": {
+      "Text": "arbitera2end_1"
+    },
+    "Context": "Flow/arbitera2end_1"
+  },
+  "Dlg_0A15B6E0.DisplayName": {
+    "": {
+      "Text": "arbitera2end_1"
+    },
+    "Context": "Flow/arbitera2end_1"
+  },
+  "Dlg_86E57CF1.DisplayName": {
+    "": {
+      "Text": "arbiterp3"
+    },
+    "Context": "Flow/arbiterp3"
+  },
+  "Dlg_80442DDE.DisplayName": {
+    "": {
+      "Text": "arbiterp3_1"
+    },
+    "Context": "Flow/arbiterp3_1"
+  },
+  "Dlg_0C020F1C.DisplayName": {
+    "": {
+      "Text": "arbiterp3_2"
+    },
+    "Context": "Flow/arbiterp3_2"
+  },
+  "Dlg_1DCC1169.DisplayName": {
+    "": {
+      "Text": "arbiterp3_3"
+    },
+    "Context": "Flow/arbiterp3_3"
+  },
+  "Dlg_20C2368F.DisplayName": {
+    "": {
+      "Text": "arbiterp3_4"
+    },
+    "Context": "Flow/arbiterp3_4"
+  },
+  "Dlg_D776D155.DisplayName": {
+    "": {
+      "Text": "arbiterp3_5"
+    },
+    "Context": "Flow/arbiterp3_5"
+  },
+  "Dlg_903115D2.DisplayName": {
+    "": {
+      "Text": "arbitera3"
+    },
+    "Context": "Flow/arbitera3"
+  },
+  "Dlg_61B9FC01.DisplayName": {
+    "": {
+      "Text": "Arbiter_gameover"
+    },
+    "Context": "Flow/Arbiter_gameover"
+  },
+  "Dlg_5EB066C6.DisplayName": {
+    "": {
+      "Text": "arbitera3end"
+    },
+    "Context": "Flow/arbitera3end"
+  },
+  "Dlg_6E95D0E1.DisplayName": {
+    "": {
+      "Text": "arbitera3end_1"
+    },
+    "Context": "Flow/arbitera3end_1"
+  },
+  "Dlg_C5CADC37.DisplayName": {
+    "": {
+      "Text": "arbitera3end_2"
+    },
+    "Context": "Flow/arbitera3end_2"
+  },
+  "Dlg_0E48326D.DisplayName": {
+    "": {
+      "Text": "arbitera3end_3"
+    },
+    "Context": "Flow/arbitera3end_3"
+  },
+  "Dlg_62ADAE0A.DisplayName": {
+    "": {
+      "Text": "arbitera3end_4"
+    },
+    "Context": "Flow/arbitera3end_4"
+  },
+  "Dlg_ACBBEFF7.DisplayName": {
+    "": {
+      "Text": "arbiterp4"
+    },
+    "Context": "Flow/arbiterp4"
+  },
+  "Dlg_09189120.DisplayName": {
+    "": {
+      "Text": "arbiterp4_1"
+    },
+    "Context": "Flow/arbiterp4_1"
+  },
+  "Dlg_CC6F175F.DisplayName": {
+    "": {
+      "Text": "arbiterp4_2"
+    },
+    "Context": "Flow/arbiterp4_2"
+  },
+  "Dlg_6101018A.DisplayName": {
+    "": {
+      "Text": "arbiterp4_3"
+    },
+    "Context": "Flow/arbiterp4_3"
+  },
+  "Dlg_B7F5AD09.DisplayName": {
+    "": {
+      "Text": "arbitera4"
+    },
+    "Context": "Flow/arbitera4"
+  },
+  "Dlg_D5852CFB.DisplayName": {
+    "": {
+      "Text": "arbitera4correct"
+    },
+    "Context": "Flow/arbitera4correct"
+  },
+  "Dlg_71C5BB4B.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_1"
+    },
+    "Context": "Flow/arbitera4correct_1"
+  },
+  "Dlg_0C379817.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_2"
+    },
+    "Context": "Flow/arbitera4correct_2"
+  },
+  "Dlg_80CB7A7A.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_3"
+    },
+    "Context": "Flow/arbitera4correct_3"
+  },
+  "Dlg_88059CA0.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_4"
+    },
+    "Context": "Flow/arbitera4correct_4"
+  },
+  "Dlg_F5ED11A8.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_5"
+    },
+    "Context": "Flow/arbitera4correct_5"
+  },
+  "Dlg_7FF77186.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_6"
+    },
+    "Context": "Flow/arbitera4correct_6"
+  },
+  "Dlg_B46CC232.DisplayName": {
+    "": {
+      "Text": "arbitera4correct_7"
+    },
+    "Context": "Flow/arbitera4correct_7"
+  },
+  "DFr_D5E9EA40.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera1/i2: \"Mill believes that something can be...\""
+  },
+  "DFr_47A47644.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera1/i3: \"People often help each other in ord...\""
+  },
+  "DFr_CEAF8751.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera1/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_AED50584.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera1/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_E175CD7E.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera1/i4: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_A5742DA3.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera2/i2: \"Mill believes that something can be...\""
+  },
+  "DFr_FD093F47.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera2/i3: \"People often help each other in ord...\""
+  },
+  "DFr_4A18B0FC.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera2/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_456B43CD.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera2/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_964C1561.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera2/i4: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_5617D1F8.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera3/i2: \"Mill believes that something can be...\""
+  },
+  "DFr_F6754B89.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera3/i3: \"People often help each other in ord...\""
+  },
+  "DFr_55510D40.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera3/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_5210A7FD.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera3/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_4DBA0B2B.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera3/i4: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_622073E2.Text": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera4/i2: \"Mill believes that something can be...\""
+  },
+  "DFr_08E9BC5D.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera4/i3: \"People often help each other in ord...\""
+  },
+  "DFr_D9205592.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera4/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_7DE056F1.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera4/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_ABB4361A.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera4/i4: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_1B72B5B6.Text": {
+    "": {
+      "Text": "Well, ^^^^that was quite a spirited performance, ^^^^Socrates!"
+    },
+    "Context": "Flow/arbiters1/04_arbiter: \"Well, ^^^^that was quite a spirited...\""
+  },
+  "DFr_420EC2A2.Text": {
+    "": {
+      "Text": "Who would have thought an accountant from New York would turn out to be such a great debater!"
+    },
+    "Context": "Flow/arbiters1/04_arbiter: \"Who would have thought an accountan...\""
+  },
+  "DFr_1AC7BC6C.Text": {
+    "": {
+      "Text": "Thank you, ^^^Arbiter."
+    },
+    "Context": "Flow/arbiters1/01_socrates: \"Thank you, ^^^Arbiter.\""
+  },
+  "DFr_CBF6B694.Text": {
+    "": {
+      "Text": "I believe Friedrich Nietzsche has volunteered to discuss his ideas with you next."
+    },
+    "Context": "Flow/arbiters1/04_arbiter: \"I believe Friedrich Nietzsche has v...\""
+  },
+  "DFr_C8F81911.Text": {
+    "": {
+      "Text": "A prominent— ^^^^^if sometimes paradoxical— ^^^^^^thinker, ^^^^^^he is often quoted by the ^^^“angsty teens” ^^^of your era."
+    },
+    "Context": "Flow/arbiters1/04_arbiter: \"A prominent— ^^^^^if sometimes para...\""
+  },
+  "DFr_95B92127.Text": {
+    "": {
+      "Text": "Give me a moment, ^^^^^and I will retrieve him."
+    },
+    "Context": "Flow/arbiters1/04_arbiter: \"Give me a moment, ^^^^^and I will r...\""
+  },
+  "DFr_F827DD60.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/arbiters1/01_socrates: \"Of course.\""
+  },
+  "DFr_18EA3CFC.Text": {
+    "": {
+      "Text": "^^^^^^^^*sigh*"
+    },
+    "Context": "Flow/arbiters1/02_ari: \"^^^^^^^^*sigh*\""
+  },
+  "DFr_F825E7A0.Text": {
+    "": {
+      "Text": "...You okay, ^^^Ari?"
+    },
+    "Context": "Flow/arbiters1/01_socrates: \"...You okay, ^^^Ari?\""
+  },
+  "DFr_19A73064.Text": {
+    "": {
+      "Text": "I don’t know how you're still doing this, ^^^^Dad."
+    },
+    "Context": "Flow/arbiters1/02_ari: \"I don’t know how you're still doing...\""
+  },
+  "DFr_175202E4.Text": {
+    "": {
+      "Text": "I’m getting tired, ^^^^and I’m just helping out."
+    },
+    "Context": "Flow/arbiters1/02_ari: \"I’m getting tired, ^^^^and I’m just...\""
+  },
+  "DFr_7A7B5EC9.Text": {
+    "": {
+      "Text": "I know, Ari. ^^^^^I was personally hoping Kant’s answer would hold up..."
+    },
+    "Context": "Flow/arbiters1/01_socrates: \"I know, Ari. ^^^^^I was personally...\""
+  },
+  "DFr_B0DA5137.Text": {
+    "": {
+      "Text": "At this point, ^^^^^I kind of think the nature of morality is impossible to find."
+    },
+    "Context": "Flow/arbiters1/01_socrates: \"At this point, ^^^^^I kind of think...\""
+  },
+  "DFr_B61781F4.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiters1_1/04_arbiter: \"...\""
+  },
+  "DFr_255029ED.Text": {
+    "": {
+      "Text": "What did you say?"
+    },
+    "Context": "Flow/arbiters1_1/04_arbiter: \"What did you say?\""
+  },
+  "DFr_CCF73E49.Text": {
+    "": {
+      "Text": "Oh! Uh... ^^^^^^"
+    },
+    "Context": "Flow/arbiters1_1/01_socrates: \"Oh! Uh... ^^^^^^\""
+  },
+  "DFr_ABAF17F5.Text": {
+    "": {
+      "Text": "I said, ^^^^^^^^^^“I kind of think the nature of morality is impossible to find?”"
+    },
+    "Context": "Flow/arbiters1_1/01_socrates: \"I said, ^^^^^^^^^^“I kind of think...\""
+  },
+  "DFr_BE5E63F8.Text": {
+    "": {
+      "Text": "Huh. ^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiters1_1/04_arbiter: \"Huh. ^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_E1674E27.Text": {
+    "": {
+      "Text": "Interesting."
+    },
+    "Context": "Flow/arbiters1_1/04_arbiter: \"Interesting.\""
+  },
+  "DFr_E1952E0A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbiters1_1/11_nobody: \"...\""
+  },
+  "DFr_A5BD44BE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbiters1_1/11_nobody: \"...\""
+  },
+  "DFr_CE0FE60A.Text": {
+    "": {
+      "Text": "Unfortunately, ^^^^^^while interesting, ^^^^^^^that description of the nature of morality is also ^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiters1_2/04_arbiter: \"Unfortunately, ^^^^^^while interest...\""
+  },
+  "DFr_71627BEC.Text": {
+    "": {
+      "Text": "incorrect."
+    },
+    "Context": "Flow/arbiters1_2/04_arbiter: \"incorrect.\""
+  },
+  "DFr_B48547FB.Text": {
+    "": {
+      "Text": "!!"
+    },
+    "Context": "Flow/arbiters1_2/01_socrates: \"!!\""
+  },
+  "DFr_65BCE3DD.Text": {
+    "": {
+      "Text": "Wait— ^^^^^WHAT?!"
+    },
+    "Context": "Flow/arbiters1_2/02_ari: \"Wait— ^^^^^WHAT?!\""
+  },
+  "DFr_4EB3E0EE.Text": {
+    "": {
+      "Text": "I’m very sorry, ^^^but the rules state he only has one chance, ^^^^^^and I’m afraid that was it."
+    },
+    "Context": "Flow/arbiters1_2/04_arbiter: \"I’m very sorry, ^^^but the rules st...\""
+  },
+  "DFr_B92D7607.Text": {
+    "": {
+      "Text": "What the hell?! ^^^^^That’s completely bogus!!"
+    },
+    "Context": "Flow/arbiters1_2/02_ari: \"What the hell?! ^^^^^That’s complet...\""
+  },
+  "DFr_2EC351F1.Text": {
+    "": {
+      "Text": "My dad wasn’t trying to provide an answer just then! ^^^^^^He was just thinking to himself!"
+    },
+    "Context": "Flow/arbiters1_2/02_ari: \"My dad wasn’t trying to provide an...\""
+  },
+  "DFr_582132C8.Text": {
+    "": {
+      "Text": "Tell him, ^^^^Dad! ^^^^^^^^^^Tell him you didn’t intend to make a statement about morality!"
+    },
+    "Context": "Flow/arbiters1_2/02_ari: \"Tell him, ^^^^Dad! ^^^^^^^^^^Tell h...\""
+  },
+  "DFr_765EBB57.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiters1_2/01_socrates: \"...\""
+  },
+  "DFr_F679DF0C.Text": {
+    "": {
+      "Text": "Dad...?"
+    },
+    "Context": "Flow/arbiters1_2/02_ari: \"Dad...?\""
+  },
+  "DFr_70636C4F.Text": {
+    "": {
+      "Text": "Ari... ^^^^^^^he’s right."
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"Ari... ^^^^^^^he’s right.\""
+  },
+  "DFr_B02D95C5.Text": {
+    "": {
+      "Text": "WHAT?!"
+    },
+    "Context": "Flow/arbiters1_3/02_ari: \"WHAT?!\""
+  },
+  "DFr_88A01E10.Text": {
+    "": {
+      "Text": "What I said was, ^^^^in fact, ^^^^a statement about the nature of morality. ^^^^^^^^...I can’t deny that."
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"What I said was, ^^^^in fact, ^^^^a...\""
+  },
+  "DFr_736956DE.Text": {
+    "": {
+      "Text": "I am glad you are taking this reasonably, ^^^^^Socrates."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"I am glad you are taking this reaso...\""
+  },
+  "DFr_A8BDDAAB.Text": {
+    "": {
+      "Text": "Again, ^^^^^the deepest of apologies. ^^^^^^^^I hope you will be able to make yourself comfortable here."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"Again, ^^^^^the deepest of apologie...\""
+  },
+  "DFr_A9301E4C.Text": {
+    "": {
+      "Text": "^^^^^^^Wait! ^^^^^^^^^^^^^^Arbiter. ^^^^Before you leave, ^^^^^^can I ask you one thing?"
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"^^^^^^^Wait! ^^^^^^^^^^^^^^Arbiter....\""
+  },
+  "DFr_C395D3E1.Text": {
+    "": {
+      "Text": "...I^^^^^^^ suppose."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"...I^^^^^^^ suppose.\""
+  },
+  "DFr_086902E5.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"...\""
+  },
+  "DFr_90647B74.Text": {
+    "": {
+      "Text": "Why?"
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"Why?\""
+  },
+  "DFr_0E80DB13.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"Excuse me?\""
+  },
+  "DFr_A69AA511.Text": {
+    "": {
+      "Text": "Why am I wrong?"
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"Why am I wrong?\""
+  },
+  "DFr_07C17FEA.Text": {
+    "": {
+      "Text": "Come now. ^^^^^^^^^Your stance is full of holes, Socrates. ^^^^^^^^^^^Of that much there is no doubt."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"Come now. ^^^^^^^^^Your stance is f...\""
+  },
+  "DFr_FE5B56C2.Text": {
+    "": {
+      "Text": "So you’ve said... ^^^^^^^"
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"So you’ve said... ^^^^^^^\""
+  },
+  "DFr_4876610C.Text": {
+    "": {
+      "Text": "but WHY?"
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"but WHY?\""
+  },
+  "DFr_F77D9B83.Text": {
+    "": {
+      "Text": "If I’m going to be here forever, ^^^^^^^I’d like to at least understand why I’m wrong."
+    },
+    "Context": "Flow/arbiters1_3/01_socrates: \"If I’m going to be here forever, ^^...\""
+  },
+  "DFr_FDE2B3EB.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"...\""
+  },
+  "DFr_7911DA83.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^Very well, Socrates. ^^^^That is only fair."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"^^^^^^^^^^^^Very well, Socrates. ^^...\""
+  },
+  "DFr_AF76BF4F.Text": {
+    "": {
+      "Text": "Allow me to spell it out for you."
+    },
+    "Context": "Flow/arbiters1_3/04_arbiter: \"Allow me to spell it out for you.\""
+  },
+  "DFr_7EF4E8B4.Text": {
+    "": {
+      "Text": "You have presented your philosophical views."
+    },
+    "Context": "Flow/arbiterp1/04_arbiter: \"You have presented your philosophic...\""
+  },
+  "DFr_0FA82B48.Text": {
+    "": {
+      "Text": "Your premise is foolish, as morality has a tangible impact."
+    },
+    "Context": "Flow/arbiterp1/04_arbiter: \"Your premise is foolish, as moralit...\""
+  },
+  "DFr_04B303A9.Text": {
+    "": {
+      "Text": "The world is clearly bettered when individuals strive to be better."
+    },
+    "Context": "Flow/arbiterp1/04_arbiter: \"The world is clearly bettered when...\""
+  },
+  "DFr_CDD7C20A.Text": {
+    "": {
+      "Text": "I see little reason to doubt the existence of some form of morality in our world."
+    },
+    "Context": "Flow/arbiterp1/04_arbiter: \"I see little reason to doubt the ex...\""
+  },
+  "DFr_C62652EA.Text": {
+    "": {
+      "Text": "And there we go, ^^^Socrates. ^^^^^^^^As you see, your “answer” is flawed to the core."
+    },
+    "Context": "Flow/arbiterp1_1/04_arbiter: \"And there we go, ^^^Socrates. ^^^^^...\""
+  },
+  "DFr_259E98BB.Text": {
+    "": {
+      "Text": "...I see."
+    },
+    "Context": "Flow/arbiterp1_1/01_socrates: \"...I see.\""
+  },
+  "DFr_7F38CC2C.Text": {
+    "": {
+      "Text": "Well, if you don’t mind, Arbiter... ^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp1_1/01_socrates: \"Well, if you don’t mind, Arbiter......\""
+  },
+  "DFr_A1B887A2.Text": {
+    "": {
+      "Text": "I’d like to ask you a few questions."
+    },
+    "Context": "Flow/arbiterp1_1/01_socrates: \"I’d like to ask you a few questions...\""
+  },
+  "DFr_96A83BDB.Text": {
+    "": {
+      "Text": "WHAAAAT? ^^^^^^^Dad, you really intend to challenge the Arbiter?!?"
+    },
+    "Context": "Flow/arbiterp1_1/02_ari: \"WHAAAAT? ^^^^^^^Dad, you really int...\""
+  },
+  "DFr_73BC352D.Text": {
+    "": {
+      "Text": "Yes. ^^^^^^I do."
+    },
+    "Context": "Flow/arbiterp1_1/01_socrates: \"Yes. ^^^^^^I do.\""
+  },
+  "DFr_C2674FBF.Text": {
+    "": {
+      "Text": "Well, ^^^^listen, ^^^^^^^I don’t know if you forgot this, ^^^^but, ^^^^uh, ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp1_1/02_ari: \"Well, ^^^^listen, ^^^^^^^I don’t kn...\""
+  },
+  "DFr_C3677149.Text": {
+    "": {
+      "Text": "HE’S THE ARBITER!"
+    },
+    "Context": "Flow/arbiterp1_1/02_ari: \"HE’S THE ARBITER!\""
+  },
+  "DFr_342C74BE.Text": {
+    "": {
+      "Text": "...So?"
+    },
+    "Context": "Flow/arbiterp1_1/01_socrates: \"...So?\""
+  },
+  "DFr_B6E10052.Text": {
+    "": {
+      "Text": "?!?"
+    },
+    "Context": "Flow/arbiterp1_1/02_ari: \"?!?\""
+  },
+  "DFr_79C8E883.Text": {
+    "": {
+      "Text": "Ari, ^^^you once told me to never let an argument go unexamined, ^^^didn’t you?"
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"Ari, ^^^you once told me to never l...\""
+  },
+  "DFr_A9AE0409.Text": {
+    "": {
+      "Text": "Frankly, ^^^^^^we both know I’m clueless about philosophy. ^^^^^^For all my bombast, ^^^^it’s only because of your advice that we’ve lasted as long as we have."
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"Frankly, ^^^^^^we both know I’m clu...\""
+  },
+  "DFr_8ABEFB4F.Text": {
+    "": {
+      "Text": "But Dad..."
+    },
+    "Context": "Flow/arbiterp1_2/02_ari: \"But Dad...\""
+  },
+  "DFr_B62BBD7C.Text": {
+    "": {
+      "Text": "We’ve encountered many arguments that looked solid on the surface, ^^^but each and every one of them had a flaw."
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"We’ve encountered many arguments th...\""
+  },
+  "DFr_C90221F2.Text": {
+    "": {
+      "Text": "If we don’t look closely at this one, ^^^how can we know it’s not the same?"
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"If we don’t look closely at this on...\""
+  },
+  "DFr_D360F650.Text": {
+    "": {
+      "Text": "“Examine everything.” ^^^^^^^^^There’s too much on the line for us to forget that now— ^^^^^^no matter how scary our opponent looks!"
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"“Examine everything.” ^^^^^^^^^Ther...\""
+  },
+  "DFr_F6450F46.Text": {
+    "": {
+      "Text": "“Examine everything.” ^^^^^^^^^There’s too much on the line for us to forget that now— ^^^^^^no matter how scary our opponent looks!"
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"“Examine everything.” ^^^^^^^^^Ther...\""
+  },
+  "DFr_6B98C2E9.Text": {
+    "": {
+      "Text": "I ^^^trust you."
+    },
+    "Context": "Flow/arbiterp1_2/02_ari: \"I ^^^trust you.\""
+  },
+  "DFr_2B208B59.Text": {
+    "": {
+      "Text": "...^^All right, Dad. ^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp1_2/02_ari: \"...^^All right, Dad. ^^^^^^^^^^\""
+  },
+  "DFr_2106A78C.Text": {
+    "": {
+      "Text": "Well, this is... ^^^^^^^^^unexpected, ^^Socrates."
+    },
+    "Context": "Flow/arbiterp1_2/04_arbiter: \"Well, this is... ^^^^^^^^^unexpecte...\""
+  },
+  "DFr_093A9EE9.Text": {
+    "": {
+      "Text": "I confess, ^^^^^you have piqued my interest."
+    },
+    "Context": "Flow/arbiterp1_2/04_arbiter: \"I confess, ^^^^^you have piqued my...\""
+  },
+  "DFr_F65BAB71.Text": {
+    "": {
+      "Text": "I suppose, ^^given all you have done, ^^some questions are warranted."
+    },
+    "Context": "Flow/arbiterp1_2/04_arbiter: \"I suppose, ^^given all you have don...\""
+  },
+  "DFr_3DB8EBD9.Text": {
+    "": {
+      "Text": "Ask away. ^^^^But do not feel too hurt when you come up short."
+    },
+    "Context": "Flow/arbiterp1_2/01_socrates: \"Ask away. ^^^^But do not feel too h...\""
+  },
+  "DFr_0213E805.Text": {
+    "": {
+      "Text": "You have presented your philosophical views."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"You have presented your philosophic...\""
+  },
+  "DFr_A14ECB39.Text": {
+    "": {
+      "Text": "Your premise is foolish, as morality has a tangible impact."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Your premise is foolish, as moralit...\""
+  },
+  "DFr_FFF14B20.Text": {
+    "": {
+      "Text": "The world is clearly bettered when individuals strive to be better."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"The world is clearly bettered when...\""
+  },
+  "DFr_66F1FCDB.Text": {
+    "": {
+      "Text": "I see little reason to doubt the existence of some form of morality in our world."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"I see little reason to doubt the ex...\""
+  },
+  "DFr_4BDA7AB0.Text": {
+    "": {
+      "Text": "You claim that morality does not exist."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"You claim that morality does not ex...\""
+  },
+  "DFr_D17547F3.Text": {
+    "": {
+      "Text": "What views were those?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"What views were those?\""
+  },
+  "DFr_91A1FF07.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_6EFB3E4D.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_ABE70473.Text": {
+    "": {
+      "Text": "Come now, ^^^^Socrates. ^^^^^^^Do you really need me to outline your own opinions?"
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Come now, ^^^^Socrates. ^^^^^^^Do y...\""
+  },
+  "DFr_1ACCD118.Text": {
+    "": {
+      "Text": "I just can’t help but feel everything would be clearer if you did."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"I just can’t help but feel everythi...\""
+  },
+  "DFr_B6D87D4A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"...\""
+  },
+  "DFr_04711822.Text": {
+    "": {
+      "Text": "Very well, then. ^^^^^^If you insist."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Very well, then. ^^^^^^If you insis...\""
+  },
+  "DFr_9C9415BE.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/arbitera1/12_notification: \"Statement updated.\""
+  },
+  "DFr_05334F83.Text": {
+    "": {
+      "Text": "Socrates, ^^^^^please. ^^^^This statement does not require backing. ^^^^^^^It states something you have done."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Socrates, ^^^^^please. ^^^^This sta...\""
+  },
+  "DFr_7D8EA6FC.Text": {
+    "": {
+      "Text": "It establishes the simple fact that I am responding to you, ^^^^^Socrates."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"It establishes the simple fact that...\""
+  },
+  "DFr_2C94D13C.Text": {
+    "": {
+      "Text": "Can you clarify this point?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you clarify this point?\""
+  },
+  "DFr_23349C09.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_D676B5FE.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_8C27FEFD.Text": {
+    "": {
+      "Text": "It is possible to argue that things don’t exist when they cannot be felt."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"It is possible to argue that things...\""
+  },
+  "DFr_CC2960B7.Text": {
+    "": {
+      "Text": "When an impact can be felt, ^^^^however, ^^^^such an argument becomes more precarious."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"When an impact can be felt, ^^^^how...\""
+  },
+  "DFr_BC796389.Text": {
+    "": {
+      "Text": "Such is the case when it comes to morality."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Such is the case when it comes to m...\""
+  },
+  "DFr_81F6E3E9.Text": {
+    "": {
+      "Text": "I will do so in a moment, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"I will do so in a moment, ^^^Socrat...\""
+  },
+  "DFr_F2697698.Text": {
+    "": {
+      "Text": "It outlines why it is difficult to argue that morality does not exist."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"It outlines why it is difficult to...\""
+  },
+  "DFr_6484E613.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_405E419B.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_E5BE468C.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_81F55908.Text": {
+    "": {
+      "Text": "Mankind is better off when held to a higher standard."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Mankind is better off when held to...\""
+  },
+  "DFr_85ED93E0.Text": {
+    "": {
+      "Text": "In other words, ^^^when they adhere to the principles of some form of morality."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"In other words, ^^^when they adhere...\""
+  },
+  "DFr_CE8DEF92.Text": {
+    "": {
+      "Text": "History has been marked by shifts in human temperament."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"History has been marked by shifts i...\""
+  },
+  "DFr_F1BC31DA.Text": {
+    "": {
+      "Text": "It outlines a key supporting point, Socrates."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"It outlines a key supporting point,...\""
+  },
+  "DFr_170577B7.Text": {
+    "": {
+      "Text": "Advances in moral thinking tend to lead to periods of prosperity..."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Advances in moral thinking tend to...\""
+  },
+  "DFr_E976EEE5.Text": {
+    "": {
+      "Text": "While flawed or distorted ideals lead to decline."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"While flawed or distorted ideals le...\""
+  },
+  "DFr_5E5926B9.Text": {
+    "": {
+      "Text": "Seeing this, there can be little doubt morality betters the world."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Seeing this, there can be little do...\""
+  },
+  "DFr_A1F62668.Text": {
+    "": {
+      "Text": "In most ways, ^^^this is my conclusion."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"In most ways, ^^^this is my conclus...\""
+  },
+  "DFr_3486EC2A.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_CB2CF161.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_424065D7.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_0D6B06B7.Text": {
+    "": {
+      "Text": "For the reasons I have just stated, ^^^it seems more than likely morality exists."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"For the reasons I have just stated,...\""
+  },
+  "DFr_C1C320EA.Text": {
+    "": {
+      "Text": "I believe I have, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"I believe I have, ^^^Socrates.\""
+  },
+  "DFr_5CD83ACA.Text": {
+    "": {
+      "Text": "Can you clarify this point?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you clarify this point?\""
+  },
+  "DFr_A3BDF604.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_6D247FEF.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_82E11C7C.Text": {
+    "": {
+      "Text": "I have already done so, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"I have already done so, ^^^Socrates...\""
+  },
+  "DFr_4BC6D3CB.Text": {
+    "": {
+      "Text": "Socrates, ^^be reasonable. ^^^^^Did you not say these words yourself?"
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Socrates, ^^be reasonable. ^^^^^Did...\""
+  },
+  "DFr_AA69F0CA.Text": {
+    "": {
+      "Text": "This is the premise I am debunking."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"This is the premise I am debunking.\""
+  },
+  "DFr_8139BB0B.Text": {
+    "": {
+      "Text": "You have stated your belief that morality does not exist."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"You have stated your belief that mo...\""
+  },
+  "DFr_46415FA5.Text": {
+    "": {
+      "Text": "...Hmm."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"...Hmm.\""
+  },
+  "DFr_C1282EBA.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"...\""
+  },
+  "DFr_236613BD.Text": {
+    "": {
+      "Text": "Without this, ^^^I have nothing to argue against."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Without this, ^^^I have nothing to...\""
+  },
+  "DFr_524EAA8C.Text": {
+    "": {
+      "Text": "What are you doing, ^^Dad?"
+    },
+    "Context": "Flow/arbitera1/02_ari: \"What are you doing, ^^Dad?\""
+  },
+  "DFr_97EB6128.Text": {
+    "": {
+      "Text": "I thought you said you would find something wrong with his argument?"
+    },
+    "Context": "Flow/arbitera1/02_ari: \"I thought you said you would find s...\""
+  },
+  "DFr_2F7F9A8B.Text": {
+    "": {
+      "Text": "Did I? ^^^^^^^^^^^^^^I actually have very few problems with his argument."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Did I? ^^^^^^^^^^^^^^I actually hav...\""
+  },
+  "DFr_A2899585.Text": {
+    "": {
+      "Text": "And THAT’S what makes me feel like something’s off here..."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"And THAT’S what makes me feel like...\""
+  },
+  "DFr_0B05C474.Text": {
+    "": {
+      "Text": "Huh?!"
+    },
+    "Context": "Flow/arbitera1/02_ari: \"Huh?!\""
+  },
+  "DFr_B8CCF09E.Text": {
+    "": {
+      "Text": "All right, ^^^^Arbiter. ^^^^^^^I admit, ^^^^^you have raised a strong objection to the idea that morality does not exist."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"All right, ^^^^Arbiter. ^^^^^^^I ad...\""
+  },
+  "DFr_A4577F4B.Text": {
+    "": {
+      "Text": "Thank you, ^^Socrates. ^^^^^^^As governor of this realm, ^^^it would be tragic if I had not."
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Thank you, ^^Socrates. ^^^^^^^As go...\""
+  },
+  "DFr_FB793203.Text": {
+    "": {
+      "Text": "Do you see now why such an answer is insufficient?"
+    },
+    "Context": "Flow/arbitera1/04_arbiter: \"Do you see now why such an answer i...\""
+  },
+  "DFr_DE3DB354.Text": {
+    "": {
+      "Text": "Of course. ^^^^^^^There’s just one problem..."
+    },
+    "Context": "Flow/arbitera1/01_socrates: \"Of course. ^^^^^^^There’s just one...\""
+  },
+  "DFr_DE0F8B62.Text": {
+    "": {
+      "Text": "That wasn’t my answer."
+    },
+    "Context": "Flow/arbitera1end/01_socrates: \"That wasn’t my answer.\""
+  },
+  "DFr_D334727B.Text": {
+    "": {
+      "Text": "...What?"
+    },
+    "Context": "Flow/arbitera1end/04_arbiter: \"...What?\""
+  },
+  "DFr_3AD3EE4D.Text": {
+    "": {
+      "Text": "What you are arguing against is two steps removed from what I actually said!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"What you are arguing against is two...\""
+  },
+  "DFr_DAAB38D2.Text": {
+    "": {
+      "Text": "You’ve discredited the nonexistence of morality, ^^^^^^^^"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"You’ve discredited the nonexistence...\""
+  },
+  "DFr_DAE19D31.Text": {
+    "": {
+      "Text": "but I claimed that the answer to morality might not be findable!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"but I claimed that the answer to mo...\""
+  },
+  "DFr_575B4A1B.Text": {
+    "": {
+      "Text": "Well then, ^^^^^^^those are essentially the same thing."
+    },
+    "Context": "Flow/arbitera1end_1/04_arbiter: \"Well then, ^^^^^^^those are essenti...\""
+  },
+  "DFr_B42D37D9.Text": {
+    "": {
+      "Text": "No, ^^^^^they’re not!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"No, ^^^^^they’re not!\""
+  },
+  "DFr_BACCABDD.Text": {
+    "": {
+      "Text": "I think we can all agree morality exists in some form, ^^^for all the reasons you have described."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"I think we can all agree morality e...\""
+  },
+  "DFr_35F12613.Text": {
+    "": {
+      "Text": "Even if it were different for each person, ^^^^^^as Protagoras argued, ^^^^^^there’s little doubt we could develop some guidelines for how we should behave."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"Even if it were different for each...\""
+  },
+  "DFr_BFB644AF.Text": {
+    "": {
+      "Text": "But that doesn’t mean what we seek— ^^^^^a perfect definition for morality— ^^^^^exists as well!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"But that doesn’t mean what we seek—...\""
+  },
+  "DFr_1D20AC7D.Text": {
+    "": {
+      "Text": "Morality could very well be more abstract— ^^^^like faith, ^^^or happiness."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"Morality could very well be more ab...\""
+  },
+  "DFr_585D1D78.Text": {
+    "": {
+      "Text": "Just because it exists doesn’t mean there is an objectively best model!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"Just because it exists doesn’t mean...\""
+  },
+  "DFr_3F498B49.Text": {
+    "": {
+      "Text": "Therefore, ^^^I can claim a perfect answer does not exist without throwing morality itself out the window."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"Therefore, ^^^I can claim a perfect...\""
+  },
+  "DFr_7E5DE57C.Text": {
+    "": {
+      "Text": "An answer demands morality, ^^^but morality does not demand an answer!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"An answer demands morality, ^^^but...\""
+  },
+  "DFr_96FD95E6.Text": {
+    "": {
+      "Text": "I can't believe it! ^^^^^^We may just survive this after all!"
+    },
+    "Context": "Flow/arbitera1end_1/02_ari: \"I can't believe it! ^^^^^^We may ju...\""
+  },
+  "DFr_CB51110F.Text": {
+    "": {
+      "Text": "So as you can see, Arbiter..."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"So as you can see, Arbiter...\""
+  },
+  "DFr_6805E3F7.Text": {
+    "": {
+      "Text": "The argument you’ve built is a very effective counter..."
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"The argument you’ve built is a very...\""
+  },
+  "DFr_96609BE8.Text": {
+    "": {
+      "Text": "...But it’s a counter to something I did not claim!"
+    },
+    "Context": "Flow/arbitera1end_1/01_socrates: \"...But it’s a counter to something...\""
+  },
+  "DFr_11D759B9.Text": {
+    "": {
+      "Text": ".^.^."
+    },
+    "Context": "Flow/arbitera1end_2/04_arbiter: \".^.^.\""
+  },
+  "DFr_6A7E84C7.Text": {
+    "": {
+      "Text": "I see. ^^^^^^I apologize for misunderstanding your initial point, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera1end_2/04_arbiter: \"I see. ^^^^^^I apologize for misund...\""
+  },
+  "DFr_0521A6EC.Text": {
+    "": {
+      "Text": "I guess it’s always important to make sure the person you’re debating understands you clearly, ^^^huh?"
+    },
+    "Context": "Flow/arbitera1end_2/01_socrates: \"I guess it’s always important to ma...\""
+  },
+  "DFr_8CE1D969.Text": {
+    "": {
+      "Text": "So Dad’s position makes sense now, right? ^^^^Does that mean you can accept his answer?"
+    },
+    "Context": "Flow/arbitera1end_2/02_ari: \"So Dad’s position makes sense now,...\""
+  },
+  "DFr_0656219E.Text": {
+    "": {
+      "Text": "I’m afraid not. ^^^^^"
+    },
+    "Context": "Flow/arbitera1end_2/04_arbiter: \"I’m afraid not. ^^^^^\""
+  },
+  "DFr_8826BA0C.Text": {
+    "": {
+      "Text": "His position still has a number of critical flaws."
+    },
+    "Context": "Flow/arbitera1end_2/04_arbiter: \"His position still has a number of...\""
+  },
+  "DFr_5EE3D455.Text": {
+    "": {
+      "Text": "Allow me to explain."
+    },
+    "Context": "Flow/arbitera1end_2/04_arbiter: \"Allow me to explain.\""
+  },
+  "DFr_9CD80C8D.Text": {
+    "": {
+      "Text": "Socrates, ^^you claim a flawless answer cannot be found."
+    },
+    "Context": "Flow/arbiterp2/04_arbiter: \"Socrates, ^^you claim a flawless an...\""
+  },
+  "DFr_44852A9D.Text": {
+    "": {
+      "Text": "However, ^^I do not see how this can be possible when there are infinite potential answers."
+    },
+    "Context": "Flow/arbiterp2/04_arbiter: \"However, ^^I do not see how this ca...\""
+  },
+  "DFr_71F55CC8.Text": {
+    "": {
+      "Text": "Already, ^^here, you have seen arguments of many branches and formulations."
+    },
+    "Context": "Flow/arbiterp2/04_arbiter: \"Already, ^^here, you have seen argu...\""
+  },
+  "DFr_88963507.Text": {
+    "": {
+      "Text": "With possibilities so incomprehensibly vast, ^^surely one must stand as infallible."
+    },
+    "Context": "Flow/arbiterp2/04_arbiter: \"With possibilities so incomprehensi...\""
+  },
+  "DFr_FFFC7610.Text": {
+    "": {
+      "Text": "With this being the case, ^^it is only a matter of time before we find the answer."
+    },
+    "Context": "Flow/arbiterp2/04_arbiter: \"With this being the case, ^^it is o...\""
+  },
+  "DFr_2CC37B7A.Text": {
+    "": {
+      "Text": "As you can see, ^^Socrates, ^^^as long as the possibilities are infinite, ^^the answer is findable."
+    },
+    "Context": "Flow/arbiterp2_1/04_arbiter: \"As you can see, ^^Socrates, ^^^as l...\""
+  },
+  "DFr_2C96630D.Text": {
+    "": {
+      "Text": "Interesting argument. ^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp2_1/01_socrates: \"Interesting argument. ^^^^^^^^^\""
+  },
+  "DFr_E88E9B6C.Text": {
+    "": {
+      "Text": "Based around a mathematical concept, I see."
+    },
+    "Context": "Flow/arbiterp2_1/01_socrates: \"Based around a mathematical concept...\""
+  },
+  "DFr_E0E5B525.Text": {
+    "": {
+      "Text": "Well you forgot one thing, ^^^Arbiter!"
+    },
+    "Context": "Flow/arbiterp2_1/01_socrates: \"Well you forgot one thing, ^^^Arbit...\""
+  },
+  "DFr_AFC16A11.Text": {
+    "": {
+      "Text": "I’m an accountant! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp2_2/01_socrates: \"I’m an accountant! ^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_9EC0DC28.Text": {
+    "": {
+      "Text": "I deal with faulty numbers all the time!"
+    },
+    "Context": "Flow/arbiterp2_2/01_socrates: \"I deal with faulty numbers all the...\""
+  },
+  "DFr_420B359B.Text": {
+    "": {
+      "Text": "Wow, ^^^^Dad, ^^^^I just got shivers. ^^^^^^^So you already know what the problem here is?"
+    },
+    "Context": "Flow/arbiterp2_2/02_ari: \"Wow, ^^^^Dad, ^^^^I just got shiver...\""
+  },
+  "DFr_CAE214A9.Text": {
+    "": {
+      "Text": "Well... ^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp2_2/01_socrates: \"Well... ^^^^^^^^^^^\""
+  },
+  "DFr_CFCBA2B0.Text": {
+    "": {
+      "Text": "No. ^^^^^^^^^^^^^^^^^^^But I couldn’t pass up my one chance to make being an accountant sound cool."
+    },
+    "Context": "Flow/arbiterp2_3/01_socrates: \"No. ^^^^^^^^^^^^^^^^^^^But I couldn...\""
+  },
+  "DFr_65084F59.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiterp2_3/02_ari: \"...\""
+  },
+  "DFr_33EF5FB5.Text": {
+    "": {
+      "Text": "Remember when I said I trusted you? ^^^^^^^^Just five minutes ago?"
+    },
+    "Context": "Flow/arbiterp2_3/02_ari: \"Remember when I said I trusted you?...\""
+  },
+  "DFr_05176623.Text": {
+    "": {
+      "Text": "Don’t make me rethink that."
+    },
+    "Context": "Flow/arbiterp2_3/02_ari: \"Don’t make me rethink that.\""
+  },
+  "DFr_B5389A5F.Text": {
+    "": {
+      "Text": "Hey!"
+    },
+    "Context": "Flow/arbiterp2_3/01_socrates: \"Hey!\""
+  },
+  "DFr_DF75741E.Text": {
+    "": {
+      "Text": "Being stuck here forever would be bad enough without having made total fools of ourselves."
+    },
+    "Context": "Flow/arbiterp2_3/02_ari: \"Being stuck here forever would be b...\""
+  },
+  "DFr_A7EA6800.Text": {
+    "": {
+      "Text": "Socrates, do you intend to actually ask me questions?"
+    },
+    "Context": "Flow/arbiterp2_3/04_arbiter: \"Socrates, do you intend to actually...\""
+  },
+  "DFr_9499892B.Text": {
+    "": {
+      "Text": "I understand if you do not. ^^^^You have placed yourself in an... ^^^unfortunate position."
+    },
+    "Context": "Flow/arbiterp2_3/04_arbiter: \"I understand if you do not. ^^^^You...\""
+  },
+  "DFr_3CB4E806.Text": {
+    "": {
+      "Text": "It may be easier to just admit to your error."
+    },
+    "Context": "Flow/arbiterp2_3/04_arbiter: \"It may be easier to just admit to y...\""
+  },
+  "DFr_CF8D8BDC.Text": {
+    "": {
+      "Text": "As if! ^^^^^^^^Okay, Arbiter, ^^^^let’s rumble."
+    },
+    "Context": "Flow/arbiterp2_3/01_socrates: \"As if! ^^^^^^^^Okay, Arbiter, ^^^^l...\""
+  },
+  "DFr_8F6DE75A.Text": {
+    "": {
+      "Text": "Socrates, ^^you claim a flawless answer cannot be found."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Socrates, ^^you claim a flawless an...\""
+  },
+  "DFr_E23B66FB.Text": {
+    "": {
+      "Text": "Already, ^^here, you have seen arguments of many branches and formulations."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Already, ^^here, you have seen argu...\""
+  },
+  "DFr_A8CDD2BF.Text": {
+    "": {
+      "Text": "With possibilities so incomprehensibly vast, ^^surely one must stand as infallible."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"With possibilities so incomprehensi...\""
+  },
+  "DFr_0E874BDF.Text": {
+    "": {
+      "Text": "With this being the case, ^^it is only a matter of time before we find the answer."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"With this being the case, ^^it is o...\""
+  },
+  "DFr_DE4E9963.Text": {
+    "": {
+      "Text": "I believe you did that not five minutes ago, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"I believe you did that not five min...\""
+  },
+  "DFr_937A9D18.Text": {
+    "": {
+      "Text": "Socrates, ^^^^this time, ^^^^I believe it’s safe to say this in an accurate representation of your thoughts, ^^^yes?"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Socrates, ^^^^this time, ^^^^I beli...\""
+  },
+  "DFr_93AEF31C.Text": {
+    "": {
+      "Text": "It establishes, ^^^^clearly, ^^^^what I am arguing against."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"It establishes, ^^^^clearly, ^^^^wh...\""
+  },
+  "DFr_BB013156.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_8157355D.Text": {
+    "": {
+      "Text": "Can you clarify this point?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you clarify this point?\""
+  },
+  "DFr_2B8D11ED.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_FBAA5DD7.Text": {
+    "": {
+      "Text": "Was that not the core of our previous discussion?"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Was that not the core of our previo...\""
+  },
+  "DFr_22448679.Text": {
+    "": {
+      "Text": "...Yes."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"...Yes.\""
+  },
+  "DFr_26DF20A6.Text": {
+    "": {
+      "Text": "Then truly, Socrates... ^^^^^^^"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Then truly, Socrates... ^^^^^^^\""
+  },
+  "DFr_6F6FF300.Text": {
+    "": {
+      "Text": "backing it up is YOUR responsibility."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"backing it up is YOUR responsibilit...\""
+  },
+  "DFr_BDF91E2B.Text": {
+    "": {
+      "Text": "(Erp...)"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"(Erp...)\""
+  },
+  "DFr_5DD40A6E.Text": {
+    "": {
+      "Text": "However, ^^I do not see how this can be possible when there are infinite potential answers."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"However, ^^I do not see how this ca...\""
+  },
+  "DFr_AFB4DEA0.Text": {
+    "": {
+      "Text": "The number of possible solutions that philosophers may think of is not in any way limited."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"The number of possible solutions th...\""
+  },
+  "DFr_0F9A55F5.Text": {
+    "": {
+      "Text": "There can be little doubt the potential answers are infinite, ^^^^^Socrates."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"There can be little doubt the poten...\""
+  },
+  "DFr_EE53FB2E.Text": {
+    "": {
+      "Text": "It cleanly sets up my counterargument."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"It cleanly sets up my counterargume...\""
+  },
+  "DFr_9A0F2C36.Text": {
+    "": {
+      "Text": "How does this connect?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"How does this connect?\""
+  },
+  "DFr_C7A20217.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_1BA6286C.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_435DD252.Text": {
+    "": {
+      "Text": "There are infinite possible ideas, ^^^^^and infinite variations on those ideas."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"There are infinite possible ideas,...\""
+  },
+  "DFr_F3CE5B42.Text": {
+    "": {
+      "Text": "So essentially, no matter how many answers we discredit, ^^^^^there will always be another one on the table?"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"So essentially, no matter how many...\""
+  },
+  "DFr_75CC764D.Text": {
+    "": {
+      "Text": "Just thinking about that makes me tired!"
+    },
+    "Context": "Flow/arbitera2/02_ari: \"Just thinking about that makes me t...\""
+  },
+  "DFr_4237D0E6.Text": {
+    "": {
+      "Text": "I will provide evidence for this in my next statement."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"I will provide evidence for this in...\""
+  },
+  "DFr_731AD9CB.Text": {
+    "": {
+      "Text": "It reinforces the idea that the set of possible answers is incredibly diverse."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"It reinforces the idea that the set...\""
+  },
+  "DFr_FB2B155E.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_5CC0791A.Text": {
+    "": {
+      "Text": "These ideas were not variations of one another— ^^^^^^often, they would be entirely different beasts."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"These ideas were not variations of...\""
+  },
+  "DFr_277F9878.Text": {
+    "": {
+      "Text": "So there are infinite possible answers because there are infinite possible branches?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"So there are infinite possible answ...\""
+  },
+  "DFr_F756DAD9.Text": {
+    "": {
+      "Text": "Utilitarianism is very different beast from Social Contract theory, ^^^^^which is in turn different from the Categorical Imperatives."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Utilitarianism is very different be...\""
+  },
+  "DFr_0BF33919.Text": {
+    "": {
+      "Text": "Over the course of your time here, ^^^^^you have met philosophers with many different ideas."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Over the course of your time here,...\""
+  },
+  "DFr_7B1ABA42.Text": {
+    "": {
+      "Text": "I do not believe much support is needed."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"I do not believe much support is ne...\""
+  },
+  "DFr_19ACB9CB.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_862960A9.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_A094F6C3.Text": {
+    "": {
+      "Text": "Each branch of thinking comes from the belief that something is the source of morality. ^^^^^And there are infinite things in the world that could be that source."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Each branch of thinking comes from...\""
+  },
+  "DFr_B50EE57A.Text": {
+    "": {
+      "Text": "When we combine or modify these ideas, ^^^^^it is difficult to imagine that we would ever reach an end."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"When we combine or modify these ide...\""
+  },
+  "DFr_E2B15859.Text": {
+    "": {
+      "Text": "True enough..."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"True enough...\""
+  },
+  "DFr_51F09480.Text": {
+    "": {
+      "Text": "Philosophy is a world with many paths of thought— ^^^^^^so many paths, ^^^that many of them hardly seem related."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Philosophy is a world with many pat...\""
+  },
+  "DFr_879B65E1.Text": {
+    "": {
+      "Text": "Clearly, ^^there is an incredible diversity here."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Clearly, ^^there is an incredible d...\""
+  },
+  "DFr_C9F8B924.Text": {
+    "": {
+      "Text": "And with such breadth, ^^^it seems difficult to claim that the answer could not be one of them."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"And with such breadth, ^^^it seems...\""
+  },
+  "DFr_F2A1BDD9.Text": {
+    "": {
+      "Text": "This is, essentially, the linchpin of it."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"This is, essentially, the linchpin...\""
+  },
+  "DFr_6B38D017.Text": {
+    "": {
+      "Text": "What I am trying to say here is simple."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"What I am trying to say here is sim...\""
+  },
+  "DFr_CAE38C38.Text": {
+    "": {
+      "Text": "What do you mean?"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"What do you mean?\""
+  },
+  "DFr_893933CC.Text": {
+    "": {
+      "Text": "Back this up for me."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Back this up for me.\""
+  },
+  "DFr_D8A7D20B.Text": {
+    "": {
+      "Text": "What role does this play in your argument?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"What role does this play in your ar...\""
+  },
+  "DFr_379D971E.Text": {
+    "": {
+      "Text": "I'm not sure I understand."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"I'm not sure I understand.\""
+  },
+  "DFr_D45AC86B.Text": {
+    "": {
+      "Text": "If we were able to look at every single pattern of thought, ^^^there is little doubt the answer would be one of them."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"If we were able to look at every si...\""
+  },
+  "DFr_2D9117DC.Text": {
+    "": {
+      "Text": "Well, ^^^what makes you so sure one of them is perfect?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Well, ^^^what makes you so sure one...\""
+  },
+  "DFr_9D343DCE.Text": {
+    "": {
+      "Text": "...Socrates, ^^is the answer not in the infinite itself?"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"...Socrates, ^^is the answer not in...\""
+  },
+  "DFr_DDF3D7EB.Text": {
+    "": {
+      "Text": "It establishes that, ^^as long as the answer exists, ^^^it will inevitably be found."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"It establishes that, ^^as long as t...\""
+  },
+  "DFr_4E730583.Text": {
+    "": {
+      "Text": "All I’m saying is that, ^^^^^given the situation, ^^^^^^^^it is inevitable that the answer will be found."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"All I’m saying is that, ^^^^^given...\""
+  },
+  "DFr_3E72D65A.Text": {
+    "": {
+      "Text": "By the nature of thought, ^^philosophers inherently explore new territory."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"By the nature of thought, ^^philoso...\""
+  },
+  "DFr_3F8E74E6.Text": {
+    "": {
+      "Text": "How does this support your argument?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"How does this support your argument...\""
+  },
+  "DFr_86400DDE.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_827D8A1C.Text": {
+    "": {
+      "Text": "Can you be a little clearer?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Can you be a little clearer?\""
+  },
+  "DFr_C084B0B3.Text": {
+    "": {
+      "Text": "They challenge one another, ^^forcing ideas to become more concrete and well-rounded."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"They challenge one another, ^^forci...\""
+  },
+  "DFr_5A9E2F60.Text": {
+    "": {
+      "Text": "With that being the case, ^^it is only a matter of time until someone discovers the ultimate answer."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"With that being the case, ^^it is o...\""
+  },
+  "DFr_EB78CD39.Text": {
+    "": {
+      "Text": "But if the number of possibilities are infinite, ^^^^^wouldn’t we need infinite time to look at all of them?"
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"But if the number of possibilities...\""
+  },
+  "DFr_1CCAFA50.Text": {
+    "": {
+      "Text": "Perhaps I should remind you, ^^Socrates. ^^^^^^"
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Perhaps I should remind you, ^^Socr...\""
+  },
+  "DFr_CB503219.Text": {
+    "": {
+      "Text": "Here in the Intelligible Realm, ^^^we have infinite time."
+    },
+    "Context": "Flow/arbitera2/04_arbiter: \"Here in the Intelligible Realm, ^^^...\""
+  },
+  "DFr_E4C1230F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"...\""
+  },
+  "DFr_E5916D0B.Text": {
+    "": {
+      "Text": "It looks like this really is the end after all."
+    },
+    "Context": "Flow/arbitera2/02_ari: \"It looks like this really is the en...\""
+  },
+  "DFr_34283F8A.Text": {
+    "": {
+      "Text": "Don’t say that! ^^^^There’s got to be a problem here, ^^Ari. ^^^^Somewhere."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"Don’t say that! ^^^^There’s got to...\""
+  },
+  "DFr_557D0CBA.Text": {
+    "": {
+      "Text": "But his reasoning seems really solid, ^^Dad."
+    },
+    "Context": "Flow/arbitera2/02_ari: \"But his reasoning seems really soli...\""
+  },
+  "DFr_D7FE4393.Text": {
+    "": {
+      "Text": "If the realm of possibility is infinite, ^^^the right answer’s got to be in there somewhere, right?"
+    },
+    "Context": "Flow/arbitera2/02_ari: \"If the realm of possibility is infi...\""
+  },
+  "DFr_CBD9B754.Text": {
+    "": {
+      "Text": "That does seem to be what he believes..."
+    },
+    "Context": "Flow/arbitera2/01_socrates: \"That does seem to be what he believ...\""
+  },
+  "DFr_845A4D8B.Text": {
+    "": {
+      "Text": "Arbiter!"
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"Arbiter!\""
+  },
+  "DFr_93BB0049.Text": {
+    "": {
+      "Text": "Yes, ^^^^Socrates?"
+    },
+    "Context": "Flow/arbitera2end/04_arbiter: \"Yes, ^^^^Socrates?\""
+  },
+  "DFr_5107D9ED.Text": {
+    "": {
+      "Text": "The argument you are making here is quite simple on the surface."
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"The argument you are making here is...\""
+  },
+  "DFr_5C264CC7.Text": {
+    "": {
+      "Text": "I can see why, ^^^^with so many possible answers, ^^^^you might believe one of them has to be true."
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"I can see why, ^^^^with so many pos...\""
+  },
+  "DFr_CBAFE5CC.Text": {
+    "": {
+      "Text": "...“MIGHT ^^^^^believe?”"
+    },
+    "Context": "Flow/arbitera2end/04_arbiter: \"...“MIGHT ^^^^^believe?”\""
+  },
+  "DFr_474AB8EA.Text": {
+    "": {
+      "Text": "Correct. ^^^^For while I understand where you’re coming from, ^^^^^^^^"
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"Correct. ^^^^For while I understand...\""
+  },
+  "DFr_99DAF7F0.Text": {
+    "": {
+      "Text": "I’m afraid “infinity” doesn’t work quite the way you think it does."
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"I’m afraid “infinity” doesn’t work...\""
+  },
+  "DFr_CF5223FD.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/arbitera2end/04_arbiter: \"Huh?\""
+  },
+  "DFr_2D26496A.Text": {
+    "": {
+      "Text": "...Uh, ^^I don’t understand either, ^^^Dad. ^^^^^What do you mean?"
+    },
+    "Context": "Flow/arbitera2end/02_ari: \"...Uh, ^^I don’t understand either,...\""
+  },
+  "DFr_7CE197DA.Text": {
+    "": {
+      "Text": "*sigh* ^^^^Okay, time for a math lesson."
+    },
+    "Context": "Flow/arbitera2end/01_socrates: \"*sigh* ^^^^Okay, time for a math le...\""
+  },
+  "DFr_69814677.Text": {
+    "": {
+      "Text": "To put it plainly, ^^^“infinite” is not the same as ^^^^“all-encompassing!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"To put it plainly, ^^^“infinite” is...\""
+  },
+  "DFr_9560794D.Text": {
+    "": {
+      "Text": "They may sound similar, ^^^but the two are actually entirely different!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"They may sound similar, ^^^but the...\""
+  },
+  "DFr_6E481A05.Text": {
+    "": {
+      "Text": "Likewise, ^^there may be infinite potential ways to try to define morality... ^^^^^^^^"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Likewise, ^^there may be infinite p...\""
+  },
+  "DFr_0BF3DD20.Text": {
+    "": {
+      "Text": "but that does not guarantee one of them is perfect!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"but that does not guarantee one of...\""
+  },
+  "DFr_F5188707.Text": {
+    "": {
+      "Text": "Well, ^^^^come now, ^^^^Socrates..."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"Well, ^^^^come now, ^^^^Socrates...\""
+  },
+  "DFr_37C6661E.Text": {
+    "": {
+      "Text": "Even if I cannot prove the answer is out there, ^^^probability is surely on my side."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"Even if I cannot prove the answer i...\""
+  },
+  "DFr_361D0F76.Text": {
+    "": {
+      "Text": "Philosophical thought is so diverse, ^^^the amount of ground which is covered is truly incredible."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"Philosophical thought is so diverse...\""
+  },
+  "DFr_DC9DE5F2.Text": {
+    "": {
+      "Text": "With this being the case, ^^^surely it seems more likely than not that the answer exists, yes?"
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"With this being the case, ^^^surely...\""
+  },
+  "DFr_8653439A.Text": {
+    "": {
+      "Text": "Does it?"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Does it?\""
+  },
+  "DFr_0CDBFD00.Text": {
+    "": {
+      "Text": "Over the course of my time here, ^^^^every philosopher I have encountered has claimed to have the answer to your question."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Over the course of my time here, ^^...\""
+  },
+  "DFr_A54EDF9C.Text": {
+    "": {
+      "Text": "However, ^^close examination revealed that, ^^^diverse as they were, ^^all of them had flaws."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"However, ^^close examination reveal...\""
+  },
+  "DFr_5F8FE9E3.Text": {
+    "": {
+      "Text": "Come to think of it, ^^^that's true!"
+    },
+    "Context": "Flow/arbitera2end_1/02_ari: \"Come to think of it, ^^^that's true...\""
+  },
+  "DFr_7009C693.Text": {
+    "": {
+      "Text": "Faced with a parade of great thinkers, ^^all failing to accomplish the same task you have assigned me, ^^^my position only seems stronger."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Faced with a parade of great thinke...\""
+  },
+  "DFr_91320676.Text": {
+    "": {
+      "Text": "There is no evidence that the set of possible answers contains “perfection!” ^^^^^^^^^In fact, ^^it seems extremely unlikely!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"There is no evidence that the set o...\""
+  },
+  "DFr_259CA224.Text": {
+    "": {
+      "Text": "The fact is, the existence of infinite possibilities does not guarantee a certain possibility is among them!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"The fact is, the existence of infin...\""
+  },
+  "DFr_D74DDF2E.Text": {
+    "": {
+      "Text": "Any claim that it does is simply and objectively false!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Any claim that it does is simply an...\""
+  },
+  "DFr_AC2AF473.Text": {
+    "": {
+      "Text": "Now, ^^I guess I can understand the mistake. ^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Now, ^^I guess I can understand the...\""
+  },
+  "DFr_7C855819.Text": {
+    "": {
+      "Text": "You are the ruler of the realm of “ideas” and not the realm of “facts” after all..."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"You are the ruler of the realm of “...\""
+  },
+  "DFr_8ECFA3D2.Text": {
+    "": {
+      "Text": "But as an accountant I could never stand for such an assumption!"
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"But as an accountant I could never...\""
+  },
+  "DFr_8F61ABD4.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"...\""
+  },
+  "DFr_FBC3A4D9.Text": {
+    "": {
+      "Text": "Socrates, let us set aside the witticisms and return to the basics for a moment."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"Socrates, let us set aside the witt...\""
+  },
+  "DFr_4A1EBD92.Text": {
+    "": {
+      "Text": "You have posited here that there may, in fact, be no provable answer to the question of morality?"
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"You have posited here that there ma...\""
+  },
+  "DFr_EEB293DA.Text": {
+    "": {
+      "Text": "Yes."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Yes.\""
+  },
+  "DFr_5604A498.Text": {
+    "": {
+      "Text": "You claim, ^^in fact, ^^^that there is no evidence to support there being such an answer?"
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"You claim, ^^in fact, ^^^that there...\""
+  },
+  "DFr_303CF83A.Text": {
+    "": {
+      "Text": "Why are you asking so many questions?! ^^^^^^My dad just said all these things!"
+    },
+    "Context": "Flow/arbitera2end_1/02_ari: \"Why are you asking so many question...\""
+  },
+  "DFr_FAFF16E3.Text": {
+    "": {
+      "Text": "Relax, Ari. ^^^^Yes, Arbiter— ^^^^^^and the existence of infinite answers can not, ^^itself, ^^^be considered proof."
+    },
+    "Context": "Flow/arbitera2end_1/01_socrates: \"Relax, Ari. ^^^^Yes, Arbiter— ^^^^^...\""
+  },
+  "DFr_FF41E625.Text": {
+    "": {
+      "Text": "I see."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"I see.\""
+  },
+  "DFr_7F30B318.Text": {
+    "": {
+      "Text": "Well Socrates, these are all interesting points, but I believe there is one important detail you have forgotten."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"Well Socrates, these are all intere...\""
+  },
+  "DFr_7A0D05A2.Text": {
+    "": {
+      "Text": "...The answer has been found before."
+    },
+    "Context": "Flow/arbitera2end_1/04_arbiter: \"...The answer has been found before...\""
+  },
+  "DFr_277A4848.Text": {
+    "": {
+      "Text": "You claim there is no answer to be found, ^^^but history stands against you."
+    },
+    "Context": "Flow/arbiterp3/04_arbiter: \"You claim there is no answer to be...\""
+  },
+  "DFr_DB46D5CC.Text": {
+    "": {
+      "Text": "The Great Thinker Socrates completed the task, ^^^and was granted his wish."
+    },
+    "Context": "Flow/arbiterp3/04_arbiter: \"The Great Thinker Socrates complete...\""
+  },
+  "DFr_FDBF6362.Text": {
+    "": {
+      "Text": "His answer had to be approved for this to occur."
+    },
+    "Context": "Flow/arbiterp3/04_arbiter: \"His answer had to be approved for t...\""
+  },
+  "DFr_37944A8B.Text": {
+    "": {
+      "Text": "Clearly, ^^there is an answer, ^^^and it is possible to find."
+    },
+    "Context": "Flow/arbiterp3/04_arbiter: \"Clearly, ^^there is an answer, ^^^a...\""
+  },
+  "DFr_8D07808D.Text": {
+    "": {
+      "Text": "So you see, ^^Socrates, ^^^^^the answer to morality is clearly findable."
+    },
+    "Context": "Flow/arbiterp3_1/04_arbiter: \"So you see, ^^Socrates, ^^^^^the an...\""
+  },
+  "DFr_392C4A2B.Text": {
+    "": {
+      "Text": "If it were not, ^^^^^^^the Great Thinker would not have been able to find it."
+    },
+    "Context": "Flow/arbiterp3_1/04_arbiter: \"If it were not, ^^^^^^^the Great Th...\""
+  },
+  "DFr_2769B56B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiterp3_1/01_socrates: \"...\""
+  },
+  "DFr_16BC1462.Text": {
+    "": {
+      "Text": "Dad...?"
+    },
+    "Context": "Flow/arbiterp3_2/02_ari: \"Dad...?\""
+  },
+  "DFr_1FA99707.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"...\""
+  },
+  "DFr_03A69942.Text": {
+    "": {
+      "Text": "He... ^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"He... ^^^^^^^^^^\""
+  },
+  "DFr_6206A91F.Text": {
+    "": {
+      "Text": "he may have me, ^^^actually."
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"he may have me, ^^^actually.\""
+  },
+  "DFr_B9A1346A.Text": {
+    "": {
+      "Text": "I had forgotten about the first Socrates’s exploits... ^^^^^^if he found the answer..."
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"I had forgotten about the first Soc...\""
+  },
+  "DFr_D25CAE91.Text": {
+    "": {
+      "Text": "I... ^^^^^^^can't really argue with that..."
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"I... ^^^^^^^can't really argue with...\""
+  },
+  "DFr_B67D17DB.Text": {
+    "": {
+      "Text": "Then... ^^^^^^^this really is the end."
+    },
+    "Context": "Flow/arbiterp3_2/02_ari: \"Then... ^^^^^^^this really is the e...\""
+  },
+  "DFr_DCDD1EFC.Text": {
+    "": {
+      "Text": "Now you understand why I cannot accept your answer."
+    },
+    "Context": "Flow/arbiterp3_2/02_ari: \"Now you understand why I cannot acc...\""
+  },
+  "DFr_C7D1FA34.Text": {
+    "": {
+      "Text": "You agree that continuing this debate would be foolish, ^^^^^^^^yes?"
+    },
+    "Context": "Flow/arbiterp3_2/04_arbiter: \"You agree that continuing this deba...\""
+  },
+  "DFr_EB303CE6.Text": {
+    "": {
+      "Text": "I..."
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"I...\""
+  },
+  "DFr_5F9EBAE6.Text": {
+    "": {
+      "Text": "(Is this it? ^^^^Do I have to concede?)"
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"(Is this it? ^^^^Do I have to conce...\""
+  },
+  "DFr_B957ADBD.Text": {
+    "": {
+      "Text": "(Even though we came so far... ^^^^^^^^Ari... ^^^^^I... ^^^^^^^I'm sorry...)"
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"(Even though we came so far... ^^^^...\""
+  },
+  "DFr_1569CDBD.Text": {
+    "": {
+      "Text": "Arbiter, ^^^^^I—"
+    },
+    "Context": "Flow/arbiterp3_2/01_socrates: \"Arbiter, ^^^^^I—\""
+  },
+  "DFr_1DF55595.Text": {
+    "": {
+      "Text": "Worry not, ^^old friend. ^^^^There is still hope yet!"
+    },
+    "Context": "Flow/arbiterp3_3/06_protagoras: \"Worry not, ^^old friend. ^^^^There...\""
+  },
+  "DFr_D642625B.Text": {
+    "": {
+      "Text": "Protagoras?!"
+    },
+    "Context": "Flow/arbiterp3_3/01_socrates: \"Protagoras?!\""
+  },
+  "DFr_C7AADA7E.Text": {
+    "": {
+      "Text": "Not just Protagoras!"
+    },
+    "Context": "Flow/arbiterp3_3/08_mill: \"Not just Protagoras!\""
+  },
+  "DFr_80FFF16C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiterp3_4/08_mill: \"...\""
+  },
+  "DFr_AD66ACE9.Text": {
+    "": {
+      "Text": "W-^^^^What are you all doing here?"
+    },
+    "Context": "Flow/arbiterp3_4/01_socrates: \"W-^^^^What are you all doing here?\""
+  },
+  "DFr_126E59C5.Text": {
+    "": {
+      "Text": "We have come to back you up, ^^old chap."
+    },
+    "Context": "Flow/arbiterp3_4/08_mill: \"We have come to back you up, ^^old...\""
+  },
+  "DFr_7516B77F.Text": {
+    "": {
+      "Text": "But... ^^^^but... ^^^^^^why?!"
+    },
+    "Context": "Flow/arbiterp3_4/01_socrates: \"But... ^^^^but... ^^^^^^why?!\""
+  },
+  "DFr_F89A3E7B.Text": {
+    "": {
+      "Text": "Why? ^^^^Ingratitude is the essence of vileness."
+    },
+    "Context": "Flow/arbiterp3_4/09_kant: \"Why? ^^^^Ingratitude is the essence...\""
+  },
+  "DFr_168CBD24.Text": {
+    "": {
+      "Text": "I gained much from our discussion... ^^^^now it is time to return the favor!"
+    },
+    "Context": "Flow/arbiterp3_4/09_kant: \"I gained much from our discussion.....\""
+  },
+  "DFr_7627539A.Text": {
+    "": {
+      "Text": "You are in trouble, ^^^and the imperative dictates that I assist."
+    },
+    "Context": "Flow/arbiterp3_4/09_kant: \"You are in trouble, ^^^and the impe...\""
+  },
+  "DFr_3A1303F6.Text": {
+    "": {
+      "Text": "“Helping a Dying Man” added to the Idea Slate."
+    },
+    "Context": "Flow/arbiterp3_4/12_notification: \"“Helping a Dying Man” added to the...\""
+  },
+  "DFr_7687E2FE.Text": {
+    "": {
+      "Text": "Exactly. ^^^^There’s no happiness gained from watching a friend struggle."
+    },
+    "Context": "Flow/arbiterp3_4/08_mill: \"Exactly. ^^^^There’s no happiness g...\""
+  },
+  "DFr_EA916B45.Text": {
+    "": {
+      "Text": "I can be most useful here, ^^^assisting you from the sidelines."
+    },
+    "Context": "Flow/arbiterp3_4/08_mill: \"I can be most useful here, ^^^assis...\""
+  },
+  "DFr_462A8D23.Text": {
+    "": {
+      "Text": "“Good is Happiness” added to the Idea Slate."
+    },
+    "Context": "Flow/arbiterp3_4/12_notification: \"“Good is Happiness” added to the Id...\""
+  },
+  "DFr_A417F6FF.Text": {
+    "": {
+      "Text": "We formed a contract to find the answer, ^^^and I must follow it to the end."
+    },
+    "Context": "Flow/arbiterp3_4/07_hobbes: \"We formed a contract to find the an...\""
+  },
+  "DFr_20F268A9.Text": {
+    "": {
+      "Text": "“People Work Together” added to the Idea Slate."
+    },
+    "Context": "Flow/arbiterp3_4/12_notification: \"“People Work Together” added to the...\""
+  },
+  "DFr_6700847E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"...\""
+  },
+  "DFr_1FCB1F74.Text": {
+    "": {
+      "Text": "Uh... ^^^^and you, ^^^Euthyphro?"
+    },
+    "Context": "Flow/arbiterp3_4/01_socrates: \"Uh... ^^^^and you, ^^^Euthyphro?\""
+  },
+  "DFr_4D25BE6A.Text": {
+    "": {
+      "Text": "Hmph."
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"Hmph.\""
+  },
+  "DFr_201BC821.Text": {
+    "": {
+      "Text": "My child, ^^^^^you are STILL a blasphemer. ^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"My child, ^^^^^you are STILL a blas...\""
+  },
+  "DFr_F520BF57.Text": {
+    "": {
+      "Text": "Rest assured, ^^^^^the Gods WILL smite you, ^^^^^one day."
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"Rest assured, ^^^^^the Gods WILL sm...\""
+  },
+  "DFr_96AB3637.Text": {
+    "": {
+      "Text": "...But... ^^^^^^^until then, ^^I suppose I could lend you a hand."
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"...But... ^^^^^^^until then, ^^I su...\""
+  },
+  "DFr_094DF2EB.Text": {
+    "": {
+      "Text": "Being men, we are all incredibly flawed... ^^^^our only hope lies in helping each other."
+    },
+    "Context": "Flow/arbiterp3_4/05_euthypro: \"Being men, we are all incredibly fl...\""
+  },
+  "DFr_5AE55287.Text": {
+    "": {
+      "Text": "“Mankind is Flawed” added to the Idea Slate."
+    },
+    "Context": "Flow/arbiterp3_4/12_notification: \"“Mankind is Flawed” added to the Id...\""
+  },
+  "DFr_26B0B0D2.Text": {
+    "": {
+      "Text": "Thank you... ^^^^all of you."
+    },
+    "Context": "Flow/arbiterp3_4/01_socrates: \"Thank you... ^^^^all of you.\""
+  },
+  "DFr_BD8520CA.Text": {
+    "": {
+      "Text": "All right, ^^Arbiter, ^^^I’m not going to give up just yet!"
+    },
+    "Context": "Flow/arbiterp3_5/01_socrates: \"All right, ^^Arbiter, ^^^I’m not go...\""
+  },
+  "DFr_0667DF86.Text": {
+    "": {
+      "Text": "Hmph. ^^^^...This is deteriorating into madness, ^^^^Socrates."
+    },
+    "Context": "Flow/arbiterp3_5/04_arbiter: \"Hmph. ^^^^...This is deteriorating...\""
+  },
+  "DFr_D90B2A45.Text": {
+    "": {
+      "Text": "But very well. ^^^^^^^I shall entertain you a little longer."
+    },
+    "Context": "Flow/arbiterp3_5/04_arbiter: \"But very well. ^^^^^^^I shall enter...\""
+  },
+  "DFr_8F3D06B0.Text": {
+    "": {
+      "Text": "You claim there is no answer to be found, ^^^but history stands against you."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You claim there is no answer to be...\""
+  },
+  "DFr_ACEF66F1.Text": {
+    "": {
+      "Text": "The Great Thinker Socrates completed the task, ^^^and was granted his wish."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"The Great Thinker Socrates complete...\""
+  },
+  "DFr_9FAF6DF8.Text": {
+    "": {
+      "Text": "His answer had to be approved for this to occur."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"His answer had to be approved for t...\""
+  },
+  "DFr_13716B81.Text": {
+    "": {
+      "Text": "Clearly, ^^there is an answer, ^^^and it is possible to find."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Clearly, ^^there is an answer, ^^^a...\""
+  },
+  "DFr_41368D14.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_1336ECD8.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_669BA3E1.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_592C5926.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_F402773B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_36F97C8E.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_FE1FC6F9.Text": {
+    "": {
+      "Text": "I mean an event from the past directly counters your claim."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I mean an event from the past direc...\""
+  },
+  "DFr_9DEF4495.Text": {
+    "": {
+      "Text": "Patience, ^^^Socrates. ^^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Patience, ^^^Socrates. ^^^^^^\""
+  },
+  "DFr_B2A8B554.Text": {
+    "": {
+      "Text": "It details the flaw with your claim, ^^^^^and how I shall counter it."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"It details the flaw with your claim...\""
+  },
+  "DFr_014803FF.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_CB544BEC.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_2790FBFC.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_8F3A47E8.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_84AF7305.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_AC37D1A0.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_F850C5BF.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_0762A5F8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...\""
+  },
+  "DFr_6FD66230.Text": {
+    "": {
+      "Text": "I mentioned this to you earlier. ^^^^Do you not remember?"
+    },
+    "Context": "Flow/arbitera3/06_protagoras: \"I mentioned this to you earlier. ^^...\""
+  },
+  "DFr_DDE218DA.Text": {
+    "": {
+      "Text": "I am about to elaborate."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I am about to elaborate.\""
+  },
+  "DFr_C4EA1C81.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_F3FF5158.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_E7D473FA.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_D3FEB31B.Text": {
+    "": {
+      "Text": "This was the last anyone ever saw of him."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"This was the last anyone ever saw o...\""
+  },
+  "DFr_0EB98B31.Text": {
+    "": {
+      "Text": "Indeed. ^^^^We have all missed the Great Thinker."
+    },
+    "Context": "Flow/arbitera3/06_protagoras: \"Indeed. ^^^^We have all missed the...\""
+  },
+  "DFr_8DDE3D60.Text": {
+    "": {
+      "Text": "Many centuries ago, ^^^^^^Socrates came to the current Arbiter claiming he found the answer to morality."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Many centuries ago, ^^^^^^Socrates...\""
+  },
+  "DFr_F0CEC1E4.Text": {
+    "": {
+      "Text": "Socrates’s absence from this plane is quite conspicuous."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates’s absence from this plane...\""
+  },
+  "DFr_A227424C.Text": {
+    "": {
+      "Text": "It shows what you are claiming to be impossible is clearly possible, ^^^^^as it has happened in the past."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"It shows what you are claiming to b...\""
+  },
+  "DFr_A87D9301.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_AB0AD0F3.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_595AC0DF.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_E9FDB030.Text": {
+    "": {
+      "Text": "You saw the stir you created just by sharing his name."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You saw the stir you created just b...\""
+  },
+  "DFr_BC0E806C.Text": {
+    "": {
+      "Text": "I don’t need much evidence to show that he was granted an exit."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I don’t need much evidence to show...\""
+  },
+  "DFr_9C992995.Text": {
+    "": {
+      "Text": "If his answer had not been determined to be correct, none of this could have happened."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"If his answer had not been determin...\""
+  },
+  "DFr_9D058BA4.Text": {
+    "": {
+      "Text": "Indeed, ^^^it is legend in this realm."
+    },
+    "Context": "Flow/arbitera3/07_hobbes: \"Indeed, ^^^it is legend in this rea...\""
+  },
+  "DFr_474EB144.Text": {
+    "": {
+      "Text": "It is quite simple."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"It is quite simple.\""
+  },
+  "DFr_E3923AD9.Text": {
+    "": {
+      "Text": "The story has been told countless times, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"The story has been told countless t...\""
+  },
+  "DFr_DE50F59B.Text": {
+    "": {
+      "Text": "Socrates, ^^^^the approval is, ^^^in fact, ^^^^the evidence supporting that Great Thinker actually found the answer."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates, ^^^^the approval is, ^^^i...\""
+  },
+  "DFr_0D6AD3AA.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_EF94BBAC.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_C1D3F720.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_F06D44B4.Text": {
+    "": {
+      "Text": "Scripture, ^^^even."
+    },
+    "Context": "Flow/arbitera3/05_euthypro: \"Scripture, ^^^even.\""
+  },
+  "DFr_8F0BFD54.Text": {
+    "": {
+      "Text": "Okay, ^^okay, ^^^I get it. ^^^^Geeze."
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Okay, ^^okay, ^^^I get it. ^^^^Geez...\""
+  },
+  "DFr_810778F2.Text": {
+    "": {
+      "Text": "After all, ^^^it’s difficult to believe these things are true, ^^^no?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"After all, ^^^it’s difficult to bel...\""
+  },
+  "DFr_2327EED6.Text": {
+    "": {
+      "Text": "Without the judgment of the previous Arbiter verifying his answer was, ^^indeed, ^^^correct, ^^^I suppose many would have trouble believing it."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Without the judgment of the previou...\""
+  },
+  "DFr_C215E843.Text": {
+    "": {
+      "Text": "Huh... interesting."
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Huh... interesting.\""
+  },
+  "DFr_8EC6FF99.Text": {
+    "": {
+      "Text": "Indeed. ^^^^We should take note of this, my friend."
+    },
+    "Context": "Flow/arbitera3/06_protagoras: \"Indeed. ^^^^We should take note of...\""
+  },
+  "DFr_F9B2F344.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/arbitera3/12_notification: \"New statement added.\""
+  },
+  "DFr_215E8667.Text": {
+    "": {
+      "Text": "The Arbiter’s approval makes the validity of his answer undoubtable."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"The Arbiter’s approval makes the va...\""
+  },
+  "DFr_744FAF10.Text": {
+    "": {
+      "Text": "It’s rather straightforward, ^^^really."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"It’s rather straightforward, ^^^rea...\""
+  },
+  "DFr_DF5A11C8.Text": {
+    "": {
+      "Text": "The original Arbiter’s judgment is what lets us know Socrates was correct."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"The original Arbiter’s judgment is...\""
+  },
+  "DFr_3BC4895C.Text": {
+    "": {
+      "Text": "Socrates, ^^^the original Arbiter was widely respected in this world."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates, ^^^the original Arbiter w...\""
+  },
+  "DFr_D25D0726.Text": {
+    "": {
+      "Text": "...I just spelled this out for you, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...I just spelled this out for you,...\""
+  },
+  "DFr_C19500BA.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_97B3F4B8.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_E1CEA465.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_16558AD7.Text": {
+    "": {
+      "Text": "(...And now he’s sounding like Euthyphro. ^^^^^^^^^^Or maybe Kant. ^^^^^^^^^^^^^...Some sick fusion of the two.)"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"(...And now he’s sounding like Euth...\""
+  },
+  "DFr_4FAB1E5D.Text": {
+    "": {
+      "Text": "It is the cornerstone on which my temple of reason is built."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"It is the cornerstone on which my t...\""
+  },
+  "DFr_D0A6E523.Text": {
+    "": {
+      "Text": "Do you really intend to question his judgment?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Do you really intend to question hi...\""
+  },
+  "DFr_612E584A.Text": {
+    "": {
+      "Text": "Hmmm...."
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Hmmm....\""
+  },
+  "DFr_F30FE682.Text": {
+    "": {
+      "Text": "As Socrates found the answer, ^^^the answer must be findable."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"As Socrates found the answer, ^^^th...\""
+  },
+  "DFr_12A622DA.Text": {
+    "": {
+      "Text": "I’m not sure how I could be more clear than that."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I’m not sure how I could be more cl...\""
+  },
+  "DFr_53B133BC.Text": {
+    "": {
+      "Text": "I mean that there is clearly an answer and it is possible to find."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I mean that there is clearly an ans...\""
+  },
+  "DFr_193A3A52.Text": {
+    "": {
+      "Text": "I believe I just did."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I believe I just did.\""
+  },
+  "DFr_41E6EA60.Text": {
+    "": {
+      "Text": "This is my conclusion, ^^^Socrates Jones."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"This is my conclusion, ^^^Socrates...\""
+  },
+  "DFr_3F2CBE07.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_5B4E319F.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_C70C01E4.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_6FE3644D.Text": {
+    "": {
+      "Text": "Even I thought that was a well-organized thought."
+    },
+    "Context": "Flow/arbitera3/09_kant: \"Even I thought that was a well-orga...\""
+  },
+  "DFr_4DDA93D2.Text": {
+    "": {
+      "Text": "Proof doesn’t get much more simple than that."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Proof doesn’t get much more simple...\""
+  },
+  "DFr_A131D7C0.Text": {
+    "": {
+      "Text": "Socrates!"
+    },
+    "Context": "Flow/arbitera3/08_mill: \"Socrates!\""
+  },
+  "DFr_813911DC.Text": {
+    "": {
+      "Text": "Yes, Mill?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Yes, Mill?\""
+  },
+  "DFr_2D2B3D86.Text": {
+    "": {
+      "Text": "Way, ^^^^^^^way, ^^^^^^^back."
+    },
+    "Context": "Flow/arbitera3/08_mill: \"Way, ^^^^^^^way, ^^^^^^^back.\""
+  },
+  "DFr_4C102656.Text": {
+    "": {
+      "Text": "(Well, ^^^that's about as vague of a hint as he can possibly give...)"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"(Well, ^^^that's about as vague of...\""
+  },
+  "DFr_4EFA5953.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_74FBE0CF.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_24B052B4.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_3EA6226A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_9559A8A0.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_947AABF8.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_D66B8ECD.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_372EF2E8.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_371CA3FA.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_16D01622.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_74F931B0.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...\""
+  },
+  "DFr_0E452EFD.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_F93A738E.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_90460DEC.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_242AF2D7.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_22AD8CAC.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_F920A3B2.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_27151AB7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_798EA2D8.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_908C5AD2.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_F369D08B.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_B90777B6.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_02FF5B3B.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_EBA0FED3.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_51A820BE.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...\""
+  },
+  "DFr_9D1BEE78.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_4B8A8F8A.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_1E416BD5.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_36C8CD22.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_62CDE2D8.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_AE74B1BE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_87D3226D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_44495EE8.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4A5266BC.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_BBE4EB88.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_BF5B7A45.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_4AE0CE54.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_1C5E35F3.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_69F30BE8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...\""
+  },
+  "DFr_6E51C912.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_A79C415D.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_760DCB5F.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_218E038E.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_EDF73DE7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_D9E53D46.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_FF8473F7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"...\""
+  },
+  "DFr_C095262C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_55870097.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_7FB9856D.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_DDA74482.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_75E3D9F0.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_1C9B4C29.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_DF5DD8C3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"...\""
+  },
+  "DFr_32389D9D.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_FD19AFA6.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_BD5440F5.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_209C016C.Text": {
+    "": {
+      "Text": "The time has come to end this charade."
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"The time has come to end this chara...\""
+  },
+  "DFr_A3A2D343.Text": {
+    "": {
+      "Text": "Wait— just give me one more chance, and— ^^^"
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"Wait— just give me one more chance,...\""
+  },
+  "DFr_957179A7.Text": {
+    "": {
+      "Text": "No, ^^^^^^^^Socrates"
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"No, ^^^^^^^^Socrates\""
+  },
+  "DFr_26677CF1.Text": {
+    "": {
+      "Text": "I have given you more than enough chances. ^^^^Those chances have now worn themselves through."
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"I have given you more than enough c...\""
+  },
+  "DFr_053F26E3.Text": {
+    "": {
+      "Text": "I hope you will be able to make yourself comfortable here, ^^^Socrates. ^^^^^^^This is your final stop."
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"I hope you will be able to make you...\""
+  },
+  "DFr_9AA2609F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"...\""
+  },
+  "DFr_1B0A0BE4.Text": {
+    "": {
+      "Text": "Goodbye, Socrates Jones."
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"Goodbye, Socrates Jones.\""
+  },
+  "DFr_BC2DE8B1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Arbiter_gameover/04_arbiter: \"...\""
+  },
+  "DFr_11CC37FA.Text": {
+    "": {
+      "Text": "(No... ^^^^I was... ^^^^^so close.)"
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"(No... ^^^^I was... ^^^^^so close.)\""
+  },
+  "DFr_C1A6CFDE.Text": {
+    "": {
+      "Text": "(No... ^^^^I was... ^^^^^so close.)"
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"(No... ^^^^I was... ^^^^^so close.)\""
+  },
+  "DFr_0C3401DD.Text": {
+    "": {
+      "Text": "(...Is this really... ^^^^the end?)"
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"(...Is this really... ^^^^the end?)\""
+  },
+  "DFr_AE91CC51.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/Arbiter_gameover/11_nobody: \"...\""
+  },
+  "DFr_E7ECE1D3.Text": {
+    "": {
+      "Text": "(Maybe if I had taken a more focused approach... ^^^^^^maybe if...)"
+    },
+    "Context": "Flow/Arbiter_gameover/01_socrates: \"(Maybe if I had taken a more focuse...\""
+  },
+  "DFr_7DD325C7.Text": {
+    "": {
+      "Text": "Arbiter!"
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"Arbiter!\""
+  },
+  "DFr_60207038.Text": {
+    "": {
+      "Text": "What now, ^^^Socrates?"
+    },
+    "Context": "Flow/arbitera3end/04_arbiter: \"What now, ^^^Socrates?\""
+  },
+  "DFr_20ED8FA2.Text": {
+    "": {
+      "Text": "You claim that we can be sure that Socrates found the answer?"
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"You claim that we can be sure that...\""
+  },
+  "DFr_AB86423B.Text": {
+    "": {
+      "Text": "Correct."
+    },
+    "Context": "Flow/arbitera3end/04_arbiter: \"Correct.\""
+  },
+  "DFr_2EEC7D30.Text": {
+    "": {
+      "Text": "And we know this for sure because your predecessor verified its validity?"
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"And we know this for sure because y...\""
+  },
+  "DFr_5BAF19E4.Text": {
+    "": {
+      "Text": "Indeed."
+    },
+    "Context": "Flow/arbitera3end/04_arbiter: \"Indeed.\""
+  },
+  "DFr_3906A3E1.Text": {
+    "": {
+      "Text": "That's what I thought."
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"That's what I thought.\""
+  },
+  "DFr_E463F74F.Text": {
+    "": {
+      "Text": "Well then, ^^^^^to demonstrate what’s wrong with your argument, ^^^^^^I’m going cite one of my colleagues here."
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"Well then, ^^^^^to demonstrate what...\""
+  },
+  "DFr_F49C3823.Text": {
+    "": {
+      "Text": "Euthyphro!!"
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"Euthyphro!!\""
+  },
+  "DFr_DE44361C.Text": {
+    "": {
+      "Text": "Yes, ^^^my child?"
+    },
+    "Context": "Flow/arbitera3end/05_euthypro: \"Yes, ^^^my child?\""
+  },
+  "DFr_698308D4.Text": {
+    "": {
+      "Text": "Do you remember your statements on the wisdom of man?"
+    },
+    "Context": "Flow/arbitera3end/01_socrates: \"Do you remember your statements on...\""
+  },
+  "DFr_6ED64840.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/arbitera3end/05_euthypro: \"Of course.\""
+  },
+  "DFr_FEDB8F35.Text": {
+    "": {
+      "Text": "“Human beings are fallible and vain. ^^^^They make mistakes.”"
+    },
+    "Context": "Flow/arbitera3end_1/05_euthypro: \"“Human beings are fallible and vain...\""
+  },
+  "DFr_C66BB44E.Text": {
+    "": {
+      "Text": "Yes, ^^^yes. ^^^^That’s quite enough preaching, ^^^thank you."
+    },
+    "Context": "Flow/arbitera3end_2/01_socrates: \"Yes, ^^^yes. ^^^^That’s quite enoug...\""
+  },
+  "DFr_B7B66FD7.Text": {
+    "": {
+      "Text": "Now, ^^^Arbiter, ^^^let me make this clear for you."
+    },
+    "Context": "Flow/arbitera3end_2/01_socrates: \"Now, ^^^Arbiter, ^^^let me make thi...\""
+  },
+  "DFr_EB9F25D9.Text": {
+    "": {
+      "Text": "Euthyphro may’ve been wrong about where morality comes from, ^^^but he was right about this:"
+    },
+    "Context": "Flow/arbitera3end_2/01_socrates: \"Euthyphro may’ve been wrong about w...\""
+  },
+  "DFr_62171872.Text": {
+    "": {
+      "Text": "Human beings are far from perfect. ^^^^We can never forget this!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Human beings are far from perfect....\""
+  },
+  "DFr_8B279182.Text": {
+    "": {
+      "Text": "And as flawed beings, ^^^the answers we formulate will be similarly flawed!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"And as flawed beings, ^^^the answer...\""
+  },
+  "DFr_A00A43CA.Text": {
+    "": {
+      "Text": "As a result, ^^^I find it hard to believe that Socrates really DID find the answer!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"As a result, ^^^I find it hard to b...\""
+  },
+  "DFr_C56FE5A6.Text": {
+    "": {
+      "Text": "WHAT?!"
+    },
+    "Context": "Flow/arbitera3end_3/04_arbiter: \"WHAT?!\""
+  },
+  "DFr_9D2FFD3D.Text": {
+    "": {
+      "Text": "The fact is, ^^^as imperfect beings, ^^^we must always remember we are flawed."
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"The fact is, ^^^as imperfect beings...\""
+  },
+  "DFr_4F02BC19.Text": {
+    "": {
+      "Text": "The moment we go far enough to claim that our answer is perfect, ^^^we close our minds."
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"The moment we go far enough to clai...\""
+  },
+  "DFr_78FF32F9.Text": {
+    "": {
+      "Text": "Ja, ^^^it is true. ^^^^I know from experience..."
+    },
+    "Context": "Flow/arbitera3end_3/09_kant: \"Ja, ^^^it is true. ^^^^I know from...\""
+  },
+  "DFr_1DD69F4C.Text": {
+    "": {
+      "Text": "I too, ^^^have fallen into this trap."
+    },
+    "Context": "Flow/arbitera3end_3/06_protagoras: \"I too, ^^^have fallen into this tra...\""
+  },
+  "DFr_C572C746.Text": {
+    "": {
+      "Text": "Indeed! ^^^^Even the best of us can succumb."
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Indeed! ^^^^Even the best of us can...\""
+  },
+  "DFr_C3B6A74A.Text": {
+    "": {
+      "Text": "For this reason, ^^^we must never assume we have the answer!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"For this reason, ^^^we must never a...\""
+  },
+  "DFr_A53CDA07.Text": {
+    "": {
+      "Text": "But— ^^^Socrates...! ^^^^^^^The first Arbiter...!"
+    },
+    "Context": "Flow/arbitera3end_3/04_arbiter: \"But— ^^^Socrates...! ^^^^^^^The fir...\""
+  },
+  "DFr_39C1F12B.Text": {
+    "": {
+      "Text": "Are both human! ^^^^^^^^^^^^^^^^^^...or... ^^^^^^^^^^^human-like entities, ^^^^^^^^^^at the very least."
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Are both human! ^^^^^^^^^^^^^^^^^^....\""
+  },
+  "DFr_98D4DA21.Text": {
+    "": {
+      "Text": "Regardless, ^^^^^^how do we know that their judgment, ^^^^^^their ^^^“answer,” ^^^^^^was not in error?"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Regardless, ^^^^^^how do we know th...\""
+  },
+  "DFr_D490DFA7.Text": {
+    "": {
+      "Text": "You have admitted to your fair share of mistakes today. ^^^^^^^"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"You have admitted to your fair shar...\""
+  },
+  "DFr_6DEFE2ED.Text": {
+    "": {
+      "Text": "There’s no reason the previous Arbiter couldn't have made some as well!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"There’s no reason the previous Arbi...\""
+  },
+  "DFr_C4934E2D.Text": {
+    "": {
+      "Text": "You can’t base the credibility of your entire argument upon an appeal to authority!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"You can’t base the credibility of y...\""
+  },
+  "DFr_196FAB3B.Text": {
+    "": {
+      "Text": "Very well put, ^^^Socrates!"
+    },
+    "Context": "Flow/arbitera3end_3/08_mill: \"Very well put, ^^^Socrates!\""
+  },
+  "DFr_38856ED4.Text": {
+    "": {
+      "Text": "Indeed! ^^^^Even I am convinced you could have been wrong all those years ago!"
+    },
+    "Context": "Flow/arbitera3end_3/06_protagoras: \"Indeed! ^^^^Even I am convinced you...\""
+  },
+  "DFr_BBA9F12B.Text": {
+    "": {
+      "Text": "Er, ^^^right."
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Er, ^^^right.\""
+  },
+  "DFr_B44CFE5B.Text": {
+    "": {
+      "Text": "Arbiter! ^^^^^^If a false conclusion was presented convincingly enough, ^^^even your predecessor could’ve made a mistake!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Arbiter! ^^^^^^If a false conclusio...\""
+  },
+  "DFr_97074F31.Text": {
+    "": {
+      "Text": "Thus leading to the ^^^“discovery” ^^^of an answer that was actually impossible to find!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"Thus leading to the ^^^“discovery”...\""
+  },
+  "DFr_93E1EB9F.Text": {
+    "": {
+      "Text": "It’s still possible a perfect answer is outside of our reach!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"It’s still possible a perfect answe...\""
+  },
+  "DFr_1819AFB6.Text": {
+    "": {
+      "Text": "So as you can see, ^^^you haven’t proven anything!"
+    },
+    "Context": "Flow/arbitera3end_3/01_socrates: \"So as you can see, ^^^you haven’t p...\""
+  },
+  "DFr_A3FA98F7.Text": {
+    "": {
+      "Text": "Very well, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"Very well, ^^^Socrates.\""
+  },
+  "DFr_522DE2F7.Text": {
+    "": {
+      "Text": "You have a point. ^^^^I confess that, ^^^even with the backing of the original Arbiter, ^^^I cannot prove that an answer exists."
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"You have a point. ^^^^I confess tha...\""
+  },
+  "DFr_94C90191.Text": {
+    "": {
+      "Text": "Yes! ^^^^I knew it, ^^^I knew I— ^^^^"
+    },
+    "Context": "Flow/arbitera3end_4/01_socrates: \"Yes! ^^^^I knew it, ^^^I knew I— ^^...\""
+  },
+  "DFr_02AD06A6.Text": {
+    "": {
+      "Text": "HOWEVER! ^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"HOWEVER! ^^^^^^^^^\""
+  },
+  "DFr_ADBBEB7A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"...\""
+  },
+  "DFr_C659082D.Text": {
+    "": {
+      "Text": "Before you go and celebrate, ^^^I wish to point out you cannot reasonably prove that it does not."
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"Before you go and celebrate, ^^^I w...\""
+  },
+  "DFr_F98A5ADE.Text": {
+    "": {
+      "Text": "With us at such an impasse, ^^^it all boils down to a matter of potential consequences."
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"With us at such an impasse, ^^^it a...\""
+  },
+  "DFr_8E7F4E90.Text": {
+    "": {
+      "Text": "Let us assume, ^^^for just a moment, ^^^that what you have postulated here is true. ^^^^^^^^Let us say, ^^^for a moment, ^^^that morality cannot be found..."
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"Let us assume, ^^^for just a moment...\""
+  },
+  "DFr_A1053847.Text": {
+    "": {
+      "Text": "I cannot believe you truly understand the consequences of your suggestion!"
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"I cannot believe you truly understa...\""
+  },
+  "DFr_53216BBE.Text": {
+    "": {
+      "Text": "Let me show you why what you claim cannot possibly be right!"
+    },
+    "Context": "Flow/arbitera3end_4/04_arbiter: \"Let me show you why what you claim...\""
+  },
+  "DFr_89208EC0.Text": {
+    "": {
+      "Text": "Socrates, you have just argued we can never be sure of our answers."
+    },
+    "Context": "Flow/arbiterp4/04_arbiter: \"Socrates, you have just argued we c...\""
+  },
+  "DFr_840E3698.Text": {
+    "": {
+      "Text": "If that is the case, ^^^then there is no point to what we do here."
+    },
+    "Context": "Flow/arbiterp4/04_arbiter: \"If that is the case, ^^^then there...\""
+  },
+  "DFr_26C2DDA0.Text": {
+    "": {
+      "Text": "We might as well all give up and become accountants!"
+    },
+    "Context": "Flow/arbiterp4/04_arbiter: \"We might as well all give up and be...\""
+  },
+  "DFr_24394BFE.Text": {
+    "": {
+      "Text": "There is no way we can accept a theory with such horrible consequences."
+    },
+    "Context": "Flow/arbiterp4/04_arbiter: \"There is no way we can accept a the...\""
+  },
+  "DFr_D276A791.Text": {
+    "": {
+      "Text": "And that is my position on the matter."
+    },
+    "Context": "Flow/arbiterp4_1/04_arbiter: \"And that is my position on the matt...\""
+  },
+  "DFr_BFCC3EF4.Text": {
+    "": {
+      "Text": "How... ^^^^how could you say such a thing, ^^^Arbiter?"
+    },
+    "Context": "Flow/arbiterp4_1/08_mill: \"How... ^^^^how could you say such a...\""
+  },
+  "DFr_AA9C6615.Text": {
+    "": {
+      "Text": "You have just devalued everything we do here! ^^^^There is no happiness to be gained from that!"
+    },
+    "Context": "Flow/arbiterp4_1/08_mill: \"You have just devalued everything w...\""
+  },
+  "DFr_0F4DE961.Text": {
+    "": {
+      "Text": "I am merely showing the worrisome implications of Socrates Jones’s argument."
+    },
+    "Context": "Flow/arbiterp4_1/04_arbiter: \"I am merely showing the worrisome i...\""
+  },
+  "DFr_01C4B8F0.Text": {
+    "": {
+      "Text": "If you take issue with them, ^^^you should take it up with him."
+    },
+    "Context": "Flow/arbiterp4_1/04_arbiter: \"If you take issue with them, ^^^you...\""
+  },
+  "DFr_3005CDE3.Text": {
+    "": {
+      "Text": "Wait just a— ^^^^^^^"
+    },
+    "Context": "Flow/arbiterp4_1/01_socrates: \"Wait just a— ^^^^^^^\""
+  },
+  "DFr_81874F39.Text": {
+    "": {
+      "Text": "I knew it!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^I knew you were up to no good, ^^^^^^^^^^^^^^^^^my child!"
+    },
+    "Context": "Flow/arbiterp4_1/05_euthypro: \"I knew it!!! ^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_195CAB2E.Text": {
+    "": {
+      "Text": "Trying to lower us all to your level... ^^^^^^^^^make us into accountants..."
+    },
+    "Context": "Flow/arbiterp4_1/05_euthypro: \"Trying to lower us all to your leve...\""
+  },
+  "DFr_12CB398F.Text": {
+    "": {
+      "Text": "Oh, ^^^^shut up, ^^^^^^Euthyphro."
+    },
+    "Context": "Flow/arbiterp4_1/02_ari: \"Oh, ^^^^shut up, ^^^^^^Euthyphro.\""
+  },
+  "DFr_F19F580D.Text": {
+    "": {
+      "Text": "The Arbiter’s clearly straw-manning Dad. ^^^^Distorting his argument in order to make it sound weaker!"
+    },
+    "Context": "Flow/arbiterp4_1/02_ari: \"The Arbiter’s clearly straw-manning...\""
+  },
+  "DFr_18E1C71C.Text": {
+    "": {
+      "Text": "Dad doesn’t actually want everyone to become accountants! ^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbiterp4_1/02_ari: \"Dad doesn’t actually want everyone...\""
+  },
+  "DFr_DD8DB6D5.Text": {
+    "": {
+      "Text": "...Uh, ^^^^^right?"
+    },
+    "Context": "Flow/arbiterp4_1/02_ari: \"...Uh, ^^^^^right?\""
+  },
+  "DFr_B0E0B26C.Text": {
+    "": {
+      "Text": "Of course not!"
+    },
+    "Context": "Flow/arbiterp4_1/01_socrates: \"Of course not!\""
+  },
+  "DFr_2A53E3F3.Text": {
+    "": {
+      "Text": "Oh. ^^^^^^Good. ^^^^^^^^Thank the gods."
+    },
+    "Context": "Flow/arbiterp4_1/05_euthypro: \"Oh. ^^^^^^Good. ^^^^^^^^Thank the g...\""
+  },
+  "DFr_CFB32AFD.Text": {
+    "": {
+      "Text": "Arbiter. ^^^^^^^You must be getting desperate, ^^^^^to resort to such tricks."
+    },
+    "Context": "Flow/arbiterp4_1/01_socrates: \"Arbiter. ^^^^^^^You must be getting...\""
+  },
+  "DFr_A946F2EA.Text": {
+    "": {
+      "Text": "Even if what you said here WERE true, ^^^the fact that a conclusion is uncomfortable does not mean it should be ignored."
+    },
+    "Context": "Flow/arbiterp4_1/01_socrates: \"Even if what you said here WERE tru...\""
+  },
+  "DFr_48D6DE17.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbiterp4_2/04_arbiter: \"...\""
+  },
+  "DFr_7B9A1B8B.Text": {
+    "": {
+      "Text": "It does, ^^^however, ^^^mean we should be wary of accepting it."
+    },
+    "Context": "Flow/arbiterp4_2/04_arbiter: \"It does, ^^^however, ^^^mean we sho...\""
+  },
+  "DFr_EEF868D9.Text": {
+    "": {
+      "Text": "I must confess, ^^^old chap, ^^^^I would find it hard to believe anything that created such an outcome."
+    },
+    "Context": "Flow/arbiterp4_2/08_mill: \"I must confess, ^^^old chap, ^^^^I...\""
+  },
+  "DFr_7B915438.Text": {
+    "": {
+      "Text": "As would I. ^^^^^It would be foolish to jump into waters so brimming with sharks."
+    },
+    "Context": "Flow/arbiterp4_2/06_protagoras: \"As would I. ^^^^^It would be foolis...\""
+  },
+  "DFr_E70F0F81.Text": {
+    "": {
+      "Text": "Well then, ^^^I suppose I will just have to show that there are no sharks, ^^^won’t I?"
+    },
+    "Context": "Flow/arbiterp4_2/01_socrates: \"Well then, ^^^I suppose I will just...\""
+  },
+  "DFr_D55502BB.Text": {
+    "": {
+      "Text": "That the consequences of my argument are not nearly so disastrous!"
+    },
+    "Context": "Flow/arbiterp4_2/01_socrates: \"That the consequences of my argumen...\""
+  },
+  "DFr_40352931.Text": {
+    "": {
+      "Text": "...Very well, ^^^Socrates. ^^^^But first, let me issue an ultimatum."
+    },
+    "Context": "Flow/arbiterp4_2/04_arbiter: \"...Very well, ^^^Socrates. ^^^^But...\""
+  },
+  "DFr_416B8CB2.Text": {
+    "": {
+      "Text": "This is your last chance."
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"This is your last chance.\""
+  },
+  "DFr_F2ED4D71.Text": {
+    "": {
+      "Text": "My last... ^^^^"
+    },
+    "Context": "Flow/arbiterp4_3/01_socrates: \"My last... ^^^^\""
+  },
+  "DFr_D5708C37.Text": {
+    "": {
+      "Text": "what?!"
+    },
+    "Context": "Flow/arbiterp4_3/01_socrates: \"what?!\""
+  },
+  "DFr_B7A0D602.Text": {
+    "": {
+      "Text": "You gave your answer, ^^^the game is already over— ^^^^^^it is only through my mercy that it continues."
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"You gave your answer, ^^^the game i...\""
+  },
+  "DFr_1F0B6B74.Text": {
+    "": {
+      "Text": "And your damaging claims are beginning to wear my mercy thin."
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"And your damaging claims are beginn...\""
+  },
+  "DFr_FDCBBEA2.Text": {
+    "": {
+      "Text": "If you cannot show why this conclusion isn’t disastrous, ^^^I will refuse to accept it, as you once refused Hobbes."
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"If you cannot show why this conclus...\""
+  },
+  "DFr_8C92BE7A.Text": {
+    "": {
+      "Text": "I find it impossible to believe that the answer would be one that made the search itself meaningless!"
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"I find it impossible to believe tha...\""
+  },
+  "DFr_D3D18FF2.Text": {
+    "": {
+      "Text": "So again, ^^^this is your last chance."
+    },
+    "Context": "Flow/arbiterp4_3/04_arbiter: \"So again, ^^^this is your last chan...\""
+  },
+  "DFr_E88FF1B6.Text": {
+    "": {
+      "Text": "...All right, ^^^Arbiter. ^^^^One last chance is all I need."
+    },
+    "Context": "Flow/arbiterp4_3/01_socrates: \"...All right, ^^^Arbiter. ^^^^One l...\""
+  },
+  "DFr_58AABBE0.Text": {
+    "": {
+      "Text": "I’ll show you once and for all why my viewpoint can stand!"
+    },
+    "Context": "Flow/arbiterp4_3/01_socrates: \"I’ll show you once and for all why...\""
+  },
+  "DFr_5106F247.Text": {
+    "": {
+      "Text": "Socrates, you have just argued we can never be sure of our answers."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates, you have just argued we c...\""
+  },
+  "DFr_615682B5.Text": {
+    "": {
+      "Text": "If that is the case, ^^^then there is no point to what we do here."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"If that is the case, ^^^then there...\""
+  },
+  "DFr_E6825B0B.Text": {
+    "": {
+      "Text": "We might as well all give up and become accountants!"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"We might as well all give up and be...\""
+  },
+  "DFr_7A2A517D.Text": {
+    "": {
+      "Text": "There is no way we can accept a theory with such horrible consequences."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"There is no way we can accept a the...\""
+  },
+  "DFr_7858C331.Text": {
+    "": {
+      "Text": "We are striving in vain towards something which cannot be accomplished."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"We are striving in vain towards som...\""
+  },
+  "DFr_A15BE4B7.Text": {
+    "": {
+      "Text": "And if we cannot achieve our goal, ^^^there is no reason to try!"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"And if we cannot achieve our goal,...\""
+  },
+  "DFr_885858EE.Text": {
+    "": {
+      "Text": "Our efforts are worth nothing unless we are able to obtain perfection!"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Our efforts are worth nothing unles...\""
+  },
+  "DFr_43094E16.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_028C15BB.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_1A3E92C1.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_090EEB1B.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_A3792B71.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_10C0A826.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_B0AB28C3.Text": {
+    "": {
+      "Text": "You just said we should never assume we have found a perfect solution."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You just said we should never assum...\""
+  },
+  "DFr_49F27E71.Text": {
+    "": {
+      "Text": "What did he just ask?"
+    },
+    "Context": "Flow/arbitera4/06_protagoras: \"What did he just ask?\""
+  },
+  "DFr_E3FEFCC4.Text": {
+    "": {
+      "Text": "I’m repeating your argument, ^^^before I show its implications."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I’m repeating your argument, ^^^bef...\""
+  },
+  "DFr_EFE6FFA1.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_94090205.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_5C005894.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_1584D07B.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_87E441B3.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_A323616F.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_AA3CE75D.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_2007257F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_885C0D72.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_3BE1C73B.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_F01CD16B.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_5E1107EF.Text": {
+    "": {
+      "Text": "Is that not correct?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Is that not correct?\""
+  },
+  "DFr_AA3A890F.Text": {
+    "": {
+      "Text": "...No, ^^^^no. ^^^^^^^^I guess it is."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...No, ^^^^no. ^^^^^^^^I guess it i...\""
+  },
+  "DFr_E0382AF9.Text": {
+    "": {
+      "Text": "Mr. Jones just asked his opponent to back up his own conclusions."
+    },
+    "Context": "Flow/arbitera4/07_hobbes: \"Mr. Jones just asked his opponent t...\""
+  },
+  "DFr_8527922B.Text": {
+    "": {
+      "Text": "*sigh* ^^^^^^^Again?"
+    },
+    "Context": "Flow/arbitera4/06_protagoras: \"*sigh* ^^^^^^^Again?\""
+  },
+  "DFr_F4A49B06.Text": {
+    "": {
+      "Text": "Afraid so."
+    },
+    "Context": "Flow/arbitera4/07_hobbes: \"Afraid so.\""
+  },
+  "DFr_12C2719B.Text": {
+    "": {
+      "Text": "Hey, guys, ^^^^^remember that one time, ^^^^^when I pressed “my own statement” for backing, and it was the right thing to do?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Hey, guys, ^^^^^remember that one t...\""
+  },
+  "DFr_83B5A8FA.Text": {
+    "": {
+      "Text": "Cut me some slack!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Cut me some slack!\""
+  },
+  "DFr_2FD9667D.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_E3BCD6ED.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_D0B4E55F.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_6B8B696D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_4B5AD9A6.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2B1933EC.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_271298BF.Text": {
+    "": {
+      "Text": "I mean that we, as philosophers, ^^^serve no purpose if your ridiculous conclusion is allowed to stand."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I mean that we, as philosophers, ^^...\""
+  },
+  "DFr_B6E1A6BB.Text": {
+    "": {
+      "Text": "Yes. ^^^^^Please do."
+    },
+    "Context": "Flow/arbitera4/06_protagoras: \"Yes. ^^^^^Please do.\""
+  },
+  "DFr_2DECF3DB.Text": {
+    "": {
+      "Text": "It details the central problem your reasoning creates."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It details the central problem your...\""
+  },
+  "DFr_2B119845.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_29776541.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_1EA70796.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_B7697F58.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_05817035.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_53F6CB1E.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_D25335D0.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_DCD6AEA7.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_E7D675B1.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_F41C49AE.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_7627EE24.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_B1EAC517.Text": {
+    "": {
+      "Text": "I believe that thought is pretty clear. ^^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I believe that thought is pretty cl...\""
+  },
+  "DFr_5F5EE9E1.Text": {
+    "": {
+      "Text": "Clear enough for me to wonder if you are wasting my time."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Clear enough for me to wonder if yo...\""
+  },
+  "DFr_869EBAFE.Text": {
+    "": {
+      "Text": "The logic that supports this idea is fairly intuitive, ^^^^^but I shall spell it out."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"The logic that supports this idea i...\""
+  },
+  "DFr_D460CBC2.Text": {
+    "": {
+      "Text": "If your conclusion stands, ^^^^^then our efforts to define morality have always been reaching for an impossible goal."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"If your conclusion stands, ^^^^^the...\""
+  },
+  "DFr_EEA31863.Text": {
+    "": {
+      "Text": "Reaching for something that is forever out of our grasp!"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Reaching for something that is fore...\""
+  },
+  "DFr_C00DACE5.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/arbitera4/12_notification: \"New statement added.\""
+  },
+  "DFr_3D13209A.Text": {
+    "": {
+      "Text": "And if that goal is impossible, ^^^all our effort towards it is clearly a waste."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"And if that goal is impossible, ^^^...\""
+  },
+  "DFr_51CCD15E.Text": {
+    "": {
+      "Text": "If your roads don’t lead anywhere, ^^^what is the point of building them?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"If your roads don’t lead anywhere,...\""
+  },
+  "DFr_B023B852.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/arbitera4/12_notification: \"New statement added.\""
+  },
+  "DFr_47B44B8A.Text": {
+    "": {
+      "Text": "With these two points laid bare, ^^^^there can be little doubt that our efforts are useless."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"With these two points laid bare, ^^...\""
+  },
+  "DFr_AA39E2D6.Text": {
+    "": {
+      "Text": "Hmmm. ^^^^^^With that said, ^^^though, ^^^I don't think we should forget these points."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Hmmm. ^^^^^^With that said, ^^^thou...\""
+  },
+  "DFr_E055D403.Text": {
+    "": {
+      "Text": "I’d like to look at them a little more closely."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"I’d like to look at them a little m...\""
+  },
+  "DFr_7BEE364C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_CA6631F0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_E82006D5.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_8F5EE18C.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_BF2933BF.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_6E397CAB.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_D5A49E12.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_8073DBB8.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_5EE4A502.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_C93AB97E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_B90EC96D.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_E389ED61.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_65E0D09A.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_2E480F55.Text": {
+    "": {
+      "Text": "But if your conclusion was accepted as true, no matter how hard we work, ^^^those questions will never be answered."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"But if your conclusion was accepted...\""
+  },
+  "DFr_F0AC016D.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_FB122CF2.Text": {
+    "": {
+      "Text": "As philosophers, ^^^it is our duty to seek the answers to questions such as the nature of morality."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"As philosophers, ^^^it is our duty...\""
+  },
+  "DFr_F525999C.Text": {
+    "": {
+      "Text": "It is supported by your stated outlook."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It is supported by your stated outl...\""
+  },
+  "DFr_185C4943.Text": {
+    "": {
+      "Text": "If your last conclusion was true, ^^^then this is the situation in which all philosophers have found themselves."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"If your last conclusion was true, ^...\""
+  },
+  "DFr_727B641C.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_F9A7D52D.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_D4BFB542.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_70AB7C26.Text": {
+    "": {
+      "Text": "You claim it is impossible to obtain a solution— ^^^^or to be certain of it, at the very least."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You claim it is impossible to obtai...\""
+  },
+  "DFr_40CA12C6.Text": {
+    "": {
+      "Text": "If this is the case, ^^^^^^all efforts to do so are misguided."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"If this is the case, ^^^^^^all effo...\""
+  },
+  "DFr_9403E31B.Text": {
+    "": {
+      "Text": "Establishing it helps detail our futility."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Establishing it helps detail our fu...\""
+  },
+  "DFr_3692FDBD.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_CCE7D8C0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_11C308DB.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_96BEA255.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_FEE96390.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_058EA33A.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_01CF34C0.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_E894B579.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_1420C854.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_0F5A51B0.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_20CEB2B4.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_346B9026.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_D5AA46B4.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_216925CD.Text": {
+    "": {
+      "Text": "This is what we all work so hard for. ^^^^And if we can’t find a perfect answer, ^^^our efforts are in vain."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"This is what we all work so hard fo...\""
+  },
+  "DFr_61B7C799.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_41FEB91A.Text": {
+    "": {
+      "Text": "Socrates, ^^^the duty of every moral philosopher is to create a perfect definition of morality."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates, ^^^the duty of every mora...\""
+  },
+  "DFr_0EBDDD5D.Text": {
+    "": {
+      "Text": "There is a difference between “difficult” and “impossible,” ^^^Socrates."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"There is a difference between “diff...\""
+  },
+  "DFr_8779F5DD.Text": {
+    "": {
+      "Text": "It details why your conclusion has the drastic consequences that it does."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It details why your conclusion has...\""
+  },
+  "DFr_677786EE.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_39484774.Text": {
+    "": {
+      "Text": "I don’t understand. ^^^^Can you elaborate?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"I don’t understand. ^^^^Can you ela...\""
+  },
+  "DFr_866F762C.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_4488CD49.Text": {
+    "": {
+      "Text": "Once a goal is proven impossible, ^^^however... ^^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Once a goal is proven impossible, ^...\""
+  },
+  "DFr_402015E6.Text": {
+    "": {
+      "Text": "“Difficult” is worth the effort. ^^^^A difficult goal may take years, ^^^or even millennia, ^^^to accomplish— ^^^^^^^^but in the end, ^^^the rewards can be extraordinary."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"“Difficult” is worth the effort. ^^...\""
+  },
+  "DFr_5BEA7F5D.Text": {
+    "": {
+      "Text": "...I believe all of this has been made clear before."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...I believe all of this has been m...\""
+  },
+  "DFr_B5FE9ED4.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/arbitera4/12_notification: \"Statement updated.\""
+  },
+  "DFr_B5C2155F.Text": {
+    "": {
+      "Text": "But not as clear as it was made now!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"But not as clear as it was made now...\""
+  },
+  "DFr_FF1C9350.Text": {
+    "": {
+      "Text": "you are only creating pointless pain for yourself with your struggles."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"you are only creating pointless pai...\""
+  },
+  "DFr_F70C29B1.Text": {
+    "": {
+      "Text": "It is better to refocus your efforts than to continue to reach for these impossible things."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It is better to refocus your effort...\""
+  },
+  "DFr_2689CE6D.Text": {
+    "": {
+      "Text": "That was actually fairly reasonably laid out."
+    },
+    "Context": "Flow/arbitera4/02_ari: \"That was actually fairly reasonably...\""
+  },
+  "DFr_039158C7.Text": {
+    "": {
+      "Text": "Yes, ^^^^^well... ^^^^^^^^^^^wonderful to know the Arbiter is still brilliant when he’s"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Yes, ^^^^^well... ^^^^^^^^^^^wonder...\""
+  },
+  "DFr_9B21A34F.Text": {
+    "": {
+      "Text": "TEARING ME TO PIECES!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"TEARING ME TO PIECES!\""
+  },
+  "DFr_48788A9E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_742E6BF4.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_0E61FC20.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_2C7A9F85.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_3E0EAD28.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_2E49DCA2.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_7DBD14AE.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_EB2095AD.Text": {
+    "": {
+      "Text": "All flawed assumptions will eventually be discarded... ^^^^we might as well recognize their worthlessness now."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"All flawed assumptions will eventua...\""
+  },
+  "DFr_C9CE94A1.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_9ADD93EB.Text": {
+    "": {
+      "Text": "It spells out the goal of philosophers clearly, ^^^in order to show how your conclusion directly harms it."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It spells out the goal of philosoph...\""
+  },
+  "DFr_777B81B0.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_17F4C122.Text": {
+    "": {
+      "Text": "Perfection is, ^^indeed, ^^^desirable! ^^^^^^^But... ^^^^^^^Ja, ^^^it is elusive."
+    },
+    "Context": "Flow/arbitera4/09_kant: \"Perfection is, ^^indeed, ^^^desirab...\""
+  },
+  "DFr_C81F90F2.Text": {
+    "": {
+      "Text": "A perfect answer is the only answer worth pursuing!"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"A perfect answer is the only answer...\""
+  },
+  "DFr_01648CA8.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_70D1C456.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_7F4371FE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_AE3DBB0B.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_BE660FEC.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_CE5A1FF2.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_81B1BD52.Text": {
+    "": {
+      "Text": "Simply that if we cannot find the absolute answer, ^^^then nothing we find will ever stand up to a thorough examination."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Simply that if we cannot find the a...\""
+  },
+  "DFr_BBE5F8C7.Text": {
+    "": {
+      "Text": "Must I really? ^^^^It strikes me as fairly obvious."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Must I really? ^^^^It strikes me as...\""
+  },
+  "DFr_A6DCC9CE.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_293F0DA5.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_B337D2ED.Text": {
+    "": {
+      "Text": "Hmmm..."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Hmmm...\""
+  },
+  "DFr_1F8853DE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_1848DA31.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_CB60239E.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_51721B9A.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_27C08C54.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_AF590AE7.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_23C39F59.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_B9C043BC.Text": {
+    "": {
+      "Text": "I merely mean that if we cannot succeed as philosophers, ^^^we might as well do something else."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I merely mean that if we cannot suc...\""
+  },
+  "DFr_F56730B8.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_DCB4CC07.Text": {
+    "": {
+      "Text": "It defines what role we would all have to take in this brand new world you imagined."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"It defines what role we would all h...\""
+  },
+  "DFr_C6F103BE.Text": {
+    "": {
+      "Text": "How’s this nonsense possibly related to your conclusion?!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How’s this nonsense possibly relate...\""
+  },
+  "DFr_6CEE0245.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_4B0DE8DC.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_EC6B8317.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_85233935.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_08AFF937.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_F4A32B89.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_54BA4D11.Text": {
+    "": {
+      "Text": "I see no reason to get upset, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I see no reason to get upset, ^^^So...\""
+  },
+  "DFr_1261316C.Text": {
+    "": {
+      "Text": "I have established that it does not make sense for us to pursue something other than perfection."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I have established that it does not...\""
+  },
+  "DFr_D480DBB5.Text": {
+    "": {
+      "Text": "What the heck are you implying?!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What the heck are you implying?!\""
+  },
+  "DFr_705D54A4.Text": {
+    "": {
+      "Text": "Can you back up this ridiculous and insulting statement?!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back up this ridiculous and...\""
+  },
+  "DFr_A7E57379.Text": {
+    "": {
+      "Text": "Right..."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Right...\""
+  },
+  "DFr_68ADD2F6.Text": {
+    "": {
+      "Text": "Therefore, ^^^if we cannot achieve our goal, ^^^we might as well give up and assume a... ^^^^^^^^lower... ^^^^^^^^profession, ^^^^^of which accounting is one example."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Therefore, ^^^if we cannot achieve...\""
+  },
+  "DFr_546C926E.Text": {
+    "": {
+      "Text": "Grrr..."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Grrr...\""
+  },
+  "DFr_41BE2FCF.Text": {
+    "": {
+      "Text": "(Not even the Arbiter can resist making a dig at my profession! ^^^^^^^Is it really such an easy target?!?)"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"(Not even the Arbiter can resist ma...\""
+  },
+  "DFr_B09CB5AA.Text": {
+    "": {
+      "Text": "How... ^^^frightful."
+    },
+    "Context": "Flow/arbitera4/07_hobbes: \"How... ^^^frightful.\""
+  },
+  "DFr_0B222861.Text": {
+    "": {
+      "Text": "Aaarrrrggh, ^^^^^No! ^^^^^^^^^Stop it, ^^^^all of you!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Aaarrrrggh, ^^^^^No! ^^^^^^^^^Stop...\""
+  },
+  "DFr_2A9729C7.Text": {
+    "": {
+      "Text": "Arbiter, ^^^^^this adds nothing substantial to your arguement, ^^^^^and you know it!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Arbiter, ^^^^^this adds nothing sub...\""
+  },
+  "DFr_57D22B10.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_E1D9A165.Text": {
+    "": {
+      "Text": "Very well, ^^^^Socrates. ^^^^^^I suppose I may have gotten carried away."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Very well, ^^^^Socrates. ^^^^^^I su...\""
+  },
+  "DFr_E95FDD9D.Text": {
+    "": {
+      "Text": "Statement removed."
+    },
+    "Context": "Flow/arbitera4/12_notification: \"Statement removed.\""
+  },
+  "DFr_0909C178.Text": {
+    "": {
+      "Text": "Well then... ^^^^^"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Well then... ^^^^^\""
+  },
+  "DFr_F236E664.Text": {
+    "": {
+      "Text": "Perhaps it is time for a harsh wakeup call."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Perhaps it is time for a harsh wake...\""
+  },
+  "DFr_2D1D560C.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_2B2DAD46.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_1962F6DC.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_D144861D.Text": {
+    "": {
+      "Text": "N-no! Of course not!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"N-no! Of course not!\""
+  },
+  "DFr_F94E5601.Text": {
+    "": {
+      "Text": "I'm sorry, ^^Socrates, ^^^but I fail to see what that has to do with anything I have said."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I'm sorry, ^^Socrates, ^^^but I fai...\""
+  },
+  "DFr_935BFC76.Text": {
+    "": {
+      "Text": "I mean that I cannot accept your argument, ^^^given the consequences."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I mean that I cannot accept your ar...\""
+  },
+  "DFr_E4544B24.Text": {
+    "": {
+      "Text": "Accepting your conclusion would have drastic negative consequences to our world here, ^^^as I have outlined."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Accepting your conclusion would hav...\""
+  },
+  "DFr_214CB772.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_0CED58F4.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_83336FAF.Text": {
+    "": {
+      "Text": "You seem to be grasping at straws. ^^^^Are you sure you would not rather end this foolishness?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"You seem to be grasping at straws....\""
+  },
+  "DFr_616317CE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_B81B2A30.Text": {
+    "": {
+      "Text": "Er, ^^^I was just... ^^^^^^I mean, maybe?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Er, ^^^I was just... ^^^^^^I mean,...\""
+  },
+  "DFr_7196EE56.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_059E791D.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_1DB8F2C8.Text": {
+    "": {
+      "Text": "I am clearly defining why what I have laid out here is a reason to reject your conclusion."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I am clearly defining why what I ha...\""
+  },
+  "DFr_985CFCEA.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_FA53E41C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_556116E7.Text": {
+    "": {
+      "Text": "Socrates. ^^^^^^Do you really think this is a good idea?"
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Socrates. ^^^^^^Do you really think...\""
+  },
+  "DFr_DDA93AF5.Text": {
+    "": {
+      "Text": "I believe this is more than enough reason to reject your conclusion."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"I believe this is more than enough...\""
+  },
+  "DFr_4DC71132.Text": {
+    "": {
+      "Text": "But, ^^^^^^t^^e^^c^^h^^n^^i^^c^^a^^l^^l^^y^^, ^^^^^^you COULD accept it, ^^^^^^right?"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"But, ^^^^^^t^^e^^c^^h^^n^^i^^c^^a^^...\""
+  },
+  "DFr_4CE7C30F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"...\""
+  },
+  "DFr_8B6880C5.Text": {
+    "": {
+      "Text": "Yes, ^^^^^I suppose I could. ^^^^^^^^^^^^^^Technically."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"Yes, ^^^^^I suppose I could. ^^^^^^...\""
+  },
+  "DFr_F010C5C7.Text": {
+    "": {
+      "Text": "Then accept it!"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Then accept it!\""
+  },
+  "DFr_A5F77DAC.Text": {
+    "": {
+      "Text": "NO. ^^^^^^^^Just because I could doesn’t mean I should."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"NO. ^^^^^^^^Just because I could do...\""
+  },
+  "DFr_A6855908.Text": {
+    "": {
+      "Text": "We are looking for the nature of morality, ^^^^^^and your answer is immoral in itself."
+    },
+    "Context": "Flow/arbitera4/04_arbiter: \"We are looking for the nature of mo...\""
+  },
+  "DFr_AC67BE60.Text": {
+    "": {
+      "Text": "Oh gods, ^^^^^give me the strength to assist this ingrate..."
+    },
+    "Context": "Flow/arbitera4/05_euthypro: \"Oh gods, ^^^^^give me the strength...\""
+  },
+  "DFr_0D96A798.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"...\""
+  },
+  "DFr_06B5DAC7.Text": {
+    "": {
+      "Text": "(Home is so close... ^^^^I can feel it.)"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"(Home is so close... ^^^^I can feel...\""
+  },
+  "DFr_DA554141.Text": {
+    "": {
+      "Text": "(I’m going to have to use everything I know to get past this...)"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"(I’m going to have to use everythin...\""
+  },
+  "DFr_7C2B7AE6.Text": {
+    "": {
+      "Text": "(Just a little more... ^^^^I can’t let Ari down, not now!)"
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"(Just a little more... ^^^^I can’t...\""
+  },
+  "DFr_443CF9C4.Text": {
+    "": {
+      "Text": "Arbiter!"
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"Arbiter!\""
+  },
+  "DFr_3BE2534A.Text": {
+    "": {
+      "Text": "I think I’ve finally figured out what’s wrong with your entire position."
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"I think I’ve finally figured out wh...\""
+  },
+  "DFr_B92003D6.Text": {
+    "": {
+      "Text": "Have you, ^^now?"
+    },
+    "Context": "Flow/arbitera4correct/04_arbiter: \"Have you, ^^now?\""
+  },
+  "DFr_2E5E8A9B.Text": {
+    "": {
+      "Text": "Remember, ^^^you will not get another chance."
+    },
+    "Context": "Flow/arbitera4correct/04_arbiter: \"Remember, ^^^you will not get anoth...\""
+  },
+  "DFr_952B00FA.Text": {
+    "": {
+      "Text": "I know. ^^^^And I don’t need one. ^^^^^^^This, ^^^Arbiter, ^^^is the end."
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"I know. ^^^^And I don’t need one. ^...\""
+  },
+  "DFr_5FCEE608.Text": {
+    "": {
+      "Text": "Very well, ^^^Socrates."
+    },
+    "Context": "Flow/arbitera4correct/04_arbiter: \"Very well, ^^^Socrates.\""
+  },
+  "DFr_A792AABC.Text": {
+    "": {
+      "Text": "Tell me then— ^^^^what is wrong with my position?"
+    },
+    "Context": "Flow/arbitera4correct/04_arbiter: \"Tell me then— ^^^^what is wrong wit...\""
+  },
+  "DFr_5CCBD82E.Text": {
+    "": {
+      "Text": "It’s quite simple, ^^^really. ^^^^A classic fallacy."
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"It’s quite simple, ^^^really. ^^^^A...\""
+  },
+  "DFr_F0CDD8A9.Text": {
+    "": {
+      "Text": "You are assuming a solution must be perfect to have value— ^^^^but that is not the case!"
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"You are assuming a solution must be...\""
+  },
+  "DFr_8AB099CC.Text": {
+    "": {
+      "Text": "In fact, ^^^such an assumption strikes me as fundamentally wrong!"
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"In fact, ^^^such an assumption stri...\""
+  },
+  "DFr_A72E1745.Text": {
+    "": {
+      "Text": "!"
+    },
+    "Context": "Flow/arbitera4correct/04_arbiter: \"!\""
+  },
+  "DFr_E3F5F634.Text": {
+    "": {
+      "Text": "!!"
+    },
+    "Context": "Flow/arbitera4correct/07_hobbes: \"!!\""
+  },
+  "DFr_D9B2D724.Text": {
+    "": {
+      "Text": "!!!"
+    },
+    "Context": "Flow/arbitera4correct/05_euthypro: \"!!!\""
+  },
+  "DFr_6378AF25.Text": {
+    "": {
+      "Text": "!!!!"
+    },
+    "Context": "Flow/arbitera4correct/06_protagoras: \"!!!!\""
+  },
+  "DFr_299C52E2.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4correct/09_kant: \"...\""
+  },
+  "DFr_CAE0EAB8.Text": {
+    "": {
+      "Text": "I just realized... ^^^^^^that ^^^OVER HALF ^^^of us have facial hair."
+    },
+    "Context": "Flow/arbitera4correct/09_kant: \"I just realized... ^^^^^^that ^^^OV...\""
+  },
+  "DFr_689945F8.Text": {
+    "": {
+      "Text": "I am not sure how to cope with my distress."
+    },
+    "Context": "Flow/arbitera4correct/09_kant: \"I am not sure how to cope with my d...\""
+  },
+  "DFr_B9B72BD4.Text": {
+    "": {
+      "Text": "...Right. ^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"...Right. ^^^^^^^^^^^^^^^\""
+  },
+  "DFr_AD08AC14.Text": {
+    "": {
+      "Text": "Anyway!"
+    },
+    "Context": "Flow/arbitera4correct/01_socrates: \"Anyway!\""
+  },
+  "DFr_C5164037.Text": {
+    "": {
+      "Text": "“Perfection” is, ^^^as a general rule, ^^^an attractive prospect in every field. ^^^^But things do not have to be “perfect” to add value to the world!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"“Perfection” is, ^^^as a general ru...\""
+  },
+  "DFr_2D6A98BA.Text": {
+    "": {
+      "Text": "Let us look at art. ^^^^Even works as great as the Statue of David or the Mona Lisa are not without their flaws!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Let us look at art. ^^^^Even works...\""
+  },
+  "DFr_7AFDCF23.Text": {
+    "": {
+      "Text": "But despite their flaws, ^^^can there be any doubt the world is a brighter place because such works exist?"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"But despite their flaws, ^^^can the...\""
+  },
+  "DFr_D915AD30.Text": {
+    "": {
+      "Text": "Oh! ^^^^^^Then it’s as Mill would say! ^^^^They are still good ^^^because they increase happiness!"
+    },
+    "Context": "Flow/arbitera4correct_1/02_ari: \"Oh! ^^^^^^Then it’s as Mill would s...\""
+  },
+  "DFr_1C663228.Text": {
+    "": {
+      "Text": "Exactly! ^^^^Whether or not Mill’s ideas dominate, ^^^increasing overall happiness is certainly one way an “imperfect” work can contribute!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Exactly! ^^^^Whether or not Mill’s...\""
+  },
+  "DFr_5C52BAEE.Text": {
+    "": {
+      "Text": "But under your logic, ^^^none of these works would have meaning. ^^^^"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"But under your logic, ^^^none of th...\""
+  },
+  "DFr_76EBE0A5.Text": {
+    "": {
+      "Text": "That’s the REAL disastrous conclusion here!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"That’s the REAL disastrous conclusi...\""
+  },
+  "DFr_247C83A5.Text": {
+    "": {
+      "Text": "There’s no happiness to be gained from that!"
+    },
+    "Context": "Flow/arbitera4correct_1/02_ari: \"There’s no happiness to be gained f...\""
+  },
+  "DFr_65E300AC.Text": {
+    "": {
+      "Text": "Hrmph."
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"Hrmph.\""
+  },
+  "DFr_D29436D8.Text": {
+    "": {
+      "Text": "Look at the people around you, ^^^Arbiter."
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Look at the people around you, ^^^A...\""
+  },
+  "DFr_16F9BFBF.Text": {
+    "": {
+      "Text": "Ultimately, ^^^their views all turned out to be flawed— ^^^but does that make their ideas worthless?"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Ultimately, ^^^their views all turn...\""
+  },
+  "DFr_100EE141.Text": {
+    "": {
+      "Text": "Of course not! ^^^^Their theories have had a profound positive impact on the world!"
+    },
+    "Context": "Flow/arbitera4correct_1/02_ari: \"Of course not! ^^^^Their theories h...\""
+  },
+  "DFr_434395BC.Text": {
+    "": {
+      "Text": "Anyone in my high school philosophy class could tell you as much!"
+    },
+    "Context": "Flow/arbitera4correct_1/02_ari: \"Anyone in my high school philosophy...\""
+  },
+  "DFr_2C19C2E6.Text": {
+    "": {
+      "Text": "Flaws and all, ^^^their attempted moral systems stand stronger than those created without thought, ^^^and the importance of this is palpable!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Flaws and all, ^^^their attempted m...\""
+  },
+  "DFr_B5268A09.Text": {
+    "": {
+      "Text": "Just because perfection might be unattainable does not mean we should not try— ^^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"Just because perfection might be un...\""
+  },
+  "DFr_A78D62FC.Text": {
+    "": {
+      "Text": "it only means we cannot expect to succeed!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"it only means we cannot expect to s...\""
+  },
+  "DFr_8F55A654.Text": {
+    "": {
+      "Text": "This... ^^^this is quite impressive, ^^^old friend!"
+    },
+    "Context": "Flow/arbitera4correct_1/06_protagoras: \"This... ^^^this is quite impressive...\""
+  },
+  "DFr_2657DFFC.Text": {
+    "": {
+      "Text": "This... ^^^this is quite impressive, ^^^old friend!"
+    },
+    "Context": "Flow/arbitera4correct_1/09_kant: \"This... ^^^this is quite impressive...\""
+  },
+  "DFr_66BB5B7F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"...\""
+  },
+  "DFr_7D9433C6.Text": {
+    "": {
+      "Text": "True, ^^^it is our duty to keep questioning. ^^^^Always, and forever."
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"True, ^^^it is our duty to keep que...\""
+  },
+  "DFr_95609439.Text": {
+    "": {
+      "Text": "For while we can never assume our ideas are perfect, ^^^if we don’t keep searching we will miss the chance to find something better!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"For while we can never assume our i...\""
+  },
+  "DFr_26D84E67.Text": {
+    "": {
+      "Text": "The fact we can never be sure does not mean we should not hypothesize!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"The fact we can never be sure does...\""
+  },
+  "DFr_299732B6.Text": {
+    "": {
+      "Text": "The goal may be unattainable, ^^^but all the progress made towards it is still a fundamental good!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"The goal may be unattainable, ^^^bu...\""
+  },
+  "DFr_DBC8E000.Text": {
+    "": {
+      "Text": "In a way, ^^^searching for morality is, ^^^in fact, ^^^the most moral thing you can do!"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"In a way, ^^^searching for morality...\""
+  },
+  "DFr_3A790896.Text": {
+    "": {
+      "Text": "What do you have to say to that, ^^^Arbiter?"
+    },
+    "Context": "Flow/arbitera4correct_1/01_socrates: \"What do you have to say to that, ^^...\""
+  },
+  "DFr_44CF8548.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"...\""
+  },
+  "DFr_92E6BFA8.Text": {
+    "": {
+      "Text": "I say... ^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"I say... ^^^^^^^^\""
+  },
+  "DFr_2618BA97.Text": {
+    "": {
+      "Text": "I^^^^ say... ^^^^"
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"I^^^^ say... ^^^^\""
+  },
+  "DFr_13F8E0BD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4correct_1/04_arbiter: \"...\""
+  },
+  "DFr_730FE519.Text": {
+    "": {
+      "Text": "Hahaha..."
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"Hahaha...\""
+  },
+  "DFr_45924DE7.Text": {
+    "": {
+      "Text": "Ah heh hehehe..."
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"Ah heh hehehe...\""
+  },
+  "DFr_2EC3E1FA.Text": {
+    "": {
+      "Text": "AH HA HA HA HEE HEE HEE HEE HAH HAH HO HO HO HO HO HAAAAAAAAH!!!!!"
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"AH HA HA HA HEE HEE HEE HEE HAH HAH...\""
+  },
+  "DFr_8BB0DF98.Text": {
+    "": {
+      "Text": "Um... ^^^Arbiter?"
+    },
+    "Context": "Flow/arbitera4correct_2/02_ari: \"Um... ^^^Arbiter?\""
+  },
+  "DFr_98B9221E.Text": {
+    "": {
+      "Text": "Oh wonderful, ^^^^^you broke the sovereign."
+    },
+    "Context": "Flow/arbitera4correct_2/07_hobbes: \"Oh wonderful, ^^^^^you broke the so...\""
+  },
+  "DFr_D7C689C1.Text": {
+    "": {
+      "Text": "Now we’ll have to get a new one."
+    },
+    "Context": "Flow/arbitera4correct_2/07_hobbes: \"Now we’ll have to get a new one.\""
+  },
+  "DFr_89B0CF55.Text": {
+    "": {
+      "Text": "No, ^^^^no... ^^^^^^^I’m fine, ^^^I’m fine. ^^^^^^^It’s just... ^^^"
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"No, ^^^^no... ^^^^^^^I’m fine, ^^^I...\""
+  },
+  "DFr_BD325CB4.Text": {
+    "": {
+      "Text": "funny."
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"funny.\""
+  },
+  "DFr_0E898605.Text": {
+    "": {
+      "Text": "Funny?"
+    },
+    "Context": "Flow/arbitera4correct_2/01_socrates: \"Funny?\""
+  },
+  "DFr_0E2EE062.Text": {
+    "": {
+      "Text": "Yes... ^^^^funny."
+    },
+    "Context": "Flow/arbitera4correct_2/04_arbiter: \"Yes... ^^^^funny.\""
+  },
+  "DFr_7E8AE3BE.Text": {
+    "": {
+      "Text": "I realize now I have become arrogant in my time ruling this plane..."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"I realize now I have become arrogan...\""
+  },
+  "DFr_1D36BBCA.Text": {
+    "": {
+      "Text": "I simply assumed a perfect answer was out there, waiting to be found... ^^^^^^^despite the fact the one I had found myself ^^^so many years ago ^^^^was wrong."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"I simply assumed a perfect answer w...\""
+  },
+  "DFr_6FA93B32.Text": {
+    "": {
+      "Text": "And to think it would be you who would put the pieces together— ^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"And to think it would be you who wo...\""
+  },
+  "DFr_F60F211D.Text": {
+    "": {
+      "Text": "it’s humorous, ^^^really."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"it’s humorous, ^^^really.\""
+  },
+  "DFr_4AD35B7E.Text": {
+    "": {
+      "Text": "What are you talking about?"
+    },
+    "Context": "Flow/arbitera4correct_3/01_socrates: \"What are you talking about?\""
+  },
+  "DFr_E5D22044.Text": {
+    "": {
+      "Text": "“He is not wise because of what he knows, ^^^but because he knows what he does not know.”"
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"“He is not wise because of what he...\""
+  },
+  "DFr_090E2304.Text": {
+    "": {
+      "Text": "People used to say this about me, ^^^all the time."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"People used to say this about me, ^...\""
+  },
+  "DFr_5B2CC7FB.Text": {
+    "": {
+      "Text": "Now, ^^^I believe it better applies to you."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"Now, ^^^I believe it better applies...\""
+  },
+  "DFr_510ED818.Text": {
+    "": {
+      "Text": "Wait... ^^^hold on... ^^^you?!"
+    },
+    "Context": "Flow/arbitera4correct_3/06_protagoras: \"Wait... ^^^hold on... ^^^you?!\""
+  },
+  "DFr_F18BB239.Text": {
+    "": {
+      "Text": "Yes. ^^^^That’s right, ^^^Protagoras."
+    },
+    "Context": "Flow/arbitera4correct_3/04_arbiter: \"Yes. ^^^^That’s right, ^^^Protagora...\""
+  },
+  "DFr_67D5BD43.Text": {
+    "": {
+      "Text": "I am, ^^^or was, ^^^the Great Thinker Socrates."
+    },
+    "Context": "Flow/arbitera4correct_4/04_arbiter: \"I am, ^^^or was, ^^^the Great Think...\""
+  },
+  "DFr_05A3916D.Text": {
+    "": {
+      "Text": "WHAAAAAAAAAAAAAAT?!"
+    },
+    "Context": "Flow/arbitera4correct_4/01_socrates: \"WHAAAAAAAAAAAAAAT?!\""
+  },
+  "DFr_1B64CF11.Text": {
+    "": {
+      "Text": "Called it."
+    },
+    "Context": "Flow/arbitera4correct_4/02_ari: \"Called it.\""
+  },
+  "DFr_36762C8B.Text": {
+    "": {
+      "Text": "You... ^^^what?"
+    },
+    "Context": "Flow/arbitera4correct_4/01_socrates: \"You... ^^^what?\""
+  },
+  "DFr_31494148.Text": {
+    "": {
+      "Text": "Yeah, ^^^I figured it out like an hour ago."
+    },
+    "Context": "Flow/arbitera4correct_4/02_ari: \"Yeah, ^^^I figured it out like an h...\""
+  },
+  "DFr_0566D67D.Text": {
+    "": {
+      "Text": "An unverifiable claim, ^^^but there is no denying this one is sharp enough..."
+    },
+    "Context": "Flow/arbitera4correct_4/04_arbiter: \"An unverifiable claim, ^^^but there...\""
+  },
+  "DFr_BBC2CA89.Text": {
+    "": {
+      "Text": "Regardless..."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"Regardless...\""
+  },
+  "DFr_01ED654B.Text": {
+    "": {
+      "Text": "Finding “the answer” was my greatest accomplishment. ^^^^I convinced the old Arbiter I had found the solution. ^^^^I even briefly convinced myself."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"Finding “the answer” was my greates...\""
+  },
+  "DFr_C545947D.Text": {
+    "": {
+      "Text": "And as a result, ^^^I won the challenge. ^^^^The Arbiter gave me his mantle, ^^^and told me I was to take his place as ruler of this realm."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"And as a result, ^^^I won the chall...\""
+  },
+  "DFr_87D0BED9.Text": {
+    "": {
+      "Text": "I took it... and became what you see now."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"I took it... and became what you se...\""
+  },
+  "DFr_2DDDB0EA.Text": {
+    "": {
+      "Text": "But... ^^^^you said Socrates left!"
+    },
+    "Context": "Flow/arbitera4correct_5/01_socrates: \"But... ^^^^you said Socrates left!\""
+  },
+  "DFr_42B54420.Text": {
+    "": {
+      "Text": "And you didn’t immediately recognize me as... ^^^not... ^^^^you."
+    },
+    "Context": "Flow/arbitera4correct_5/01_socrates: \"And you didn’t immediately recogniz...\""
+  },
+  "DFr_E9397F4F.Text": {
+    "": {
+      "Text": "My friend, ^^^why would you go so far to hide your identity?"
+    },
+    "Context": "Flow/arbitera4correct_5/06_protagoras: \"My friend, ^^^why would you go so f...\""
+  },
+  "DFr_C5989B56.Text": {
+    "": {
+      "Text": "I gave up who I was to oversee this realm. ^^^^As Socrates, ^^^I may have been respected, ^^^but I also made my fair share of enemies."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"I gave up who I was to oversee this...\""
+  },
+  "DFr_5EAD4073.Text": {
+    "": {
+      "Text": "I felt that, ^^^having found the answer, ^^^it was only appropriate to distance myself from all of that, ^^^to better guide others towards the truth."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"I felt that, ^^^having found the an...\""
+  },
+  "DFr_315D7177.Text": {
+    "": {
+      "Text": "Of course, ^^^once I realized my solution was, ^^in fact, ^^^incorrect, ^^^I became determined to goad someone else into finding it..."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"Of course, ^^^once I realized my so...\""
+  },
+  "DFr_CCEB9365.Text": {
+    "": {
+      "Text": "Never once thinking that, ^^^perhaps, ^^^it could be unreachable."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"Never once thinking that, ^^^perhap...\""
+  },
+  "DFr_E0CE050A.Text": {
+    "": {
+      "Text": "In a way, ^^^the old Socrates did leave that day. ^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"In a way, ^^^the old Socrates did l...\""
+  },
+  "DFr_164CA799.Text": {
+    "": {
+      "Text": "But... ^^^^^now, ^^^^I think, ^^^^^you’ve brought him back."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"But... ^^^^^now, ^^^^I think, ^^^^^...\""
+  },
+  "DFr_2914E527.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/arbitera4correct_5/04_arbiter: \"...\""
+  },
+  "DFr_6BC483B2.Text": {
+    "": {
+      "Text": "Well then, ^^^Socrates Jones."
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"Well then, ^^^Socrates Jones.\""
+  },
+  "DFr_CBF3EAAB.Text": {
+    "": {
+      "Text": "I think it’s time I finally granted you your wish."
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"I think it’s time I finally granted...\""
+  },
+  "DFr_7FFA6C47.Text": {
+    "": {
+      "Text": "You mean...?"
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"You mean...?\""
+  },
+  "DFr_0F80F9AB.Text": {
+    "": {
+      "Text": "Yes. ^^^^It’s time for you to head on home. ^^^^^^^^^The both of you."
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"Yes. ^^^^It’s time for you to head...\""
+  },
+  "DFr_CED5D393.Text": {
+    "": {
+      "Text": "I— ^^^^I can’t believe it."
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"I— ^^^^I can’t believe it.\""
+  },
+  "DFr_035A8655.Text": {
+    "": {
+      "Text": "We did it! ^^^^We actually did it!"
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"We did it! ^^^^We actually did it!\""
+  },
+  "DFr_A2B643AA.Text": {
+    "": {
+      "Text": "But... ^^^^wait... ^^^^hold on. ^^^^^^^^Does this mean you accept my answer as true? ^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"But... ^^^^wait... ^^^^hold on. ^^^...\""
+  },
+  "DFr_7467E1F4.Text": {
+    "": {
+      "Text": "Am I a ^^^^^^^^^^^“Pro Philosopher?”"
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"Am I a ^^^^^^^^^^^“Pro Philosopher?...\""
+  },
+  "DFr_3C339BB2.Text": {
+    "": {
+      "Text": "Certainly not! ^^^^^By your very own logic, ^^^^^you know I cannot do that."
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"Certainly not! ^^^^^By your very ow...\""
+  },
+  "DFr_499E6B08.Text": {
+    "": {
+      "Text": "I do, ^^^however, ^^^^accept your answer as the best I will receive right now. ^^^^^And I cannot ask for better than that."
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"I do, ^^^however, ^^^^accept your a...\""
+  },
+  "DFr_C3450C04.Text": {
+    "": {
+      "Text": "So... ^^^^^this is for real this time? ^^^^^^^^No tricks? ^^^^^^^^^^^He can just... ^^^walk through?"
+    },
+    "Context": "Flow/arbitera4correct_6/02_ari: \"So... ^^^^^this is for real this ti...\""
+  },
+  "DFr_F33AADA0.Text": {
+    "": {
+      "Text": "Of course, ^^^Ariadne. ^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"Of course, ^^^Ariadne. ^^^^^^^\""
+  },
+  "DFr_2987215A.Text": {
+    "": {
+      "Text": "What do you take me for?"
+    },
+    "Context": "Flow/arbitera4correct_6/04_arbiter: \"What do you take me for?\""
+  },
+  "DFr_EA6CF67B.Text": {
+    "": {
+      "Text": "...Just making sure."
+    },
+    "Context": "Flow/arbitera4correct_6/02_ari: \"...Just making sure.\""
+  },
+  "DFr_F7724AE9.Text": {
+    "": {
+      "Text": "Dad, ^^^do you know what I’m going to do first when I get home?"
+    },
+    "Context": "Flow/arbitera4correct_6/02_ari: \"Dad, ^^^do you know what I’m going...\""
+  },
+  "DFr_CFE92302.Text": {
+    "": {
+      "Text": "What?"
+    },
+    "Context": "Flow/arbitera4correct_6/01_socrates: \"What?\""
+  },
+  "DFr_D137DF6E.Text": {
+    "": {
+      "Text": "Sleep."
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"Sleep.\""
+  },
+  "DFr_BD17C83E.Text": {
+    "": {
+      "Text": "Sounds like a plan."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"Sounds like a plan.\""
+  },
+  "DFr_5DC59D4A.Text": {
+    "": {
+      "Text": "*ahem* ^^^^Well then. ^^^^Hobbes, ^^^Mill, ^^^Protagoras, ^^^Kant, ^^^Euthyphro... ^^^^^^^^^^Socrates, ^^^^^^uh, ^^^Prime."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"*ahem* ^^^^Well then. ^^^^Hobbes, ^...\""
+  },
+  "DFr_3EAAB1F7.Text": {
+    "": {
+      "Text": "I guess this is it."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"I guess this is it.\""
+  },
+  "DFr_B3312DC4.Text": {
+    "": {
+      "Text": "Goodbye, ^^^Herr Jones. ^^^^You will be missed."
+    },
+    "Context": "Flow/arbitera4correct_7/09_kant: \"Goodbye, ^^^Herr Jones. ^^^^You wil...\""
+  },
+  "DFr_9306043A.Text": {
+    "": {
+      "Text": "Indeed. ^^^^It was a pleasure making your acquaintance."
+    },
+    "Context": "Flow/arbitera4correct_7/08_mill: \"Indeed. ^^^^It was a pleasure makin...\""
+  },
+  "DFr_97E2C286.Text": {
+    "": {
+      "Text": "I will miss you, ^^^Socrates. ^^^^You are almost as intelligent as the original."
+    },
+    "Context": "Flow/arbitera4correct_7/06_protagoras: \"I will miss you, ^^^Socrates. ^^^^Y...\""
+  },
+  "DFr_EB53DBFE.Text": {
+    "": {
+      "Text": "...^^^^*sniffle*"
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"...^^^^*sniffle*\""
+  },
+  "DFr_19EEE43A.Text": {
+    "": {
+      "Text": "Thank you, ^^^all of you. ^^^^For everything you’ve done."
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"Thank you, ^^^all of you. ^^^^For e...\""
+  },
+  "DFr_31FAA513.Text": {
+    "": {
+      "Text": "...Come on, ^^^Dad. ^^^^Let’s go."
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"...Come on, ^^^Dad. ^^^^Let’s go.\""
+  },
+  "DFr_EDE83F4F.Text": {
+    "": {
+      "Text": "I’ve had enough of this weird floating architecture for a good, ^^^^^^long time."
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"I’ve had enough of this weird float...\""
+  },
+  "DFr_30EE480C.Text": {
+    "": {
+      "Text": "All right, ^^^Ari. ^^^^Lead the way."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"All right, ^^^Ari. ^^^^Lead the way...\""
+  },
+  "DFr_24A22EC2.Text": {
+    "": {
+      "Text": "An extra big thank you to you, ^^^Mill. ^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"An extra big thank you to you, ^^^M...\""
+  },
+  "DFr_91648C65.Text": {
+    "": {
+      "Text": "Seriously, ^^^^^^^^you are just as awesome as I thought you’d be. ^^^^^^^^I’m going to miss you."
+    },
+    "Context": "Flow/arbitera4correct_7/02_ari: \"Seriously, ^^^^^^^^you are just as...\""
+  },
+  "DFr_A2E7E59A.Text": {
+    "": {
+      "Text": "Now, ^^^^^^now, ^^^^^Ariadne Jones. ^^^^^^^^^^You are going to make this old man blush."
+    },
+    "Context": "Flow/arbitera4correct_7/08_mill: \"Now, ^^^^^^now, ^^^^^Ariadne Jones....\""
+  },
+  "DFr_90168367.Text": {
+    "": {
+      "Text": "Let’s not single anyone out, ^^^Ari. ^^^^Everyone here has been great."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"Let’s not single anyone out, ^^^Ari...\""
+  },
+  "DFr_94C6C29D.Text": {
+    "": {
+      "Text": "...Except for maybe Euthyphro."
+    },
+    "Context": "Flow/arbitera4correct_7/01_socrates: \"...Except for maybe Euthyphro.\""
+  },
+  "DFr_40FB4C0D.Text": {
+    "": {
+      "Text": "What?! ^^^^Now wait a minute—"
+    },
+    "Context": "Flow/arbitera4correct_7/05_euthypro: \"What?! ^^^^Now wait a minute—\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

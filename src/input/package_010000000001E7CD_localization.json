@@ -1,0 +1,4214 @@
+{
+  "Dlg_045833EE.DisplayName": {
+    "": {
+      "Text": "kants1"
+    },
+    "Context": "Flow/kants1"
+  },
+  "Dlg_E21E01A6.DisplayName": {
+    "": {
+      "Text": "kants1_1"
+    },
+    "Context": "Flow/kants1_1"
+  },
+  "Dlg_50BA9EE1.DisplayName": {
+    "": {
+      "Text": "kantp1"
+    },
+    "Context": "Flow/kantp1"
+  },
+  "Dlg_92320E85.DisplayName": {
+    "": {
+      "Text": "kantp1_1"
+    },
+    "Context": "Flow/kantp1_1"
+  },
+  "Dlg_40D2E62D.DisplayName": {
+    "": {
+      "Text": "kanta1"
+    },
+    "Context": "Flow/kanta1"
+  },
+  "Dlg_872AAA33.DisplayName": {
+    "": {
+      "Text": "Kant_gameover"
+    },
+    "Context": "Flow/Kant_gameover"
+  },
+  "Dlg_CA1F4CF8.DisplayName": {
+    "": {
+      "Text": "kanta1end"
+    },
+    "Context": "Flow/kanta1end"
+  },
+  "Dlg_99D9B151.DisplayName": {
+    "": {
+      "Text": "kantp2"
+    },
+    "Context": "Flow/kantp2"
+  },
+  "Dlg_83D300A9.DisplayName": {
+    "": {
+      "Text": "kantp2_2"
+    },
+    "Context": "Flow/kantp2_2"
+  },
+  "Dlg_61206F13.DisplayName": {
+    "": {
+      "Text": "kanta2"
+    },
+    "Context": "Flow/kanta2"
+  },
+  "Dlg_477FC614.DisplayName": {
+    "": {
+      "Text": "kanta2end"
+    },
+    "Context": "Flow/kanta2end"
+  },
+  "Dlg_C5920CF8.DisplayName": {
+    "": {
+      "Text": "kanta2end_1"
+    },
+    "Context": "Flow/kanta2end_1"
+  },
+  "Dlg_2F25C585.DisplayName": {
+    "": {
+      "Text": "kanta2end_2"
+    },
+    "Context": "Flow/kanta2end_2"
+  },
+  "Dlg_C6D0512F.DisplayName": {
+    "": {
+      "Text": "kanta2end_3"
+    },
+    "Context": "Flow/kanta2end_3"
+  },
+  "Dlg_78D27A68.DisplayName": {
+    "": {
+      "Text": "kanta2end_3"
+    },
+    "Context": "Flow/kanta2end_3"
+  },
+  "Dlg_1F192831.DisplayName": {
+    "": {
+      "Text": "kantp3"
+    },
+    "Context": "Flow/kantp3"
+  },
+  "Dlg_B19CC12F.DisplayName": {
+    "": {
+      "Text": "kantp3_1"
+    },
+    "Context": "Flow/kantp3_1"
+  },
+  "Dlg_F63943E9.DisplayName": {
+    "": {
+      "Text": "kanta3"
+    },
+    "Context": "Flow/kanta3"
+  },
+  "Dlg_3E094C6F.DisplayName": {
+    "": {
+      "Text": "kanta3almost"
+    },
+    "Context": "Flow/kanta3almost"
+  },
+  "Dlg_56BF5D39.DisplayName": {
+    "": {
+      "Text": "kanta3almost_1"
+    },
+    "Context": "Flow/kanta3almost_1"
+  },
+  "Dlg_2A3EA65D.DisplayName": {
+    "": {
+      "Text": "kanta3almost_2"
+    },
+    "Context": "Flow/kanta3almost_2"
+  },
+  "Dlg_E4B94BBD.DisplayName": {
+    "": {
+      "Text": "kanta3correct"
+    },
+    "Context": "Flow/kanta3correct"
+  },
+  "Dlg_C6041649.DisplayName": {
+    "": {
+      "Text": "kanta3correct_1"
+    },
+    "Context": "Flow/kanta3correct_1"
+  },
+  "Dlg_58158CFD.DisplayName": {
+    "": {
+      "Text": "kanta3correct_2"
+    },
+    "Context": "Flow/kanta3correct_2"
+  },
+  "DFr_6D56B978.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta1/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_91662B6A.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta1/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_C9FD02D8.Text": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta1/i2: \"Kant believes that lying is one of...\""
+  },
+  "DFr_36C2D73D.Text": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta1/i3: \"Kant believes the act of helping a...\""
+  },
+  "DFr_A86249E9.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta2/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_5434DA1E.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta2/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_464CCD19.Text": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta2/i2: \"Kant believes that lying is one of...\""
+  },
+  "DFr_CD0E32F1.Text": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta2/i3: \"Kant believes the act of helping a...\""
+  },
+  "DFr_925AE573.Text": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta3/i1: \"According to Kant, all true moral s...\""
+  },
+  "DFr_7E4763AA.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta3/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_EA45AD80.Text": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta3/i2: \"Kant believes that lying is one of...\""
+  },
+  "DFr_F9FE942B.Text": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta3/i3: \"Kant believes the act of helping a...\""
+  },
+  "DFr_444FC84D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kants1/11_nobody: \"...\""
+  },
+  "DFr_D3CEE667.Text": {
+    "": {
+      "Text": "Socrates?"
+    },
+    "Context": "Flow/kants1/04_arbiter: \"Socrates?\""
+  },
+  "DFr_0F9D8F48.Text": {
+    "": {
+      "Text": "I have been pondering your request that I bring forth ^^^^^^^“my best.”"
+    },
+    "Context": "Flow/kants1/04_arbiter: \"I have been pondering your request...\""
+  },
+  "DFr_D0AFBF5B.Text": {
+    "": {
+      "Text": "It seems to me attempting to assign a quality hierarchy to the philosophers in this realm would be demeaning."
+    },
+    "Context": "Flow/kants1/04_arbiter: \"It seems to me attempting to assign...\""
+  },
+  "DFr_AB63CD87.Text": {
+    "": {
+      "Text": "I have thus determined that when you requested “my best,” ^^^^^^^you meant ^^^^“my most challenging.”"
+    },
+    "Context": "Flow/kants1/04_arbiter: \"I have thus determined that when yo...\""
+  },
+  "DFr_B250AA5C.Text": {
+    "": {
+      "Text": "Wait, ^^^^"
+    },
+    "Context": "Flow/kants1/01_socrates: \"Wait, ^^^^\""
+  },
+  "DFr_371391A8.Text": {
+    "": {
+      "Text": "what?!"
+    },
+    "Context": "Flow/kants1/01_socrates: \"what?!\""
+  },
+  "DFr_EA2F5A37.Text": {
+    "": {
+      "Text": "So on that note, ^^^^^allow me to present to you Immanuel Kant."
+    },
+    "Context": "Flow/kants1/04_arbiter: \"So on that note, ^^^^^allow me to p...\""
+  },
+  "DFr_4AD9CD77.Text": {
+    "": {
+      "Text": "His thoughts are indeed quite... ^^^^^^^^^^^challenging."
+    },
+    "Context": "Flow/kants1/04_arbiter: \"His thoughts are indeed quite... ^^...\""
+  },
+  "DFr_2E162546.Text": {
+    "": {
+      "Text": "Guten tag, ^^^^^^Socrates Jones!"
+    },
+    "Context": "Flow/kants1/09_kant: \"Guten tag, ^^^^^^Socrates Jones!\""
+  },
+  "DFr_761EE87B.Text": {
+    "": {
+      "Text": "Oh, ^^^^God. ^^^^^^^^Good luck with this one."
+    },
+    "Context": "Flow/kants1/02_ari: \"Oh, ^^^^God. ^^^^^^^^Good luck with...\""
+  },
+  "DFr_0AA6AE2A.Text": {
+    "": {
+      "Text": "I could only ever get through the first couple pages of his work..."
+    },
+    "Context": "Flow/kants1/02_ari: \"I could only ever get through the f...\""
+  },
+  "DFr_71325FCF.Text": {
+    "": {
+      "Text": "I hope you enjoyed your stay in philosophical kindergarten."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"I hope you enjoyed your stay in phi...\""
+  },
+  "DFr_B5C38A76.Text": {
+    "": {
+      "Text": "For the conflicting methods you have employed to confuse other philosophers will not work here!"
+    },
+    "Context": "Flow/kants1_1/09_kant: \"For the conflicting methods you hav...\""
+  },
+  "DFr_89303066.Text": {
+    "": {
+      "Text": "Why not?"
+    },
+    "Context": "Flow/kants1_1/01_socrates: \"Why not?\""
+  },
+  "DFr_B6A81B1E.Text": {
+    "": {
+      "Text": "No reason. ^^^^^^^I simply needed to fulfill the prerequisite grandstanding."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"No reason. ^^^^^^^I simply needed t...\""
+  },
+  "DFr_1AA4B61A.Text": {
+    "": {
+      "Text": "Grandstanding; ^^^^^^"
+    },
+    "Context": "Flow/kants1_1/09_kant: \"Grandstanding; ^^^^^^\""
+  },
+  "DFr_20E53A54.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kants1_1/09_kant: \"check!\""
+  },
+  "DFr_4B40A60C.Text": {
+    "": {
+      "Text": "Uh^^^^h^^^^h^^^^h^^^^.^^^^.^^^^.^^^^ ^^^^^^^^^^^^^^okay then."
+    },
+    "Context": "Flow/kants1_1/01_socrates: \"Uh^^^^h^^^^h^^^^h^^^^.^^^^.^^^^.^^^...\""
+  },
+  "DFr_0E4CEDA0.Text": {
+    "": {
+      "Text": "Kant... ^^^^^^if you would please explain your philosophy... ^^^^^^^^^"
+    },
+    "Context": "Flow/kants1_1/04_arbiter: \"Kant... ^^^^^^if you would please e...\""
+  },
+  "DFr_E4B03176.Text": {
+    "": {
+      "Text": "as clearly as possible."
+    },
+    "Context": "Flow/kants1_1/04_arbiter: \"as clearly as possible.\""
+  },
+  "DFr_2A3D4DBC.Text": {
+    "": {
+      "Text": "Of course, ^^^^^^Arbiter."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"Of course, ^^^^^^Arbiter.\""
+  },
+  "DFr_506AD6F3.Text": {
+    "": {
+      "Text": "First, ^^^^I must counter the unreasoned thoughts of other philosophers."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"First, ^^^^I must counter the unrea...\""
+  },
+  "DFr_DDFDC60D.Text": {
+    "": {
+      "Text": "Any truly moral philosophy must, ^^^^first and foremost, ^^^^protect human dignity."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"Any truly moral philosophy must, ^^...\""
+  },
+  "DFr_F926D117.Text": {
+    "": {
+      "Text": "As consequentialist thought naturally violates our pride as men, ^^^^we must work from an intentionalist grounding."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"As consequentialist thought natural...\""
+  },
+  "DFr_93478BC4.Text": {
+    "": {
+      "Text": "...Excuse me?"
+    },
+    "Context": "Flow/kants1_1/01_socrates: \"...Excuse me?\""
+  },
+  "DFr_102BB147.Text": {
+    "": {
+      "Text": "(I’m already confused...)"
+    },
+    "Context": "Flow/kants1_1/01_socrates: \"(I’m already confused...)\""
+  },
+  "DFr_65C19EF1.Text": {
+    "": {
+      "Text": "Give me a moment, Herr Jones, and I shall explain."
+    },
+    "Context": "Flow/kants1_1/09_kant: \"Give me a moment, Herr Jones, and I...\""
+  },
+  "DFr_87F9F543.Text": {
+    "": {
+      "Text": "There are many things which men covet as good."
+    },
+    "Context": "Flow/kantp1/09_kant: \"There are many things which men cov...\""
+  },
+  "DFr_A81DF146.Text": {
+    "": {
+      "Text": "However, a focus on consequences reduces men to mere means, undermining human dignity."
+    },
+    "Context": "Flow/kantp1/09_kant: \"However, a focus on consequences re...\""
+  },
+  "DFr_C3BE6F99.Text": {
+    "": {
+      "Text": "In reality, the only thing that is good without qualification is good will."
+    },
+    "Context": "Flow/kantp1/09_kant: \"In reality, the only thing that is...\""
+  },
+  "DFr_0196AF3D.Text": {
+    "": {
+      "Text": "Thus we are moral if our will is defined by the intention of doing the moral thing."
+    },
+    "Context": "Flow/kantp1/09_kant: \"Thus we are moral if our will is de...\""
+  },
+  "DFr_9CF2D81F.Text": {
+    "": {
+      "Text": "And there we go."
+    },
+    "Context": "Flow/kantp1_1/09_kant: \"And there we go.\""
+  },
+  "DFr_9E1F136C.Text": {
+    "": {
+      "Text": "As you can see, ^^^^I am approaching this from a different angle than the neophytes you debated before."
+    },
+    "Context": "Flow/kantp1_1/09_kant: \"As you can see, ^^^^I am approachin...\""
+  },
+  "DFr_5625E6B5.Text": {
+    "": {
+      "Text": "“Intentionalism” added to the Idea Slate."
+    },
+    "Context": "Flow/kantp1_1/12_notification: \"“Intentionalism” added to the Idea...\""
+  },
+  "DFr_E9449AD0.Text": {
+    "": {
+      "Text": "I... ^^^^^^see..."
+    },
+    "Context": "Flow/kantp1_1/01_socrates: \"I... ^^^^^^see...\""
+  },
+  "DFr_A5C1F4E7.Text": {
+    "": {
+      "Text": "So wait. ^^^^^^The consequences of actions don’t matter at all?"
+    },
+    "Context": "Flow/kantp1_1/02_ari: \"So wait. ^^^^^^The consequences of...\""
+  },
+  "DFr_9A1B74FC.Text": {
+    "": {
+      "Text": "At the very least, ^^^^they are irrelevant to moral worth."
+    },
+    "Context": "Flow/kantp1_1/09_kant: \"At the very least, ^^^^they are irr...\""
+  },
+  "DFr_2D1144F0.Text": {
+    "": {
+      "Text": "Of course, ^^^^ideally one’s actions would also have positive consequences... ^^^^^^"
+    },
+    "Context": "Flow/kantp1_1/09_kant: \"Of course, ^^^^ideally one’s action...\""
+  },
+  "DFr_0D85E85F.Text": {
+    "": {
+      "Text": "but it is positive intentions that are essential to be of moral character!"
+    },
+    "Context": "Flow/kantp1_1/09_kant: \"but it is positive intentions that...\""
+  },
+  "DFr_C1F6AB88.Text": {
+    "": {
+      "Text": "Socrates, ^^^^are you ready to continue?"
+    },
+    "Context": "Flow/kantp1_1/04_arbiter: \"Socrates, ^^^^are you ready to cont...\""
+  },
+  "DFr_39996B20.Text": {
+    "": {
+      "Text": "(All right... ^^^^^here goes... ^^^^^^so far this doesn’t seem TOO bad...)"
+    },
+    "Context": "Flow/kantp1_1/01_socrates: \"(All right... ^^^^^here goes... ^^^...\""
+  },
+  "DFr_4B002287.Text": {
+    "": {
+      "Text": "Yes, ^^^^^Arbiter."
+    },
+    "Context": "Flow/kantp1_1/01_socrates: \"Yes, ^^^^^Arbiter.\""
+  },
+  "DFr_D287A4BB.Text": {
+    "": {
+      "Text": "There are many things which men covet as good."
+    },
+    "Context": "Flow/kanta1/09_kant: \"There are many things which men cov...\""
+  },
+  "DFr_23CD8EDB.Text": {
+    "": {
+      "Text": "However, a focus on consequences reduces men to mere means, undermining human dignity."
+    },
+    "Context": "Flow/kanta1/09_kant: \"However, a focus on consequences re...\""
+  },
+  "DFr_85015819.Text": {
+    "": {
+      "Text": "In reality, the only thing that is good without qualification is good will."
+    },
+    "Context": "Flow/kanta1/09_kant: \"In reality, the only thing that is...\""
+  },
+  "DFr_4D05AF57.Text": {
+    "": {
+      "Text": "Thus we are moral if our will is defined by the intention of doing the moral thing."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Thus we are moral if our will is de...\""
+  },
+  "DFr_B8AB65CC.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_B06C2AC0.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_25379B23.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_53E05026.Text": {
+    "": {
+      "Text": "I believe this is simply stated."
+    },
+    "Context": "Flow/kanta1/09_kant: \"I believe this is simply stated.\""
+  },
+  "DFr_87594807.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_80B82E84.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_52EACF56.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_38D69E0C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_5E103BC1.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C24538FA.Text": {
+    "": {
+      "Text": "Over your time here, ^^^^^^^you have encountered individuals who believe good to be found in all sorts of things: ^^^^^^^^^security, ^^^^^^happiness, ^^^^piety..."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Over your time here, ^^^^^^^you hav...\""
+  },
+  "DFr_12F8CD65.Text": {
+    "": {
+      "Text": "I am acknowledging the diversity and breadth of moral theory."
+    },
+    "Context": "Flow/kanta1/09_kant: \"I am acknowledging the diversity an...\""
+  },
+  "DFr_6AC8ACBE.Text": {
+    "": {
+      "Text": "Our disorganized society holds many things in high esteem."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Our disorganized society holds many...\""
+  },
+  "DFr_D9154998.Text": {
+    "": {
+      "Text": "I believe this diversity is enough to support my premise."
+    },
+    "Context": "Flow/kanta1/09_kant: \"I believe this diversity is enough...\""
+  },
+  "DFr_F3D1C03B.Text": {
+    "": {
+      "Text": "It seems only fitting to recognize the scope of the field we enter, ^^^^^does it not?"
+    },
+    "Context": "Flow/kanta1/09_kant: \"It seems only fitting to recognize...\""
+  },
+  "DFr_EDC91183.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta1/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_159CC121.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"check!\""
+  },
+  "DFr_002B6848.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"...\""
+  },
+  "DFr_E199E76C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/02_ari: \"...\""
+  },
+  "DFr_94183124.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_5312154E.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_98043486.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta1/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_F6986148.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_180BA75C.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Ouch...\""
+  },
+  "DFr_4A947F31.Text": {
+    "": {
+      "Text": "Can you clarify this for me?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Can you clarify this for me?\""
+  },
+  "DFr_9D84E968.Text": {
+    "": {
+      "Text": "What do you have to support this statement?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"What do you have to support this st...\""
+  },
+  "DFr_2161F7A5.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_14B37C64.Text": {
+    "": {
+      "Text": "I mean that getting caught up in various ends— ^^^^^whether they be happiness, ^^^^a social contract, ^^^^or piety— ^^^^^causes one to lose sight of what is most important."
+    },
+    "Context": "Flow/kanta1/09_kant: \"I mean that getting caught up in va...\""
+  },
+  "DFr_77A095C1.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_6AE736EA.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_95619768.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_D8925185.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BAA8F810.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_A2A88650.Text": {
+    "": {
+      "Text": "I believe you have actually discovered this yourself, ^^^^^Socrates Jones."
+    },
+    "Context": "Flow/kanta1/09_kant: \"I believe you have actually discove...\""
+  },
+  "DFr_8120E7D4.Text": {
+    "": {
+      "Text": "It deals with many of the ideas of previous philosophers in one swoop, showing their philosophies to be full of irrationalities."
+    },
+    "Context": "Flow/kanta1/09_kant: \"It deals with many of the ideas of...\""
+  },
+  "DFr_C5DA6F23.Text": {
+    "": {
+      "Text": "They turn our beings into mere tools for an arbitrary goal."
+    },
+    "Context": "Flow/kanta1/09_kant: \"They turn our beings into mere tool...\""
+  },
+  "DFr_02FCCC1A.Text": {
+    "": {
+      "Text": "Take, ^^^^for example, ^^^^John-Stuart Mill and his philosophy of utilitarianism."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Take, ^^^^for example, ^^^^John-Stu...\""
+  },
+  "DFr_19209461.Text": {
+    "": {
+      "Text": "Just think: ^^^^^^^if your thoughts were as organized as I, ^^^^^you could have gotten here much sooner..."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Just think: ^^^^^^^if your thoughts...\""
+  },
+  "DFr_9774DA4C.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"check!\""
+  },
+  "DFr_22F8FE9E.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta1/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_2ABDBE21.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"...\""
+  },
+  "DFr_03630875.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/02_ari: \"...\""
+  },
+  "DFr_7737035E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_DBA82D13.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_E0AB4552.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta1/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_055C3A8C.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Ouch...\""
+  },
+  "DFr_B2419EE5.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_9072CBDD.Text": {
+    "": {
+      "Text": "Cogs in a careless and soulless machine..."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Cogs in a careless and soulless mac...\""
+  },
+  "DFr_405C0B06.Text": {
+    "": {
+      "Text": "By arbitrarily assigning the status of ultimate end to happiness, ^^^^^^"
+    },
+    "Context": "Flow/kanta1/09_kant: \"By arbitrarily assigning the status...\""
+  },
+  "DFr_A5B13B34.Text": {
+    "": {
+      "Text": "the philosophy completely ignores human rights and dignity!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"the philosophy completely ignores h...\""
+  },
+  "DFr_4018E05A.Text": {
+    "": {
+      "Text": "And Hobbes’s idea that good rests in security... ^^^^^^^any rational person would question how much we must sacrifice to enforce such an ideal."
+    },
+    "Context": "Flow/kanta1/09_kant: \"And Hobbes’s idea that good rests i...\""
+  },
+  "DFr_EECF96B9.Text": {
+    "": {
+      "Text": "No, ^^^^^all of these philosophers are looking in the wrong places. ^^^^^^^^^^^^They are claiming the contingent ^^^^^and ephemeral ^^^^^as eternal ^^^^^^^^without any justification."
+    },
+    "Context": "Flow/kanta1/09_kant: \"No, ^^^^^all of these philosophers...\""
+  },
+  "DFr_57CBB0F0.Text": {
+    "": {
+      "Text": "Mankind must not be reduced to the means of some other goal. ^^^^^Any philosophy that does so has become mired in consequentialism."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Mankind must not be reduced to the...\""
+  },
+  "DFr_E2CD1793.Text": {
+    "": {
+      "Text": ".^.^.^^^^^^^^^^Right."
+    },
+    "Context": "Flow/kanta1/01_socrates: \".^.^.^^^^^^^^^^Right.\""
+  },
+  "DFr_AC43880A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_E8389854.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_011637E8.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_72960FDB.Text": {
+    "": {
+      "Text": "How’s this related to your conclusion?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"How’s this related to your conclusi...\""
+  },
+  "DFr_4288CE9A.Text": {
+    "": {
+      "Text": "Good will is always good."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Good will is always good.\""
+  },
+  "DFr_32333D48.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_16E23347.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_089287DA.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_B3093141.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_7E3505F0.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_19A110CB.Text": {
+    "": {
+      "Text": "As a man cannot possibly know the consequences of his actions, ^^^^it is only fit to judge the will upon which he acts."
+    },
+    "Context": "Flow/kanta1/09_kant: \"As a man cannot possibly know the c...\""
+  },
+  "DFr_3C76081E.Text": {
+    "": {
+      "Text": "This is my conclusion, ^^^^^Herr Jones."
+    },
+    "Context": "Flow/kanta1/09_kant: \"This is my conclusion, ^^^^^Herr Jo...\""
+  },
+  "DFr_08A3762D.Text": {
+    "": {
+      "Text": "There is no situation in which harboring good will could be immoral."
+    },
+    "Context": "Flow/kanta1/09_kant: \"There is no situation in which harb...\""
+  },
+  "DFr_3B71E62D.Text": {
+    "": {
+      "Text": "Most of the “goods” laid out are invalid, only this one stands in all situations."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Most of the “goods” laid out are in...\""
+  },
+  "DFr_8EA97E7B.Text": {
+    "": {
+      "Text": "When this will is good, ^^^^^there can be no doubt that, ^^^^regardless of effect, ^^^^^his actions were moral in nature."
+    },
+    "Context": "Flow/kanta1/09_kant: \"When this will is good, ^^^^^there...\""
+  },
+  "DFr_0EE7EA6F.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta1/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_0C8DCF9C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/02_ari: \"...\""
+  },
+  "DFr_12962FB0.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_440408CF.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_3274F86E.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta1/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_C120749C.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_6AF00DD2.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Ouch...\""
+  },
+  "DFr_73977913.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"check!\""
+  },
+  "DFr_E3EE20A9.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"...\""
+  },
+  "DFr_725AC70F.Text": {
+    "": {
+      "Text": "Assessing the will is the only way to keep man as an end, ^^^^and maintain his dignity."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Assessing the will is the only way...\""
+  },
+  "DFr_6954359C.Text": {
+    "": {
+      "Text": "So, ^^^what you are saying is... ^^^^^^^^^^^^when I tell Ari she can’t play games all night because I’m concerned for her, ^^^^^^"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"So, ^^^what you are saying is... ^^...\""
+  },
+  "DFr_C876E3E4.Text": {
+    "": {
+      "Text": "my action is noble, ^^^^^^^regardless of her response?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"my action is noble, ^^^^^^^regardle...\""
+  },
+  "DFr_D231CDD0.Text": {
+    "": {
+      "Text": "This is correct."
+    },
+    "Context": "Flow/kanta1/09_kant: \"This is correct.\""
+  },
+  "DFr_EEA19F38.Text": {
+    "": {
+      "Text": "Dad..."
+    },
+    "Context": "Flow/kanta1/02_ari: \"Dad...\""
+  },
+  "DFr_5EE4E73C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_EA476094.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_0E8F358F.Text": {
+    "": {
+      "Text": "If we do the right thing for reasons other than good intentions, ^^^^^^our action is less commendable."
+    },
+    "Context": "Flow/kanta1/09_kant: \"If we do the right thing for reason...\""
+  },
+  "DFr_75C3F080.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta1/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_4647D17E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/02_ari: \"...\""
+  },
+  "DFr_D2421630.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_29ABFBEC.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_D0393EA5.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta1/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_6E72E2AA.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_8E063E4B.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Ouch...\""
+  },
+  "DFr_78A7F1D4.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"check!\""
+  },
+  "DFr_13513FFD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/04_arbiter: \"...\""
+  },
+  "DFr_286D0AC4.Text": {
+    "": {
+      "Text": "Oh... ^^^^^^^Okay... ^^^^^^^^^^^I guess."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Oh... ^^^^^^^Okay... ^^^^^^^^^^^I g...\""
+  },
+  "DFr_C54A2094.Text": {
+    "": {
+      "Text": "This seems pretty straightforward, ^^^^does it not, ^^^^Herr Jones?"
+    },
+    "Context": "Flow/kanta1/09_kant: \"This seems pretty straightforward,...\""
+  },
+  "DFr_350A6921.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_02A39631.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_0C55A98E.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_308BC90E.Text": {
+    "": {
+      "Text": "As long as we intend to act morally, ^^^^^then we, ^^^ourselves, ^^^^are moral."
+    },
+    "Context": "Flow/kanta1/09_kant: \"As long as we intend to act morally...\""
+  },
+  "DFr_7853EFE7.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_E204902C.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_7729B822.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_9CD2F242.Text": {
+    "": {
+      "Text": "If we accept that good will is the only true good, ^^^^^then you would agree with me that we must always act with moral intentions."
+    },
+    "Context": "Flow/kanta1/09_kant: \"If we accept that good will is the...\""
+  },
+  "DFr_DE03D62E.Text": {
+    "": {
+      "Text": "It further elucidates it."
+    },
+    "Context": "Flow/kanta1/09_kant: \"It further elucidates it.\""
+  },
+  "DFr_D0E7CBA1.Text": {
+    "": {
+      "Text": "But, ^^^^uh... ^^^^^^how do we know whether the intended course of action is moral?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"But, ^^^^uh... ^^^^^^how do we know...\""
+  },
+  "DFr_7AEAB635.Text": {
+    "": {
+      "Text": "By whether or not it adheres to the Categorical Imperatives, ^^^^of course!"
+    },
+    "Context": "Flow/kanta1/09_kant: \"By whether or not it adheres to the...\""
+  },
+  "DFr_0C2012CC.Text": {
+    "": {
+      "Text": "Oh. ^^^^Of course..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Oh. ^^^^Of course...\""
+  },
+  "DFr_D8572522.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"...\""
+  },
+  "DFr_36B42BE4.Text": {
+    "": {
+      "Text": "^^^^^^^^No, wait, ^^^^^^^^^^hold on— ^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"^^^^^^^^No, wait, ^^^^^^^^^^hold on...\""
+  },
+  "DFr_1CE3456B.Text": {
+    "": {
+      "Text": "Uhhhh, ^^^^^^^^^^^what?"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Uhhhh, ^^^^^^^^^^^what?\""
+  },
+  "DFr_CD10FF2B.Text": {
+    "": {
+      "Text": "Huh, ^^^^interesting..."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Huh, ^^^^interesting...\""
+  },
+  "DFr_D93459BD.Text": {
+    "": {
+      "Text": "What’s interesting?"
+    },
+    "Context": "Flow/kanta1/02_ari: \"What’s interesting?\""
+  },
+  "DFr_DA078C3F.Text": {
+    "": {
+      "Text": "This man! ^^^^He’s so uptight."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"This man! ^^^^He’s so uptight.\""
+  },
+  "DFr_BC80F87F.Text": {
+    "": {
+      "Text": "Are you finished? ^^^^^I have a schedule to keep."
+    },
+    "Context": "Flow/kanta1/09_kant: \"Are you finished? ^^^^^I have a sch...\""
+  },
+  "DFr_542D75F8.Text": {
+    "": {
+      "Text": "Er, ^^^not quite yet, ^^^^^Kant."
+    },
+    "Context": "Flow/kanta1/01_socrates: \"Er, ^^^not quite yet, ^^^^^Kant.\""
+  },
+  "DFr_3CF14603.Text": {
+    "": {
+      "Text": "(Back to the top...)"
+    },
+    "Context": "Flow/kanta1/01_socrates: \"(Back to the top...)\""
+  },
+  "DFr_4F66ADB3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Kant_gameover/09_kant: \"...\""
+  },
+  "DFr_88E93CB8.Text": {
+    "": {
+      "Text": "Herr Jones, ^^^^you are throwing off my schedule. ^^^^^You were supposed to have found a flaw in my argument half an hour ago."
+    },
+    "Context": "Flow/Kant_gameover/09_kant: \"Herr Jones, ^^^^you are throwing of...\""
+  },
+  "DFr_65AB5378.Text": {
+    "": {
+      "Text": "Wait, ^^^^what?"
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"Wait, ^^^^what?\""
+  },
+  "DFr_7BF14BBD.Text": {
+    "": {
+      "Text": "If there is one thing I cannot abide, ^^^^it is tardiness."
+    },
+    "Context": "Flow/Kant_gameover/09_kant: \"If there is one thing I cannot abid...\""
+  },
+  "DFr_AF70900F.Text": {
+    "": {
+      "Text": "Tardiness, ^^^^you see, is a clear categorical evil. ^^^^^^^^And I cannot allow you to use me as a means to your goal."
+    },
+    "Context": "Flow/Kant_gameover/09_kant: \"Tardiness, ^^^^you see, is a clear...\""
+  },
+  "DFr_36E59C0B.Text": {
+    "": {
+      "Text": "I don’t understand! ^^^^^I’m so confused."
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"I don’t understand! ^^^^^I’m so con...\""
+  },
+  "DFr_096A8908.Text": {
+    "": {
+      "Text": "Auf wiedersehen, ^^^Herr Jones."
+    },
+    "Context": "Flow/Kant_gameover/09_kant: \"Auf wiedersehen, ^^^Herr Jones.\""
+  },
+  "DFr_13A28160.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"...\""
+  },
+  "DFr_B0D0B09F.Text": {
+    "": {
+      "Text": "...What just happened?"
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"...What just happened?\""
+  },
+  "DFr_FA5A124A.Text": {
+    "": {
+      "Text": "...Wait! ^^^^^"
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"...Wait! ^^^^^\""
+  },
+  "DFr_EB98E885.Text": {
+    "": {
+      "Text": "This is a Game Over, isn’t it?! ^^^^^^^^^^"
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"This is a Game Over, isn’t it?! ^^^...\""
+  },
+  "DFr_42E1E639.Text": {
+    "": {
+      "Text": "Goddamn it!"
+    },
+    "Context": "Flow/Kant_gameover/01_socrates: \"Goddamn it!\""
+  },
+  "DFr_93BFFD57.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/Kant_gameover/02_ari: \"...\""
+  },
+  "DFr_C63B6787.Text": {
+    "": {
+      "Text": "Man, ^^^^^even Game Overs are confusing with Kant."
+    },
+    "Context": "Flow/Kant_gameover/02_ari: \"Man, ^^^^^even Game Overs are confu...\""
+  },
+  "DFr_7E2783BA.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/Kant_gameover/11_nobody: \"...\""
+  },
+  "DFr_AE61020C.Text": {
+    "": {
+      "Text": "Kant... ^^^^these ^^^^^THINGS ^^^^^you just mentioned..."
+    },
+    "Context": "Flow/kanta1end/01_socrates: \"Kant... ^^^^these ^^^^^THINGS ^^^^^...\""
+  },
+  "DFr_39548D0F.Text": {
+    "": {
+      "Text": "Categorical Imperatives?"
+    },
+    "Context": "Flow/kanta1end/09_kant: \"Categorical Imperatives?\""
+  },
+  "DFr_CCA3E676.Text": {
+    "": {
+      "Text": "Yes... ^^^^uh..."
+    },
+    "Context": "Flow/kanta1end/01_socrates: \"Yes... ^^^^uh...\""
+  },
+  "DFr_7D9D5127.Text": {
+    "": {
+      "Text": "What ARE they, ^^^^^exactly?\""
+    },
+    "Context": "Flow/kanta1end/01_socrates: \"What ARE they, ^^^^^exactly?\"\""
+  },
+  "DFr_EE012D2C.Text": {
+    "": {
+      "Text": "Indeed. ^^^I don’t believe you ever explained those."
+    },
+    "Context": "Flow/kanta1end/04_arbiter: \"Indeed. ^^^I don’t believe you ever...\""
+  },
+  "DFr_9B7FD864.Text": {
+    "": {
+      "Text": "My apologies."
+    },
+    "Context": "Flow/kanta1end/09_kant: \"My apologies.\""
+  },
+  "DFr_D3FD964E.Text": {
+    "": {
+      "Text": "Categorical Imperatives are the moral laws we should seek to discover."
+    },
+    "Context": "Flow/kanta1end/09_kant: \"Categorical Imperatives are the mor...\""
+  },
+  "DFr_BC3D6B25.Text": {
+    "": {
+      "Text": "Listen closely, ^^^I shall explain."
+    },
+    "Context": "Flow/kanta1end/09_kant: \"Listen closely, ^^^I shall explain.\""
+  },
+  "DFr_F394DB0B.Text": {
+    "": {
+      "Text": "If we intend to always do the moral thing, we must develop rules, or maxims, to shape our actions."
+    },
+    "Context": "Flow/kantp2/09_kant: \"If we intend to always do the moral...\""
+  },
+  "DFr_2F5EB5FA.Text": {
+    "": {
+      "Text": "There are certain actions which we must always avoid."
+    },
+    "Context": "Flow/kantp2/09_kant: \"There are certain actions which we...\""
+  },
+  "DFr_008A1A96.Text": {
+    "": {
+      "Text": "These ideas form rules we must follow at all times, regardless of emotion or consequence."
+    },
+    "Context": "Flow/kantp2/09_kant: \"These ideas form rules we must foll...\""
+  },
+  "DFr_B62FEE5E.Text": {
+    "": {
+      "Text": "Other actions, we should take at every opportunity."
+    },
+    "Context": "Flow/kantp2/09_kant: \"Other actions, we should take at ev...\""
+  },
+  "DFr_1A8492E6.Text": {
+    "": {
+      "Text": "These rules are Categorical Imperatives."
+    },
+    "Context": "Flow/kantp2/09_kant: \"These rules are Categorical Imperat...\""
+  },
+  "DFr_7972C783.Text": {
+    "": {
+      "Text": "(Okay... ^^^^^the confusion people feel about this man’s ideas makes sense now...)"
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"(Okay... ^^^^^the confusion people...\""
+  },
+  "DFr_770A28CF.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"...\""
+  },
+  "DFr_EF1908C9.Text": {
+    "": {
+      "Text": "(Where should I begin...)"
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"(Where should I begin...)\""
+  },
+  "DFr_26B7993D.Text": {
+    "": {
+      "Text": "........"
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"........\""
+  },
+  "DFr_067AF7FD.Text": {
+    "": {
+      "Text": "Um, ^^^^^Kant?"
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"Um, ^^^^^Kant?\""
+  },
+  "DFr_945BAB59.Text": {
+    "": {
+      "Text": "!!"
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"!!\""
+  },
+  "DFr_3F1688E0.Text": {
+    "": {
+      "Text": "ACH. ^^^^^^^Apologies, ^^^^^Herr Jones. ^^^^^^^^"
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"ACH. ^^^^^^^Apologies, ^^^^^Herr Jo...\""
+  },
+  "DFr_7997B3B2.Text": {
+    "": {
+      "Text": "I was momentarily distracted by your beard."
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"I was momentarily distracted by you...\""
+  },
+  "DFr_D72EAD93.Text": {
+    "": {
+      "Text": "It is... ^^^^unsightly. ^^^^^^^^^^^^^^How can one stand to have such a blemish upon one’s face?"
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"It is... ^^^^unsightly. ^^^^^^^^^^^...\""
+  },
+  "DFr_0A22E502.Text": {
+    "": {
+      "Text": "Hey, ^^^^the goatee is one of the few cool things about my dad!"
+    },
+    "Context": "Flow/kantp2_2/02_ari: \"Hey, ^^^^the goatee is one of the f...\""
+  },
+  "DFr_FA4209D9.Text": {
+    "": {
+      "Text": "(Oh, ^^^^thanks, ^^^^^Ari...)"
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"(Oh, ^^^^thanks, ^^^^^Ari...)\""
+  },
+  "DFr_BBD3370E.Text": {
+    "": {
+      "Text": "Personally, ^^^^^^^^^^I always liked the sweater-vest..."
+    },
+    "Context": "Flow/kantp2_2/04_arbiter: \"Personally, ^^^^^^^^^^I always like...\""
+  },
+  "DFr_D209D242.Text": {
+    "": {
+      "Text": "Well, ^^^^regardless of how you all feel about my beard or my sweater-vest, ^^^^^^^"
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"Well, ^^^^regardless of how you all...\""
+  },
+  "DFr_63849BE6.Text": {
+    "": {
+      "Text": "I have questions for you, ^^^^^^Kant."
+    },
+    "Context": "Flow/kantp2_2/01_socrates: \"I have questions for you, ^^^^^^Kan...\""
+  },
+  "DFr_21B044EC.Text": {
+    "": {
+      "Text": "\"Of course. ^^^^^Ask away."
+    },
+    "Context": "Flow/kantp2_2/09_kant: \"\"Of course. ^^^^^Ask away.\""
+  },
+  "DFr_695DED0F.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_84309C30.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_2E5CC0BB.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_7DAF7E1F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_4E13C349.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2D76C005.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_A18540A7.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_F3140668.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_7E79221A.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_BE565495.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"check!\""
+  },
+  "DFr_AC31E1D5.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...\""
+  },
+  "DFr_89E6C933.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/02_ari: \"...\""
+  },
+  "DFr_E7BEFC56.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_15215B64.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_30721AD6.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_D37ED43A.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_3E3DD80B.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Ouch...\""
+  },
+  "DFr_B41A83DA.Text": {
+    "": {
+      "Text": "If we intend to always do the moral thing, we must develop rules, or maxims, to shape our actions."
+    },
+    "Context": "Flow/kanta2/09_kant: \"If we intend to always do the moral...\""
+  },
+  "DFr_470E7646.Text": {
+    "": {
+      "Text": "There are certain actions which we must always avoid."
+    },
+    "Context": "Flow/kanta2/09_kant: \"There are certain actions which we...\""
+  },
+  "DFr_D2C594FF.Text": {
+    "": {
+      "Text": "These ideas form rules we must follow at all times, regardless of emotion or consequence."
+    },
+    "Context": "Flow/kanta2/09_kant: \"These ideas form rules we must foll...\""
+  },
+  "DFr_0C43C549.Text": {
+    "": {
+      "Text": "Other actions, we should take at every opportunity."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Other actions, we should take at ev...\""
+  },
+  "DFr_B0FFE508.Text": {
+    "": {
+      "Text": "These rules are Categorical Imperatives."
+    },
+    "Context": "Flow/kanta2/09_kant: \"These rules are Categorical Imperat...\""
+  },
+  "DFr_C0F3365B.Text": {
+    "": {
+      "Text": "The morality of an action stems from the rules which govern it."
+    },
+    "Context": "Flow/kanta2/09_kant: \"The morality of an action stems fro...\""
+  },
+  "DFr_A96E9872.Text": {
+    "": {
+      "Text": "In order to properly assess our intentions, ^^^^^^we must therefore clearly define these rules."
+    },
+    "Context": "Flow/kanta2/09_kant: \"In order to properly assess our int...\""
+  },
+  "DFr_89ABF0F9.Text": {
+    "": {
+      "Text": "This is very much a continuation of my last argument."
+    },
+    "Context": "Flow/kanta2/09_kant: \"This is very much a continuation of...\""
+  },
+  "DFr_8062B101.Text": {
+    "": {
+      "Text": "Our intentions must be defined somehow—^^^^^ with rules that shape what we should and should not do."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Our intentions must be defined some...\""
+  },
+  "DFr_D7E0C4E5.Text": {
+    "": {
+      "Text": "For without the guidance of rules, ^^^^^we will be truly lost!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"For without the guidance of rules,...\""
+  },
+  "DFr_EA67EB08.Text": {
+    "": {
+      "Text": "It establishes the link between my previous ideas and the ones I am about to espouse."
+    },
+    "Context": "Flow/kanta2/09_kant: \"It establishes the link between my...\""
+  },
+  "DFr_8CF7316A.Text": {
+    "": {
+      "Text": "The marble foundation upon which my tower of reason will be built!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"The marble foundation upon which my...\""
+  },
+  "DFr_75856C55.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_E351AF31.Text": {
+    "": {
+      "Text": "This seems like a grand statement. ^^^^^^^Do you have an example?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This seems like a grand statement....\""
+  },
+  "DFr_AC6815BA.Text": {
+    "": {
+      "Text": "How’s this related to everything?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"How’s this related to everything?\""
+  },
+  "DFr_352210EF.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_81E6EB27.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_ADF89A8E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_E5832608.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_9D60BF11.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2CBFEB14.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...\""
+  },
+  "DFr_55E6D10B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_7B4833BD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/02_ari: \"...\""
+  },
+  "DFr_46FBA1E8.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_9F090D4B.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"check!\""
+  },
+  "DFr_30455615.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_E0F6A5B8.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_73FA4DD3.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_FA80F74C.Text": {
+    "": {
+      "Text": "By a lie, ^^^^^^a man annihilates his dignity as a man."
+    },
+    "Context": "Flow/kanta2/09_kant: \"By a lie, ^^^^^^a man annihilates h...\""
+  },
+  "DFr_8051B514.Text": {
+    "": {
+      "Text": "Thus, ^^^one should never lie. ^^^^^^^ Ever."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Thus, ^^^one should never lie. ^^^^...\""
+  },
+  "DFr_E7B51B8C.Text": {
+    "": {
+      "Text": "I am describing the first sort of Imperative— ^^^^^the negative sort."
+    },
+    "Context": "Flow/kanta2/09_kant: \"I am describing the first sort of I...\""
+  },
+  "DFr_620F6CF9.Text": {
+    "": {
+      "Text": "Lying is an example. ^^^^^^To lie is to spread deceit among men."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Lying is an example. ^^^^^^To lie i...\""
+  },
+  "DFr_217CF16A.Text": {
+    "": {
+      "Text": "There are certain things that are clearly always wrong when the maxim behind them is examined."
+    },
+    "Context": "Flow/kanta2/09_kant: \"There are certain things that are c...\""
+  },
+  "DFr_C18A0092.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Ouch...\""
+  },
+  "DFr_22CDDF52.Text": {
+    "": {
+      "Text": "“Never Lie” added to the Idea Slate."
+    },
+    "Context": "Flow/kanta2/12_notification: \"“Never Lie” added to the Idea Slate...\""
+  },
+  "DFr_9164A3E1.Text": {
+    "": {
+      "Text": "But— ^^^Lying!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"But— ^^^Lying!\""
+  },
+  "DFr_98B0B870.Text": {
+    "": {
+      "Text": "Ja. ^^^^That is the example I gave here, indeed."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ja. ^^^^That is the example I gave...\""
+  },
+  "DFr_FA4BA753.Text": {
+    "": {
+      "Text": "Have my own examples repeated back to me; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have my own examples repeated back...\""
+  },
+  "DFr_5E9C6045.Text": {
+    "": {
+      "Text": "Have my own examples repeated back to me; ^^^^^^^^check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have my own examples repeated back...\""
+  },
+  "DFr_99073740.Text": {
+    "": {
+      "Text": "But, ^^^wait..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"But, ^^^wait...\""
+  },
+  "DFr_C257F353.Text": {
+    "": {
+      "Text": "Dad, ^^^whatever you are trying to do, ^^^I’m guessing there is a better place to do it."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Dad, ^^^whatever you are trying to...\""
+  },
+  "DFr_5010FEFB.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_0926249B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_408D3C75.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_41A8CC23.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_E52531C3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BA1B24A8.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_B7EBC19E.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"check!\""
+  },
+  "DFr_AE1691B7.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...\""
+  },
+  "DFr_5ED7E326.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/02_ari: \"...\""
+  },
+  "DFr_B782E296.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_1CDFDC41.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_C86D5F1C.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_DAC0D11D.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_04318093.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Ouch...\""
+  },
+  "DFr_00A2402E.Text": {
+    "": {
+      "Text": "By attempting to render such assistance, ^^^^^one respects human dignity."
+    },
+    "Context": "Flow/kanta2/09_kant: \"By attempting to render such assist...\""
+  },
+  "DFr_F95F873A.Text": {
+    "": {
+      "Text": "Thus, ^^^^^one should always make the attempt."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Thus, ^^^^^one should always make t...\""
+  },
+  "DFr_B5F7CF45.Text": {
+    "": {
+      "Text": "I am describing another type of Imperative— ^^^^^the positive sort."
+    },
+    "Context": "Flow/kanta2/09_kant: \"I am describing another type of Imp...\""
+  },
+  "DFr_E32674AE.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_DFC37F40.Text": {
+    "": {
+      "Text": "How is this related to everything?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"How is this related to everything?\""
+  },
+  "DFr_938D4D9B.Text": {
+    "": {
+      "Text": "Certain actions are clearly always good, ^^^^and should be followed."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Certain actions are clearly always...\""
+  },
+  "DFr_3EFF32DE.Text": {
+    "": {
+      "Text": "Hah! ^^^^^^See, ^^^^Dad? ^^^^^^^Kant also thinks I did the right thing!"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Hah! ^^^^^^See, ^^^^Dad? ^^^^^^^Kan...\""
+  },
+  "DFr_FD8EE265.Text": {
+    "": {
+      "Text": "I thought you weren’t much of a Kant fan."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"I thought you weren’t much of a Kan...\""
+  },
+  "DFr_B44EDEA2.Text": {
+    "": {
+      "Text": "Hush. ^^^^^^Validation is always nice... ^^^^^^^^^even if it comes in a confusing package."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Hush. ^^^^^^Validation is always ni...\""
+  },
+  "DFr_7167E34E.Text": {
+    "": {
+      "Text": "“Help a Dying Man” added to the Idea Slate."
+    },
+    "Context": "Flow/kanta2/12_notification: \"“Help a Dying Man” added to the Ide...\""
+  },
+  "DFr_E7D7D955.Text": {
+    "": {
+      "Text": "But— ^^^Helping a dying man!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"But— ^^^Helping a dying man!\""
+  },
+  "DFr_201B3BDC.Text": {
+    "": {
+      "Text": "Ja. ^^^^That is the example I gave here, indeed."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ja. ^^^^That is the example I gave...\""
+  },
+  "DFr_426EC784.Text": {
+    "": {
+      "Text": "Have my own examples repeated back to me; ^^^^^^^^check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have my own examples repeated back...\""
+  },
+  "DFr_A3563DC0.Text": {
+    "": {
+      "Text": "But, ^^^wait..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"But, ^^^wait...\""
+  },
+  "DFr_EAFB41A6.Text": {
+    "": {
+      "Text": "Dad, ^^^whatever you are trying to do, ^^^I’m guessing there is a better place to do it."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Dad, ^^^whatever you are trying to...\""
+  },
+  "DFr_F10F46F7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_FF3CE8B1.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_A39F0EB8.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_8FB7B36B.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"check!\""
+  },
+  "DFr_BFEEEBE8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...\""
+  },
+  "DFr_8BE6E13A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/02_ari: \"...\""
+  },
+  "DFr_43777A3D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_4E71EF63.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_1CBA73B2.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_5637DC15.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_C38D0654.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Ouch...\""
+  },
+  "DFr_440B0212.Text": {
+    "": {
+      "Text": "Even if, ^^^in a specific situation, ^^^the outcome may seem personally painful, ^^^^^we have no choice but to follow them."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Even if, ^^^in a specific situation...\""
+  },
+  "DFr_6832B331.Text": {
+    "": {
+      "Text": "For if we do not, ^^^^^then the power of the idea is undermined, ^^^^^and no good can come from it."
+    },
+    "Context": "Flow/kanta2/09_kant: \"For if we do not, ^^^^^then the pow...\""
+  },
+  "DFr_78C5D5FE.Text": {
+    "": {
+      "Text": "(Huh...)"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"(Huh...)\""
+  },
+  "DFr_378AEF1B.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_F448AE94.Text": {
+    "": {
+      "Text": "Why such a strict line?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Why such a strict line?\""
+  },
+  "DFr_0FFFDEE1.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_645C713F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_4C612A50.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_5AA69140.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_DB54D8C0.Text": {
+    "": {
+      "Text": "The maxims which we can deem to be Imperatives must be treated as if they are laws of nature."
+    },
+    "Context": "Flow/kanta2/09_kant: \"The maxims which we can deem to be...\""
+  },
+  "DFr_6FB0009A.Text": {
+    "": {
+      "Text": "When we deem some maxim to be moral, ^^^^^we must follow it!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"When we deem some maxim to be moral...\""
+  },
+  "DFr_49696AE1.Text": {
+    "": {
+      "Text": "One cannot simply choose to ignore gravity!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"One cannot simply choose to ignore...\""
+  },
+  "DFr_5471C669.Text": {
+    "": {
+      "Text": "...I can."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...I can.\""
+  },
+  "DFr_2B0D8266.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/09_kant: \"...\""
+  },
+  "DFr_FB6E487F.Text": {
+    "": {
+      "Text": "My metaphor still works."
+    },
+    "Context": "Flow/kanta2/09_kant: \"My metaphor still works.\""
+  },
+  "DFr_73A4A9DB.Text": {
+    "": {
+      "Text": "I’m not convinced we should always follow this rule! ^^^^^^There may be cases when helping a dying man would be wrong."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"I’m not convinced we should always...\""
+  },
+  "DFr_29B5A58A.Text": {
+    "": {
+      "Text": "Like what?"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Like what?\""
+  },
+  "DFr_60C691E3.Text": {
+    "": {
+      "Text": "Well, ^^^like... ^^^^^^^^What if the dying man was ^^^^^^^"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well, ^^^like... ^^^^^^^^What if th...\""
+  },
+  "DFr_3795C2FA.Text": {
+    "": {
+      "Text": "the Joker!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"the Joker!\""
+  },
+  "DFr_F2B52561.Text": {
+    "": {
+      "Text": "The... ^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"The... ^^^^^^^^^^\""
+  },
+  "DFr_804CAE81.Text": {
+    "": {
+      "Text": "who?"
+    },
+    "Context": "Flow/kanta2/09_kant: \"who?\""
+  },
+  "DFr_DE87DA65.Text": {
+    "": {
+      "Text": "Dad... ^^^^^^^^is this REALLY your counter example?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Dad... ^^^^^^^^is this REALLY your...\""
+  },
+  "DFr_668DB220.Text": {
+    "": {
+      "Text": "...Um, ^^^^^yeah?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...Um, ^^^^^yeah?\""
+  },
+  "DFr_D150F56E.Text": {
+    "": {
+      "Text": "What does this mean, exactly?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"What does this mean, exactly?\""
+  },
+  "DFr_D02FC011.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_1B04696E.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_EA463656.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_617F4A01.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BFAB5C10.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_840F1D28.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_1DAF063D.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_98D9C816.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_119E712A.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"check!\""
+  },
+  "DFr_7086B95A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"...\""
+  },
+  "DFr_4E5F627C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/02_ari: \"...\""
+  },
+  "DFr_4DF055EC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"...\""
+  },
+  "DFr_E96DAFAE.Text": {
+    "": {
+      "Text": "They are also imperative, ^^^^meaning they tell us how to behave."
+    },
+    "Context": "Flow/kanta2/09_kant: \"They are also imperative, ^^^^meani...\""
+  },
+  "DFr_18B1142B.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_77F1A416.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_7F734F5C.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Ouch...\""
+  },
+  "DFr_6E5A2EFB.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_855D9389.Text": {
+    "": {
+      "Text": "Simple. ^^^^^They are categorical, ^^^^meaning they apply to everyone without exception."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Simple. ^^^^^They are categorical,...\""
+  },
+  "DFr_6A2F7732.Text": {
+    "": {
+      "Text": "Being a term I coined and assigned, I don’t think that is necessary."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Being a term I coined and assigned,...\""
+  },
+  "DFr_75041724.Text": {
+    "": {
+      "Text": "I choose the term, ^^^^so it is the right one!"
+    },
+    "Context": "Flow/kanta2/09_kant: \"I choose the term, ^^^^so it is the...\""
+  },
+  "DFr_B60BD9F9.Text": {
+    "": {
+      "Text": "Well, in reality, it provides a name for what I have described here."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Well, in reality, it provides a nam...\""
+  },
+  "DFr_32C3F476.Text": {
+    "": {
+      "Text": "Kant was always making up terms, ^^^^Dad."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Kant was always making up terms, ^^...\""
+  },
+  "DFr_8E6CCE10.Text": {
+    "": {
+      "Text": "That’s part of what made him such a lovely read."
+    },
+    "Context": "Flow/kanta2/02_ari: \"That’s part of what made him such a...\""
+  },
+  "DFr_592C0B4C.Text": {
+    "": {
+      "Text": "Any ideas, Ari?"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Any ideas, Ari?\""
+  },
+  "DFr_811C2ED0.Text": {
+    "": {
+      "Text": "Nope. ^^^^None, whatsoever. ^^^^I told you, ^^I don’t understand a word this man says."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Nope. ^^^^None, whatsoever. ^^^^I t...\""
+  },
+  "DFr_43B38812.Text": {
+    "": {
+      "Text": "Wonderful..."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Wonderful...\""
+  },
+  "DFr_362F965F.Text": {
+    "": {
+      "Text": "(Well, back to the top.)"
+    },
+    "Context": "Flow/kanta2/01_socrates: \"(Well, back to the top.)\""
+  },
+  "DFr_F6A3C657.Text": {
+    "": {
+      "Text": "Helping a dying man."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Helping a dying man.\""
+  },
+  "DFr_F712BA90.Text": {
+    "": {
+      "Text": "Give me an example."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"Give me an example.\""
+  },
+  "DFr_4A6F17C6.Text": {
+    "": {
+      "Text": "It details the extent to which Imperatives should affect our lives."
+    },
+    "Context": "Flow/kanta2/09_kant: \"It details the extent to which Impe...\""
+  },
+  "DFr_AA22A6C3.Text": {
+    "": {
+      "Text": "Thus, the extent of the applicability of the idea."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Thus, the extent of the applicabili...\""
+  },
+  "DFr_FA61527B.Text": {
+    "": {
+      "Text": "But... ^^^^^^^^^^^Batman would NEVER let the Joker die. ^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta2/02_ari: \"But... ^^^^^^^^^^^Batman would NEVE...\""
+  },
+  "DFr_F51681EC.Text": {
+    "": {
+      "Text": "Even he would think you should help in that case!"
+    },
+    "Context": "Flow/kanta2/02_ari: \"Even he would think you should help...\""
+  },
+  "DFr_625B2526.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^^^Batman would be ashamed of you for suggesting otherwise."
+    },
+    "Context": "Flow/kanta2/04_arbiter: \"Indeed. ^^^^^^^^Batman would be ash...\""
+  },
+  "DFr_E9781920.Text": {
+    "": {
+      "Text": "*sigh* ^^^^^Okay, ^^^^okay. ^^^^^^^^I retract my counterpoint."
+    },
+    "Context": "Flow/kanta2/01_socrates: \"*sigh* ^^^^^Okay, ^^^^okay. ^^^^^^^...\""
+  },
+  "DFr_6F1E499A.Text": {
+    "": {
+      "Text": "Hold on just a moment!"
+    },
+    "Context": "Flow/kanta2end/01_socrates: \"Hold on just a moment!\""
+  },
+  "DFr_F6E2ED88.Text": {
+    "": {
+      "Text": "Kant, ^^^you claim we should never lie, correct? ^^^^^^^^^That telling the truth is a Categorical Imperative?"
+    },
+    "Context": "Flow/kanta2end/01_socrates: \"Kant, ^^^you claim we should never...\""
+  },
+  "DFr_99B140C2.Text": {
+    "": {
+      "Text": "Indeed. ^^^^It is the prime example of one."
+    },
+    "Context": "Flow/kanta2end/09_kant: \"Indeed. ^^^^It is the prime example...\""
+  },
+  "DFr_EA2A63D1.Text": {
+    "": {
+      "Text": "Right. ^^^^And you also claim that we must follow the Imperatives without fail, ^^^^^correct?"
+    },
+    "Context": "Flow/kanta2end/01_socrates: \"Right. ^^^^And you also claim that...\""
+  },
+  "DFr_B4EEA481.Text": {
+    "": {
+      "Text": "Correct, ^^^^Herr Jones."
+    },
+    "Context": "Flow/kanta2end/09_kant: \"Correct, ^^^^Herr Jones.\""
+  },
+  "DFr_F166B25B.Text": {
+    "": {
+      "Text": "Well, that’s interesting... ^^^^"
+    },
+    "Context": "Flow/kanta2end/01_socrates: \"Well, that’s interesting... ^^^^\""
+  },
+  "DFr_532A1EEE.Text": {
+    "": {
+      "Text": "Because using only those two facts, ^^^^^we’re already in a worrisome place!"
+    },
+    "Context": "Flow/kanta2end/01_socrates: \"Because using only those two facts,...\""
+  },
+  "DFr_AFB1BBEF.Text": {
+    "": {
+      "Text": "Oh?"
+    },
+    "Context": "Flow/kanta2end/09_kant: \"Oh?\""
+  },
+  "DFr_CA313119.Text": {
+    "": {
+      "Text": "I will admit that, ^^^^in most situations, ^^^^lying is not the most moral of choices."
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"I will admit that, ^^^^in most situ...\""
+  },
+  "DFr_B39B2A98.Text": {
+    "": {
+      "Text": "But there’s no denying there are some situations when the truth can be deadly!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"But there’s no denying there are so...\""
+  },
+  "DFr_3DF34FBA.Text": {
+    "": {
+      "Text": "Situations where lying would be the better thing to do!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Situations where lying would be the...\""
+  },
+  "DFr_4E1B44E4.Text": {
+    "": {
+      "Text": "ACH!"
+    },
+    "Context": "Flow/kanta2end_1/09_kant: \"ACH!\""
+  },
+  "DFr_8B5B69EE.Text": {
+    "": {
+      "Text": "Let’s say one was sheltering fugitives from an oppressive regime, ^^^^keeping them hidden from the forces which would persecute them."
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Let’s say one was sheltering fugiti...\""
+  },
+  "DFr_9EEF556F.Text": {
+    "": {
+      "Text": "It seems to me that keeping them hidden is clearly the right choice, ^^^^^^^but you would want us to blab to every person who shows up at the door!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"It seems to me that keeping them hi...\""
+  },
+  "DFr_4C969A70.Text": {
+    "": {
+      "Text": "This strikes me as empirically wrong!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"This strikes me as empirically wron...\""
+  },
+  "DFr_9A77CB3B.Text": {
+    "": {
+      "Text": "Oh, ^^^^interesting!"
+    },
+    "Context": "Flow/kanta2end_1/04_arbiter: \"Oh, ^^^^interesting!\""
+  },
+  "DFr_CD66886A.Text": {
+    "": {
+      "Text": "Way to go, ^^^Dad!"
+    },
+    "Context": "Flow/kanta2end_1/02_ari: \"Way to go, ^^^Dad!\""
+  },
+  "DFr_1D2B58BF.Text": {
+    "": {
+      "Text": "Nicht schon wieder, ^^^^bitte!"
+    },
+    "Context": "Flow/kanta2end_1/09_kant: \"Nicht schon wieder, ^^^^bitte!\""
+  },
+  "DFr_90588606.Text": {
+    "": {
+      "Text": "Uh... ^^^^right."
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Uh... ^^^^right.\""
+  },
+  "DFr_8D47375D.Text": {
+    "": {
+      "Text": "You can swear in German all you want— ^^^^^but I have a point!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"You can swear in German all you wan...\""
+  },
+  "DFr_F6EC49A6.Text": {
+    "": {
+      "Text": "Earlier, ^^^^^you stated anything that needs qualification can’t be the origin of morality..."
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Earlier, ^^^^^you stated anything t...\""
+  },
+  "DFr_D924184A.Text": {
+    "": {
+      "Text": "But your prime example of an Imperative just demanded qualification!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"But your prime example of an Impera...\""
+  },
+  "DFr_F2FE4AA8.Text": {
+    "": {
+      "Text": "Well?! ^^^^^^^^^^What do you have to say to that, ^^^^^^Kant?"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Well?! ^^^^^^^^^^What do you have t...\""
+  },
+  "DFr_FAFCFD41.Text": {
+    "": {
+      "Text": "Doesn’t the intention to protect people also have value?"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Doesn’t the intention to protect pe...\""
+  },
+  "DFr_9EC05419.Text": {
+    "": {
+      "Text": "Even from your perspective, ^^^^^^^^your law seems far from universal!"
+    },
+    "Context": "Flow/kanta2end_1/01_socrates: \"Even from your perspective, ^^^^^^^...\""
+  },
+  "DFr_5CB62411.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta2end_2/09_kant: \"...\""
+  },
+  "DFr_F6472016.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_2/09_kant: \"...\""
+  },
+  "DFr_83090035.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_2/01_socrates: \"...\""
+  },
+  "DFr_936C8090.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_2/02_ari: \"...\""
+  },
+  "DFr_FB2BDCDC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_2/09_kant: \"...\""
+  },
+  "DFr_67402A16.Text": {
+    "": {
+      "Text": "Excuse me, ^^^^I have to take my morning walk."
+    },
+    "Context": "Flow/kanta2end_2/09_kant: \"Excuse me, ^^^^I have to take my mo...\""
+  },
+  "DFr_C9DBCECE.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"...\""
+  },
+  "DFr_B89445F1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_3/02_ari: \"...\""
+  },
+  "DFr_B3526121.Text": {
+    "": {
+      "Text": "...He just... ^^^^walked off?"
+    },
+    "Context": "Flow/kanta2end_3/02_ari: \"...He just... ^^^^walked off?\""
+  },
+  "DFr_E39102D1.Text": {
+    "": {
+      "Text": "He does that sometimes. ^^^^^Do not worry."
+    },
+    "Context": "Flow/kanta2end_3/04_arbiter: \"He does that sometimes. ^^^^^Do not...\""
+  },
+  "DFr_07C90BE6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"...\""
+  },
+  "DFr_4E9F3C84.Text": {
+    "": {
+      "Text": "^^^^^^^^^Oh. ^^^^You’re back."
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"^^^^^^^^^Oh. ^^^^You’re back.\""
+  },
+  "DFr_DC9BE3E2.Text": {
+    "": {
+      "Text": "Indeed. ^^^^My morning walk is completed."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Indeed. ^^^^My morning walk is comp...\""
+  },
+  "DFr_14AD1766.Text": {
+    "": {
+      "Text": "Morning walk; ^^^^^^^^check!"
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Morning walk; ^^^^^^^^check!\""
+  },
+  "DFr_87B8E268.Text": {
+    "": {
+      "Text": "Is there even morning in the Intelligible Realm?"
+    },
+    "Context": "Flow/kanta2end_3/02_ari: \"Is there even morning in the Intell...\""
+  },
+  "DFr_7D5B0872.Text": {
+    "": {
+      "Text": "...No... ^^^^^^^there isn’t. ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"...No... ^^^^^^^there isn’t. ^^^^^^...\""
+  },
+  "DFr_765328B6.Text": {
+    "": {
+      "Text": "It is... ^^^^^^unacceptable."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"It is... ^^^^^^unacceptable.\""
+  },
+  "DFr_C176E0D2.Text": {
+    "": {
+      "Text": "But regardless, ^^^^^back on task."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"But regardless, ^^^^^back on task.\""
+  },
+  "DFr_4A65C4A1.Text": {
+    "": {
+      "Text": "Socrates Jones, ^^^^^^^the counterpoint you gave earlier ^^^^^^^^was false."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Socrates Jones, ^^^^^^^the counterp...\""
+  },
+  "DFr_5000CB76.Text": {
+    "": {
+      "Text": "That one should not lie still stands as universal. ^^^^Despite your objections, there is no doubt that to lie in that situation would be immoral."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"That one should not lie still stand...\""
+  },
+  "DFr_4A169DA8.Text": {
+    "": {
+      "Text": "Categorical Imperatives stand as absolute! ^^^^^^^Without ^^^^^^^qualification."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Categorical Imperatives stand as ab...\""
+  },
+  "DFr_D68970C4.Text": {
+    "": {
+      "Text": "But... ^^^But...!"
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"But... ^^^But...!\""
+  },
+  "DFr_873AB70E.Text": {
+    "": {
+      "Text": "(He’s seriously standing by his position?! ^^^^Is he even allowed to do that?!)"
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"(He’s seriously standing by his pos...\""
+  },
+  "DFr_2A8FE315.Text": {
+    "": {
+      "Text": "Remember, ^^^^^Herr Jones, ^^^^consequences are irrelevant— ^^^^^^^^it is only our intention that matters."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Remember, ^^^^^Herr Jones, ^^^^cons...\""
+  },
+  "DFr_D6259562.Text": {
+    "": {
+      "Text": "To become too invested in an individual scenario is to undermine the sanctity of thought."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"To become too invested in an indivi...\""
+  },
+  "DFr_3471CCE5.Text": {
+    "": {
+      "Text": "Once a maxim fulfills the Universality Test, ^^^^^^^it can be accepted as a Categorical Imperative."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Once a maxim fulfills the Universal...\""
+  },
+  "DFr_15CA4763.Text": {
+    "": {
+      "Text": "At that point, we are obligated to obey it. ^^^^^^Always."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"At that point, we are obligated to...\""
+  },
+  "DFr_BBAA7B03.Text": {
+    "": {
+      "Text": "The... ^^^Universality Test?"
+    },
+    "Context": "Flow/kanta2end_3/01_socrates: \"The... ^^^Universality Test?\""
+  },
+  "DFr_3DE56646.Text": {
+    "": {
+      "Text": "The... ^^^Universality Test?"
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"The... ^^^Universality Test?\""
+  },
+  "DFr_FF1CBC10.Text": {
+    "": {
+      "Text": "Allow me to elaborate."
+    },
+    "Context": "Flow/kanta2end_3/09_kant: \"Allow me to elaborate.\""
+  },
+  "DFr_69809118.Text": {
+    "": {
+      "Text": "In order to verify the morality of an idea, one must subject it to the Universality Test."
+    },
+    "Context": "Flow/kantp3/09_kant: \"In order to verify the morality of...\""
+  },
+  "DFr_589434EA.Text": {
+    "": {
+      "Text": "Imagine a world in which everyone follows the maxim behind your action."
+    },
+    "Context": "Flow/kantp3/09_kant: \"Imagine a world in which everyone f...\""
+  },
+  "DFr_42FA0871.Text": {
+    "": {
+      "Text": "If a contradiction or irrationality arises, the maxim cannot be moral."
+    },
+    "Context": "Flow/kantp3/09_kant: \"If a contradiction or irrationality...\""
+  },
+  "DFr_C027F285.Text": {
+    "": {
+      "Text": "And there we go."
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"And there we go.\""
+  },
+  "DFr_6AC57702.Text": {
+    "": {
+      "Text": "Explain the Universality Test; ^^^^^^^^^check!"
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"Explain the Universality Test; ^^^^...\""
+  },
+  "DFr_9DB41E93.Text": {
+    "": {
+      "Text": "Okay, ^^^^^^hold on a moment."
+    },
+    "Context": "Flow/kantp3_1/02_ari: \"Okay, ^^^^^^hold on a moment.\""
+  },
+  "DFr_8FADB034.Text": {
+    "": {
+      "Text": "What the heck are these things you keep checking off?"
+    },
+    "Context": "Flow/kantp3_1/02_ari: \"What the heck are these things you...\""
+  },
+  "DFr_4CFFBED0.Text": {
+    "": {
+      "Text": "I have created an agenda. ^^^^^^^All the tasks which I need to accomplish are presented upon it in sufficient detail."
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"I have created an agenda. ^^^^^^^Al...\""
+  },
+  "DFr_08D7C073.Text": {
+    "": {
+      "Text": "The events of THIS DEBATE are on your agenda? ^^^^^^^^^^^^^^^^^^^^How’s that even possible?"
+    },
+    "Context": "Flow/kantp3_1/01_socrates: \"The events of THIS DEBATE are on yo...\""
+  },
+  "DFr_F4501322.Text": {
+    "": {
+      "Text": "Careful planning!"
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"Careful planning!\""
+  },
+  "DFr_8B4D2896.Text": {
+    "": {
+      "Text": "Wisdom, ^^^^Socrates Jones, ^^^^^is organized life."
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"Wisdom, ^^^^Socrates Jones, ^^^^^is...\""
+  },
+  "DFr_0B667407.Text": {
+    "": {
+      "Text": "And an organized person would be asking me questions right about now."
+    },
+    "Context": "Flow/kantp3_1/09_kant: \"And an organized person would be as...\""
+  },
+  "DFr_194A32E6.Text": {
+    "": {
+      "Text": "Er... ^^^^^^right."
+    },
+    "Context": "Flow/kantp3_1/01_socrates: \"Er... ^^^^^^right.\""
+  },
+  "DFr_DC649437.Text": {
+    "": {
+      "Text": "(This is getting harder and harder to deal with... ^^^^^I can’t present something I don’t understand, but I’m not sure how much longer I can go...)"
+    },
+    "Context": "Flow/kantp3_1/01_socrates: \"(This is getting harder and harder...\""
+  },
+  "DFr_269B4DEA.Text": {
+    "": {
+      "Text": "(I’ve got to find something, and quick!)"
+    },
+    "Context": "Flow/kantp3_1/01_socrates: \"(I’ve got to find something, and qu...\""
+  },
+  "DFr_CD7B57AB.Text": {
+    "": {
+      "Text": "In order to verify the morality of an idea, one must subject it to the Universality Test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"In order to verify the morality of...\""
+  },
+  "DFr_B47FB17C.Text": {
+    "": {
+      "Text": "Imagine a world in which everyone follows the maxim behind your action."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Imagine a world in which everyone f...\""
+  },
+  "DFr_2B6C00B9.Text": {
+    "": {
+      "Text": "If a contradiction or irrationality arises, the maxim cannot be moral."
+    },
+    "Context": "Flow/kanta3/09_kant: \"If a contradiction or irrationality...\""
+  },
+  "DFr_81202EF4.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_1822BC3C.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_3BB0D51F.Text": {
+    "": {
+      "Text": "How’s that related to your conclusion?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"How’s that related to your conclusi...\""
+  },
+  "DFr_3FC999BE.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_6A3D0484.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_D0EC6E90.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_0DC478C9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_E0B35C54.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_9E56D01B.Text": {
+    "": {
+      "Text": "We must verify that your maxim stands as valid in all situations."
+    },
+    "Context": "Flow/kanta3/09_kant: \"We must verify that your maxim stan...\""
+  },
+  "DFr_150013FC.Text": {
+    "": {
+      "Text": "We have established our principles must be unquestionably moral, yes?"
+    },
+    "Context": "Flow/kanta3/09_kant: \"We have established our principles...\""
+  },
+  "DFr_CA27FA03.Text": {
+    "": {
+      "Text": "Well, in order to ensure such is the case,^^^^ we must create a situation where every potential question would have to be asked."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Well, in order to ensure such is th...\""
+  },
+  "DFr_41D366AE.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_85C1F16D.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_63BE42D2.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"check!\""
+  },
+  "DFr_E8D62ECC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_8352F58A.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Ouch...\""
+  },
+  "DFr_1B8D4737.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"...\""
+  },
+  "DFr_6520277B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/02_ari: \"...\""
+  },
+  "DFr_94B488DD.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_0A89D404.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta3/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_496F34DB.Text": {
+    "": {
+      "Text": "Thus, ^^^^the Universality Test is required."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Thus, ^^^^the Universality Test is...\""
+  },
+  "DFr_5F2AD88C.Text": {
+    "": {
+      "Text": "This illustrates the nature of the test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"This illustrates the nature of the...\""
+  },
+  "DFr_358AE4E7.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_0B2D0D19.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_31344D3D.Text": {
+    "": {
+      "Text": "Well, it’s an instruction..."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Well, it’s an instruction...\""
+  },
+  "DFr_3DD6D71C.Text": {
+    "": {
+      "Text": "If you don’t understand it, I could explain it better."
+    },
+    "Context": "Flow/kanta3/09_kant: \"If you don’t understand it, I could...\""
+  },
+  "DFr_7CB2B8BD.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_975EEF66.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_216A2121.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"check!\""
+  },
+  "DFr_56221513.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_351468AB.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Ouch...\""
+  },
+  "DFr_9AA1574B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"...\""
+  },
+  "DFr_6694E38D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/02_ari: \"...\""
+  },
+  "DFr_ED757D55.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_F4A7EBF3.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta3/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_8DCF649B.Text": {
+    "": {
+      "Text": "It’s an essential step of the Universality Test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"It’s an essential step of the Unive...\""
+  },
+  "DFr_1683D7B3.Text": {
+    "": {
+      "Text": "How is this related to everything?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"How is this related to everything?\""
+  },
+  "DFr_AAE60289.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_B4F54C8A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_176EC27B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_24210EDD.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_5BCD8DF4.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_85A607C8.Text": {
+    "": {
+      "Text": "Essentially, in every situation where someone is faced with a choice where they could follow your maxim or not, they would follow it."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Essentially, in every situation whe...\""
+  },
+  "DFr_4845FF74.Text": {
+    "": {
+      "Text": "That is the world you will be imagining!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"That is the world you will be imagi...\""
+  },
+  "DFr_9B9E3C93.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_E626FC3D.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BA85F86B.Text": {
+    "": {
+      "Text": "Well, it’s an instruction..."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Well, it’s an instruction...\""
+  },
+  "DFr_F24B4D07.Text": {
+    "": {
+      "Text": "If you don’t understand it, I could explain it better."
+    },
+    "Context": "Flow/kanta3/09_kant: \"If you don’t understand it, I could...\""
+  },
+  "DFr_46A0B60D.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_D0E35FA2.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_0A22D49C.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"check!\""
+  },
+  "DFr_255C0C41.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_34C5A4A3.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Ouch...\""
+  },
+  "DFr_56DE5077.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"...\""
+  },
+  "DFr_D0B6342B.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_897E3CF1.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta3/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_615C787A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/02_ari: \"...\""
+  },
+  "DFr_B1A6D288.Text": {
+    "": {
+      "Text": "It’s an essential step of the Universality Test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"It’s an essential step of the Unive...\""
+  },
+  "DFr_9AFC6FFC.Text": {
+    "": {
+      "Text": "How is this related to everything?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"How is this related to everything?\""
+  },
+  "DFr_C3B967DB.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_618BFC6B.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_34D5D8E0.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_6AAF1FC5.Text": {
+    "": {
+      "Text": "Could you explain this further?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Could you explain this further?\""
+  },
+  "DFr_C5C6E4AC.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_C5FFFAD8.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Of course.\""
+  },
+  "DFr_1FCAC1B5.Text": {
+    "": {
+      "Text": "A contradiction is a situation in which your maxim defeats itself."
+    },
+    "Context": "Flow/kanta3/09_kant: \"A contradiction is a situation in w...\""
+  },
+  "DFr_554B5FE9.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/kanta3/12_notification: \"New statement added.\""
+  },
+  "DFr_FE9A1FF3.Text": {
+    "": {
+      "Text": "This is one way an idea can fail the Universality Test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"This is one way an idea can fail th...\""
+  },
+  "DFr_49032C76.Text": {
+    "": {
+      "Text": "An irrationality is when your maxim would create a world that is worse for wear."
+    },
+    "Context": "Flow/kanta3/09_kant: \"An irrationality is when your maxim...\""
+  },
+  "DFr_B0F1CC79.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/kanta3/12_notification: \"New statement added.\""
+  },
+  "DFr_8FF77BEB.Text": {
+    "": {
+      "Text": "That is the other way the Universality Test can be failed."
+    },
+    "Context": "Flow/kanta3/09_kant: \"That is the other way the Universal...\""
+  },
+  "DFr_BF96F4A8.Text": {
+    "": {
+      "Text": "Huh, interesting."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Huh, interesting.\""
+  },
+  "DFr_FFD5D44A.Text": {
+    "": {
+      "Text": "Contradictions are maxims which are inconsistent with themselves."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Contradictions are maxims which are...\""
+  },
+  "DFr_4DF4391F.Text": {
+    "": {
+      "Text": "Irrationalities create a world which is worse for wear."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Irrationalities create a world whic...\""
+  },
+  "DFr_AAB587E9.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Excuse me?\""
+  },
+  "DFr_CFDB70C2.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_15E9F5F5.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_237E913A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_CF8E90BF.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_4831325D.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_E23FA511.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_9857CD0D.Text": {
+    "": {
+      "Text": "If an idea, ^^^^^after being applied to everyone, ^^^^^creates situations where people may be willed to behave in opposing ways, ^^^^^then your idea is contradictory."
+    },
+    "Context": "Flow/kanta3/09_kant: \"If an idea, ^^^^^after being applie...\""
+  },
+  "DFr_2E12B39F.Text": {
+    "": {
+      "Text": "Of course. ^^^^I shall provide a case study."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Of course. ^^^^I shall provide a ca...\""
+  },
+  "DFr_044E8958.Text": {
+    "": {
+      "Text": "This elaborates upon the nature of the contradiction failure."
+    },
+    "Context": "Flow/kanta3/09_kant: \"This elaborates upon the nature of...\""
+  },
+  "DFr_502AAA1D.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_9CCA20CB.Text": {
+    "": {
+      "Text": "Ach! ^^^^A senseless counterpoint! ^^^^^Ja, it is a waste."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Ach! ^^^^A senseless counterpoint!...\""
+  },
+  "DFr_88358918.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_5AD4D981.Text": {
+    "": {
+      "Text": "As the advantages of lying come entirely from decieving those who tell the truth, ^^^^^in a world where everyone lies there are no advantages at all."
+    },
+    "Context": "Flow/kanta3/09_kant: \"As the advantages of lying come ent...\""
+  },
+  "DFr_F1C91969.Text": {
+    "": {
+      "Text": "Let us imagine a world where it was accepted that one should lie for their own gain."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Let us imagine a world where it was...\""
+  },
+  "DFr_8FC0AF30.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"check!\""
+  },
+  "DFr_93D49BA1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_5FDC2FBD.Text": {
+    "": {
+      "Text": "Ouch..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Ouch...\""
+  },
+  "DFr_69B04D4A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"...\""
+  },
+  "DFr_27BCB1EC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/02_ari: \"...\""
+  },
+  "DFr_C1A6FD06.Text": {
+    "": {
+      "Text": "I’m actually not sure who’s making less sense right now."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"I’m actually not sure who’s making...\""
+  },
+  "DFr_437B8F00.Text": {
+    "": {
+      "Text": "Did he just claim YOU said something senseless?"
+    },
+    "Context": "Flow/kanta3/02_ari: \"Did he just claim YOU said somethin...\""
+  },
+  "DFr_D52D547D.Text": {
+    "": {
+      "Text": "As a result, ^^^^it probably should not be considered."
+    },
+    "Context": "Flow/kanta3/09_kant: \"As a result, ^^^^it probably should...\""
+  },
+  "DFr_40B8BB58.Text": {
+    "": {
+      "Text": "In this way, “Lying for one’s gain” contains a contradiction. ^^^^^It simply does not make sense when applied as a universal law!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"In this way, “Lying for one’s gain”...\""
+  },
+  "DFr_09AA569D.Text": {
+    "": {
+      "Text": "(Man, ^^^^^this guy REALLY hates lying.)"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"(Man, ^^^^^this guy REALLY hates ly...\""
+  },
+  "DFr_AC430B32.Text": {
+    "": {
+      "Text": "This is just one example. ^^^^^Any time an idea creates inconsistencies with itself, ^^^^it cannot work."
+    },
+    "Context": "Flow/kanta3/09_kant: \"This is just one example. ^^^^^Any...\""
+  },
+  "DFr_DFC55887.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_661FFA42.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_224E0E5E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_2AE55D20.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_CDEB791F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/02_ari: \"...\""
+  },
+  "DFr_5A36793D.Text": {
+    "": {
+      "Text": "Hmmm."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Hmmm.\""
+  },
+  "DFr_1F10CA03.Text": {
+    "": {
+      "Text": "This elaborates upon the nature of the irrationality failure."
+    },
+    "Context": "Flow/kanta3/09_kant: \"This elaborates upon the nature of...\""
+  },
+  "DFr_5355AA82.Text": {
+    "": {
+      "Text": "One cannot will a world which would be worse than this one."
+    },
+    "Context": "Flow/kanta3/09_kant: \"One cannot will a world which would...\""
+  },
+  "DFr_454EF6B8.Text": {
+    "": {
+      "Text": "Have face called ugly with little justification or reason; ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Have face called ugly with little j...\""
+  },
+  "DFr_019C157B.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_58288DA0.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_F5E91974.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_D8731265.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_372616C8.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/01_socrates: \"...\""
+  },
+  "DFr_52E1FA49.Text": {
+    "": {
+      "Text": "Sometimes, the world would clearly be worse off if everyone followed a maxim."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Sometimes, the world would clearly...\""
+  },
+  "DFr_80FFFB29.Text": {
+    "": {
+      "Text": "I think this stands pretty solidly."
+    },
+    "Context": "Flow/kanta3/09_kant: \"I think this stands pretty solidly.\""
+  },
+  "DFr_C6CEED3F.Text": {
+    "": {
+      "Text": "check!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"check!\""
+  },
+  "DFr_54DEF5C0.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3/04_arbiter: \"...\""
+  },
+  "DFr_5A8F0AF1.Text": {
+    "": {
+      "Text": "For example, ^^^^if everyone stole from one another, ^^^^our sense of security would deteriorate..."
+    },
+    "Context": "Flow/kanta3/09_kant: \"For example, ^^^^if everyone stole...\""
+  },
+  "DFr_4CE8BE5E.Text": {
+    "": {
+      "Text": "It would be irrational to will such a world to be."
+    },
+    "Context": "Flow/kanta3/09_kant: \"It would be irrational to will such...\""
+  },
+  "DFr_B525D082.Text": {
+    "": {
+      "Text": "Thus, stealing is categorically immoral."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Thus, stealing is categorically imm...\""
+  },
+  "DFr_1566C77A.Text": {
+    "": {
+      "Text": "(Huh, ^^^^interesting.)"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"(Huh, ^^^^interesting.)\""
+  },
+  "DFr_C989205F.Text": {
+    "": {
+      "Text": "Hold on!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Hold on!\""
+  },
+  "DFr_7704CC47.Text": {
+    "": {
+      "Text": "The example I pointed out earlier as a problem with the “you should never lie” principle..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"The example I pointed out earlier a...\""
+  },
+  "DFr_68EC5329.Text": {
+    "": {
+      "Text": "That would definitely count as a failure of this test!"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"That would definitely count as a fa...\""
+  },
+  "DFr_86A04359.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/09_kant: \"...\""
+  },
+  "DFr_C5956E0B.Text": {
+    "": {
+      "Text": "Herr Jones, ^^^irrationalities refer to a “world” that is worse for wear, ^^^not a “situation.”"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Herr Jones, ^^^irrationalities refe...\""
+  },
+  "DFr_4FFDA95C.Text": {
+    "": {
+      "Text": "And a world in which you do not lie is clearly better off than a world where you do!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"And a world in which you do not lie...\""
+  },
+  "DFr_E929B80B.Text": {
+    "": {
+      "Text": "But— ^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"But— ^^^^^^^^^^\""
+  },
+  "DFr_126FEAEA.Text": {
+    "": {
+      "Text": "As I said before, ^^^^^^Herr Jones, ^^^^^^^^individual examples desecrate the sanctity of thought."
+    },
+    "Context": "Flow/kanta3/09_kant: \"As I said before, ^^^^^^Herr Jones,...\""
+  },
+  "DFr_B4464C90.Text": {
+    "": {
+      "Text": "Truly, ^^^you should be ashamed of yourself."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Truly, ^^^you should be ashamed of...\""
+  },
+  "DFr_D5488437.Text": {
+    "": {
+      "Text": "Hold on, ^^^^Kant, ^^^^^I’m pretty sure— ^^^^^^^"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Hold on, ^^^^Kant, ^^^^^I’m pretty...\""
+  },
+  "DFr_D2642543.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3/09_kant: \"...\""
+  },
+  "DFr_85A0CEC8.Text": {
+    "": {
+      "Text": "Never lying certainly does not fail this test, ^^^Herr Jones. ^^^^^^^^^^"
+    },
+    "Context": "Flow/kanta3/09_kant: \"Never lying certainly does not fail...\""
+  },
+  "DFr_4C9E224D.Text": {
+    "": {
+      "Text": "?!?"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"?!?\""
+  },
+  "DFr_A9398B15.Text": {
+    "": {
+      "Text": "(How— ^^^How did he—)"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"(How— ^^^How did he—)\""
+  },
+  "DFr_33C899AF.Text": {
+    "": {
+      "Text": "In a world where everyone told the truth, ^^^^^^^^there would be nothing compelling us to be anything but honest."
+    },
+    "Context": "Flow/kanta3/09_kant: \"In a world where everyone told the...\""
+  },
+  "DFr_AB0AD3A9.Text": {
+    "": {
+      "Text": "The comfort of guaranteed honesty would, ^^^^^^in fact, ^^^^^^reinforce itself, ^^^^^encouraging others to be honest."
+    },
+    "Context": "Flow/kanta3/09_kant: \"The comfort of guaranteed honesty w...\""
+  },
+  "DFr_F15BE8C5.Text": {
+    "": {
+      "Text": "As a result, ^^^the rule is clear and could be followed without confusion!"
+    },
+    "Context": "Flow/kanta3/09_kant: \"As a result, ^^^the rule is clear a...\""
+  },
+  "DFr_69D96D54.Text": {
+    "": {
+      "Text": "Thus, “always tell the truth” does not fail this condition of the test."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Thus, “always tell the truth” does...\""
+  },
+  "DFr_20268ED3.Text": {
+    "": {
+      "Text": "Oh... ^^^Okay."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Oh... ^^^Okay.\""
+  },
+  "DFr_200B185E.Text": {
+    "": {
+      "Text": "If you would like, ^^^however, ^^^I could spell out how “lying” does..."
+    },
+    "Context": "Flow/kanta3/09_kant: \"If you would like, ^^^however, ^^^I...\""
+  },
+  "DFr_F6660000.Text": {
+    "": {
+      "Text": ".^^^^^^.^^^^^.^^^^^^^^^^Unless I have already..."
+    },
+    "Context": "Flow/kanta3/09_kant: \".^^^^^^.^^^^^.^^^^^^^^^^Unless I ha...\""
+  },
+  "DFr_BBD81A1F.Text": {
+    "": {
+      "Text": "Ach! ^^^^^^^^These spiraling debates are so... ^^^^^^^^disorganized."
+    },
+    "Context": "Flow/kanta3/09_kant: \"Ach! ^^^^^^^^These spiraling debate...\""
+  },
+  "DFr_8606E971.Text": {
+    "": {
+      "Text": "Oh god, ^^^^what do I do..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Oh god, ^^^^what do I do...\""
+  },
+  "DFr_00420812.Text": {
+    "": {
+      "Text": "This is getting more and more complicated..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"This is getting more and more compl...\""
+  },
+  "DFr_4E16BBDA.Text": {
+    "": {
+      "Text": "Yep, ^^^^that’s Kant for you."
+    },
+    "Context": "Flow/kanta3/02_ari: \"Yep, ^^^^that’s Kant for you.\""
+  },
+  "DFr_876AA2B1.Text": {
+    "": {
+      "Text": "Layer after layer after layer after layer of... ^^^^^^^whatever it is he’s layering."
+    },
+    "Context": "Flow/kanta3/02_ari: \"Layer after layer after layer after...\""
+  },
+  "DFr_9AFB16AE.Text": {
+    "": {
+      "Text": "(Back to the top.)"
+    },
+    "Context": "Flow/kanta3/01_socrates: \"(Back to the top.)\""
+  },
+  "DFr_7CF2609C.Text": {
+    "": {
+      "Text": "Kant! ^^^^I’ve been thinking..."
+    },
+    "Context": "Flow/kanta3almost/01_socrates: \"Kant! ^^^^I’ve been thinking...\""
+  },
+  "DFr_94B14CBE.Text": {
+    "": {
+      "Text": "You said an “irrationality” is something which could cause the world to be worse for wear..."
+    },
+    "Context": "Flow/kanta3almost/01_socrates: \"You said an “irrationality” is some...\""
+  },
+  "DFr_3AA59F12.Text": {
+    "": {
+      "Text": "Well then... ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3almost/01_socrates: \"Well then... ^^^^^^^^\""
+  },
+  "DFr_44341F5E.Text": {
+    "": {
+      "Text": "I’m pretty sure, ^^^^^for all its good intentions, ^^^^^“Help a Dying Man” would create an irrationality!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"I’m pretty sure, ^^^^^for all its g...\""
+  },
+  "DFr_316D60B8.Text": {
+    "": {
+      "Text": "ACH?!"
+    },
+    "Context": "Flow/kanta3almost_1/09_kant: \"ACH?!\""
+  },
+  "DFr_296CEC1C.Text": {
+    "": {
+      "Text": "I will admit, ^^^of course, ^^^that helping each and every dying man is a nice ideal."
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"I will admit, ^^^of course, ^^^that...\""
+  },
+  "DFr_A5D58203.Text": {
+    "": {
+      "Text": "But the fact is, ^^^more often than not, ^^^we are frankly not equipped to help!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"But the fact is, ^^^more often than...\""
+  },
+  "DFr_74CFB2CD.Text": {
+    "": {
+      "Text": "And trying to help in such situations would actually make things worse!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"And trying to help in such situatio...\""
+  },
+  "DFr_5D8FC69A.Text": {
+    "": {
+      "Text": "I... ^^^I don’t understand!"
+    },
+    "Context": "Flow/kanta3almost_1/09_kant: \"I... ^^^I don’t understand!\""
+  },
+  "DFr_9DD55632.Text": {
+    "": {
+      "Text": "If you can’t ensure your own safety, ^^^attempting to rescue someone in need would put yourself in need of rescue!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"If you can’t ensure your own safety...\""
+  },
+  "DFr_CDDB000C.Text": {
+    "": {
+      "Text": "And if this is a problem for trained professionals, ^^^imagine how disastrous it would be in everyday life!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"And if this is a problem for traine...\""
+  },
+  "DFr_2A24CD33.Text": {
+    "": {
+      "Text": "There can be no doubt blind obedience to this rule will actually cause more problems than it solves!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"There can be no doubt blind obedien...\""
+  },
+  "DFr_7D73E1F7.Text": {
+    "": {
+      "Text": "Oh, ^^^excellent point, ^^^Socrates!"
+    },
+    "Context": "Flow/kanta3almost_1/04_arbiter: \"Oh, ^^^excellent point, ^^^Socrates...\""
+  },
+  "DFr_13E119AA.Text": {
+    "": {
+      "Text": "Oh, ^^^excellent point, ^^^Socrates!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"Oh, ^^^excellent point, ^^^Socrates...\""
+  },
+  "DFr_7A4F6363.Text": {
+    "": {
+      "Text": "Well? ^^^^What do you have to say now, ^^^Kant?!"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"Well? ^^^^What do you have to say n...\""
+  },
+  "DFr_454F4EBD.Text": {
+    "": {
+      "Text": "How does your precious argument hold up?"
+    },
+    "Context": "Flow/kanta3almost_1/01_socrates: \"How does your precious argument hol...\""
+  },
+  "DFr_863BAD7B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3almost_2/09_kant: \"...\""
+  },
+  "DFr_3761D52D.Text": {
+    "": {
+      "Text": "...Very well then, ^^^Herr Jones."
+    },
+    "Context": "Flow/kanta3almost_2/09_kant: \"...Very well then, ^^^Herr Jones.\""
+  },
+  "DFr_7027ECAB.Text": {
+    "": {
+      "Text": "I suppose I should admit that I could be wrong on this one. ^^^^^^^^^...At the very least, ^^^^^^it requires more reflection."
+    },
+    "Context": "Flow/kanta3almost_2/09_kant: \"I suppose I should admit that I cou...\""
+  },
+  "DFr_64557D37.Text": {
+    "": {
+      "Text": "Wait, ^^^really?"
+    },
+    "Context": "Flow/kanta3almost_2/01_socrates: \"Wait, ^^^really?\""
+  },
+  "DFr_13F4B8BD.Text": {
+    "": {
+      "Text": "I can’t believe it! ^^^^I did it! ^^^^I did it!"
+    },
+    "Context": "Flow/kanta3almost_2/01_socrates: \"I can’t believe it! ^^^^I did it! ^...\""
+  },
+  "DFr_1B9FEAB9.Text": {
+    "": {
+      "Text": "“Help a Dying Man” REMOVED from the Idea Slate."
+    },
+    "Context": "Flow/kanta3almost_2/12_notification: \"“Help a Dying Man” REMOVED from the...\""
+  },
+  "DFr_7BA5513E.Text": {
+    "": {
+      "Text": "WHAT?!?"
+    },
+    "Context": "Flow/kanta3almost_2/01_socrates: \"WHAT?!?\""
+  },
+  "DFr_D231EB82.Text": {
+    "": {
+      "Text": "I’m afraid that only invalidated the example, ^^^Socrates. ^^^^Not his entire argument."
+    },
+    "Context": "Flow/kanta3almost_2/04_arbiter: \"I’m afraid that only invalidated th...\""
+  },
+  "DFr_26A7B4DF.Text": {
+    "": {
+      "Text": "Unraveling Kant would never be that easy."
+    },
+    "Context": "Flow/kanta3almost_2/04_arbiter: \"Unraveling Kant would never be that...\""
+  },
+  "DFr_AB8160A0.Text": {
+    "": {
+      "Text": "...Damn."
+    },
+    "Context": "Flow/kanta3almost_2/01_socrates: \"...Damn.\""
+  },
+  "DFr_EC2F7B1A.Text": {
+    "": {
+      "Text": "So long, validation... ^^^^I’ll miss you."
+    },
+    "Context": "Flow/kanta3almost_2/02_ari: \"So long, validation... ^^^^I’ll mis...\""
+  },
+  "DFr_945EAEA8.Text": {
+    "": {
+      "Text": "Immanual Kant!"
+    },
+    "Context": "Flow/kanta3correct/01_socrates: \"Immanual Kant!\""
+  },
+  "DFr_C481F4D8.Text": {
+    "": {
+      "Text": "What’s the one thing which, ^^^^^from the very beginning of our discussion, ^^^^you emphasized above all else?"
+    },
+    "Context": "Flow/kanta3correct/01_socrates: \"What’s the one thing which, ^^^^^fr...\""
+  },
+  "DFr_90621EF3.Text": {
+    "": {
+      "Text": "Intentionalism, ^^^^of course."
+    },
+    "Context": "Flow/kanta3correct/09_kant: \"Intentionalism, ^^^^of course.\""
+  },
+  "DFr_E0E46DDA.Text": {
+    "": {
+      "Text": "What we will is far more important than what we make!"
+    },
+    "Context": "Flow/kanta3correct/09_kant: \"What we will is far more important...\""
+  },
+  "DFr_E47CD7D5.Text": {
+    "": {
+      "Text": "Right. ^^^^^^^^That’s what I thought."
+    },
+    "Context": "Flow/kanta3correct/01_socrates: \"Right. ^^^^^^^^That’s what I though...\""
+  },
+  "DFr_D1A1F32B.Text": {
+    "": {
+      "Text": "And that’s fascinating..."
+    },
+    "Context": "Flow/kanta3correct/01_socrates: \"And that’s fascinating...\""
+  },
+  "DFr_DA5193F5.Text": {
+    "": {
+      "Text": "Because ^^^^^^“checking for irrationalities” ^^^^^sounds a lot like ^^^^^“assessing the consequences” to me!"
+    },
+    "Context": "Flow/kanta3correct/01_socrates: \"Because ^^^^^^“checking for irratio...\""
+  },
+  "DFr_945551DB.Text": {
+    "": {
+      "Text": "Wh-^^^^^^^^^WHAAAAT?"
+    },
+    "Context": "Flow/kanta3correct/09_kant: \"Wh-^^^^^^^^^WHAAAAT?\""
+  },
+  "DFr_40978F31.Text": {
+    "": {
+      "Text": "You claim we cannot will a world that is worse than the one we have now."
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"You claim we cannot will a world th...\""
+  },
+  "DFr_F0085E33.Text": {
+    "": {
+      "Text": "But the fact is, the very act of “assessing how the world would be” gives weight to consequences!"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"But the fact is, the very act of “a...\""
+  },
+  "DFr_870A78A5.Text": {
+    "": {
+      "Text": "You’d think that you would throw this out, ^^^^^^but instead you have this as a key step in the Universality Test."
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"You’d think that you would throw th...\""
+  },
+  "DFr_C3975F88.Text": {
+    "": {
+      "Text": "Determining whether your maxim is a Categorical Imperative is thus a fundamentally consequentialist procedure!"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"Determining whether your maxim is a...\""
+  },
+  "DFr_DA745CB0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3correct_1/09_kant: \"...\""
+  },
+  "DFr_6EFFE5CE.Text": {
+    "": {
+      "Text": "I... ^^^^I... ^^^^^^^"
+    },
+    "Context": "Flow/kanta3correct_1/09_kant: \"I... ^^^^I... ^^^^^^^\""
+  },
+  "DFr_251F13B3.Text": {
+    "": {
+      "Text": "ACH!"
+    },
+    "Context": "Flow/kanta3correct_1/09_kant: \"ACH!\""
+  },
+  "DFr_388FB2F5.Text": {
+    "": {
+      "Text": "This is not on my agenda! ^^^^^^^It is most impractical!"
+    },
+    "Context": "Flow/kanta3correct_1/09_kant: \"This is not on my agenda! ^^^^^^^It...\""
+  },
+  "DFr_9BD340A6.Text": {
+    "": {
+      "Text": "I demand you stop at once!"
+    },
+    "Context": "Flow/kanta3correct_1/09_kant: \"I demand you stop at once!\""
+  },
+  "DFr_5CC6C74F.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"...\""
+  },
+  "DFr_8D7B8241.Text": {
+    "": {
+      "Text": "But surely, ^^^^you see my point! ^^^^^^"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"But surely, ^^^^you see my point! ^...\""
+  },
+  "DFr_02B79FBA.Text": {
+    "": {
+      "Text": "It’s quite ironic, don’t you think?"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"It’s quite ironic, don’t you think?\""
+  },
+  "DFr_5A04E508.Text": {
+    "": {
+      "Text": "That the process which creates the rules for your intentionalist ideals relies so heavily on assessing consequences?"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"That the process which creates the...\""
+  },
+  "DFr_F4526B41.Text": {
+    "": {
+      "Text": "You talk about internal contradictions being grounds for failure... ^^^^^^^^^well, ^^^^here’s a grand one for you:"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"You talk about internal contradicti...\""
+  },
+  "DFr_A46F34D6.Text": {
+    "": {
+      "Text": "The Universality Test would fail itself!"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"The Universality Test would fail it...\""
+  },
+  "DFr_ABD6B03B.Text": {
+    "": {
+      "Text": "...Incredible!"
+    },
+    "Context": "Flow/kanta3correct_1/04_arbiter: \"...Incredible!\""
+  },
+  "DFr_B4D87772.Text": {
+    "": {
+      "Text": "It seems to me that either consequences matter... ^^^^^or your method of choosing ideas is incorrect."
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"It seems to me that either conseque...\""
+  },
+  "DFr_B1D18C61.Text": {
+    "": {
+      "Text": "So which is it, Kant? ^^^^^^Which part is wrong?"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"So which is it, Kant? ^^^^^^Which p...\""
+  },
+  "DFr_7B8229AA.Text": {
+    "": {
+      "Text": "Either way, ^^^it seems pretty devastating to your ideas!"
+    },
+    "Context": "Flow/kanta3correct_1/01_socrates: \"Either way, ^^^it seems pretty deva...\""
+  },
+  "DFr_18F21462.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"...\""
+  },
+  "DFr_85DA301B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"...\""
+  },
+  "DFr_582A61A3.Text": {
+    "": {
+      "Text": "This... ^^^^your thoughts... ^^^^so disorganized..."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"This... ^^^^your thoughts... ^^^^so...\""
+  },
+  "DFr_EBD883A0.Text": {
+    "": {
+      "Text": "Order... ^^^^I need... ^^^^direction... ^^^^I need... ^^^^^^^^^^^I... ^^^^^^^^^need..."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"Order... ^^^^I need... ^^^^directio...\""
+  },
+  "DFr_7E73DBD2.Text": {
+    "": {
+      "Text": "NNNNNNNNNNEEEEEEEEIIIIIIIIINNNNNNNNNNNNNNN!!!!!!"
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"NNNNNNNNNNEEEEEEEEIIIIIIIIINNNNNNNN...\""
+  },
+  "DFr_31718B80.Text": {
+    "": {
+      "Text": "...Have my philosophical constructs thrown into question; ^^^^^^^^^^^^^^^^^^...Check."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"...Have my philosophical constructs...\""
+  },
+  "DFr_6CC1BC30.Text": {
+    "": {
+      "Text": "You have done an excellent job here."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"You have done an excellent job here...\""
+  },
+  "DFr_10D8BAF3.Text": {
+    "": {
+      "Text": "I would be lying if I said you had not given me much to think about."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"I would be lying if I said you had...\""
+  },
+  "DFr_1EC2E294.Text": {
+    "": {
+      "Text": "Perhaps another decade of silence is in order. ^^^^^^^^"
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"Perhaps another decade of silence i...\""
+  },
+  "DFr_1F50F7F7.Text": {
+    "": {
+      "Text": "Silence, ^^^^^and thought."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"Silence, ^^^^^and thought.\""
+  },
+  "DFr_D044D9FE.Text": {
+    "": {
+      "Text": "Auf wiedersehen, ^^^^Herr Jones."
+    },
+    "Context": "Flow/kanta3correct_2/09_kant: \"Auf wiedersehen, ^^^^Herr Jones.\""
+  },
+  "DFr_21223058.Text": {
+    "": {
+      "Text": "Is it over?"
+    },
+    "Context": "Flow/kanta3correct_2/02_ari: \"Is it over?\""
+  },
+  "DFr_7AD6D89B.Text": {
+    "": {
+      "Text": "Yeah... ^^^Yeah I think so."
+    },
+    "Context": "Flow/kanta3correct_2/01_socrates: \"Yeah... ^^^Yeah I think so.\""
+  },
+  "DFr_3E7DB764.Text": {
+    "": {
+      "Text": "I guess that’s all we’re going to get out of Kant..."
+    },
+    "Context": "Flow/kanta3correct_2/01_socrates: \"I guess that’s all we’re going to g...\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

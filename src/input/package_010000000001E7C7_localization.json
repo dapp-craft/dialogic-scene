@@ -1,0 +1,3416 @@
+{
+  "Dlg_830C38CB.DisplayName": {
+    "": {
+      "Text": "protagorass1"
+    },
+    "Context": "Flow/protagorass1"
+  },
+  "Dlg_D821D6D5.DisplayName": {
+    "": {
+      "Text": "protagorss1.1"
+    },
+    "Context": "Flow/protagorss1.1"
+  },
+  "Dlg_98851A4C.DisplayName": {
+    "": {
+      "Text": "Protagoras introduced"
+    },
+    "Context": "Flow/Protagoras introduced"
+  },
+  "Dlg_877B5177.DisplayName": {
+    "": {
+      "Text": "protagorasp1"
+    },
+    "Context": "Flow/protagorasp1"
+  },
+  "Dlg_C0BDBE46.DisplayName": {
+    "": {
+      "Text": "protagorasp1.1"
+    },
+    "Context": "Flow/protagorasp1.1"
+  },
+  "Dlg_0646AC52.DisplayName": {
+    "": {
+      "Text": "argument protagorasa1"
+    },
+    "Context": "Flow/argument protagorasa1"
+  },
+  "Dlg_9A912818.DisplayName": {
+    "": {
+      "Text": "protagorasa1end"
+    },
+    "Context": "Flow/protagorasa1end"
+  },
+  "Dlg_B8C2A2E7.DisplayName": {
+    "": {
+      "Text": "Protagoras_gameover"
+    },
+    "Context": "Flow/Protagoras_gameover"
+  },
+  "Dlg_F276B4AA.DisplayName": {
+    "": {
+      "Text": "protagorasp2"
+    },
+    "Context": "Flow/protagorasp2"
+  },
+  "Dlg_24D3EE77.DisplayName": {
+    "": {
+      "Text": "protagorasp2.1"
+    },
+    "Context": "Flow/protagorasp2.1"
+  },
+  "Dlg_F04B3C35.DisplayName": {
+    "": {
+      "Text": "argument protagorasa2"
+    },
+    "Context": "Flow/argument protagorasa2"
+  },
+  "Dlg_F8419783.DisplayName": {
+    "": {
+      "Text": "protagorass5"
+    },
+    "Context": "Flow/protagorass5"
+  },
+  "Dlg_C1DB9170.DisplayName": {
+    "": {
+      "Text": "protagorass5.1"
+    },
+    "Context": "Flow/protagorass5.1"
+  },
+  "Dlg_4F4F2424.DisplayName": {
+    "": {
+      "Text": "protagorass5.2"
+    },
+    "Context": "Flow/protagorass5.2"
+  },
+  "Dlg_36132A53.DisplayName": {
+    "": {
+      "Text": "protagorasp3"
+    },
+    "Context": "Flow/protagorasp3"
+  },
+  "Dlg_68303E35.DisplayName": {
+    "": {
+      "Text": "protagorasp3.1"
+    },
+    "Context": "Flow/protagorasp3.1"
+  },
+  "Dlg_C75031C9.DisplayName": {
+    "": {
+      "Text": "protagorasa3end1"
+    },
+    "Context": "Flow/protagorasa3end1"
+  },
+  "Dlg_8C69572F.DisplayName": {
+    "": {
+      "Text": "protagorasa3end2"
+    },
+    "Context": "Flow/protagorasa3end2"
+  },
+  "Dlg_20C9A769.DisplayName": {
+    "": {
+      "Text": "protagorasa3"
+    },
+    "Context": "Flow/protagorasa3"
+  },
+  "Dlg_EF57556E.DisplayName": {
+    "": {
+      "Text": "protagorasa3end"
+    },
+    "Context": "Flow/protagorasa3end"
+  },
+  "Dlg_A00971C3.DisplayName": {
+    "": {
+      "Text": "protagorasa3end3"
+    },
+    "Context": "Flow/protagorasa3end3"
+  },
+  "Dlg_B4EFD7E3.DisplayName": {
+    "": {
+      "Text": "protagorasa3end4"
+    },
+    "Context": "Flow/protagorasa3end4"
+  },
+  "DFr_D14A974F.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/argument protagorasa1/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_F21C8823.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/argument protagorasa2/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_52387080.Text": {
+    "": {
+      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
+    },
+    "Context": "Flow/argument protagorasa2/i1: \"According to Protagoras, some peopl...\""
+  },
+  "DFr_50EFEBFB.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/protagorasa3/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_60515310.Text": {
+    "": {
+      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
+    },
+    "Context": "Flow/protagorasa3/i1: \"According to Protagoras, some peopl...\""
+  },
+  "DFr_435449C6.Text": {
+    "": {
+      "Text": "Okay, ^^^^Dad. ^^^^^“Regress?”"
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Okay, ^^^^Dad. ^^^^^“Regress?”\""
+  },
+  "DFr_01EF5516.Text": {
+    "": {
+      "Text": "^^^^^Hm... ^^^^^^to deteriorate ^^^^^^into an earlier state?"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"^^^^^Hm... ^^^^^^to deteriorate ^^^...\""
+  },
+  "DFr_674ED1D5.Text": {
+    "": {
+      "Text": "Ok. ^^^^^^^^^^^“Fallacy?”"
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Ok. ^^^^^^^^^^^“Fallacy?”\""
+  },
+  "DFr_544C91D5.Text": {
+    "": {
+      "Text": "A logical flaw."
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"A logical flaw.\""
+  },
+  "DFr_59976AA1.Text": {
+    "": {
+      "Text": "(I can’t believe I’m being quizzed on vocabulary by my daughter.)"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"(I can’t believe I’m being quizzed...\""
+  },
+  "DFr_C336E012.Text": {
+    "": {
+      "Text": "...and “Qualification?”"
+    },
+    "Context": "Flow/protagorass1/02_ari: \"...and “Qualification?”\""
+  },
+  "DFr_C1EEB0D4.Text": {
+    "": {
+      "Text": "Uhhhhh..."
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"Uhhhhh...\""
+  },
+  "DFr_B90D8090.Text": {
+    "": {
+      "Text": "Come on, ^^^^^Dad."
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Come on, ^^^^^Dad.\""
+  },
+  "DFr_BBF40BA4.Text": {
+    "": {
+      "Text": "Something ^^^^^^^you need to ^^^^^^qualify? ^^^^^^^^^^^^^^^^^^^^^^^Like a law degree."
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"Something ^^^^^^^you need to ^^^^^^...\""
+  },
+  "DFr_2CC0FADB.Text": {
+    "": {
+      "Text": "... Close enough."
+    },
+    "Context": "Flow/protagorass1/02_ari: \"... Close enough.\""
+  },
+  "DFr_116982F7.Text": {
+    "": {
+      "Text": "Can we stop now?"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"Can we stop now?\""
+  },
+  "DFr_14D2B550.Text": {
+    "": {
+      "Text": "Depends. ^^^^^^^^^^^^^^^^^^ Promise not to stumble all over yourself like last time?"
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Depends. ^^^^^^^^^^^^^^^^^^ Promise...\""
+  },
+  "DFr_5DB0DF64.Text": {
+    "": {
+      "Text": "Hey! I didn’t do too badly in the end! ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"Hey! I didn’t do too badly in the e...\""
+  },
+  "DFr_9A4E187D.Text": {
+    "": {
+      "Text": "I earned ALL the style points!"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"I earned ALL the style points!\""
+  },
+  "DFr_C0DDC463.Text": {
+    "": {
+      "Text": "Yeah... ^^^^^^You were at least smart enough not to accept Euthyphro’s ideas."
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Yeah... ^^^^^^You were at least sma...\""
+  },
+  "DFr_9FCEB2A0.Text": {
+    "": {
+      "Text": "Though, ^^^^I could have done without the ^^“hole-y” ^^pun..."
+    },
+    "Context": "Flow/protagorass1/02_ari: \"Though, ^^^^I could have done witho...\""
+  },
+  "DFr_F345182E.Text": {
+    "": {
+      "Text": "I’m trying to keep our spirits up! ^^^^^^^^"
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"I’m trying to keep our spirits up!...\""
+  },
+  "DFr_EB1C1FA6.Text": {
+    "": {
+      "Text": "I’m allowed a bad pun or two."
+    },
+    "Context": "Flow/protagorass1/01_socrates: \"I’m allowed a bad pun or two.\""
+  },
+  "DFr_1A2505CB.Text": {
+    "": {
+      "Text": "...^^^^^^^^^^^^and this is your way of doing that?"
+    },
+    "Context": "Flow/protagorass1/02_ari: \"...^^^^^^^^^^^^and this is your way...\""
+  },
+  "DFr_61F6C5B0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorass1/11_nobody: \"...\""
+  },
+  "DFr_32ECB78F.Text": {
+    "": {
+      "Text": "Arbiter, ^^^^who’s next?"
+    },
+    "Context": "Flow/protagorss1.1/01_socrates: \"Arbiter, ^^^^who’s next?\""
+  },
+  "DFr_79E98937.Text": {
+    "": {
+      "Text": "There are many philosophers in the Intelligible Realm."
+    },
+    "Context": "Flow/protagorss1.1/04_arbiter: \"There are many philosophers in the...\""
+  },
+  "DFr_E2C2B3C6.Text": {
+    "": {
+      "Text": "One, ^^^^^^^^however, ^^^^^^^^has come forth with the claim he knows you personally."
+    },
+    "Context": "Flow/protagorss1.1/04_arbiter: \"One, ^^^^^^^^however, ^^^^^^^^has c...\""
+  },
+  "DFr_A89DD99A.Text": {
+    "": {
+      "Text": "Knows... ^^^^^^^^^^^^^me?"
+    },
+    "Context": "Flow/protagorss1.1/01_socrates: \"Knows... ^^^^^^^^^^^^^me?\""
+  },
+  "DFr_C1848FA0.Text": {
+    "": {
+      "Text": "Yes."
+    },
+    "Context": "Flow/protagorss1.1/04_arbiter: \"Yes.\""
+  },
+  "DFr_21E546A0.Text": {
+    "": {
+      "Text": "But... ^^^^that makes no sense! ^^^^^^^^How could he possibly know you?"
+    },
+    "Context": "Flow/protagorss1.1/02_ari: \"But... ^^^^that makes no sense! ^^^...\""
+  },
+  "DFr_0D268866.Text": {
+    "": {
+      "Text": "I don’t know. ^^^^^^^Maybe one of my old fraternity friends became a famous philosopher without me knowing?"
+    },
+    "Context": "Flow/protagorss1.1/01_socrates: \"I don’t know. ^^^^^^^Maybe one of m...\""
+  },
+  "DFr_4A176A9A.Text": {
+    "": {
+      "Text": "One of ^^YOUR ^^friends? ^^^^^^...I doubt that."
+    },
+    "Context": "Flow/protagorss1.1/02_ari: \"One of ^^YOUR ^^friends? ^^^^^^...I...\""
+  },
+  "DFr_43764B6D.Text": {
+    "": {
+      "Text": "Well met, ^^^Socrates, ^^^my old friend and colleague."
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Well met, ^^^Socrates, ^^^my old fr...\""
+  },
+  "DFr_AFF14780.Text": {
+    "": {
+      "Text": "I believe I can help you on your quest to find the nature of morality."
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"I believe I can help you on your qu...\""
+  },
+  "DFr_384C896C.Text": {
+    "": {
+      "Text": "Great! ^^^^^Thanks, ^^^^^^^^^^"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"Great! ^^^^^Thanks, ^^^^^^^^^^\""
+  },
+  "DFr_CA0E45F1.Text": {
+    "": {
+      "Text": "uh... ^^^^^^^^^^^^^^um.^^^.^^^^.^^^^"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"uh... ^^^^^^^^^^^^^^um.^^^.^^^^.^^^...\""
+  },
+  "DFr_F2CA2B29.Text": {
+    "": {
+      "Text": "Uh... ^^^^actually, ^^^^^I don’t believe we’ve ever met before."
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"Uh... ^^^^actually, ^^^^^I don’t be...\""
+  },
+  "DFr_4C9324DF.Text": {
+    "": {
+      "Text": "WHAT?! ^^^^^^^^^^Oh, come now... ^^^^you must remember me!"
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"WHAT?! ^^^^^^^^^^Oh, come now... ^^...\""
+  },
+  "DFr_3034FAB3.Text": {
+    "": {
+      "Text": "Look at this face. ^^^^^^Surely a name comes to mind."
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Look at this face. ^^^^^^Surely a n...\""
+  },
+  "DFr_B284217B.Text": {
+    "": {
+      "Text": "Um.^^^^.^^^^.^^^^^^^^^^^^^^^ Heisenberg?"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"Um.^^^^.^^^^.^^^^^^^^^^^^^^^ Heisen...\""
+  },
+  "DFr_4B0C47B8.Text": {
+    "": {
+      "Text": "Protagoras!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Protagoras!!! ^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_03E45265.Text": {
+    "": {
+      "Text": "How could you have forgotten? ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^We debated in Athens, millennia ago!"
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"How could you have forgotten? ^^^^^...\""
+  },
+  "DFr_CC97FD34.Text": {
+    "": {
+      "Text": "(But... ^^^^^^I’ve never even been to Athens...)"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"(But... ^^^^^^I’ve never even been...\""
+  },
+  "DFr_63FA0951.Text": {
+    "": {
+      "Text": "Are you not the Great Thinker Socrates?!"
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Are you not the Great Thinker Socra...\""
+  },
+  "DFr_4F989E37.Text": {
+    "": {
+      "Text": "No!! ^^^^^^^^^^^"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"No!! ^^^^^^^^^^^\""
+  },
+  "DFr_5E1AE6EE.Text": {
+    "": {
+      "Text": "Well... ^^^^to be fair, ^^^^^^I am ^^^^^a ^^^^^Socrates, ^^^^^^but—^^^^^^^"
+    },
+    "Context": "Flow/Protagoras introduced/01_socrates: \"Well... ^^^^to be fair, ^^^^^^I am...\""
+  },
+  "DFr_1A1F928C.Text": {
+    "": {
+      "Text": "Enough. ^^^^^^^^Even if you have sadly forgotten me, ^^^^old friend, ^^^^I will be happy to share my lessons with you."
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Enough. ^^^^^^^^Even if you have sa...\""
+  },
+  "DFr_B707BC76.Text": {
+    "": {
+      "Text": "Well then! ^^^^^^^^Let us hold our discussion together in our own persons, ^^^^making trial of the truth and of ourselves."
+    },
+    "Context": "Flow/Protagoras introduced/06_protagoras: \"Well then! ^^^^^^^^Let us hold our...\""
+  },
+  "DFr_7C904827.Text": {
+    "": {
+      "Text": "Simple elimination will demonstrate morality can only come from one place."
+    },
+    "Context": "Flow/protagorasp1/06_protagoras: \"Simple elimination will demonstrate...\""
+  },
+  "DFr_4578DBEA.Text": {
+    "": {
+      "Text": "Your conversation with Euthyphro has demonstrated that morality doesn’t come from the gods."
+    },
+    "Context": "Flow/protagorasp1/06_protagoras: \"Your conversation with Euthyphro ha...\""
+  },
+  "DFr_98F37068.Text": {
+    "": {
+      "Text": "And clearly morality does not originate from the rocks and the trees."
+    },
+    "Context": "Flow/protagorasp1/06_protagoras: \"And clearly morality does not origi...\""
+  },
+  "DFr_6692288E.Text": {
+    "": {
+      "Text": "Thus, the only possible source of morality is Human Valuing."
+    },
+    "Context": "Flow/protagorasp1/06_protagoras: \"Thus, the only possible source of m...\""
+  },
+  "DFr_76B12D5A.Text": {
+    "": {
+      "Text": "As you can see, man is truly the measure of all things."
+    },
+    "Context": "Flow/protagorasp1.1/06_protagoras: \"As you can see, man is truly the me...\""
+  },
+  "DFr_532F44F0.Text": {
+    "": {
+      "Text": "I hope my lesson was informative, ^^^^^^my old friend."
+    },
+    "Context": "Flow/protagorasp1.1/06_protagoras: \"I hope my lesson was informative, ^...\""
+  },
+  "DFr_6ABC6785.Text": {
+    "": {
+      "Text": "I’ve told you, ^^^^^Pythagoras, ^^^^^I don’t know you!"
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"I’ve told you, ^^^^^Pythagoras, ^^^...\""
+  },
+  "DFr_CFA8DBA4.Text": {
+    "": {
+      "Text": "Chill, Dad. ^^^^^At least he’s being polite."
+    },
+    "Context": "Flow/protagorasp1.1/02_ari: \"Chill, Dad. ^^^^^At least he’s bein...\""
+  },
+  "DFr_216DE663.Text": {
+    "": {
+      "Text": "You don’t know how that will change if he discovers you’re an accountant."
+    },
+    "Context": "Flow/protagorasp1.1/02_ari: \"You don’t know how that will change...\""
+  },
+  "DFr_5547F679.Text": {
+    "": {
+      "Text": "And what’s wrong with being an accountant? ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"And what’s wrong with being an acco...\""
+  },
+  "DFr_4FBDA195.Text": {
+    "": {
+      "Text": "It’s a perfectly acceptable profession!!"
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"It’s a perfectly acceptable profess...\""
+  },
+  "DFr_44DAC0D2.Text": {
+    "": {
+      "Text": "Well, ^^^Socrates Jones, ^^^what do you think? ^^^^^^^Has Protagoras found the nature of morality?"
+    },
+    "Context": "Flow/protagorasp1.1/04_arbiter: \"Well, ^^^Socrates Jones, ^^^what do...\""
+  },
+  "DFr_504008F2.Text": {
+    "": {
+      "Text": "(Is he trying to bait me?)"
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"(Is he trying to bait me?)\""
+  },
+  "DFr_AAF9B64C.Text": {
+    "": {
+      "Text": "I think I’d like to ask a few questions before I make that decision."
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"I think I’d like to ask a few quest...\""
+  },
+  "DFr_4C795002.Text": {
+    "": {
+      "Text": "Certainly, my friend. ^^^^^^Ask away."
+    },
+    "Context": "Flow/protagorasp1.1/06_protagoras: \"Certainly, my friend. ^^^^^^Ask awa...\""
+  },
+  "DFr_AE4AEDC8.Text": {
+    "": {
+      "Text": "(Alright... ^^^^^let’s give this another go.)"
+    },
+    "Context": "Flow/protagorasp1.1/01_socrates: \"(Alright... ^^^^^let’s give this an...\""
+  },
+  "DFr_FDA898DD.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/11_nobody: \"...\""
+  },
+  "DFr_A69F8C51.Text": {
+    "": {
+      "Text": "Simple elimination will demonstrate morality can only come from one place."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Simple elimination will demonstrate...\""
+  },
+  "DFr_F5BB580A.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_E7D8E750.Text": {
+    "": {
+      "Text": "When all other possible sources of morality are eliminated, ^^^^^^the one that remains is indubitably true."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"When all other possible sources of...\""
+  },
+  "DFr_789BB08C.Text": {
+    "": {
+      "Text": "This is how I intend to prove my conclusion."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"This is how I intend to prove my co...\""
+  },
+  "DFr_EF2190D7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"...\""
+  },
+  "DFr_399BF0A3.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_4F23C0F6.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_733A60A6.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_9C193311.Text": {
+    "": {
+      "Text": "Give me time, my old friend."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Give me time, my old friend.\""
+  },
+  "DFr_54729293.Text": {
+    "": {
+      "Text": "I’m getting to it."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"I’m getting to it.\""
+  },
+  "DFr_B2BD6AC6.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_A31B51F0.Text": {
+    "": {
+      "Text": "I am describing the method I will use to prove my thesis."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"I am describing the method I will u...\""
+  },
+  "DFr_E1111649.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"...\""
+  },
+  "DFr_FF87636D.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_16C65D61.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"H-hey!\""
+  },
+  "DFr_81DEF5A6.Text": {
+    "": {
+      "Text": "Your conversation with Euthyphro has demonstrated that morality doesn’t come from the gods."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Your conversation with Euthyphro ha...\""
+  },
+  "DFr_321582AB.Text": {
+    "": {
+      "Text": "Can you explain what you mean?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Can you explain what you mean?\""
+  },
+  "DFr_F2621CE0.Text": {
+    "": {
+      "Text": "I think my statement is pretty clear."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"I think my statement is pretty clea...\""
+  },
+  "DFr_E9F6AB93.Text": {
+    "": {
+      "Text": "But if you need to reference the source, please review your last argument."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"But if you need to reference the so...\""
+  },
+  "DFr_66A9E40F.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_91F76169.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Excuse me?\""
+  },
+  "DFr_F440E0A7.Text": {
+    "": {
+      "Text": "I believe you did this yourself, ^^^^did you not?"
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"I believe you did this yourself, ^^...\""
+  },
+  "DFr_7F689D54.Text": {
+    "": {
+      "Text": "Right! ^^^^^^^Uh, ^^^^^never mind."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Right! ^^^^^^^Uh, ^^^^^never mind.\""
+  },
+  "DFr_BA95F29C.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_FC75B31F.Text": {
+    "": {
+      "Text": "The elimination of the gods as a source of morality is a key step in drawing my conclusion."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"The elimination of the gods as a so...\""
+  },
+  "DFr_B5FC931A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"...\""
+  },
+  "DFr_6139A89A.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_5D94BA8E.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_067691DD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"...\""
+  },
+  "DFr_8680BD6F.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_6F211335.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"H-hey!\""
+  },
+  "DFr_34B2DDA7.Text": {
+    "": {
+      "Text": "And clearly morality does not originate from the rocks and the trees."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"And clearly morality does not origi...\""
+  },
+  "DFr_120ADDF6.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_342EFBC7.Text": {
+    "": {
+      "Text": "Morality is not derived from nature."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Morality is not derived from nature...\""
+  },
+  "DFr_4A48A444.Text": {
+    "": {
+      "Text": "The flow of the river, ^^^^the movement of the clouds..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"The flow of the river, ^^^^the move...\""
+  },
+  "DFr_F72408B2.Text": {
+    "": {
+      "Text": "Such things do nothing for our judgment."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Such things do nothing for our judg...\""
+  },
+  "DFr_00B648EE.Text": {
+    "": {
+      "Text": "What about the circumference of the moon?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"What about the circumference of the...\""
+  },
+  "DFr_B41DA84F.Text": {
+    "": {
+      "Text": "Also irrelevant."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Also irrelevant.\""
+  },
+  "DFr_BB168B41.Text": {
+    "": {
+      "Text": "Good to know."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Good to know.\""
+  },
+  "DFr_FD68D06C.Text": {
+    "": {
+      "Text": "(I KNEW that suggestion was ridiculous...)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(I KNEW that suggestion was ridicul...\""
+  },
+  "DFr_2C7E6DCA.Text": {
+    "": {
+      "Text": "What evidence do you have to back that up?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"What evidence do you have to back t...\""
+  },
+  "DFr_2B4E0E1F.Text": {
+    "": {
+      "Text": "Being a system that governs the actions of humans, ^^^^^^^there is little reason to believe morality comes from the things that grow around us."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Being a system that governs the act...\""
+  },
+  "DFr_B55C7794.Text": {
+    "": {
+      "Text": "Thus, ^^^^^in this case, ^^^^^I believe the burden of proof lies on you."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Thus, ^^^^^in this case, ^^^^^I bel...\""
+  },
+  "DFr_DA2C1C4D.Text": {
+    "": {
+      "Text": "Unless you can provide some evidence showing morality DOES come from rocks and trees, ^^^^^^I think Protagoras’s assumption stands."
+    },
+    "Context": "Flow/argument protagorasa1/04_arbiter: \"Unless you can provide some evidenc...\""
+  },
+  "DFr_0EDFED58.Text": {
+    "": {
+      "Text": "Right. ^^^^^^^Okay then."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Right. ^^^^^^^Okay then.\""
+  },
+  "DFr_A7408A38.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_4AB2A51F.Text": {
+    "": {
+      "Text": "The elimination of nature whittles down the possible sources of morality immensely."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"The elimination of nature whittles...\""
+  },
+  "DFr_3912AA92.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"...\""
+  },
+  "DFr_A268AF47.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_A03FBA75.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_505277AC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"...\""
+  },
+  "DFr_603FBDBD.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_4647C4DC.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"H-hey!\""
+  },
+  "DFr_94CF98D3.Text": {
+    "": {
+      "Text": "Thus, the only possible source of morality is Human Valuing."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Thus, the only possible source of m...\""
+  },
+  "DFr_717B1BF8.Text": {
+    "": {
+      "Text": "Human Valuing? ^^^^^^^^^What does that mean?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Human Valuing? ^^^^^^^^^What does t...\""
+  },
+  "DFr_28D066A0.Text": {
+    "": {
+      "Text": "My apologies. ^^^^You see, morality is a matter of preference."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"My apologies. ^^^^You see, morality...\""
+  },
+  "DFr_D7375A2B.Text": {
+    "": {
+      "Text": "As a result, ^^^^^^^it is different for each person."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"As a result, ^^^^^^^it is different...\""
+  },
+  "DFr_8085254C.Text": {
+    "": {
+      "Text": "Therefore, whatever an individual believes to be right is right."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Therefore, whatever an individual b...\""
+  },
+  "DFr_DD2231BA.Text": {
+    "": {
+      "Text": "Huh. ^^^^Okay."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Huh. ^^^^Okay.\""
+  },
+  "DFr_D21F3A1B.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_96A9A58D.Text": {
+    "": {
+      "Text": "My sense is it stands on its own."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"My sense is it stands on its own.\""
+  },
+  "DFr_B5918B07.Text": {
+    "": {
+      "Text": "(Does it really? ^^^^^^^I’m not sure...)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(Does it really? ^^^^^^^I’m not sur...\""
+  },
+  "DFr_2E13BDC5.Text": {
+    "": {
+      "Text": "(Actually, ^^^^^^^I’m not even sure what he’s talking about...)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(Actually, ^^^^^^^I’m not even sure...\""
+  },
+  "DFr_000F20BB.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_5259AB3E.Text": {
+    "": {
+      "Text": "That is my conclusion. ^^^Are you confused?"
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"That is my conclusion. ^^^Are you c...\""
+  },
+  "DFr_522A95C4.Text": {
+    "": {
+      "Text": "Um... ^^^^^^^^^^ maybe a little..."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Um... ^^^^^^^^^^ maybe a little...\""
+  },
+  "DFr_5C28E496.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"...\""
+  },
+  "DFr_1F40AE7F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_7AC27B2F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"...\""
+  },
+  "DFr_45D82921.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_D26E9754.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"H-hey!\""
+  },
+  "DFr_46EC8EA8.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_4B3278B3.Text": {
+    "": {
+      "Text": "Whatever any individual believes is right is right for that individual."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Whatever any individual believes is...\""
+  },
+  "DFr_FE6C3E0B.Text": {
+    "": {
+      "Text": "What do you mean?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"What do you mean?\""
+  },
+  "DFr_CDC44678.Text": {
+    "": {
+      "Text": "I’m sorry, my friend, but I’m not sure how to clarify further."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"I’m sorry, my friend, but I’m not s...\""
+  },
+  "DFr_29FFA346.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_7B73E548.Text": {
+    "": {
+      "Text": "It’s the only remaining option, my friend."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"It’s the only remaining option, my...\""
+  },
+  "DFr_7692201A.Text": {
+    "": {
+      "Text": "Is that not enough?"
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"Is that not enough?\""
+  },
+  "DFr_82C8E8E2.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_AD3835AE.Text": {
+    "": {
+      "Text": "That is my conclusion, ^^^^^^^^^my friend."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"That is my conclusion, ^^^^^^^^^my...\""
+  },
+  "DFr_51BBF8E2.Text": {
+    "": {
+      "Text": "(Huh.. ^^^^^then... ^^^^^^^why does it feel so... ^^^^^^^^inconclusive?)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(Huh.. ^^^^^then... ^^^^^^^why does...\""
+  },
+  "DFr_AD18F17B.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"...\""
+  },
+  "DFr_55352B6D.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_7BE19F71.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"...\""
+  },
+  "DFr_0C3AC6B3.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa1/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_1A25CC54.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"H-hey!\""
+  },
+  "DFr_333705EF.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_6ADA1A19.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/argument protagorasa1/12_notification: \"Statement updated.\""
+  },
+  "DFr_A36A87D9.Text": {
+    "": {
+      "Text": "An argument by elimination, ^^^^huh? ^^^^^^I’m not sure how I feel about that."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"An argument by elimination, ^^^^huh...\""
+  },
+  "DFr_A00545EC.Text": {
+    "": {
+      "Text": "(I’d better go back to the top and see if I can get more information out of him...)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(I’d better go back to the top and...\""
+  },
+  "DFr_DDA09DB3.Text": {
+    "": {
+      "Text": "It’s a classic deduction technique, ^^^^Dad."
+    },
+    "Context": "Flow/argument protagorasa1/02_ari: \"It’s a classic deduction technique,...\""
+  },
+  "DFr_BFC32DF5.Text": {
+    "": {
+      "Text": "“If you eliminate the impossible, ^^^^^whatever remains must be the truth.”"
+    },
+    "Context": "Flow/argument protagorasa1/02_ari: \"“If you eliminate the impossible, ^...\""
+  },
+  "DFr_7FD65224.Text": {
+    "": {
+      "Text": "Yes, ^^yes, ^^^^Holmes, ^^^^very nice."
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"Yes, ^^yes, ^^^^Holmes, ^^^^very ni...\""
+  },
+  "DFr_F6F9DE19.Text": {
+    "": {
+      "Text": "(Still, ^^^^classic or not, ^^^^something about this just doesn’t sit right with me.)"
+    },
+    "Context": "Flow/argument protagorasa1/01_socrates: \"(Still, ^^^^classic or not, ^^^^som...\""
+  },
+  "DFr_2B0D07D0.Text": {
+    "": {
+      "Text": "Hold on, Protagoras."
+    },
+    "Context": "Flow/protagorasa1end/01_socrates: \"Hold on, Protagoras.\""
+  },
+  "DFr_7F11716F.Text": {
+    "": {
+      "Text": "Yes, friend?"
+    },
+    "Context": "Flow/protagorasa1end/06_protagoras: \"Yes, friend?\""
+  },
+  "DFr_9133A235.Text": {
+    "": {
+      "Text": "Look, I understand what you are going for here, but I can’t help but feel an argument based entirely on elimination is a bit... ^^^^^^^^^ weak."
+    },
+    "Context": "Flow/protagorasa1end/01_socrates: \"Look, I understand what you are goi...\""
+  },
+  "DFr_D070AE2C.Text": {
+    "": {
+      "Text": "I mean, ^^^^^no matter how many sources you eliminate, ^^^^^there’s always the possibility there are others you’ve overlooked."
+    },
+    "Context": "Flow/protagorasa1end/01_socrates: \"I mean, ^^^^^no matter how many sou...\""
+  },
+  "DFr_04B48B3C.Text": {
+    "": {
+      "Text": "If I am to accept your argument, ^^^^I would like it to be supported by something more."
+    },
+    "Context": "Flow/protagorasa1end/01_socrates: \"If I am to accept your argument, ^^...\""
+  },
+  "DFr_5E2D20D7.Text": {
+    "": {
+      "Text": "Indeed. ^^^^I was just thinking the same thing."
+    },
+    "Context": "Flow/protagorasa1end/04_arbiter: \"Indeed. ^^^^I was just thinking the...\""
+  },
+  "DFr_DD0C87B1.Text": {
+    "": {
+      "Text": "Yes... ^^^^^^I suppose you have a point."
+    },
+    "Context": "Flow/protagorasa1end/06_protagoras: \"Yes... ^^^^^^I suppose you have a p...\""
+  },
+  "DFr_1634FA45.Text": {
+    "": {
+      "Text": "You are just as insightful as I remember, Socrates."
+    },
+    "Context": "Flow/protagorasa1end/06_protagoras: \"You are just as insightful as I rem...\""
+  },
+  "DFr_0EBBF5E2.Text": {
+    "": {
+      "Text": "Very well. ^^^^^Let me approach this lesson from a different angle."
+    },
+    "Context": "Flow/protagorasa1end/06_protagoras: \"Very well. ^^^^^Let me approach thi...\""
+  },
+  "DFr_455610A2.Text": {
+    "": {
+      "Text": "...I clearly have made a... ^^^^terrible mistake. ^^^^^^^You CANNOT be the Socrates I knew."
+    },
+    "Context": "Flow/Protagoras_gameover/06_protagoras: \"...I clearly have made a... ^^^^ter...\""
+  },
+  "DFr_D453BC7A.Text": {
+    "": {
+      "Text": "Oh thank God, you finally realized—^^^^^^"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"Oh thank God, you finally realized—...\""
+  },
+  "DFr_98AFDA44.Text": {
+    "": {
+      "Text": "No, ^^^^^^the Great Thinker always made for worthwhile conversation."
+    },
+    "Context": "Flow/Protagoras_gameover/06_protagoras: \"No, ^^^^^^the Great Thinker always...\""
+  },
+  "DFr_A80890B6.Text": {
+    "": {
+      "Text": "WHAT?! ^^^^^"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"WHAT?! ^^^^^\""
+  },
+  "DFr_D416F55A.Text": {
+    "": {
+      "Text": "He would never prattle around in the meaningless way you are here."
+    },
+    "Context": "Flow/Protagoras_gameover/06_protagoras: \"He would never prattle around in th...\""
+  },
+  "DFr_91BF0A65.Text": {
+    "": {
+      "Text": "I apologize for my error. ^^^^^^^I shall take my lessons to more able listeners ^^^^and not waste any more of your time."
+    },
+    "Context": "Flow/Protagoras_gameover/06_protagoras: \"I apologize for my error. ^^^^^^^I...\""
+  },
+  "DFr_5058CA5B.Text": {
+    "": {
+      "Text": "But Protagoras— ^^^^hold on a minute! ^^^^^It’s not a waste, it’s— ^^^^^Wait!!"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"But Protagoras— ^^^^hold on a minut...\""
+  },
+  "DFr_372EFC35.Text": {
+    "": {
+      "Text": "(...And that was the end of it, really. ^^^^^Whoever this original Socrates was, ^^^even Protagoras thinks I’m not fit to bear his name.)"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"(...And that was the end of it, rea...\""
+  },
+  "DFr_C6FC7E36.Text": {
+    "": {
+      "Text": "(With nowhere else to turn, ^^^^^^I tried to present an answer shortly after...)"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"(With nowhere else to turn, ^^^^^^I...\""
+  },
+  "DFr_D2C8DED8.Text": {
+    "": {
+      "Text": "(^^^^^^Needless to say, ^^^^^^^I’m still here.)"
+    },
+    "Context": "Flow/Protagoras_gameover/01_socrates: \"(^^^^^^Needless to say, ^^^^^^^I’m...\""
+  },
+  "DFr_FF567319.Text": {
+    "": {
+      "Text": "When it comes down to it, morality is a matter of values."
+    },
+    "Context": "Flow/protagorasp2/06_protagoras: \"When it comes down to it, morality...\""
+  },
+  "DFr_93ADD28F.Text": {
+    "": {
+      "Text": "However, different people form different values."
+    },
+    "Context": "Flow/protagorasp2/06_protagoras: \"However, different people form diff...\""
+  },
+  "DFr_C1E78A32.Text": {
+    "": {
+      "Text": "There are no things upon which everyone can agree."
+    },
+    "Context": "Flow/protagorasp2/06_protagoras: \"There are no things upon which ever...\""
+  },
+  "DFr_8B35C5ED.Text": {
+    "": {
+      "Text": "It would be arrogant to presume that any position is wrong."
+    },
+    "Context": "Flow/protagorasp2/06_protagoras: \"It would be arrogant to presume tha...\""
+  },
+  "DFr_622CAC8F.Text": {
+    "": {
+      "Text": "Thus, we can only conclude that morality is entirely relative to the individual."
+    },
+    "Context": "Flow/protagorasp2/06_protagoras: \"Thus, we can only conclude that mor...\""
+  },
+  "DFr_1450ECC1.Text": {
+    "": {
+      "Text": "And there we go."
+    },
+    "Context": "Flow/protagorasp2.1/06_protagoras: \"And there we go.\""
+  },
+  "DFr_017B5CF8.Text": {
+    "": {
+      "Text": "And there we go."
+    },
+    "Context": "Flow/protagorasp2.1/04_arbiter: \"And there we go.\""
+  },
+  "DFr_E275257E.Text": {
+    "": {
+      "Text": "I like this argument.."
+    },
+    "Context": "Flow/protagorasp2.1/02_ari: \"I like this argument..\""
+  },
+  "DFr_92B48C38.Text": {
+    "": {
+      "Text": "It says I can do whatever I want."
+    },
+    "Context": "Flow/protagorasp2.1/02_ari: \"It says I can do whatever I want.\""
+  },
+  "DFr_55A59A47.Text": {
+    "": {
+      "Text": "That’s not what he’s saying! ^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasp2.1/01_socrates: \"That’s not what he’s saying! ^^^^^^...\""
+  },
+  "DFr_9377828F.Text": {
+    "": {
+      "Text": "At least, ^^^^^I hope not."
+    },
+    "Context": "Flow/protagorasp2.1/01_socrates: \"At least, ^^^^^I hope not.\""
+  },
+  "DFr_1F77BC57.Text": {
+    "": {
+      "Text": "Well, Socrates?"
+    },
+    "Context": "Flow/protagorasp2.1/04_arbiter: \"Well, Socrates?\""
+  },
+  "DFr_FABC2325.Text": {
+    "": {
+      "Text": "Once again, I’d like to ask a few questions."
+    },
+    "Context": "Flow/protagorasp2.1/01_socrates: \"Once again, I’d like to ask a few q...\""
+  },
+  "DFr_4F7C43E8.Text": {
+    "": {
+      "Text": "Of course, my friend. ^^^^Ask away."
+    },
+    "Context": "Flow/protagorasp2.1/06_protagoras: \"Of course, my friend. ^^^^Ask away.\""
+  },
+  "DFr_159B27D7.Text": {
+    "": {
+      "Text": "When it comes down to it, morality is a matter of values."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"When it comes down to it, morality...\""
+  },
+  "DFr_34663C58.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_87AEAC66.Text": {
+    "": {
+      "Text": "By “values” I mean the personal preferences of individuals."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"By “values” I mean the personal pre...\""
+  },
+  "DFr_FB0B8B87.Text": {
+    "": {
+      "Text": "For example, one may hold certain actions in very high esteem— ^^^^^^noble sacrifice, for instance—"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"For example, one may hold certain a...\""
+  },
+  "DFr_3857203F.Text": {
+    "": {
+      "Text": "While holding nothing but disgust for other actions— ^^^^^^like wanton thievery."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"While holding nothing but disgust f...\""
+  },
+  "DFr_82930181.Text": {
+    "": {
+      "Text": "(I do hate when people steal my wontons...)"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"(I do hate when people steal my won...\""
+  },
+  "DFr_545F6C0C.Text": {
+    "": {
+      "Text": "If you truly are confused, I recommend you check a dictionary."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"If you truly are confused, I recomm...\""
+  },
+  "DFr_75F3F134.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_B6BFA2FF.Text": {
+    "": {
+      "Text": "I don’t believe I need to, my friend."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"I don’t believe I need to, my frien...\""
+  },
+  "DFr_593046FA.Text": {
+    "": {
+      "Text": "The definition of morality is “values which distinguish between right and wrong”, is it not?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"The definition of morality is “valu...\""
+  },
+  "DFr_99104A4E.Text": {
+    "": {
+      "Text": "So I think my statement stands firm."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"So I think my statement stands firm...\""
+  },
+  "DFr_54003C0C.Text": {
+    "": {
+      "Text": "...Oh. ^^^^^^All right, ^^^then."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...Oh. ^^^^^^All right, ^^^then.\""
+  },
+  "DFr_75AB6E97.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_C24615C6.Text": {
+    "": {
+      "Text": "As I mentioned before, Human Valuing is the foundation of my argument."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"As I mentioned before, Human Valuin...\""
+  },
+  "DFr_56DC2FB6.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...\""
+  },
+  "DFr_D04EACB1.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_F1F6204E.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_70CECC8C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"...\""
+  },
+  "DFr_F5F84D91.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_4647B033.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"H-hey!\""
+  },
+  "DFr_18FDC715.Text": {
+    "": {
+      "Text": "However, different people form different values."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"However, different people form diff...\""
+  },
+  "DFr_0948EF8E.Text": {
+    "": {
+      "Text": "Different values?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Different values?\""
+  },
+  "DFr_B1905D99.Text": {
+    "": {
+      "Text": "Yes. People believe in different things. They have different preferences."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Yes. People believe in different th...\""
+  },
+  "DFr_7D303233.Text": {
+    "": {
+      "Text": "You have to admit, Dad, that’s pretty clear."
+    },
+    "Context": "Flow/argument protagorasa2/02_ari: \"You have to admit, Dad, that’s pret...\""
+  },
+  "DFr_C903F3BF.Text": {
+    "": {
+      "Text": "What evidence do you have to support this?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_99226E26.Text": {
+    "": {
+      "Text": "You just finished debating with Euthyphro. ^^^^Tell me, what do you think he valued?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"You just finished debating with Eut...\""
+  },
+  "DFr_489A0144.Text": {
+    "": {
+      "Text": "Uh... ^^^^piety... ^^^^the gods... ^^^^^^"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Uh... ^^^^piety... ^^^^the gods......\""
+  },
+  "DFr_694D55FD.Text": {
+    "": {
+      "Text": "and being a condescending jerk!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"and being a condescending jerk!\""
+  },
+  "DFr_2D955CB6.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^^^^And do YOU value these same things?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Indeed. ^^^^^^^^^And do YOU value t...\""
+  },
+  "DFr_1C8E5B66.Text": {
+    "": {
+      "Text": "No."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"No.\""
+  },
+  "DFr_6857DC9F.Text": {
+    "": {
+      "Text": "Exactly. ^^^^^^^You two built your moral systems upon different values."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Exactly. ^^^^^^^You two built your...\""
+  },
+  "DFr_AF697E7B.Text": {
+    "": {
+      "Text": "This is just one example. ^^^^^^^In the world, ^^^^there are many more."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"This is just one example. ^^^^^^^In...\""
+  },
+  "DFr_C6180397.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_41F3BF5F.Text": {
+    "": {
+      "Text": "The fact people have different values is key."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"The fact people have different valu...\""
+  },
+  "DFr_588326C7.Text": {
+    "": {
+      "Text": "I mean, if everyone believed the same thing, there wouldn’t be much to support my thesis, would there?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"I mean, if everyone believed the sa...\""
+  },
+  "DFr_A517EE28.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...\""
+  },
+  "DFr_081CB2DE.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_B3AFF4E7.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_1D10B76A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"...\""
+  },
+  "DFr_C751A1AE.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_C684E116.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"H-hey!\""
+  },
+  "DFr_58B2DCF1.Text": {
+    "": {
+      "Text": "There are no things upon which everyone can agree."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"There are no things upon which ever...\""
+  },
+  "DFr_FCF3CFB4.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_BFD6E398.Text": {
+    "": {
+      "Text": "Not only may people’s values differ, ^^^^they may lead them to make entirely contradictory conclusions."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Not only may people’s values differ...\""
+  },
+  "DFr_DA66B3F8.Text": {
+    "": {
+      "Text": "Much like the gods of Euthyphro!"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Much like the gods of Euthyphro!\""
+  },
+  "DFr_D215E0F3.Text": {
+    "": {
+      "Text": "I find that hard to believe."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I find that hard to believe.\""
+  },
+  "DFr_5D298906.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_75B78F09.Text": {
+    "": {
+      "Text": "Is that so? ^^^^^^You remember our old Athenian democracy, ^^^^^do you not?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Is that so? ^^^^^^You remember our...\""
+  },
+  "DFr_EF19E6E4.Text": {
+    "": {
+      "Text": "Uhhhh... ^^^^^^^ Sure, ^^^^why not."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Uhhhh... ^^^^^^^ Sure, ^^^^why not.\""
+  },
+  "DFr_E621B2D7.Text": {
+    "": {
+      "Text": "Well then, ^^^^^surely you must also remember that on most issues, ^^^^people disagreed on what was the right way to vote."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Well then, ^^^^^surely you must als...\""
+  },
+  "DFr_D82047FA.Text": {
+    "": {
+      "Text": "Some thought our penalties for crime were too harsh, ^^^^^^^while others thought our penalties were not harsh enough."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Some thought our penalties for crim...\""
+  },
+  "DFr_D93C1786.Text": {
+    "": {
+      "Text": "Why, ^^^^as you know, ^^^^it was even argued YOU should be put to death for speaking out."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Why, ^^^^as you know, ^^^^it was ev...\""
+  },
+  "DFr_8F701129.Text": {
+    "": {
+      "Text": "Wait, ^^^^^^^^^ what?!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Wait, ^^^^^^^^^ what?!\""
+  },
+  "DFr_9BBA172A.Text": {
+    "": {
+      "Text": "“Speech Penalty” added to the Idea Slate."
+    },
+    "Context": "Flow/argument protagorasa2/12_notification: \"“Speech Penalty” added to the Idea...\""
+  },
+  "DFr_F012F7F0.Text": {
+    "": {
+      "Text": "It provides further support for my thesis that people have different preferences, old friend."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It provides further support for my...\""
+  },
+  "DFr_DEF7BAD8.Text": {
+    "": {
+      "Text": "It also shows the consequences of the previous premise."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It also shows the consequences of t...\""
+  },
+  "DFr_64799C78.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...\""
+  },
+  "DFr_BA629C6A.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_D6883713.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_4016D836.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"...\""
+  },
+  "DFr_41E91E2A.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_DEB4A517.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"H-hey!\""
+  },
+  "DFr_C6EE3FB3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BB6B4A8B.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It is?\""
+  },
+  "DFr_94A74E80.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_C5752937.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/argument protagorasa2/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_79CE9C99.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"*Sigh*\""
+  },
+  "DFr_B57DD623.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_3A538835.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It is?\""
+  },
+  "DFr_68043745.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_5DD6345F.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/argument protagorasa2/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_6A58B53C.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"*Sigh*\""
+  },
+  "DFr_6FAEFA81.Text": {
+    "": {
+      "Text": "It would be arrogant to presume that any position is wrong."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It would be arrogant to presume tha...\""
+  },
+  "DFr_BA67EAA9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_3F7DC752.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It is?\""
+  },
+  "DFr_62F092FB.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_6BB9A0B4.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/argument protagorasa2/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_66F83B66.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"*Sigh*\""
+  },
+  "DFr_2342A7E2.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_DB42DB4F.Text": {
+    "": {
+      "Text": "It is not our place to decide if another’s moral perspective is wrong."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It is not our place to decide if an...\""
+  },
+  "DFr_2EB2ED73.Text": {
+    "": {
+      "Text": "Why would it be arrogant?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Why would it be arrogant?\""
+  },
+  "DFr_11D7BEDD.Text": {
+    "": {
+      "Text": "Oh, come now."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Oh, come now.\""
+  },
+  "DFr_088E3225.Text": {
+    "": {
+      "Text": "Do you really believe we can say one who believes eating pie is immoral is more correct than one who is against eating cake?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Do you really believe we can say on...\""
+  },
+  "DFr_BA2C1DB7.Text": {
+    "": {
+      "Text": "(...Wait, ^^^^^what? ^^^^^^^That’s a rather silly example coming from an academic...)"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"(...Wait, ^^^^^what? ^^^^^^^That’s...\""
+  },
+  "DFr_ACA09B84.Text": {
+    "": {
+      "Text": "As you can see, there is no way we can say one moral system is better than another."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"As you can see, there is no way we...\""
+  },
+  "DFr_E5102561.Text": {
+    "": {
+      "Text": "Uh... ^^^^^^^I guess..."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Uh... ^^^^^^^I guess...\""
+  },
+  "DFr_42D49370.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_1DB1E947.Text": {
+    "": {
+      "Text": "It’s the linchpin of my argument, ^^^^really."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It’s the linchpin of my argument, ^...\""
+  },
+  "DFr_CD095283.Text": {
+    "": {
+      "Text": "As morality is subjective, ^^^^we cannot assess others’ opinions as a consequence."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"As morality is subjective, ^^^^we c...\""
+  },
+  "DFr_81C67BEC.Text": {
+    "": {
+      "Text": "It also shows the consequences of the previous premise."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It also shows the consequences of t...\""
+  },
+  "DFr_95568AF5.Text": {
+    "": {
+      "Text": "...That strikes me as worrisome..."
+    },
+    "Context": "Flow/argument protagorasa2/02_ari: \"...That strikes me as worrisome...\""
+  },
+  "DFr_785DA3EB.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...\""
+  },
+  "DFr_CA1DFAE7.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_7E2493A8.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_B1BB9F98.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"...\""
+  },
+  "DFr_FE599573.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_B7B98560.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"H-hey!\""
+  },
+  "DFr_1ECDF9A0.Text": {
+    "": {
+      "Text": "Thus, we can only conclude that morality is entirely relative to the individual."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"Thus, we can only conclude that mor...\""
+  },
+  "DFr_4C02AB29.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_370B38F1.Text": {
+    "": {
+      "Text": "By “relative to the individual,” I mean that each person may decide for himself what is right and what is wrong."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"By “relative to the individual,” I...\""
+  },
+  "DFr_CBDE7681.Text": {
+    "": {
+      "Text": "I believe the context should help illuminate my point."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"I believe the context should help i...\""
+  },
+  "DFr_84DB77F8.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_4C13A304.Text": {
+    "": {
+      "Text": "I believe I just did?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"I believe I just did?\""
+  },
+  "DFr_E2DE065C.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_8F5C874D.Text": {
+    "": {
+      "Text": "That is my conclusion, actually."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"That is my conclusion, actually.\""
+  },
+  "DFr_C5DAF9A6.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"...\""
+  },
+  "DFr_1CC0425D.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_D9B4987E.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_A66A4CF5.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"...\""
+  },
+  "DFr_5ECD3E24.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_6B03587C.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"H-hey!\""
+  },
+  "DFr_6FF94E5F.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_675F6982.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/argument protagorasa2/06_protagoras: \"It is?\""
+  },
+  "DFr_639B9E41.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/argument protagorasa2/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_A5CDC48B.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_F2FE5FEA.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"*Sigh*\""
+  },
+  "DFr_79EA662E.Text": {
+    "": {
+      "Text": "Well, at least he’s built his argument up, now."
+    },
+    "Context": "Flow/argument protagorasa2/02_ari: \"Well, at least he’s built his argum...\""
+  },
+  "DFr_2DB3E450.Text": {
+    "": {
+      "Text": "A little bit more... ^^^^but I’m still not sure I’m willing to bet my life on it."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"A little bit more... ^^^^but I’m st...\""
+  },
+  "DFr_9C071914.Text": {
+    "": {
+      "Text": "Surely, morality can’t be THAT subjective..."
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"Surely, morality can’t be THAT subj...\""
+  },
+  "DFr_B39A5B22.Text": {
+    "": {
+      "Text": "(Guess there is nothing to do but start from the top again...)"
+    },
+    "Context": "Flow/argument protagorasa2/01_socrates: \"(Guess there is nothing to do but s...\""
+  },
+  "DFr_4375F2D4.Text": {
+    "": {
+      "Text": "Hold it right there, ^^^^^“old friend.” ^^^^^^^^I still can’t buy your argument."
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"Hold it right there, ^^^^^“old frie...\""
+  },
+  "DFr_EFF09D0D.Text": {
+    "": {
+      "Text": "You claim it’s impossible to say someone else’s values are wrong... ^^^^^^^^"
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"You claim it’s impossible to say so...\""
+  },
+  "DFr_8545574A.Text": {
+    "": {
+      "Text": "but that’s simply not true!"
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"but that’s simply not true!\""
+  },
+  "DFr_0EE0C403.Text": {
+    "": {
+      "Text": "Oh, ^^^^come now, ^^^^old friend. ^^^^^^^^Not impossible, ^^^^^arrogant."
+    },
+    "Context": "Flow/protagorass5/06_protagoras: \"Oh, ^^^^come now, ^^^^old friend. ^...\""
+  },
+  "DFr_7ECD6CD7.Text": {
+    "": {
+      "Text": "Do you really believe we can say one who believes eating pie is immoral is more correct than—^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorass5/06_protagoras: \"Do you really believe we can say on...\""
+  },
+  "DFr_A76F4F02.Text": {
+    "": {
+      "Text": "I’d like to put forth ^^^^^^^^^^^^^^^^ a different example."
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"I’d like to put forth ^^^^^^^^^^^^^...\""
+  },
+  "DFr_098FDB74.Text": {
+    "": {
+      "Text": "You yourself said there are individuals who believe that those who speak out should be executed, ^^^^^^did you not?"
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"You yourself said there are individ...\""
+  },
+  "DFr_A3B1346C.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/protagorass5/06_protagoras: \"Of course.\""
+  },
+  "DFr_DA978355.Text": {
+    "": {
+      "Text": "Well, ^^^^^I was thinking about the position of these individuals..."
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"Well, ^^^^^I was thinking about the...\""
+  },
+  "DFr_431CB242.Text": {
+    "": {
+      "Text": "And it occurred to me... ^^^^without a free and open debate.... ^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorass5/01_socrates: \"And it occurred to me... ^^^^withou...\""
+  },
+  "DFr_F8FAE2AD.Text": {
+    "": {
+      "Text": "we wouldn’t even be able to discuss the things we are here!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"we wouldn’t even be able to discuss...\""
+  },
+  "DFr_99A26191.Text": {
+    "": {
+      "Text": "^^^^^^^^^Oh, ^^^^^excellent observation, ^^^^^Socrates!"
+    },
+    "Context": "Flow/protagorass5.1/04_arbiter: \"^^^^^^^^^Oh, ^^^^^excellent observa...\""
+  },
+  "DFr_8BC936E1.Text": {
+    "": {
+      "Text": "Thank you, Arbiter."
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Thank you, Arbiter.\""
+  },
+  "DFr_93FCC8B3.Text": {
+    "": {
+      "Text": "Protagoras, ^^^^^for just a moment, ^^^^^consider the consequences of that argument."
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Protagoras, ^^^^^for just a moment,...\""
+  },
+  "DFr_B3B38C95.Text": {
+    "": {
+      "Text": "If free speech were punished so, ^^^^society would stagnate! ^^^^^^^^Science and thought would come to a halt!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"If free speech were punished so, ^^...\""
+  },
+  "DFr_23670F02.Text": {
+    "": {
+      "Text": "Such side effects should not result from ^^^^^^“logical thinking!”"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Such side effects should not result...\""
+  },
+  "DFr_110EA6C9.Text": {
+    "": {
+      "Text": "But... but... ^^^^^^^^ GAH!"
+    },
+    "Context": "Flow/protagorass5.1/06_protagoras: \"But... but... ^^^^^^^^ GAH!\""
+  },
+  "DFr_6377477D.Text": {
+    "": {
+      "Text": "Free speech is one of many things now considered to be “Rights”."
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Free speech is one of many things n...\""
+  },
+  "DFr_5926BA94.Text": {
+    "": {
+      "Text": "Society is improved by their existence... ^^^^can you really argue that those who believe such things should be persecuted have validity?"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Society is improved by their existe...\""
+  },
+  "DFr_24EF738E.Text": {
+    "": {
+      "Text": "I hardly think it “arrogant” to express doubts in this position!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"I hardly think it “arrogant” to exp...\""
+  },
+  "DFr_443FE3EF.Text": {
+    "": {
+      "Text": "Dad, ^^^^this is... ^^^^^^"
+    },
+    "Context": "Flow/protagorass5.1/02_ari: \"Dad, ^^^^this is... ^^^^^^\""
+  },
+  "DFr_3FB6B9F9.Text": {
+    "": {
+      "Text": "actually... ^^^^^^ kind of impressive!"
+    },
+    "Context": "Flow/protagorass5.1/02_ari: \"actually... ^^^^^^ kind of impressi...\""
+  },
+  "DFr_199CFD7C.Text": {
+    "": {
+      "Text": "Indeed! ^^^^^^Well constructed, ^^^Socrates!"
+    },
+    "Context": "Flow/protagorass5.1/04_arbiter: \"Indeed! ^^^^^^Well constructed, ^^^...\""
+  },
+  "DFr_4E734DEA.Text": {
+    "": {
+      "Text": "The fact is, ^^^^while you can argue most things are based upon the individual, ^^^^^^your philosophy falls apart when dealing with extremes!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"The fact is, ^^^^while you can argu...\""
+  },
+  "DFr_92B0C16C.Text": {
+    "": {
+      "Text": "Such positions are indefensible, ^^^^regardless of what an individual thinks!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"Such positions are indefensible, ^^...\""
+  },
+  "DFr_F398EA18.Text": {
+    "": {
+      "Text": "And thus, ^^^^morality cannot be entirely determined by the individual!"
+    },
+    "Context": "Flow/protagorass5.1/01_socrates: \"And thus, ^^^^morality cannot be en...\""
+  },
+  "DFr_383FD2C0.Text": {
+    "": {
+      "Text": "I appreciate the energy, ^^^^^old friend, ^^^^^and you have raised some good points."
+    },
+    "Context": "Flow/protagorass5.2/06_protagoras: \"I appreciate the energy, ^^^^^old f...\""
+  },
+  "DFr_011FB969.Text": {
+    "": {
+      "Text": "I must confess, though. ^^^^^^I am a little confused as to why you have suddenly changed your position on free speech."
+    },
+    "Context": "Flow/protagorass5.2/06_protagoras: \"I must confess, though. ^^^^^^I am...\""
+  },
+  "DFr_D9F095D5.Text": {
+    "": {
+      "Text": ".^^^^.^^^^.^^^^Wait, ^^^^what?"
+    },
+    "Context": "Flow/protagorass5.2/01_socrates: \".^^^^.^^^^.^^^^Wait, ^^^^what?\""
+  },
+  "DFr_D335ED50.Text": {
+    "": {
+      "Text": "The original Socrates was anti-free speech, Dad."
+    },
+    "Context": "Flow/protagorass5.2/02_ari: \"The original Socrates was anti-free...\""
+  },
+  "DFr_B92ADD27.Text": {
+    "": {
+      "Text": "...though, ^^^^^^^^come to think of it, ^^^^^^^^that didn’t stop him from complaining when he was put to death for blasphemy..."
+    },
+    "Context": "Flow/protagorass5.2/02_ari: \"...though, ^^^^^^^^come to think of...\""
+  },
+  "DFr_52F1745B.Text": {
+    "": {
+      "Text": "^^^^^^^^Everyone makes mistakes."
+    },
+    "Context": "Flow/protagorass5.2/04_arbiter: \"^^^^^^^^Everyone makes mistakes.\""
+  },
+  "DFr_B5F3738C.Text": {
+    "": {
+      "Text": "Oh. ^^^^Uh.... ^^^^^^^^"
+    },
+    "Context": "Flow/protagorass5.2/01_socrates: \"Oh. ^^^^Uh.... ^^^^^^^^\""
+  },
+  "DFr_7513F04C.Text": {
+    "": {
+      "Text": "Regardless, my counterargument is solid, right?"
+    },
+    "Context": "Flow/protagorass5.2/01_socrates: \"Regardless, my counterargument is s...\""
+  },
+  "DFr_EC655363.Text": {
+    "": {
+      "Text": "...^^^^^^^^^^^^No. ^^^^Not quite."
+    },
+    "Context": "Flow/protagorass5.2/06_protagoras: \"...^^^^^^^^^^^^No. ^^^^Not quite.\""
+  },
+  "DFr_80043AD5.Text": {
+    "": {
+      "Text": "What?!"
+    },
+    "Context": "Flow/protagorass5.2/01_socrates: \"What?!\""
+  },
+  "DFr_4FD430B1.Text": {
+    "": {
+      "Text": "You raised some good points... ^^^^^^but not perfect points."
+    },
+    "Context": "Flow/protagorass5.2/06_protagoras: \"You raised some good points... ^^^^...\""
+  },
+  "DFr_11CE5978.Text": {
+    "": {
+      "Text": "Give me a moment, ^^^^^and I will show you the flaws in what you just proposed."
+    },
+    "Context": "Flow/protagorass5.2/06_protagoras: \"Give me a moment, ^^^^^and I will s...\""
+  },
+  "DFr_FADB2EA4.Text": {
+    "": {
+      "Text": "It is true, my friend, that most people agree on things such as free speech."
+    },
+    "Context": "Flow/protagorasp3/06_protagoras: \"It is true, my friend, that most pe...\""
+  },
+  "DFr_2EC7DB30.Text": {
+    "": {
+      "Text": "However, that does not mean such things are universal goods."
+    },
+    "Context": "Flow/protagorasp3/06_protagoras: \"However, that does not mean such th...\""
+  },
+  "DFr_D42F7DDE.Text": {
+    "": {
+      "Text": "For example, if one was to yell “fire” in a crowded theater, causing mayhem and panic, it is hard to see how that instance of speech would then be good."
+    },
+    "Context": "Flow/protagorasp3/06_protagoras: \"For example, if one was to yell “fi...\""
+  },
+  "DFr_B6939B67.Text": {
+    "": {
+      "Text": "As morality is affected by situation, it cannot be objective."
+    },
+    "Context": "Flow/protagorasp3/06_protagoras: \"As morality is affected by situatio...\""
+  },
+  "DFr_2C1B4562.Text": {
+    "": {
+      "Text": "Rights, ^^^^as a legal institution, ^^^^may be good... ^^^^^^but the morality of how you use them can vary."
+    },
+    "Context": "Flow/protagorasp3.1/06_protagoras: \"Rights, ^^^^as a legal institution,...\""
+  },
+  "DFr_5ABB3989.Text": {
+    "": {
+      "Text": "Hmmm. Very interesting points."
+    },
+    "Context": "Flow/protagorasp3.1/04_arbiter: \"Hmmm. Very interesting points.\""
+  },
+  "DFr_A9BB88B2.Text": {
+    "": {
+      "Text": "Very well. Socrates, you may now ask Protagoras your questions."
+    },
+    "Context": "Flow/protagorasp3.1/04_arbiter: \"Very well. Socrates, you may now as...\""
+  },
+  "DFr_7E7FEF3C.Text": {
+    "": {
+      "Text": "Of course, Arbiter."
+    },
+    "Context": "Flow/protagorasp3.1/01_socrates: \"Of course, Arbiter.\""
+  },
+  "DFr_2DEE78C5.Text": {
+    "": {
+      "Text": "And there you have it."
+    },
+    "Context": "Flow/protagorasp3.1/06_protagoras: \"And there you have it.\""
+  },
+  "DFr_18A2DB28.Text": {
+    "": {
+      "Text": "You just argued that morality can be affected by situation, correct?"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"You just argued that morality can b...\""
+  },
+  "DFr_A69382F2.Text": {
+    "": {
+      "Text": "Yes...."
+    },
+    "Context": "Flow/protagorasa3end1/06_protagoras: \"Yes....\""
+  },
+  "DFr_6D09D98A.Text": {
+    "": {
+      "Text": "And actions that would be correct in one place could be incorrect in another?"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"And actions that would be correct i...\""
+  },
+  "DFr_241316BD.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^Where are you going with this?"
+    },
+    "Context": "Flow/protagorasa3end1/06_protagoras: \"Indeed. ^^^^^Where are you going wi...\""
+  },
+  "DFr_B5263619.Text": {
+    "": {
+      "Text": "Well, it’s an interesting observation... ^^^^^but it runs against the grain of what you said earlier!"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"Well, it’s an interesting observati...\""
+  },
+  "DFr_114FF1B4.Text": {
+    "": {
+      "Text": "For if morality is affected by situation... ^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"For if morality is affected by situ...\""
+  },
+  "DFr_5E201E3B.Text": {
+    "": {
+      "Text": "then there are clearly factors other than the individual at play!"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"then there are clearly factors othe...\""
+  },
+  "DFr_6349E2DD.Text": {
+    "": {
+      "Text": "Oh wow, that’s right!"
+    },
+    "Context": "Flow/protagorasa3end1/02_ari: \"Oh wow, that’s right!\""
+  },
+  "DFr_83337F3E.Text": {
+    "": {
+      "Text": "I... ^^^^^^I don’t believe it!"
+    },
+    "Context": "Flow/protagorasa3end1/06_protagoras: \"I... ^^^^^^I don’t believe it!\""
+  },
+  "DFr_A764D24F.Text": {
+    "": {
+      "Text": "It seems to me you have two choices, but both have the same result."
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"It seems to me you have two choices...\""
+  },
+  "DFr_78FD5F19.Text": {
+    "": {
+      "Text": "You could either maintain the assertion that morality is situation dependent... ^^^^and your philosophy is undermined."
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"You could either maintain the asser...\""
+  },
+  "DFr_94E9C548.Text": {
+    "": {
+      "Text": "Or you could retract it— ^^^^^thus giving credibility to my original complaint!"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"Or you could retract it— ^^^^^thus...\""
+  },
+  "DFr_5D48A169.Text": {
+    "": {
+      "Text": "But either way, ^^^^^the idea that morality is entirely individual is thrown into question."
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"But either way, ^^^^^the idea that...\""
+  },
+  "DFr_1255BE2A.Text": {
+    "": {
+      "Text": "What do you have to say to THAT?"
+    },
+    "Context": "Flow/protagorasa3end1/01_socrates: \"What do you have to say to THAT?\""
+  },
+  "DFr_B34B0EFF.Text": {
+    "": {
+      "Text": "... ^^^. ^^^. ^^^. ..."
+    },
+    "Context": "Flow/protagorasa3end1/06_protagoras: \"... ^^^. ^^^. ^^^. ...\""
+  },
+  "DFr_52437C56.Text": {
+    "": {
+      "Text": "HAH! ^^^^^Socrates, ^^^^your rhetorical techniques have not dulled in all these years."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"HAH! ^^^^^Socrates, ^^^^your rhetor...\""
+  },
+  "DFr_00DCC680.Text": {
+    "": {
+      "Text": "Perhaps my position is, ^^^^^indeed, ^^^^^on shakier ground than I realized."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"Perhaps my position is, ^^^^^indeed...\""
+  },
+  "DFr_A2A20403.Text": {
+    "": {
+      "Text": "You have given me much to consider. ^^^^^^I could write a thesis on it all."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"You have given me much to consider....\""
+  },
+  "DFr_D169FE9A.Text": {
+    "": {
+      "Text": "And you too, ^^^^Protagoras."
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"And you too, ^^^^Protagoras.\""
+  },
+  "DFr_219E9834.Text": {
+    "": {
+      "Text": "You just may have been onto something with your idea that the correct action can change based on situation."
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"You just may have been onto somethi...\""
+  },
+  "DFr_AE0605FA.Text": {
+    "": {
+      "Text": "Finding out why it does... ^^^^^^^that’s going to be the hard part."
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"Finding out why it does... ^^^^^^^t...\""
+  },
+  "DFr_AEA4589B.Text": {
+    "": {
+      "Text": "Protagoras, ^^^^you are dismissed."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"Protagoras, ^^^^you are dismissed.\""
+  },
+  "DFr_2C98392F.Text": {
+    "": {
+      "Text": "Thank you for your input."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"Thank you for your input.\""
+  },
+  "DFr_433DE1FC.Text": {
+    "": {
+      "Text": "Thank you, Arbiter."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"Thank you, Arbiter.\""
+  },
+  "DFr_9B70192B.Text": {
+    "": {
+      "Text": "Socrates, ^^^^^I believe you have it in you to win this great wager."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"Socrates, ^^^^^I believe you have i...\""
+  },
+  "DFr_02599A71.Text": {
+    "": {
+      "Text": "Just as you did before."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"Just as you did before.\""
+  },
+  "DFr_E1933EB9.Text": {
+    "": {
+      "Text": "Wait, ^^^what?"
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"Wait, ^^^what?\""
+  },
+  "DFr_A45BAA55.Text": {
+    "": {
+      "Text": "Goodbye, my old friend."
+    },
+    "Context": "Flow/protagorasa3end2/06_protagoras: \"Goodbye, my old friend.\""
+  },
+  "DFr_3CA511DE.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"...\""
+  },
+  "DFr_BBCEB217.Text": {
+    "": {
+      "Text": "What did he mean, ^^^^^^^“as you did before?”"
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"What did he mean, ^^^^^^^“as you di...\""
+  },
+  "DFr_DDE9E43E.Text": {
+    "": {
+      "Text": "...Ah. ^^^^^^^I thought you would have figured it out by now."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"...Ah. ^^^^^^^I thought you would h...\""
+  },
+  "DFr_948FF8A9.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"Huh?\""
+  },
+  "DFr_116AD078.Text": {
+    "": {
+      "Text": "Taking on the Arbiter’s Challenge is no easy task."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"Taking on the Arbiter’s Challenge i...\""
+  },
+  "DFr_E8B4E05B.Text": {
+    "": {
+      "Text": "In fact, ^^^^^throughout all of time, ^^^^^only one has ever had his wish granted."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"In fact, ^^^^^throughout all of tim...\""
+  },
+  "DFr_E5A937F6.Text": {
+    "": {
+      "Text": "...Only one?"
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"...Only one?\""
+  },
+  "DFr_F72CBA57.Text": {
+    "": {
+      "Text": "Yes. ^^^^^^^^^^Your namesake."
+    },
+    "Context": "Flow/protagorasa3end2/04_arbiter: \"Yes. ^^^^^^^^^^Your namesake.\""
+  },
+  "DFr_C45DB986.Text": {
+    "": {
+      "Text": "?!"
+    },
+    "Context": "Flow/protagorasa3end2/01_socrates: \"?!\""
+  },
+  "DFr_03D1587A.Text": {
+    "": {
+      "Text": "It is true, my friend, that most people agree on things such as free speech."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"It is true, my friend, that most pe...\""
+  },
+  "DFr_F1183367.Text": {
+    "": {
+      "Text": "However, that does not mean such things are universal goods."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"However, that does not mean such th...\""
+  },
+  "DFr_4423D033.Text": {
+    "": {
+      "Text": "For example, if one was to yell “fire” in a crowded theater, causing mayhem and panic, it is hard to see how that instance of speech would then be good."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"For example, if one was to yell “fi...\""
+  },
+  "DFr_3A3B5D3D.Text": {
+    "": {
+      "Text": "As morality is affected by situation, it cannot be objective."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"As morality is affected by situatio...\""
+  },
+  "DFr_DA756326.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...\""
+  },
+  "DFr_ECE46E6F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_11E1A3B1.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_901F7908.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"...\""
+  },
+  "DFr_A4257CE4.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_76F54998.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"H-hey!\""
+  },
+  "DFr_B6288513.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...\""
+  },
+  "DFr_0B9A9735.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_57A0AEE9.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_74428B82.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"...\""
+  },
+  "DFr_A754B956.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_3A108CD0.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"H-hey!\""
+  },
+  "DFr_346D6C48.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2924E371.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"It is?\""
+  },
+  "DFr_DB90FCF7.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"*Sigh*\""
+  },
+  "DFr_BCEFD7FA.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_C49522DF.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_CCA80FB0.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...\""
+  },
+  "DFr_8991562F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_1D9FB043.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_54BDED5A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"...\""
+  },
+  "DFr_DFD5A99C.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_CED8A794.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"H-hey!\""
+  },
+  "DFr_4E3E3C04.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_97574520.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"It is?\""
+  },
+  "DFr_0EE1F3D9.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7E35545A.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_C4450055.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_ED667D74.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...\""
+  },
+  "DFr_046C1D65.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_458CBA7B.Text": {
+    "": {
+      "Text": "I didn’t mean it! ^^^^^^^^^Honest!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I didn’t mean it! ^^^^^^^^^Honest!\""
+  },
+  "DFr_4D9D4CEF.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"...\""
+  },
+  "DFr_AF848346.Text": {
+    "": {
+      "Text": "What a way to speak to an old friend after so many years..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"What a way to speak to an old frien...\""
+  },
+  "DFr_B42B8CEC.Text": {
+    "": {
+      "Text": "H-hey!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"H-hey!\""
+  },
+  "DFr_213E5C65.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_698396C8.Text": {
+    "": {
+      "Text": "It is?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"It is?\""
+  },
+  "DFr_50A983D7.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"*Sigh*\""
+  },
+  "DFr_EF58DD55.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_0AD23402.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_D8257C89.Text": {
+    "": {
+      "Text": "This new argument goes in such a different direction... I’m not sure how to deal with it!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"This new argument goes in such a di...\""
+  },
+  "DFr_70A96435.Text": {
+    "": {
+      "Text": "Yes, it’s quite a different direction, isn’t it?"
+    },
+    "Context": "Flow/protagorasa3/02_ari: \"Yes, it’s quite a different directi...\""
+  },
+  "DFr_30F2AF1F.Text": {
+    "": {
+      "Text": "One almost wonders if it all connects..."
+    },
+    "Context": "Flow/protagorasa3/02_ari: \"One almost wonders if it all connec...\""
+  },
+  "DFr_D47518A5.Text": {
+    "": {
+      "Text": "(Well, regardless, back to the top...)"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"(Well, regardless, back to the top....\""
+  },
+  "DFr_3F334735.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...\""
+  },
+  "DFr_F1D6A6A8.Text": {
+    "": {
+      "Text": "Hold on, ^^^Protagoras!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Hold on, ^^^Protagoras!\""
+  },
+  "DFr_DE8ADC0A.Text": {
+    "": {
+      "Text": "You yourself pointed out that some people think you should be persecuted for free speech!"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"You yourself pointed out that some...\""
+  },
+  "DFr_428F6FB9.Text": {
+    "": {
+      "Text": "Doesn’t that go against the idea people agree on it?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Doesn’t that go against the idea pe...\""
+  },
+  "DFr_C76BB8A2.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"...\""
+  },
+  "DFr_2EA9093D.Text": {
+    "": {
+      "Text": "Old friend, ^^^I am becoming very concerned about your health."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Old friend, ^^^I am becoming very c...\""
+  },
+  "DFr_0D3F6747.Text": {
+    "": {
+      "Text": "First, ^^^you forget my name... ^^^^^^^^^Now, ^^^you forget our discussion of just five minutes ago!"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"First, ^^^you forget my name... ^^^...\""
+  },
+  "DFr_71942C7F.Text": {
+    "": {
+      "Text": "It was YOU, ^^^not I, ^^^who made the claim people widely accept these “Rights.”"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"It was YOU, ^^^not I, ^^^who made t...\""
+  },
+  "DFr_22A33034.Text": {
+    "": {
+      "Text": "Furthermore, ^^^my statement here clearly states “most,” ^^^not “all” people agree on this..."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Furthermore, ^^^my statement here c...\""
+  },
+  "DFr_0E5CB5BB.Text": {
+    "": {
+      "Text": "What exactly are you hoping to accomplish here, ^^^Socrates?"
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"What exactly are you hoping to acco...\""
+  },
+  "DFr_1E011F09.Text": {
+    "": {
+      "Text": "I... ^^^^^^^^I don’t know."
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I... ^^^^^^^^I don’t know.\""
+  },
+  "DFr_9B507DCB.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_245B8B18.Text": {
+    "": {
+      "Text": "Once again I am responding to your points. So I chose to begin with them."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Once again I am responding to your...\""
+  },
+  "DFr_774C59B3.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_D65EAB1A.Text": {
+    "": {
+      "Text": "My friend, ^^^^you seem to have an unfortunate habit of questioning your own conclusions."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"My friend, ^^^^you seem to have an...\""
+  },
+  "DFr_D82F4B07.Text": {
+    "": {
+      "Text": "Perhaps you would like to withdraw them?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Perhaps you would like to withdraw...\""
+  },
+  "DFr_4FFB756A.Text": {
+    "": {
+      "Text": "Um... ^^^^^I was just testing how well you understood my points, ^^^^is all."
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Um... ^^^^^I was just testing how w...\""
+  },
+  "DFr_892C8EFE.Text": {
+    "": {
+      "Text": "...Yeah."
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"...Yeah.\""
+  },
+  "DFr_4E77AB2C.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_A6AA4D88.Text": {
+    "": {
+      "Text": "The principles you named earlier— such as free speech— are indeed widely held."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"The principles you named earlier— s...\""
+  },
+  "DFr_077CB0B1.Text": {
+    "": {
+      "Text": "That is all I am saying here."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"That is all I am saying here.\""
+  },
+  "DFr_AA546368.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_88F758A2.Text": {
+    "": {
+      "Text": "I am detailing my objection to your objection."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"I am detailing my objection to your...\""
+  },
+  "DFr_FE67D18F.Text": {
+    "": {
+      "Text": "How objectionable."
+    },
+    "Context": "Flow/protagorasa3/02_ari: \"How objectionable.\""
+  },
+  "DFr_B8148829.Text": {
+    "": {
+      "Text": "Can you back that up for me?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Can you back that up for me?\""
+  },
+  "DFr_C6E94D96.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_C8DB97EE.Text": {
+    "": {
+      "Text": "Be patient, ^^^^my friend. ^^^^^^^^That is the next part of my lecture."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Be patient, ^^^^my friend. ^^^^^^^^...\""
+  },
+  "DFr_D738F274.Text": {
+    "": {
+      "Text": "Simply put, nothing is absolute."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Simply put, nothing is absolute.\""
+  },
+  "DFr_3C758411.Text": {
+    "": {
+      "Text": "When we think something is a universal truth, we are probably failing to account for all possibilities."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"When we think something is a univer...\""
+  },
+  "DFr_CA2871C1.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_EFEC7566.Text": {
+    "": {
+      "Text": "I’m providing an example supporting my objection."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"I’m providing an example supporting...\""
+  },
+  "DFr_5E03A2D0.Text": {
+    "": {
+      "Text": "In this case, ^^^^^I chose my counter-example because it deals directly with your free speech example."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"In this case, ^^^^^I chose my count...\""
+  },
+  "DFr_A0FE3AC8.Text": {
+    "": {
+      "Text": "Can you back that up for me?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Can you back that up for me?\""
+  },
+  "DFr_4382B47E.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_C9EB65A6.Text": {
+    "": {
+      "Text": "Yelling things to deliberately create panic hardly seems an unquestionable good, does it?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Yelling things to deliberately crea...\""
+  },
+  "DFr_90CF1D1C.Text": {
+    "": {
+      "Text": "That is all I’m trying to say here."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"That is all I’m trying to say here.\""
+  },
+  "DFr_059FE619.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_12858DF4.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_F135C123.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_B48660AC.Text": {
+    "": {
+      "Text": "Um... ^^^^^That is my conclusion?"
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Um... ^^^^^That is my conclusion?\""
+  },
+  "DFr_EFE2AFAF.Text": {
+    "": {
+      "Text": "Is it?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"Is it?\""
+  },
+  "DFr_4537ED44.Text": {
+    "": {
+      "Text": "I mean, ^^^^^if I remember correctly, ^^^^^your philosophy is that morality comes from the individual, right?"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I mean, ^^^^^if I remember correctl...\""
+  },
+  "DFr_09CC5A5C.Text": {
+    "": {
+      "Text": "Yes, ^^^^my ^^^^friend, that is correct."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Yes, ^^^^my ^^^^friend, that is cor...\""
+  },
+  "DFr_7B356119.Text": {
+    "": {
+      "Text": "I see..."
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I see...\""
+  },
+  "DFr_38790528.Text": {
+    "": {
+      "Text": "I think I just did."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"I think I just did.\""
+  },
+  "DFr_4DA17B17.Text": {
+    "": {
+      "Text": "I think my statement is pretty clear, ^^^^my friend."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"I think my statement is pretty clea...\""
+  },
+  "DFr_1015FAA4.Text": {
+    "": {
+      "Text": "Your argument simply does not hold water. ^^^^^^^Morality still comes from the individual."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"Your argument simply does not hold...\""
+  },
+  "DFr_89189313.Text": {
+    "": {
+      "Text": "(...hmmm. ^^^^^^^^^Is that what he’s saying?)"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"(...hmmm. ^^^^^^^^^Is that what he’...\""
+  },
+  "DFr_80DC8DC3.Text": {
+    "": {
+      "Text": "I really don’t see what’s wrong with yelling ^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I really don’t see what’s wrong wit...\""
+  },
+  "DFr_9F106EB4.Text": {
+    "": {
+      "Text": "I really don’t see what’s wrong with yelling ^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"I really don’t see what’s wrong wit...\""
+  },
+  "DFr_0C51008E.Text": {
+    "": {
+      "Text": "“FIRE!!”"
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"“FIRE!!”\""
+  },
+  "DFr_4221328B.Text": {
+    "": {
+      "Text": "*Ahem* ^^^^^Old friend, ^^^^I believe you have just demonstrated my point."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"*Ahem* ^^^^^Old friend, ^^^^I belie...\""
+  },
+  "DFr_FB1048AD.Text": {
+    "": {
+      "Text": "You should always have the right to speak carelessly... ^^^^but that does not mean doing so is good."
+    },
+    "Context": "Flow/protagorasa3/06_protagoras: \"You should always have the right to...\""
+  },
+  "DFr_D2032D1D.Text": {
+    "": {
+      "Text": "WHAT?!?"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"WHAT?!?\""
+  },
+  "DFr_2B6ED285.Text": {
+    "": {
+      "Text": "FIRE?!"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"FIRE?!\""
+  },
+  "DFr_85E81D99.Text": {
+    "": {
+      "Text": "WHERE?!?! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"WHERE?!?! ^^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_43C28C95.Text": {
+    "": {
+      "Text": "GODDAMN IT VOLTAIRE,"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"GODDAMN IT VOLTAIRE,\""
+  },
+  "DFr_5B1DAB01.Text": {
+    "": {
+      "Text": "GODDAMN IT VOLTAIRE,"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"GODDAMN IT VOLTAIRE,\""
+  },
+  "DFr_90B5DE95.Text": {
+    "": {
+      "Text": "WERE YOU PLAYING WITH MATCHES AGAIN?! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"WERE YOU PLAYING WITH MATCHES AGAIN...\""
+  },
+  "DFr_D57FD4EC.Text": {
+    "": {
+      "Text": "OH MY GOD,"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"OH MY GOD,\""
+  },
+  "DFr_E9DE76F0.Text": {
+    "": {
+      "Text": "WE ARE ALL GOING TO DIE!"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"WE ARE ALL GOING TO DIE!\""
+  },
+  "DFr_B80A6637.Text": {
+    "": {
+      "Text": "WE ARE ALREADY DEAD,"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"WE ARE ALREADY DEAD,\""
+  },
+  "DFr_38F4F03F.Text": {
+    "": {
+      "Text": "Socrates! ^^^^^Refrain from causing unnecessary panic in the future."
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"Socrates! ^^^^^Refrain from causing...\""
+  },
+  "DFr_D9863F61.Text": {
+    "": {
+      "Text": "AND WE ARE GOING TO DIE! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"AND WE ARE GOING TO DIE! ^^^^^^^^^^...\""
+  },
+  "DFr_1AEE1BD2.Text": {
+    "": {
+      "Text": "AAAAAAAHHHHHHHHHHHHHHHHHHHHHHHH!!!!!"
+    },
+    "Context": "Flow/protagorasa3/10_crowd: \"AAAAAAAHHHHHHHHHHHHHHHHHHHHHHHH!!!!...\""
+  },
+  "DFr_A2C02CEC.Text": {
+    "": {
+      "Text": "Worry not, ^^^^^there is no fire!"
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"Worry not, ^^^^^there is no fire!\""
+  },
+  "DFr_BD930E3E.Text": {
+    "": {
+      "Text": "GENTLEMEN!!"
+    },
+    "Context": "Flow/protagorasa3/04_arbiter: \"GENTLEMEN!!\""
+  },
+  "DFr_06B06D81.Text": {
+    "": {
+      "Text": "^^^^^^^^^^Sorry..."
+    },
+    "Context": "Flow/protagorasa3/01_socrates: \"^^^^^^^^^^Sorry...\""
+  },
+  "DFr_FD347727.Text": {
+    "": {
+      "Text": "Protagoras!"
+    },
+    "Context": "Flow/protagorasa3end/01_socrates: \"Protagoras!\""
+  },
+  "DFr_FCFA2A48.Text": {
+    "": {
+      "Text": "You have indeed raised an interesting counterpoint to mine."
+    },
+    "Context": "Flow/protagorasa3end/01_socrates: \"You have indeed raised an interesti...\""
+  },
+  "DFr_56FAFC34.Text": {
+    "": {
+      "Text": "Thank you, ^^^^old friend."
+    },
+    "Context": "Flow/protagorasa3end/06_protagoras: \"Thank you, ^^^^old friend.\""
+  },
+  "DFr_490AA5C4.Text": {
+    "": {
+      "Text": "Does that mean you are ready to accept the validity of my teachings?"
+    },
+    "Context": "Flow/protagorasa3end/06_protagoras: \"Does that mean you are ready to acc...\""
+  },
+  "DFr_823069FD.Text": {
+    "": {
+      "Text": "On the contrary. ^^^^^^^You see, ^^^^^^^^^^you’ve also demonstrated why it would be foolish to do so."
+    },
+    "Context": "Flow/protagorasa3end/01_socrates: \"On the contrary. ^^^^^^^You see, ^^...\""
+  },
+  "DFr_F78576CB.Text": {
+    "": {
+      "Text": "Whaaaaaaat?!"
+    },
+    "Context": "Flow/protagorasa3end/06_protagoras: \"Whaaaaaaat?!\""
+  },
+  "DFr_34EB5B49.Text": {
+    "": {
+      "Text": "The Great Thinker Socrates, ^^^^^the wisest man in Athens..."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"The Great Thinker Socrates, ^^^^^th...\""
+  },
+  "DFr_CACBBB26.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"...\""
+  },
+  "DFr_CB8613F5.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^Unlike the other philosophers, ^^^^Socrates was never sure of his ideas."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"^^^^^^^^^^^^^^^^^^^Unlike the other...\""
+  },
+  "DFr_EB5AE6A4.Text": {
+    "": {
+      "Text": "He was always questioning, ^^^^always challenging himself and others in pursuit of the truth..."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"He was always questioning, ^^^^alwa...\""
+  },
+  "DFr_6A1BA9A8.Text": {
+    "": {
+      "Text": "Never satisfied with any of the answers that were provided... ^^^^^^^^until he disappeared."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"Never satisfied with any of the ans...\""
+  },
+  "DFr_25F01373.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^^Simply vanished into the aether, ^^^^^never to be seen again."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"^^^^^^^^^^^^^^^^^^^^^^Simply vanish...\""
+  },
+  "DFr_B337838A.Text": {
+    "": {
+      "Text": "What happened to him? ^^^^^Was his wish to leave?"
+    },
+    "Context": "Flow/protagorasa3end3/01_socrates: \"What happened to him? ^^^^^Was his...\""
+  },
+  "DFr_97E18073.Text": {
+    "": {
+      "Text": "No one is quite sure."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"No one is quite sure.\""
+  },
+  "DFr_A7C3B831.Text": {
+    "": {
+      "Text": "The last person to see Socrates on this plane was René Descartes."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"The last person to see Socrates on...\""
+  },
+  "DFr_EAFA6BD7.Text": {
+    "": {
+      "Text": "And according to Descartes, ^^^^the only thing Socrates said was..."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"And according to Descartes, ^^^^the...\""
+  },
+  "DFr_00F31F9B.Text": {
+    "": {
+      "Text": "“I found it!”"
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"“I found it!”\""
+  },
+  "DFr_1789328C.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^^^^Disappeared?"
+    },
+    "Context": "Flow/protagorasa3end3/02_ari: \"^^^^^^^^^^^^^^^^^^^^^^^^Disappeared...\""
+  },
+  "DFr_F2D09F6D.Text": {
+    "": {
+      "Text": "Yes. ^^^^^^Without a trace."
+    },
+    "Context": "Flow/protagorasa3end3/04_arbiter: \"Yes. ^^^^^^Without a trace.\""
+  },
+  "DFr_92FFEDC1.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^He found... ^^^^^^^^^it?"
+    },
+    "Context": "Flow/protagorasa3end4/01_socrates: \"^^^^^^^^^^^^^^^^^^^He found... ^^^^...\""
+  },
+  "DFr_D4005F32.Text": {
+    "": {
+      "Text": "The answer."
+    },
+    "Context": "Flow/protagorasa3end4/04_arbiter: \"The answer.\""
+  },
+  "DFr_1A00C80F.Text": {
+    "": {
+      "Text": "Wow..."
+    },
+    "Context": "Flow/protagorasa3end4/02_ari: \"Wow...\""
+  },
+  "DFr_86941BB0.Text": {
+    "": {
+      "Text": "(That’s my namesake?! ^^^^^I really hope I’m not expected to live up to that!)"
+    },
+    "Context": "Flow/protagorasa3end4/01_socrates: \"(That’s my namesake?! ^^^^^I really...\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

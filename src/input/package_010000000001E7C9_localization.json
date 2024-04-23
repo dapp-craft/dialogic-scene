@@ -1,0 +1,5228 @@
+{
+  "Dlg_21F655BA.DisplayName": {
+    "": {
+      "Text": "hobbes_00"
+    },
+    "Context": "Flow/hobbes_00"
+  },
+  "Dlg_F8C93CA1.DisplayName": {
+    "": {
+      "Text": "hobbes_01"
+    },
+    "Context": "Flow/hobbes_01"
+  },
+  "Dlg_758EB73D.DisplayName": {
+    "": {
+      "Text": "hobbesp1_presentation"
+    },
+    "Context": "Flow/hobbesp1_presentation"
+  },
+  "Dlg_FBBF6539.DisplayName": {
+    "": {
+      "Text": "hobbesp1_1"
+    },
+    "Context": "Flow/hobbesp1_1"
+  },
+  "Dlg_3C148654.DisplayName": {
+    "": {
+      "Text": "hobbesp1_argument"
+    },
+    "Context": "Flow/hobbesp1_argument"
+  },
+  "Dlg_EE088BC3.DisplayName": {
+    "": {
+      "Text": "hobbesa1_correct"
+    },
+    "Context": "Flow/hobbesa1_correct"
+  },
+  "Dlg_7151B23A.DisplayName": {
+    "": {
+      "Text": "hobbes_gameover"
+    },
+    "Context": "Flow/hobbes_gameover"
+  },
+  "Dlg_B7341EA4.DisplayName": {
+    "": {
+      "Text": "hobbesa1_end"
+    },
+    "Context": "Flow/hobbesa1_end"
+  },
+  "Dlg_B956E9A8.DisplayName": {
+    "": {
+      "Text": "hobbesa1_end_1"
+    },
+    "Context": "Flow/hobbesa1_end_1"
+  },
+  "Dlg_DF5140F2.DisplayName": {
+    "": {
+      "Text": "hobbesp2_presentation"
+    },
+    "Context": "Flow/hobbesp2_presentation"
+  },
+  "Dlg_39B47A3F.DisplayName": {
+    "": {
+      "Text": "hobbesp2_1"
+    },
+    "Context": "Flow/hobbesp2_1"
+  },
+  "Dlg_B6F8C2EA.DisplayName": {
+    "": {
+      "Text": "hobbesp2_argument"
+    },
+    "Context": "Flow/hobbesp2_argument"
+  },
+  "Dlg_58C76E53.DisplayName": {
+    "": {
+      "Text": "hobbesa2_correct"
+    },
+    "Context": "Flow/hobbesa2_correct"
+  },
+  "Dlg_821FB3CF.DisplayName": {
+    "": {
+      "Text": "hobbesa2_end"
+    },
+    "Context": "Flow/hobbesa2_end"
+  },
+  "Dlg_7D25F281.DisplayName": {
+    "": {
+      "Text": "hobbesa2_end_1"
+    },
+    "Context": "Flow/hobbesa2_end_1"
+  },
+  "Dlg_B183953D.DisplayName": {
+    "": {
+      "Text": "hobbesp3_presentation"
+    },
+    "Context": "Flow/hobbesp3_presentation"
+  },
+  "Dlg_D74DA8E7.DisplayName": {
+    "": {
+      "Text": "hobbesp3_1"
+    },
+    "Context": "Flow/hobbesp3_1"
+  },
+  "Dlg_A7402997.DisplayName": {
+    "": {
+      "Text": "hobbesp3_2"
+    },
+    "Context": "Flow/hobbesp3_2"
+  },
+  "Dlg_F346C7DD.DisplayName": {
+    "": {
+      "Text": "hobbesp3_3"
+    },
+    "Context": "Flow/hobbesp3_3"
+  },
+  "Dlg_0E3CC748.DisplayName": {
+    "": {
+      "Text": "hobbesp3_argument"
+    },
+    "Context": "Flow/hobbesp3_argument"
+  },
+  "Dlg_3C9BEE84.DisplayName": {
+    "": {
+      "Text": "hobbesa3_correct"
+    },
+    "Context": "Flow/hobbesa3_correct"
+  },
+  "Dlg_337C0B8E.DisplayName": {
+    "": {
+      "Text": "hobbesa3_correct_1"
+    },
+    "Context": "Flow/hobbesa3_correct_1"
+  },
+  "Dlg_A3861243.DisplayName": {
+    "": {
+      "Text": "hobbesa3_correct_2"
+    },
+    "Context": "Flow/hobbesa3_correct_2"
+  },
+  "Dlg_CBECF0B6.DisplayName": {
+    "": {
+      "Text": "hobbesa3_correct_3"
+    },
+    "Context": "Flow/hobbesa3_correct_3"
+  },
+  "Dlg_71B6D891.DisplayName": {
+    "": {
+      "Text": "hobbesa3_correct_4"
+    },
+    "Context": "Flow/hobbesa3_correct_4"
+  },
+  "DFr_98E4CC9B.Text": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp1_argument/i1: \"According to Hobbes, in the natural...\""
+  },
+  "DFr_7D69B7CD.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp1_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_0AD3CA43.Text": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp1_argument/i2: \"Hobbes believes that man will alway...\""
+  },
+  "DFr_E365347B.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp1_argument/i3: \"People often help each other in ord...\""
+  },
+  "DFr_69C0811D.Text": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp1_argument/i4: \"Every contract requires obligations...\""
+  },
+  "DFr_BB39B5D6.Text": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp2_argument/i4: \"Every contract requires obligations...\""
+  },
+  "DFr_B9278B1B.Text": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp2_argument/i1: \"According to Hobbes, in the natural...\""
+  },
+  "DFr_A761BA19.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp2_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_426134C1.Text": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp2_argument/i2: \"Hobbes believes that man will alway...\""
+  },
+  "DFr_39C7F919.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp2_argument/i3: \"People often help each other in ord...\""
+  },
+  "DFr_CC880AFB.Text": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp3_argument/i4: \"Every contract requires obligations...\""
+  },
+  "DFr_E7F7BC46.Text": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp3_argument/i1: \"According to Hobbes, in the natural...\""
+  },
+  "DFr_9CC3BAAD.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp3_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_FE889652.Text": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp3_argument/i2: \"Hobbes believes that man will alway...\""
+  },
+  "DFr_F858D51A.Text": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp3_argument/i3: \"People often help each other in ord...\""
+  },
+  "DFr_7F88E65E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbes_00/11_nobody: \"...\""
+  },
+  "DFr_74C25C1E.Text": {
+    "": {
+      "Text": "Well, the original Socrates may have bested the Arbiter’s Challenge, ^^^^^"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Well, the original Socrates may hav...\""
+  },
+  "DFr_FD769845.Text": {
+    "": {
+      "Text": "but we’re two philosophers down and I don’t feel any closer to our goal."
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"but we’re two philosophers down and...\""
+  },
+  "DFr_DF44E9B8.Text": {
+    "": {
+      "Text": "It always seems to be just out of reach, doesn’t it?"
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"It always seems to be just out of r...\""
+  },
+  "DFr_FA358F7F.Text": {
+    "": {
+      "Text": "Do not worry. ^^^^There are still near infinite perspectives to examine!"
+    },
+    "Context": "Flow/hobbes_00/04_arbiter: \"Do not worry. ^^^^There are still n...\""
+  },
+  "DFr_9CA045E3.Text": {
+    "": {
+      "Text": "In fact, I already have another philosopher ready for you to debate."
+    },
+    "Context": "Flow/hobbes_00/04_arbiter: \"In fact, I already have another phi...\""
+  },
+  "DFr_99E079D3.Text": {
+    "": {
+      "Text": ".^^^^.^^^^.^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \".^^^^.^^^^.^^^^^^^^^^^^\""
+  },
+  "DFr_D83B507B.Text": {
+    "": {
+      "Text": "Wonderful..."
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Wonderful...\""
+  },
+  "DFr_A8A43A18.Text": {
+    "": {
+      "Text": "So, who’s the next philosopher?"
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"So, who’s the next philosopher?\""
+  },
+  "DFr_93C4CBB8.Text": {
+    "": {
+      "Text": "Is it another Greek dude? ^^^^^^Because frankly, ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"Is it another Greek dude? ^^^^^^Bec...\""
+  },
+  "DFr_EDB7796F.Text": {
+    "": {
+      "Text": "I’m getting sick of Greek dudes."
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"I’m getting sick of Greek dudes.\""
+  },
+  "DFr_344A821B.Text": {
+    "": {
+      "Text": "No. ^^^^^This one is British."
+    },
+    "Context": "Flow/hobbes_00/04_arbiter: \"No. ^^^^^This one is British.\""
+  },
+  "DFr_39F99A63.Text": {
+    "": {
+      "Text": "Oh, how exciting!"
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"Oh, how exciting!\""
+  },
+  "DFr_8FA16C77.Text": {
+    "": {
+      "Text": "Yes... ^^^^^I am simply... ^^^^^ecstatic."
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Yes... ^^^^^I am simply... ^^^^^ecs...\""
+  },
+  "DFr_17A5E431.Text": {
+    "": {
+      "Text": "What’s the matter, Socrates? ^^^^^^^^^^^^Do you no longer wish to continue?"
+    },
+    "Context": "Flow/hobbes_00/04_arbiter: \"What’s the matter, Socrates? ^^^^^^...\""
+  },
+  "DFr_74DAAC79.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"...\""
+  },
+  "DFr_8190FE1F.Text": {
+    "": {
+      "Text": "Hold on! ^^^^^^^^^^^^^^^^^^^^^^^^I never said that! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Hold on! ^^^^^^^^^^^^^^^^^^^^^^^^I...\""
+  },
+  "DFr_4B4E3FFC.Text": {
+    "": {
+      "Text": "Of course I wish to continue!"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Of course I wish to continue!\""
+  },
+  "DFr_EFBC303B.Text": {
+    "": {
+      "Text": "Dad..."
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"Dad...\""
+  },
+  "DFr_5F460370.Text": {
+    "": {
+      "Text": "Very well then. ^^^^^^Give me a moment, ^^^Socrates, ^^^and I will bring the new philosopher out."
+    },
+    "Context": "Flow/hobbes_00/04_arbiter: \"Very well then. ^^^^^^Give me a mom...\""
+  },
+  "DFr_D79F8281.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbes_00/07_hobbes: \"...\""
+  },
+  "DFr_3E29B063.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"...\""
+  },
+  "DFr_67772B12.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"...\""
+  },
+  "DFr_DD2D5465.Text": {
+    "": {
+      "Text": "Um... ^^^^^^hello?"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Um... ^^^^^^hello?\""
+  },
+  "DFr_33FB35AC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbes_00/07_hobbes: \"...\""
+  },
+  "DFr_44692A37.Text": {
+    "": {
+      "Text": "Um... Arbiter... ^^^^are you sure this is the right guy? ^^^^^^^^^^^He... ^^^^^^^^^"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Um... Arbiter... ^^^^are you sure t...\""
+  },
+  "DFr_AA29942B.Text": {
+    "": {
+      "Text": "isn’t doing anything."
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"isn’t doing anything.\""
+  },
+  "DFr_EB02E7C5.Text": {
+    "": {
+      "Text": "Maybe he’s dead?"
+    },
+    "Context": "Flow/hobbes_00/02_ari: \"Maybe he’s dead?\""
+  },
+  "DFr_B89A402A.Text": {
+    "": {
+      "Text": "Well... ^^technically^^^^^—"
+    },
+    "Context": "Flow/hobbes_00/01_socrates: \"Well... ^^technically^^^^^—\""
+  },
+  "DFr_48A8A50D.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_8D3BE808.Text": {
+    "": {
+      "Text": "Eeep! ^^^^^^^^^^^^He can speak!"
+    },
+    "Context": "Flow/hobbes_01/02_ari: \"Eeep! ^^^^^^^^^^^^He can speak!\""
+  },
+  "DFr_D9E90C8E.Text": {
+    "": {
+      "Text": "Of course I can speak, ^^^^you silly girl. ^^^^^^I just chose not to."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"Of course I can speak, ^^^^you sill...\""
+  },
+  "DFr_B55E1FB0.Text": {
+    "": {
+      "Text": "You waste time with small words. ^^^^^^^^^And small words are the money of fools."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"You waste time with small words. ^^...\""
+  },
+  "DFr_8EE2FB4E.Text": {
+    "": {
+      "Text": "Arbiter.^^^.^^^.^^^ ^^^^^who ^^IS ^^this guy?"
+    },
+    "Context": "Flow/hobbes_01/01_socrates: \"Arbiter.^^^.^^^.^^^ ^^^^^who ^^IS ^...\""
+  },
+  "DFr_50A048A6.Text": {
+    "": {
+      "Text": "You may refer to me as Thomas Hobbes."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"You may refer to me as Thomas Hobbe...\""
+  },
+  "DFr_13F96884.Text": {
+    "": {
+      "Text": "You should know, ^^^^Mr. Jones, ^^^^that my mother gave birth to twins. ^^^^^^^^^^^^^Myself, and FEAR!"
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"You should know, ^^^^Mr. Jones, ^^^...\""
+  },
+  "DFr_D83826E9.Text": {
+    "": {
+      "Text": "By the end of the day, ^^^^^^ you will be thoroughly acquainted with both of us."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"By the end of the day, ^^^^^^ you w...\""
+  },
+  "DFr_A44D0EE6.Text": {
+    "": {
+      "Text": "Hobbes, you may present your argument."
+    },
+    "Context": "Flow/hobbes_01/04_arbiter: \"Hobbes, you may present your argume...\""
+  },
+  "DFr_7F752626.Text": {
+    "": {
+      "Text": "Of course, Arbiter."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"Of course, Arbiter.\""
+  },
+  "DFr_8904AA79.Text": {
+    "": {
+      "Text": "By the end of the day, ^^^^^^ you will be thoroughly acquainted with both of us."
+    },
+    "Context": "Flow/hobbes_01/01_socrates: \"By the end of the day, ^^^^^^ you w...\""
+  },
+  "DFr_8A1D21D1.Text": {
+    "": {
+      "Text": "Allow me to begin by describing to you the natural state of man."
+    },
+    "Context": "Flow/hobbes_01/07_hobbes: \"Allow me to begin by describing to...\""
+  },
+  "DFr_6738B171.Text": {
+    "": {
+      "Text": "In the natural state, men find themselves equal and in competition for resources."
+    },
+    "Context": "Flow/hobbesp1_presentation/07_hobbes: \"In the natural state, men find them...\""
+  },
+  "DFr_92F8F2B0.Text": {
+    "": {
+      "Text": "Being selfish, they will go to any lengths to achieve their desires."
+    },
+    "Context": "Flow/hobbesp1_presentation/07_hobbes: \"Being selfish, they will go to any...\""
+  },
+  "DFr_C7DCD1C8.Text": {
+    "": {
+      "Text": "This sets them at odds with every other man, creating a constant state of War."
+    },
+    "Context": "Flow/hobbesp1_presentation/07_hobbes: \"This sets them at odds with every o...\""
+  },
+  "DFr_BD82F9A9.Text": {
+    "": {
+      "Text": "Ceaseless conflict makes life nasty, brutish, and short."
+    },
+    "Context": "Flow/hobbesp1_presentation/07_hobbes: \"Ceaseless conflict makes life nasty...\""
+  },
+  "DFr_4B5CC6FC.Text": {
+    "": {
+      "Text": "And there we go. The natural state of mankind."
+    },
+    "Context": "Flow/hobbesp1_1/07_hobbes: \"And there we go. The natural state...\""
+  },
+  "DFr_9AE9EA1F.Text": {
+    "": {
+      "Text": "“The Natural State” added to the Idea Slate."
+    },
+    "Context": "Flow/hobbesp1_1/12_notification: \"“The Natural State” added to the Id...\""
+  },
+  "DFr_6D915826.Text": {
+    "": {
+      "Text": "“Mankind is Selfish” added to the Idea Slate."
+    },
+    "Context": "Flow/hobbesp1_1/12_notification: \"“Mankind is Selfish” added to the I...\""
+  },
+  "DFr_BA4C90C6.Text": {
+    "": {
+      "Text": "...But... ^^^^wait... ^^^^^^^you said nothing about morality!"
+    },
+    "Context": "Flow/hobbesp1_1/01_socrates: \"...But... ^^^^wait... ^^^^^^^you sa...\""
+  },
+  "DFr_0CEA9CC6.Text": {
+    "": {
+      "Text": "Of course not. ^^^^In the natural state, ^^^^^^^^^^^there is no morality."
+    },
+    "Context": "Flow/hobbesp1_1/07_hobbes: \"Of course not. ^^^^In the natural s...\""
+  },
+  "DFr_3501E08F.Text": {
+    "": {
+      "Text": "There is nothing binding us to respect one another. ^^^^^^^^Nothing stopping us from killing each other."
+    },
+    "Context": "Flow/hobbesp1_1/07_hobbes: \"There is nothing binding us to resp...\""
+  },
+  "DFr_889F1CF9.Text": {
+    "": {
+      "Text": "Wh-WHAT!?!"
+    },
+    "Context": "Flow/hobbesp1_1/01_socrates: \"Wh-WHAT!?!\""
+  },
+  "DFr_0366AB40.Text": {
+    "": {
+      "Text": "Well, that’s depressing..."
+    },
+    "Context": "Flow/hobbesp1_1/02_ari: \"Well, that’s depressing...\""
+  },
+  "DFr_BCCB01E9.Text": {
+    "": {
+      "Text": "And ridiculous! ^^^^^^^Of course there’s a sense of right and wrong!"
+    },
+    "Context": "Flow/hobbesp1_1/01_socrates: \"And ridiculous! ^^^^^^^Of course th...\""
+  },
+  "DFr_4F13FAEE.Text": {
+    "": {
+      "Text": "Arbiter, there’s no way this philosophy can possibly be the correct answer!"
+    },
+    "Context": "Flow/hobbesp1_1/01_socrates: \"Arbiter, there’s no way this philos...\""
+  },
+  "DFr_53BC2203.Text": {
+    "": {
+      "Text": "Hrmph. ^^^^^^^^^You seem rather sure of yourself, Mr. Jones."
+    },
+    "Context": "Flow/hobbesp1_1/07_hobbes: \"Hrmph. ^^^^^^^^^You seem rather sur...\""
+  },
+  "DFr_09F57957.Text": {
+    "": {
+      "Text": "Shall we put your theories to the test?"
+    },
+    "Context": "Flow/hobbesp1_1/07_hobbes: \"Shall we put your theories to the t...\""
+  },
+  "DFr_BE68364B.Text": {
+    "": {
+      "Text": "Gladly."
+    },
+    "Context": "Flow/hobbesp1_1/01_socrates: \"Gladly.\""
+  },
+  "DFr_EA683DD9.Text": {
+    "": {
+      "Text": "“People Work Together” added to the Idea Slate."
+    },
+    "Context": "Flow/hobbesp1_1/12_notification: \"“People Work Together” added to the...\""
+  },
+  "DFr_222DFBB7.Text": {
+    "": {
+      "Text": "Careful..."
+    },
+    "Context": "Flow/hobbesp1_1/02_ari: \"Careful...\""
+  },
+  "DFr_C3A07B3C.Text": {
+    "": {
+      "Text": "In the natural state, men find themselves equal and in competition for resources."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"In the natural state, men find them...\""
+  },
+  "DFr_47597952.Text": {
+    "": {
+      "Text": "Being selfish, they will go to any lengths to achieve their desires."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Being selfish, they will go to any...\""
+  },
+  "DFr_E1794F88.Text": {
+    "": {
+      "Text": "This sets them at odds with every other man, creating a constant state of War."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"This sets them at odds with every o...\""
+  },
+  "DFr_879E5E4E.Text": {
+    "": {
+      "Text": "Ceaseless conflict makes life nasty, brutish, and short."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Ceaseless conflict makes life nasty...\""
+  },
+  "DFr_BF05FAA7.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_EAF7E608.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_CE4D6962.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_CC15E781.Text": {
+    "": {
+      "Text": "Left to their own devices, ^^^^men will all want the same things, ^^^^but they cannot all get them."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Left to their own devices, ^^^^men...\""
+  },
+  "DFr_59D16946.Text": {
+    "": {
+      "Text": "Mr. Jones, in the natural state, ^^^no man orders any other about. ^^^^^They all compete, ^^^as equals, ^^^using only their natural facilities."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Mr. Jones, in the natural state, ^^...\""
+  },
+  "DFr_71843EA2.Text": {
+    "": {
+      "Text": "The things we desire— ^^^^^^food, ^^^^water, ^^^and shelter, ^^^^for example— ^^^^^^they are not unlimited in quantity."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The things we desire— ^^^^^^food, ^...\""
+  },
+  "DFr_6BF3BDB1.Text": {
+    "": {
+      "Text": "The amount of people wanting vastly outstrips the quantity of the wanted."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The amount of people wanting vastly...\""
+  },
+  "DFr_80756C48.Text": {
+    "": {
+      "Text": "As a result, ^^^^^men must compete for their desires."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"As a result, ^^^^^men must compete...\""
+  },
+  "DFr_0C9359B1.Text": {
+    "": {
+      "Text": "The fact that men pursue their desires is the source of all human behavior."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The fact that men pursue their desi...\""
+  },
+  "DFr_E7994320.Text": {
+    "": {
+      "Text": "And as a result, my argument is dependent upon it."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"And as a result, my argument is dep...\""
+  },
+  "DFr_69236800.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_9272FF19.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_81CC9C98.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_D14B6A67.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_188E04C1.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_796D6DD8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"...\""
+  },
+  "DFr_09E0EC90.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_A7A9A3BF.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_A4803DD2.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_6085920D.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_1B05C8AD.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_4BEB3DF9.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_E1A4F332.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_4C6CC1A6.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_6551894D.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_32DE646D.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_13A7AB3C.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_5EC0AD2C.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_48EBB524.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_EC73068D.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7A4F517C.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_213CC99F.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_9FBC72A5.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_2AC29AAB.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_F4998F56.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_CBC0D938.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_FB95D4B1.Text": {
+    "": {
+      "Text": "Men see what they want, and they will grub and squabble if necessary to get it."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Men see what they want, and they wi...\""
+  },
+  "DFr_1DD0BB91.Text": {
+    "": {
+      "Text": "Even to the extent of stabbing each other in the back."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Even to the extent of stabbing each...\""
+  },
+  "DFr_87244218.Text": {
+    "": {
+      "Text": "Tell me, ^^^^Mr. Jones: ^^^^^^why do you stand here, ^^^^debating philosopher after philosopher?"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Tell me, ^^^^Mr. Jones: ^^^^^^why d...\""
+  },
+  "DFr_F8F47B31.Text": {
+    "": {
+      "Text": "Do you simply do it for the fun of it?"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Do you simply do it for the fun of...\""
+  },
+  "DFr_2B7FAF58.Text": {
+    "": {
+      "Text": "No. ^^^^It’s the only way I can get home!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"No. ^^^^It’s the only way I can get...\""
+  },
+  "DFr_EC4CE5F4.Text": {
+    "": {
+      "Text": "Exactly. ^^^^^^Like all men, ^^^^you are motivated by personal interest."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Exactly. ^^^^^^Like all men, ^^^^yo...\""
+  },
+  "DFr_FDDA34F0.Text": {
+    "": {
+      "Text": "So motivated that you will try something you, ^^^^as an accountant, ^^^^are not inclined to do: ^^^^^^^^^think."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"So motivated that you will try some...\""
+  },
+  "DFr_B4292A7D.Text": {
+    "": {
+      "Text": "As you can see, ^^^^my point stands strong."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"As you can see, ^^^^my point stands...\""
+  },
+  "DFr_83401609.Text": {
+    "": {
+      "Text": "If men didn’t wish to achieve their desires there would be no conflict."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"If men didn’t wish to achieve their...\""
+  },
+  "DFr_DF1B9984.Text": {
+    "": {
+      "Text": "Thus, their selfish pursuit is essential to my hypothesis."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Thus, their selfish pursuit is esse...\""
+  },
+  "DFr_5984E404.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_09D18699.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_72BAEBB3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_12F4BE8F.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_D509D543.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"...\""
+  },
+  "DFr_C1A08812.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_591776A2.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_CED873D5.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_67E919A2.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_78BD2B46.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_0B4E3D4B.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_21936B80.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_F8C8194C.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_5CB9249E.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_92BE41FE.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_23AC7A94.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_BE779F9D.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_50027F47.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C120BB00.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_3DAE21EE.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_DBAB49B2.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_19B530F4.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_1F2A5DDD.Text": {
+    "": {
+      "Text": "That is my conclusion, you fool."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"That is my conclusion, you fool.\""
+  },
+  "DFr_D03C0E93.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_AE17006C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2478549B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_538E2430.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_8A8974C3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"...\""
+  },
+  "DFr_1490734F.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_199919C7.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_3ABBC939.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_BAC19DAB.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_DFC32791.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_478B5AE2.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_D856A0FA.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_60A2A185.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_A81EE758.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_F362D594.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_3A4AB1EC.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C84D29F7.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_72E201C5.Text": {
+    "": {
+      "Text": "How can you be so sure?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"How can you be so sure?\""
+  },
+  "DFr_711C44BF.Text": {
+    "": {
+      "Text": "How does that support your conclusion?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"How does that support your conclusi...\""
+  },
+  "DFr_324482AC.Text": {
+    "": {
+      "Text": "In such a world, ^^^^force and fraud are the only cardinal virtues."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"In such a world, ^^^^force and frau...\""
+  },
+  "DFr_1C1D7CFD.Text": {
+    "": {
+      "Text": "As men will do anything possible to achieve their goals, ^^^^and they all want the same thing, ^^^^in the natural state they have nothing to do but fight."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"As men will do anything possible to...\""
+  },
+  "DFr_4307D558.Text": {
+    "": {
+      "Text": "Unable to achieve the same ends, men must fight to gain an upper hand."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Unable to achieve the same ends, me...\""
+  },
+  "DFr_6DD3FBA7.Text": {
+    "": {
+      "Text": "Eeesh! ^^^^Talk about a bleak view of humanity..."
+    },
+    "Context": "Flow/hobbesp1_argument/02_ari: \"Eeesh! ^^^^Talk about a bleak view...\""
+  },
+  "DFr_E6D4FE4D.Text": {
+    "": {
+      "Text": "Will two starving men ever let the other have the last slice of bread?"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Will two starving men ever let the...\""
+  },
+  "DFr_63B22EE2.Text": {
+    "": {
+      "Text": "Will two people in love with the same subject ever concede with ease?"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Will two people in love with the sa...\""
+  },
+  "DFr_DDDECDD0.Text": {
+    "": {
+      "Text": "Of course not! ^^^^^In the natural state, when people want the same thing, ^^^^they fight for it."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Of course not! ^^^^^In the natural...\""
+  },
+  "DFr_27687465.Text": {
+    "": {
+      "Text": "Thus men are at war, ^^^^^always and forever!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Thus men are at war, ^^^^^always an...\""
+  },
+  "DFr_EA48602D.Text": {
+    "": {
+      "Text": "(Is that so...)"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"(Is that so...)\""
+  },
+  "DFr_9C65AFA9.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"...\""
+  },
+  "DFr_B199F66A.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_F2D56A76.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_9EC6AF03.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_DD8236FD.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_A5CA9EFD.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_64E8644F.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_C174F3AF.Text": {
+    "": {
+      "Text": "It shows the consequences of my conclusion."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"It shows the consequences of my con...\""
+  },
+  "DFr_9797B445.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_473F8008.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_0B25C724.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"...\""
+  },
+  "DFr_4FCD816B.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_6E24610D.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_51F6F601.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_ECEE3302.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_F37221BA.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_12B1EC8F.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_852A0CC3.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp1_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_CDD56CBC.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_1185CD87.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_65E55BFE.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_D232548D.Text": {
+    "": {
+      "Text": "This tends to lend itself to a low standard of living."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"This tends to lend itself to a low...\""
+  },
+  "DFr_2F9BADBD.Text": {
+    "": {
+      "Text": "Indeed, in three parts."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Indeed, in three parts.\""
+  },
+  "DFr_AD9B343B.Text": {
+    "": {
+      "Text": "Everyone fights endlessly from the womb to the grave."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Everyone fights endlessly from the...\""
+  },
+  "DFr_6DD3461F.Text": {
+    "": {
+      "Text": "The first is that it is “nasty.” ^^^^^^^^In the natural state, one of constant war, death is everywhere. ^^^^^^^^Disease. ^^^^^^^^Discomfort."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The first is that it is “nasty.” ^^...\""
+  },
+  "DFr_42A4A391.Text": {
+    "": {
+      "Text": "The second is that it is “brutish.” ^^^^^^^^With constant war men are driven to do terrible things to one another, ^^^^relying on brute strength to overcome one another."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The second is that it is “brutish.”...\""
+  },
+  "DFr_FB21F1F8.Text": {
+    "": {
+      "Text": "Instead of arguing with you, ^^^^I’d be beating you over the head with a rock!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"Instead of arguing with you, ^^^^I’...\""
+  },
+  "DFr_FE8C8C42.Text": {
+    "": {
+      "Text": "And the third, that it is “short.” ^^^^^^^^It’s clear that long ago, ^^^^when men lived in the natural state, ^^^^their lives were much shorter than ours are today."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"And the third, that it is “short.”...\""
+  },
+  "DFr_71AFA6CF.Text": {
+    "": {
+      "Text": "The average age of death was in the mid-twenties. ^^^^You would be considered a very old man indeed!"
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The average age of death was in the...\""
+  },
+  "DFr_AF92B737.Text": {
+    "": {
+      "Text": "And so my statement is supported."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"And so my statement is supported.\""
+  },
+  "DFr_E46CC807.Text": {
+    "": {
+      "Text": "It is important for one to consider the effects of their thoughts."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"It is important for one to consider...\""
+  },
+  "DFr_5576C613.Text": {
+    "": {
+      "Text": "But the effects of your thoughts are terrible!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"But the effects of your thoughts ar...\""
+  },
+  "DFr_3C8B491B.Text": {
+    "": {
+      "Text": "The world isn’t perfect, ^^^^^Mr. Jones."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"The world isn’t perfect, ^^^^^Mr. J...\""
+  },
+  "DFr_E2A3C5DE.Text": {
+    "": {
+      "Text": "I speak the truth, ^^^^harsh as the truth may be."
+    },
+    "Context": "Flow/hobbesp1_argument/07_hobbes: \"I speak the truth, ^^^^harsh as the...\""
+  },
+  "DFr_3E808A29.Text": {
+    "": {
+      "Text": "This portrait’s so absolute and grim... ^^^^^I know it can’t be right!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"This portrait’s so absolute and gri...\""
+  },
+  "DFr_875AF829.Text": {
+    "": {
+      "Text": "Why’s this guy so respected? ^^^^^^^There’s no way THIS will win my way home!"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"Why’s this guy so respected? ^^^^^^...\""
+  },
+  "DFr_4D32DB55.Text": {
+    "": {
+      "Text": "Be careful, Dad..."
+    },
+    "Context": "Flow/hobbesp1_argument/02_ari: \"Be careful, Dad...\""
+  },
+  "DFr_7A67232B.Text": {
+    "": {
+      "Text": "(I wish she would stop saying that... ^^^^^I can handle this.)"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"(I wish she would stop saying that....\""
+  },
+  "DFr_B14EE065.Text": {
+    "": {
+      "Text": "(I just need to find the problem and point it out... ^^^^^^so we can have a discussion with someone who ACTUALLY knows what he’s talking about!)"
+    },
+    "Context": "Flow/hobbesp1_argument/01_socrates: \"(I just need to find the problem an...\""
+  },
+  "DFr_17BCCE9C.Text": {
+    "": {
+      "Text": "Hobbes! ^^^^^Your argument here is about as weak as they come."
+    },
+    "Context": "Flow/hobbesa1_correct/01_socrates: \"Hobbes! ^^^^^Your argument here is...\""
+  },
+  "DFr_0D4645BE.Text": {
+    "": {
+      "Text": "You claim that people are in a constant state of war... ^^^^^^^"
+    },
+    "Context": "Flow/hobbesa1_correct/01_socrates: \"You claim that people are in a cons...\""
+  },
+  "DFr_46CA1191.Text": {
+    "": {
+      "Text": "but I see people cooperate every day!"
+    },
+    "Context": "Flow/hobbesa1_correct/01_socrates: \"but I see people cooperate every da...\""
+  },
+  "DFr_D283FEB7.Text": {
+    "": {
+      "Text": "Is that so?"
+    },
+    "Context": "Flow/hobbesa1_correct/07_hobbes: \"Is that so?\""
+  },
+  "DFr_0B43D307.Text": {
+    "": {
+      "Text": "Bah, ^^^humbug!"
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"Bah, ^^^humbug!\""
+  },
+  "DFr_A1543B19.Text": {
+    "": {
+      "Text": "Ugh. ^^^^What now?"
+    },
+    "Context": "Flow/hobbes_gameover/01_socrates: \"Ugh. ^^^^What now?\""
+  },
+  "DFr_B7EED80F.Text": {
+    "": {
+      "Text": "Nothing. ^^^^^Nothing, ^^^now. ^^^^^^^^We are done."
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"Nothing. ^^^^^Nothing, ^^^now. ^^^^...\""
+  },
+  "DFr_4FECBBF4.Text": {
+    "": {
+      "Text": "This is exactly what I feared when I entered this “discussion.” ^^^^^^You clearly have nothing substantial to offer."
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"This is exactly what I feared when...\""
+  },
+  "DFr_52558B74.Text": {
+    "": {
+      "Text": "As such, ^^^there is nothing compelling me to keep my end of the contract. ^^^^^So, I choose to break it."
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"As such, ^^^there is nothing compel...\""
+  },
+  "DFr_4265041E.Text": {
+    "": {
+      "Text": "You– ^^^you’ve got to be kidding!"
+    },
+    "Context": "Flow/hobbes_gameover/01_socrates: \"You– ^^^you’ve got to be kidding!\""
+  },
+  "DFr_66E01D0E.Text": {
+    "": {
+      "Text": "I hope you enjoy being dead, ^^^Mr. Jones. ^^^^^In many ways, ^^^it’s much easier than the fear of being alive."
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"I hope you enjoy being dead, ^^^Mr....\""
+  },
+  "DFr_9B1F81E9.Text": {
+    "": {
+      "Text": "Goodbye!"
+    },
+    "Context": "Flow/hobbes_gameover/07_hobbes: \"Goodbye!\""
+  },
+  "DFr_2FF691B5.Text": {
+    "": {
+      "Text": "(And that was the end of it, really. ^^^^^Despite my progress, ^^^Hobbes wore me down...)"
+    },
+    "Context": "Flow/hobbes_gameover/01_socrates: \"(And that was the end of it, really...\""
+  },
+  "DFr_E8F94B27.Text": {
+    "": {
+      "Text": "(After he left, ^^^I figured his answer was strong enough... ^^^^despite how grim it was, ^^maybe, ^^^just maybe, ^^he was right.)"
+    },
+    "Context": "Flow/hobbes_gameover/01_socrates: \"(After he left, ^^^I figured his an...\""
+  },
+  "DFr_04AF4920.Text": {
+    "": {
+      "Text": "(...^^^^^^^Well, ^^^I’m still here. ^^^^^^^So... ^^^^^so much for that.)"
+    },
+    "Context": "Flow/hobbes_gameover/01_socrates: \"(...^^^^^^^Well, ^^^I’m still here....\""
+  },
+  "DFr_E1D1F511.Text": {
+    "": {
+      "Text": "Yes! ^^^^^Societies are, ^^in fact, ^^^built upon such cooperation!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Yes! ^^^^^Societies are, ^^in fact,...\""
+  },
+  "DFr_7B137772.Text": {
+    "": {
+      "Text": "Employees in a businesses collaborate to create a product!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Employees in a businesses collabora...\""
+  },
+  "DFr_9D04D4AC.Text": {
+    "": {
+      "Text": "Construction workers get together to build a house!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Construction workers get together t...\""
+  },
+  "DFr_62138A0F.Text": {
+    "": {
+      "Text": "Doctors work together to save their patients!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Doctors work together to save their...\""
+  },
+  "DFr_CFBF6A25.Text": {
+    "": {
+      "Text": "Philosophers work together to find the truth!"
+    },
+    "Context": "Flow/hobbesa1_end/04_arbiter: \"Philosophers work together to find...\""
+  },
+  "DFr_8A644A65.Text": {
+    "": {
+      "Text": "Exactly! ^^^^^^Thank you, ^^^^Arbiter."
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Exactly! ^^^^^^Thank you, ^^^^Arbit...\""
+  },
+  "DFr_9EE7D1AC.Text": {
+    "": {
+      "Text": "Well, ^^^^Thomas Hobbes? ^^^^^^If people were always at war, ^^^^^none of these things would be possible!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Well, ^^^^Thomas Hobbes? ^^^^^^If p...\""
+  },
+  "DFr_839F74E7.Text": {
+    "": {
+      "Text": "Society as we know it couldn’t exist!"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"Society as we know it couldn’t exis...\""
+  },
+  "DFr_8B119C8B.Text": {
+    "": {
+      "Text": "What do you have to say to THAT?"
+    },
+    "Context": "Flow/hobbesa1_end/01_socrates: \"What do you have to say to THAT?\""
+  },
+  "DFr_391AFD27.Text": {
+    "": {
+      "Text": "I say... ^^^^^^^^^^you are merely an observer of the obvious, ^^^^Mr. Jones."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"I say... ^^^^^^^^^^you are merely a...\""
+  },
+  "DFr_EFA21D45.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/hobbesa1_end_1/01_socrates: \"Huh?\""
+  },
+  "DFr_AE4046A2.Text": {
+    "": {
+      "Text": "You insult my intelligence."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"You insult my intelligence.\""
+  },
+  "DFr_0D69C1B8.Text": {
+    "": {
+      "Text": "Do you really think I hadn’t considered such things?"
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"Do you really think I hadn’t consid...\""
+  },
+  "DFr_7BA02427.Text": {
+    "": {
+      "Text": "Our sense of morality is what allows us to cooperate in such a fashion."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"Our sense of morality is what allow...\""
+  },
+  "DFr_F4A69EA4.Text": {
+    "": {
+      "Text": "But... ^^^^but... ^^^^^^^^wait, hold on! ^^^^^^^^^^^^You said earlier there was no morality!"
+    },
+    "Context": "Flow/hobbesa1_end_1/01_socrates: \"But... ^^^^but... ^^^^^^^^wait, hol...\""
+  },
+  "DFr_28683E1C.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^^^^^^^In the natural state, ^^^^this is true."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"Indeed. ^^^^^^^^^^^^In the natural...\""
+  },
+  "DFr_D02CB4D6.Text": {
+    "": {
+      "Text": "However, ^^^^as such a state is extremely uncomfortable, ^^^^we have long since moved beyond it."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"However, ^^^^as such a state is ext...\""
+  },
+  "DFr_05C5959B.Text": {
+    "": {
+      "Text": "Allow me to explain to you, ^^^^Mr. Jones, ^^^^the step you have missed."
+    },
+    "Context": "Flow/hobbesa1_end_1/07_hobbes: \"Allow me to explain to you, ^^^^Mr....\""
+  },
+  "DFr_52CFF003.Text": {
+    "": {
+      "Text": "At the core of mankind’s self-interest is survival."
+    },
+    "Context": "Flow/hobbesp2_presentation/07_hobbes: \"At the core of mankind’s self-inter...\""
+  },
+  "DFr_A3E50CAC.Text": {
+    "": {
+      "Text": "However, in the natural state, there is no security."
+    },
+    "Context": "Flow/hobbesp2_presentation/07_hobbes: \"However, in the natural state, ther...\""
+  },
+  "DFr_46DA94E6.Text": {
+    "": {
+      "Text": "Thus, mankind is impelled to seek peace, forming contracts between individuals."
+    },
+    "Context": "Flow/hobbesp2_presentation/07_hobbes: \"Thus, mankind is impelled to seek p...\""
+  },
+  "DFr_25FD9B10.Text": {
+    "": {
+      "Text": "It is from such exchanges our sense of morality is born."
+    },
+    "Context": "Flow/hobbesp2_presentation/07_hobbes: \"It is from such exchanges our sense...\""
+  },
+  "DFr_6B46933A.Text": {
+    "": {
+      "Text": "And there you have it."
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \"And there you have it.\""
+  },
+  "DFr_18EB0532.Text": {
+    "": {
+      "Text": "Our moral rules... ^^^^our society... ^^^^our political systems... ^^^^^^^^they all come from the Social Contract!"
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \"Our moral rules... ^^^^our society....\""
+  },
+  "DFr_56E86D84.Text": {
+    "": {
+      "Text": "A ^^very ^^compelling argument, ^^^^indeed!"
+    },
+    "Context": "Flow/hobbesp2_1/04_arbiter: \"A ^^very ^^compelling argument, ^^^...\""
+  },
+  "DFr_37FFB42F.Text": {
+    "": {
+      "Text": "How did this happen...? ^^^^^^^^I thought for sure we were ready to move on!"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"How did this happen...? ^^^^^^^^I t...\""
+  },
+  "DFr_4F900BC6.Text": {
+    "": {
+      "Text": "*sigh* ^^^^^^^You walked right into this one, ^^^^Dad. ^^^^^^^^Helped him set it up and everything."
+    },
+    "Context": "Flow/hobbesp2_1/02_ari: \"*sigh* ^^^^^^^You walked right into...\""
+  },
+  "DFr_43CDEF64.Text": {
+    "": {
+      "Text": "Hobbes is one of the most prominent Social Contract philosophers."
+    },
+    "Context": "Flow/hobbesp2_1/02_ari: \"Hobbes is one of the most prominent...\""
+  },
+  "DFr_11FF7DCC.Text": {
+    "": {
+      "Text": "It’s only natural he took his argument in this direction."
+    },
+    "Context": "Flow/hobbesp2_1/02_ari: \"It’s only natural he took his argum...\""
+  },
+  "DFr_FB57A150.Text": {
+    "": {
+      "Text": "WHAT?! ^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"WHAT?! ^^^^^^^^^^\""
+  },
+  "DFr_A362F4E5.Text": {
+    "": {
+      "Text": "You knew this? ^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"You knew this? ^^^^^^^^\""
+  },
+  "DFr_DD02B90D.Text": {
+    "": {
+      "Text": "Why didn’t you warn me?"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"Why didn’t you warn me?\""
+  },
+  "DFr_77D1CFBA.Text": {
+    "": {
+      "Text": "Sorry... ^^^^^^^^I just assumed you already knew."
+    },
+    "Context": "Flow/hobbesp2_1/02_ari: \"Sorry... ^^^^^^^^I just assumed you...\""
+  },
+  "DFr_ECD87FC5.Text": {
+    "": {
+      "Text": "I mean... ^^^^that’s kind of... ^^^^^^^^^^^^it’s not uncommon knowledge, ^^^^^^you know?"
+    },
+    "Context": "Flow/hobbesp2_1/02_ari: \"I mean... ^^^^that’s kind of... ^^^...\""
+  },
+  "DFr_F4589CDE.Text": {
+    "": {
+      "Text": "Is there a problem, ^^^^Socrates?"
+    },
+    "Context": "Flow/hobbesp2_1/04_arbiter: \"Is there a problem, ^^^^Socrates?\""
+  },
+  "DFr_4EE5EFFB.Text": {
+    "": {
+      "Text": "Or are you ready to accept the truth of my argument?"
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \"Or are you ready to accept the trut...\""
+  },
+  "DFr_60472205.Text": {
+    "": {
+      "Text": "(Well, his argument seems pretty solid now, that’s for sure...)"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"(Well, his argument seems pretty so...\""
+  },
+  "DFr_76058C7D.Text": {
+    "": {
+      "Text": "(But something built on a premise so grim... ^^^^^^^^)"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"(But something built on a premise s...\""
+  },
+  "DFr_038E40BD.Text": {
+    "": {
+      "Text": "(I can’t just accept it without examination!)"
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"(I can’t just accept it without exa...\""
+  },
+  "DFr_348BB351.Text": {
+    "": {
+      "Text": "Arbiter, I’d like to ask Mr. Hobbes a few questions."
+    },
+    "Context": "Flow/hobbesp2_1/01_socrates: \"Arbiter, I’d like to ask Mr. Hobbes...\""
+  },
+  "DFr_7FEC9D00.Text": {
+    "": {
+      "Text": "Bah! ^^^^^^^^^^^^Scholastic thinking, ^^^^^^^^I hardly see the attraction in it!"
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \"Bah! ^^^^^^^^^^^^Scholastic thinkin...\""
+  },
+  "DFr_FD520E6B.Text": {
+    "": {
+      "Text": "Come now, ^^^^Hobbes."
+    },
+    "Context": "Flow/hobbesp2_1/04_arbiter: \"Come now, ^^^^Hobbes.\""
+  },
+  "DFr_589392C3.Text": {
+    "": {
+      "Text": ".^^^^.^^^^.^^^^^^^^^^^^Very well, Mr. Jones."
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \".^^^^.^^^^.^^^^^^^^^^^^Very well, M...\""
+  },
+  "DFr_2C7755FE.Text": {
+    "": {
+      "Text": "Give it a shot. ^^^^^^^^^^^^Let’s see how it goes."
+    },
+    "Context": "Flow/hobbesp2_1/07_hobbes: \"Give it a shot. ^^^^^^^^^^^^Let’s s...\""
+  },
+  "DFr_8E7B4F84.Text": {
+    "": {
+      "Text": "At the core of mankind’s self-interest is survival."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"At the core of mankind’s self-inter...\""
+  },
+  "DFr_9B188642.Text": {
+    "": {
+      "Text": "However, in the natural state, there is no security."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"However, in the natural state, ther...\""
+  },
+  "DFr_805FB264.Text": {
+    "": {
+      "Text": "Thus, mankind is impelled to seek peace, forming contracts between individuals."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Thus, mankind is impelled to seek p...\""
+  },
+  "DFr_8D53F7B5.Text": {
+    "": {
+      "Text": "It is from such exchanges our sense of morality is born."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It is from such exchanges our sense...\""
+  },
+  "DFr_4B9C5739.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_8CEF6300.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_E98EFAD0.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_70CF3D02.Text": {
+    "": {
+      "Text": "Above all else, we want to live. ^^^^^^^Power and knowledge don’t mean anything to the dead."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Above all else, we want to live. ^^...\""
+  },
+  "DFr_49550FDB.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_4BF68944.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_13D85549.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_1A8521EA.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_824D8690.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_ADB9F2F1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"...\""
+  },
+  "DFr_13A4DB14.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_80859C73.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_363D3B0B.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_50C6469B.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_1F6592DA.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_6D0C75DC.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_2206F4DC.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_F4482F2E.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_438D6493.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7C676DBE.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_D9572139.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_2A3F7A7E.Text": {
+    "": {
+      "Text": "(Unless you’re stuck forever-debating in some twisted philosophical afterlife... ^^^^^^^I have to get out of here...)"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"(Unless you’re stuck forever-debati...\""
+  },
+  "DFr_4108D5E1.Text": {
+    "": {
+      "Text": "Tell me, ^^^^^Mr. Jones... ^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Tell me, ^^^^^Mr. Jones... ^^^^^^^^\""
+  },
+  "DFr_5EDA1936.Text": {
+    "": {
+      "Text": "do you enjoy being dead?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"do you enjoy being dead?\""
+  },
+  "DFr_028297C5.Text": {
+    "": {
+      "Text": "Hmmmmmm. ^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Hmmmmmm. ^^^^^^\""
+  },
+  "DFr_02B87168.Text": {
+    "": {
+      "Text": "It hasn’t been so bad, ^^^^^actually."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"It hasn’t been so bad, ^^^^^actuall...\""
+  },
+  "DFr_50C59FA7.Text": {
+    "": {
+      "Text": "Oh?!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Oh?!\""
+  },
+  "DFr_5862D4FC.Text": {
+    "": {
+      "Text": "Yeah. ^^^^It’s been great. ^^^^^^^I’ve been meeting cool people like you, ^^^^^I’ve been mistaken for a several thousand year old missing person..."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Yeah. ^^^^It’s been great. ^^^^^^^I...\""
+  },
+  "DFr_F98C5D7A.Text": {
+    "": {
+      "Text": "Of COURSE I would rather still be alive! ^^^^^^^^^^^^^^I need to LIVE! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Of COURSE I would rather still be a...\""
+  },
+  "DFr_6B408E69.Text": {
+    "": {
+      "Text": "I’m very lively, ^^^^^^^I’ll have you know."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"I’m very lively, ^^^^^^^I’ll have y...\""
+  },
+  "DFr_BC499883.Text": {
+    "": {
+      "Text": "I think most people at my age would do anything to"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"I think most people at my age would...\""
+  },
+  "DFr_6BCE3737.Text": {
+    "": {
+      "Text": "stay alive,"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"stay alive,\""
+  },
+  "DFr_E96E8A90.Text": {
+    "": {
+      "Text": "and..."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"and...\""
+  },
+  "DFr_3DAECE83.Text": {
+    "": {
+      "Text": "...and I just made your point for you."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...and I just made your point for y...\""
+  },
+  "DFr_5D4BF0DE.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^^^^^^You have my gratitude, ^^^^^^Mr. Jones."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Indeed. ^^^^^^^^^^^You have my grat...\""
+  },
+  "DFr_1F4076FA.Text": {
+    "": {
+      "Text": "Further defining the nature of man’s self interest— ^^^^^^^^or rather, ^^^^^prioritizing it— ^^^^^^^^is essential to understanding the way our society works."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Further defining the nature of man’...\""
+  },
+  "DFr_2291ED22.Text": {
+    "": {
+      "Text": "Oh yeah?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Oh yeah?\""
+  },
+  "DFr_0FA3236E.Text": {
+    "": {
+      "Text": "If all we cared about was surviving, ^^^why would people work together?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"If all we cared about was surviving...\""
+  },
+  "DFr_2F749BAB.Text": {
+    "": {
+      "Text": "HUMBUG!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!\""
+  },
+  "DFr_FF01552E.Text": {
+    "": {
+      "Text": "You really haven’t been paying attention, ^^^^have you, ^^^^^Mr. Jones?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"You really haven’t been paying atte...\""
+  },
+  "DFr_E37BFAE2.Text": {
+    "": {
+      "Text": "It’s precisely because the core of self-interest is survival that we find ourselves compelled to work together."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It’s precisely because the core of...\""
+  },
+  "DFr_96606FD2.Text": {
+    "": {
+      "Text": "I will detail this throughout the rest of my argument."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"I will detail this throughout the r...\""
+  },
+  "DFr_473C63AD.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_9EF30C5D.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_75EC1320.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_719D4D21.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_E3370F5F.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_1136B6AE.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_227C543D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"...\""
+  },
+  "DFr_65515EF0.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_7CFFB19D.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_677FAC12.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_220C6A0A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_0550C75D.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_4C524ECF.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_6894DD8C.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_CC437C7E.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_04B5225C.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_F3FDCF47.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_22508B13.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_020980D0.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_10E16BD7.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_17141827.Text": {
+    "": {
+      "Text": "In the natural state, ^^^^anyone is free to do whatever they please."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"In the natural state, ^^^^anyone is...\""
+  },
+  "DFr_9DD4C9AA.Text": {
+    "": {
+      "Text": "Our previous discussion illustrated the dangers of the natural state, Mr. Jones."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Our previous discussion illustrated...\""
+  },
+  "DFr_DB875F49.Text": {
+    "": {
+      "Text": "But how can we know this state actually exists?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"But how can we know this state actu...\""
+  },
+  "DFr_D9B9F0B5.Text": {
+    "": {
+      "Text": "This includes actions which would cause harm to other people."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"This includes actions which would c...\""
+  },
+  "DFr_C3F44D2B.Text": {
+    "": {
+      "Text": "Lack of security works in tandem with our previously established desires to naturally lead to the next step, Mr. Jones."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Lack of security works in tandem wi...\""
+  },
+  "DFr_8CB9CA1B.Text": {
+    "": {
+      "Text": "All of this is supported by archaeology, as well as the study of modern hunter-gatherer societies."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"All of this is supported by archaeo...\""
+  },
+  "DFr_3E33FB02.Text": {
+    "": {
+      "Text": "It did, more or less, in the distant past. ^^^^^^^^Before civilizations developed, ^^^^ancient man was in much the same condition as he would be in the natural state."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It did, more or less, in the distan...\""
+  },
+  "DFr_D59A6E4E.Text": {
+    "": {
+      "Text": "If we were in the natural state, ^^^^and I felt the desire, ^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"If we were in the natural state, ^^...\""
+  },
+  "DFr_D682ABDA.Text": {
+    "": {
+      "Text": "I could kill you without consequence, ^^^^Mr. Jones. ^^^^^Assuming you were not already dead, ^^^^of course."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"I could kill you without consequenc...\""
+  },
+  "DFr_3374DEFD.Text": {
+    "": {
+      "Text": "(...Is he threatening me?!)"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"(...Is he threatening me?!)\""
+  },
+  "DFr_22EB0B31.Text": {
+    "": {
+      "Text": "I hope you understand just how little security the natural state affords."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"I hope you understand just how litt...\""
+  },
+  "DFr_1E7FED0F.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_15831C84.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_B5F85D89.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_CCD91404.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_0E8F1F3B.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_94A0E031.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_A3FB39F5.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_1F80AAE3.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_14541A8E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_FDE0318A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_96259B09.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"...\""
+  },
+  "DFr_BCBF376E.Text": {
+    "": {
+      "Text": "But if we are as selfish as you claim, ^^^why would we ever form these... ^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"But if we are as selfish as you cla...\""
+  },
+  "DFr_1A1CB192.Text": {
+    "": {
+      "Text": "What exactly do you mean by contracts?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"What exactly do you mean by contrac...\""
+  },
+  "DFr_D461CCD8.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_E44DC11E.Text": {
+    "": {
+      "Text": "How does that support your conclusion?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"How does that support your conclusi...\""
+  },
+  "DFr_C8C317D0.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^This could use some elaboration."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Indeed. ^^^^^This could use some el...\""
+  },
+  "DFr_014D961A.Text": {
+    "": {
+      "Text": "Is not your reaction to discomfort to seek a means of comfort? ^^^^^^^^The contract is the way one achieves such comfort."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Is not your reaction to discomfort...\""
+  },
+  "DFr_20FD1A1A.Text": {
+    "": {
+      "Text": "It clearly leads up to it, Mr. Jones."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It clearly leads up to it, Mr. Jone...\""
+  },
+  "DFr_40231589.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_44D7BF49.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_CD387A4A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C7126D4B.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_CA41FACB.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_9D208E38.Text": {
+    "": {
+      "Text": "Very well. ^^^^^^^^By “contract,” ^^^^I refer to an agreement between individuals."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Very well. ^^^^^^^^By “contract,” ^...\""
+  },
+  "DFr_34EB7938.Text": {
+    "": {
+      "Text": "In such contracts, ^^^^we agree to give up some of our personal freedoms— ^^^^^^^^most notably our freedom to harm."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"In such contracts, ^^^^we agree to...\""
+  },
+  "DFr_F32BF98C.Text": {
+    "": {
+      "Text": "Because others do as well, ^^^^such an agreement confers unto everyone greater security."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Because others do as well, ^^^^such...\""
+  },
+  "DFr_FBCBF1E2.Text": {
+    "": {
+      "Text": "Huh. ^^^^^^^^Interesting."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Huh. ^^^^^^^^Interesting.\""
+  },
+  "DFr_26009BCD.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/hobbesp2_argument/11_nobody: \"Statement updated.\""
+  },
+  "DFr_33B37229.Text": {
+    "": {
+      "Text": "Thus, we form contracts agreeing to give up freedoms in exchange for security."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Thus, we form contracts agreeing to...\""
+  },
+  "DFr_6DEC7AFE.Text": {
+    "": {
+      "Text": "I’m pretty sure my observation stands, ^^^^prima-facie."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"I’m pretty sure my observation stan...\""
+  },
+  "DFr_74B329DF.Text": {
+    "": {
+      "Text": "“Prima-facie?”"
+    },
+    "Context": "Flow/hobbesp2_argument/02_ari: \"“Prima-facie?”\""
+  },
+  "DFr_AEEB4281.Text": {
+    "": {
+      "Text": "“On the surface,” girl."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"“On the surface,” girl.\""
+  },
+  "DFr_728705A7.Text": {
+    "": {
+      "Text": "uh... ^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"uh... ^^^^^^^^^^^^^^\""
+  },
+  "DFr_15361D37.Text": {
+    "": {
+      "Text": "contract things?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"contract things?\""
+  },
+  "DFr_6CC8CC77.Text": {
+    "": {
+      "Text": "We have established individuals prefer security over discomfort, ^^^yes?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"We have established individuals pre...\""
+  },
+  "DFr_D893601B.Text": {
+    "": {
+      "Text": "As a result, ^^^selfish beings would gladly enter a contract if it meant greater security."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"As a result, ^^^selfish beings woul...\""
+  },
+  "DFr_E6F20E11.Text": {
+    "": {
+      "Text": "Their selfishness will not prevent them from entering a contract... ^^^^^^instead, ^^^^it will encourage them to seek them out!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Their selfishness will not prevent...\""
+  },
+  "DFr_A8C7860C.Text": {
+    "": {
+      "Text": "Is everything clear now, ^^^^Mr. Jones?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Is everything clear now, ^^^^Mr. Jo...\""
+  },
+  "DFr_64F8ECD9.Text": {
+    "": {
+      "Text": "I... ^^^^uh...Hmmm. ^^^^^^^^I guess I’m not sure."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"I... ^^^^uh...Hmmm. ^^^^^^^^I guess...\""
+  },
+  "DFr_4206E937.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_90A48B22.Text": {
+    "": {
+      "Text": "Men are impelled to seek peace? ^^^^But you said they are constantly at war! ^^^^^^"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Men are impelled to seek peace? ^^^...\""
+  },
+  "DFr_D69A1BF5.Text": {
+    "": {
+      "Text": "That’s a direct contradiction!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"That’s a direct contradiction!\""
+  },
+  "DFr_471E7CB4.Text": {
+    "": {
+      "Text": "Socrates, ^^^I believe this indicates a misunderstanding of Hobbes’s points."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Socrates, ^^^I believe this indicat...\""
+  },
+  "DFr_634A47E9.Text": {
+    "": {
+      "Text": "It is precisely because they are constantly at war in the natural state that individuals seek some form of security."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"It is precisely because they are co...\""
+  },
+  "DFr_28B5D14C.Text": {
+    "": {
+      "Text": "Indeed. ^^^^You see, while life is horrible in the natural state, it is possible to escape through the sort of agreements which I describe here."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Indeed. ^^^^You see, while life is...\""
+  },
+  "DFr_8B5F0DD1.Text": {
+    "": {
+      "Text": "Thus these ideas are not contradictory— ^^^^^^one logically comes from the other."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Thus these ideas are not contradict...\""
+  },
+  "DFr_4E078DFD.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_6DBAEFA7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_FAB3AA61.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_72B8D939.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_750769B7.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2713F29B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_AF77AD46.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_A8028ED1.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_F2AADFB4.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_6886A9F6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"...\""
+  },
+  "DFr_D67DF1CF.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_55E5B3A6.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_2D1CFB48.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_E0EFE24B.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_BF2C4A23.Text": {
+    "": {
+      "Text": "How does that support your conclusion?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"How does that support your conclusi...\""
+  },
+  "DFr_4BFF8DF7.Text": {
+    "": {
+      "Text": "The mutual forfeiture of rights creates a society where everyone is more secure."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"The mutual forfeiture of rights cre...\""
+  },
+  "DFr_9E040540.Text": {
+    "": {
+      "Text": "You yourself gave countless examples of people working together. ^^^^^^Do those not suffice?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"You yourself gave countless example...\""
+  },
+  "DFr_CD34B15E.Text": {
+    "": {
+      "Text": "It details the logic that leads directly up to it."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It details the logic that leads dir...\""
+  },
+  "DFr_55114D42.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_CFDDE203.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_54EBBA61.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_3ADE23C1.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_0ACA0CD4.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_367BD448.Text": {
+    "": {
+      "Text": "But most of the benefits of the Social Contract come from the other people giving up their rights?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"But most of the benefits of the Soc...\""
+  },
+  "DFr_5D06B78F.Text": {
+    "": {
+      "Text": "That is correct."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"That is correct.\""
+  },
+  "DFr_0D82DF6F.Text": {
+    "": {
+      "Text": "Interesting..."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Interesting...\""
+  },
+  "DFr_510D3E96.Text": {
+    "": {
+      "Text": "When the stronger man agrees to guard the weak in exchange for pay, ^^^^in that instant a contract is formed."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"When the stronger man agrees to gua...\""
+  },
+  "DFr_6BFF02C9.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_9A3D3327.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_4C3AAEB0.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_352D04BD.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_1B42D450.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...\""
+  },
+  "DFr_3B19EED3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_25F9D0BC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"...\""
+  },
+  "DFr_6B912911.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_DAE65BBA.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_116C631C.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_2D154C61.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_B123A855.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_790704DD.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C219980A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_AD602E49.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A2370DC2.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_F8024AA8.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_3B51EBB5.Text": {
+    "": {
+      "Text": "What exactly do you mean by that?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"What exactly do you mean by that?\""
+  },
+  "DFr_111F877F.Text": {
+    "": {
+      "Text": "Can you back that up for me?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Can you back that up for me?\""
+  },
+  "DFr_DC0448DF.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_70C79B78.Text": {
+    "": {
+      "Text": "I mean to say that morality comes from the Social Contract."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"I mean to say that morality comes f...\""
+  },
+  "DFr_A780E132.Text": {
+    "": {
+      "Text": "Assuming, ^^^^as we have, ^^^^the natural state exists, ^^^^^^^^and in the natural state man is free to do whatever he pleases..."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Assuming, ^^^^as we have, ^^^^the n...\""
+  },
+  "DFr_0FE8FC46.Text": {
+    "": {
+      "Text": "It isn’t."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"It isn’t.\""
+  },
+  "DFr_E59FB9DA.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_E70C4BC6.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_ACA47012.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp2_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_A79AEDF9.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_99B123D4.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A83924AE.Text": {
+    "": {
+      "Text": "We form treaties, and these treaties determine what we are allowed to do."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"We form treaties, and these treatie...\""
+  },
+  "DFr_833ABA85.Text": {
+    "": {
+      "Text": "We can only conclude the restrictive morality we know comes from contracts formed between men."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"We can only conclude the restrictiv...\""
+  },
+  "DFr_847A43B5.Text": {
+    "": {
+      "Text": "It ^^^^^isn’t?"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"It ^^^^^isn’t?\""
+  },
+  "DFr_737BC86E.Text": {
+    "": {
+      "Text": "No, ^^^^it isn’t."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"No, ^^^^it isn’t.\""
+  },
+  "DFr_AE9BAFF0.Text": {
+    "": {
+      "Text": "A conclusion is hardly related to itself, is it? ^^^^^^^^It just... ^^^^is."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"A conclusion is hardly related to i...\""
+  },
+  "DFr_E20164FE.Text": {
+    "": {
+      "Text": "A conclusion is hardly related to itself, is it? ^^^^^^^^It just... ^^^^is."
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"A conclusion is hardly related to i...\""
+  },
+  "DFr_806E031D.Text": {
+    "": {
+      "Text": "...So... this IS your conclusion."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"...So... this IS your conclusion.\""
+  },
+  "DFr_9081CC3D.Text": {
+    "": {
+      "Text": "(...Why didn’t he just say that...?)"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"(...Why didn’t he just say that...?...\""
+  },
+  "DFr_F554D30F.Text": {
+    "": {
+      "Text": "Well, he’s certainly good at this."
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"Well, he’s certainly good at this.\""
+  },
+  "DFr_6AFF66E8.Text": {
+    "": {
+      "Text": "He’s famous for a reason, Dad."
+    },
+    "Context": "Flow/hobbesp2_argument/02_ari: \"He’s famous for a reason, Dad.\""
+  },
+  "DFr_CE9B767F.Text": {
+    "": {
+      "Text": "Are we finished, Mr. Jones?"
+    },
+    "Context": "Flow/hobbesp2_argument/07_hobbes: \"Are we finished, Mr. Jones?\""
+  },
+  "DFr_A7D36438.Text": {
+    "": {
+      "Text": "(I can’t show weakness with these people! ^^^^^^^^^^^^They are like sharks!)"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"(I can’t show weakness with these p...\""
+  },
+  "DFr_FBFA191F.Text": {
+    "": {
+      "Text": "(There has got to be a problem here... ^^^^^^^^^^^^this can’t be the answer!)"
+    },
+    "Context": "Flow/hobbesp2_argument/01_socrates: \"(There has got to be a problem here...\""
+  },
+  "DFr_7110381C.Text": {
+    "": {
+      "Text": "Hold it right there, Hobbes!"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"Hold it right there, Hobbes!\""
+  },
+  "DFr_BA0B30C5.Text": {
+    "": {
+      "Text": "I’ll admit the individual parts of your philosophy sound good on paper."
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"I’ll admit the individual parts of...\""
+  },
+  "DFr_7E088B33.Text": {
+    "": {
+      "Text": "But they don’t work quite so well when viewed as a whole!"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"But they don’t work quite so well w...\""
+  },
+  "DFr_3929C3C5.Text": {
+    "": {
+      "Text": "Is that so? ^^^^^^^^Do explain."
+    },
+    "Context": "Flow/hobbesa2_correct/07_hobbes: \"Is that so? ^^^^^^^^Do explain.\""
+  },
+  "DFr_1E791096.Text": {
+    "": {
+      "Text": "Gladly."
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"Gladly.\""
+  },
+  "DFr_4A31F763.Text": {
+    "": {
+      "Text": "Your Social Contract theory is based on the idea people are selfish, ^^^^correct?"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"Your Social Contract theory is base...\""
+  },
+  "DFr_6161B520.Text": {
+    "": {
+      "Text": "Indeed."
+    },
+    "Context": "Flow/hobbesa2_correct/07_hobbes: \"Indeed.\""
+  },
+  "DFr_0628A7ED.Text": {
+    "": {
+      "Text": "And they will go to any lengths to improve their own prosperity?"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"And they will go to any lengths to...\""
+  },
+  "DFr_6A94929D.Text": {
+    "": {
+      "Text": "Correct— ^^^^^^^^which is why contracts must be formed."
+    },
+    "Context": "Flow/hobbesa2_correct/07_hobbes: \"Correct— ^^^^^^^^which is why contr...\""
+  },
+  "DFr_1733BFCA.Text": {
+    "": {
+      "Text": "I am a little confused. ^^^^^^^^^What exactly is the problem, Socrates?"
+    },
+    "Context": "Flow/hobbesa2_correct/04_arbiter: \"I am a little confused. ^^^^^^^^^Wh...\""
+  },
+  "DFr_60A3BD62.Text": {
+    "": {
+      "Text": "Isn’t it apparent by now?"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"Isn’t it apparent by now?\""
+  },
+  "DFr_AFF6AFF0.Text": {
+    "": {
+      "Text": "If the only benefits of the Social Contract come from OTHER PEOPLE giving up their rights, ^^^^and people are as selfish as you claim..."
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"If the only benefits of the Social...\""
+  },
+  "DFr_F6503E74.Text": {
+    "": {
+      "Text": "What is there to stop these oh-so-selfish individuals from breaking a contract after it’s made?"
+    },
+    "Context": "Flow/hobbesa2_correct/01_socrates: \"What is there to stop these oh-so-s...\""
+  },
+  "DFr_6707473E.Text": {
+    "": {
+      "Text": "What is there to stop these oh-so-selfish individuals from breaking a contract after it’s made?"
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"What is there to stop these oh-so-s...\""
+  },
+  "DFr_2D757D24.Text": {
+    "": {
+      "Text": "!"
+    },
+    "Context": "Flow/hobbesa2_end/07_hobbes: \"!\""
+  },
+  "DFr_BF849DF4.Text": {
+    "": {
+      "Text": "!!"
+    },
+    "Context": "Flow/hobbesa2_end/02_ari: \"!!\""
+  },
+  "DFr_DF261231.Text": {
+    "": {
+      "Text": "!!!"
+    },
+    "Context": "Flow/hobbesa2_end/04_arbiter: \"!!!\""
+  },
+  "DFr_AA826E37.Text": {
+    "": {
+      "Text": "Why, ^^^^that is a very good question!"
+    },
+    "Context": "Flow/hobbesa2_end/04_arbiter: \"Why, ^^^^that is a very good questi...\""
+  },
+  "DFr_EF4DE9AC.Text": {
+    "": {
+      "Text": "Working off Hobbes’ own theory of human nature, men will always, ^^^^ALWAYS, ^^^^seek the most advantageous situation."
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"Working off Hobbes’ own theory of h...\""
+  },
+  "DFr_5D59E218.Text": {
+    "": {
+      "Text": "Well, the most advantageous situation for anyone would be that they keep their rights when others give them up."
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"Well, the most advantageous situati...\""
+  },
+  "DFr_519303E7.Text": {
+    "": {
+      "Text": "So why would people ever keep their contracts?"
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"So why would people ever keep their...\""
+  },
+  "DFr_476C7645.Text": {
+    "": {
+      "Text": "They wouldn’t?"
+    },
+    "Context": "Flow/hobbesa2_end/02_ari: \"They wouldn’t?\""
+  },
+  "DFr_FDFCCC0A.Text": {
+    "": {
+      "Text": "Of course not! ^^^^^Everyone would stab each other in the back the moment they could get away with it!"
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"Of course not! ^^^^^Everyone would...\""
+  },
+  "DFr_042E1406.Text": {
+    "": {
+      "Text": "Hobbes, your ideas, taken all together, are self-defeating!"
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"Hobbes, your ideas, taken all toget...\""
+  },
+  "DFr_12A1EE6E.Text": {
+    "": {
+      "Text": "There’s no way the Social Contract could be formed in the way you’ve described!"
+    },
+    "Context": "Flow/hobbesa2_end/01_socrates: \"There’s no way the Social Contract...\""
+  },
+  "DFr_8DA3A7F4.Text": {
+    "": {
+      "Text": "Mr. Jones, ^^^^you are getting carried away."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"Mr. Jones, ^^^^you are getting carr...\""
+  },
+  "DFr_1DE2A19A.Text": {
+    "": {
+      "Text": "HAH! ^^^^^^^^I think I’ve made good points!"
+    },
+    "Context": "Flow/hobbesa2_end_1/01_socrates: \"HAH! ^^^^^^^^I think I’ve made good...\""
+  },
+  "DFr_1528BAE9.Text": {
+    "": {
+      "Text": "Laughter is nothing more than a reaction to sudden glory, ^^^^Mr. Jones."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"Laughter is nothing more than a rea...\""
+  },
+  "DFr_8DA677B2.Text": {
+    "": {
+      "Text": "And in your case, ^^^^the glory you are reacting to is quite artificial."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"And in your case, ^^^^the glory you...\""
+  },
+  "DFr_E5D9FE94.Text": {
+    "": {
+      "Text": "...What?"
+    },
+    "Context": "Flow/hobbesa2_end_1/01_socrates: \"...What?\""
+  },
+  "DFr_8EE74791.Text": {
+    "": {
+      "Text": "All of these things you are saying... ^^^^they have occurred to me. ^^^^^^^^^^^^^They are, ^^^^^^in fact, ^^^^^^the obvious progression of thought."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"All of these things you are saying....\""
+  },
+  "DFr_EEBDAD37.Text": {
+    "": {
+      "Text": "The fact any self-interested man would break his contract is a problem."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"The fact any self-interested man wo...\""
+  },
+  "DFr_F48F68A0.Text": {
+    "": {
+      "Text": "Which is why I came up with the next step in the thought process."
+    },
+    "Context": "Flow/hobbesa2_end_1/07_hobbes: \"Which is why I came up with the nex...\""
+  },
+  "DFr_A086E4AE.Text": {
+    "": {
+      "Text": "(...The... ^^^^^^^NEXT ^^^^^^^step?)"
+    },
+    "Context": "Flow/hobbesa2_end_1/01_socrates: \"(...The... ^^^^^^^NEXT ^^^^^^^step?...\""
+  },
+  "DFr_57EA2385.Text": {
+    "": {
+      "Text": "Without obligation, selfish individuals are indeed likely to break the contract."
+    },
+    "Context": "Flow/hobbesp3_presentation/07_hobbes: \"Without obligation, selfish individ...\""
+  },
+  "DFr_1AAEFDFE.Text": {
+    "": {
+      "Text": "However, such obligation can easily be created by fear. Namely, fear of repercussions."
+    },
+    "Context": "Flow/hobbesp3_presentation/07_hobbes: \"However, such obligation can easily...\""
+  },
+  "DFr_DD648F87.Text": {
+    "": {
+      "Text": "This fear can, in turn, be created by empowering a Sovereign."
+    },
+    "Context": "Flow/hobbesp3_presentation/07_hobbes: \"This fear can, in turn, be created...\""
+  },
+  "DFr_167D5D34.Text": {
+    "": {
+      "Text": "Such a ruler could then deal out punishments to those who break the contract."
+    },
+    "Context": "Flow/hobbesp3_presentation/07_hobbes: \"Such a ruler could then deal out pu...\""
+  },
+  "DFr_D6B4CDAD.Text": {
+    "": {
+      "Text": "And as a result, the moral systems of the contract would remain intact!"
+    },
+    "Context": "Flow/hobbesp3_presentation/07_hobbes: \"And as a result, the moral systems...\""
+  },
+  "DFr_A8D9CDE9.Text": {
+    "": {
+      "Text": "And there we go. As you can see, Mr. Jones, my philosophy is quite sustainable."
+    },
+    "Context": "Flow/hobbesp3_1/07_hobbes: \"And there we go. As you can see, Mr...\""
+  },
+  "DFr_CB1FD196.Text": {
+    "": {
+      "Text": "The Social Contract simply needs... ^^^^^^^^^^^proper enforcement."
+    },
+    "Context": "Flow/hobbesp3_1/07_hobbes: \"The Social Contract simply needs......\""
+  },
+  "DFr_D7CE9F3F.Text": {
+    "": {
+      "Text": "“Contracts Need to be Enforced” added to the Idea Slate."
+    },
+    "Context": "Flow/hobbesp3_2/12_notification: \"“Contracts Need to be Enforced” add...\""
+  },
+  "DFr_BBCE66E6.Text": {
+    "": {
+      "Text": "(You know what? ^^^^^^^^I think I actually miss talking to Euthyphro...)"
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"(You know what? ^^^^^^^^I think I a...\""
+  },
+  "DFr_A176B57F.Text": {
+    "": {
+      "Text": "Dad...? ^^^Are you... ^^^going to be okay?"
+    },
+    "Context": "Flow/hobbesp3_2/02_ari: \"Dad...? ^^^Are you... ^^^going to b...\""
+  },
+  "DFr_8F278237.Text": {
+    "": {
+      "Text": "...I don’t know if there’s a problem here, ^^^Ari."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"...I don’t know if there’s a proble...\""
+  },
+  "DFr_90D950DE.Text": {
+    "": {
+      "Text": "I mean, ^^^^^^^^we just needed to find the nature of morality... ^^^^^^^^maybe this is it."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"I mean, ^^^^^^^^we just needed to f...\""
+  },
+  "DFr_108B3CF9.Text": {
+    "": {
+      "Text": "Do you honestly believe that? ^^^^^^^^Do you think morality’s determined by the rules dictators enforce?"
+    },
+    "Context": "Flow/hobbesp3_2/02_ari: \"Do you honestly believe that? ^^^^^...\""
+  },
+  "DFr_CE0CEE27.Text": {
+    "": {
+      "Text": "Well... ^^^^^^^^no..."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"Well... ^^^^^^^^no...\""
+  },
+  "DFr_69EA95D2.Text": {
+    "": {
+      "Text": "Well then, ^^^^keep looking! ^^^^^^^There has to be a flaw in his argument somewhere!"
+    },
+    "Context": "Flow/hobbesp3_2/02_ari: \"Well then, ^^^^keep looking! ^^^^^^...\""
+  },
+  "DFr_01A6A5F5.Text": {
+    "": {
+      "Text": "Are you two finished chatting over there?"
+    },
+    "Context": "Flow/hobbesp3_2/04_arbiter: \"Are you two finished chatting over...\""
+  },
+  "DFr_BA48D2E8.Text": {
+    "": {
+      "Text": "Are you two finished chatting over there?"
+    },
+    "Context": "Flow/hobbesp3_2/04_arbiter: \"Are you two finished chatting over...\""
+  },
+  "DFr_263DC65B.Text": {
+    "": {
+      "Text": "Yes, ^^^^Arbiter. ^^^^^^^^Sorry."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"Yes, ^^^^Arbiter. ^^^^^^^^Sorry.\""
+  },
+  "DFr_AC90412C.Text": {
+    "": {
+      "Text": "Hobbes, ^^^^you may have thought through my previous challenges..."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"Hobbes, ^^^^you may have thought th...\""
+  },
+  "DFr_EC52A524.Text": {
+    "": {
+      "Text": "But my life depends on my only accepting the true nature of morality... ^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"But my life depends on my only acce...\""
+  },
+  "DFr_6927E559.Text": {
+    "": {
+      "Text": "and somehow, I just can’t accept ^^^^THIS ^^^^is it."
+    },
+    "Context": "Flow/hobbesp3_2/01_socrates: \"and somehow, I just can’t accept ^^...\""
+  },
+  "DFr_7311F4F4.Text": {
+    "": {
+      "Text": "Bah! ^^^^^^^^Humbug."
+    },
+    "Context": "Flow/hobbesp3_2/07_hobbes: \"Bah! ^^^^^^^^Humbug.\""
+  },
+  "DFr_7934171E.Text": {
+    "": {
+      "Text": "Very well then, ^^^^Mr. Jones. ^^^^^^^^I have all the time in the world."
+    },
+    "Context": "Flow/hobbesp3_3/07_hobbes: \"Very well then, ^^^^Mr. Jones. ^^^^...\""
+  },
+  "DFr_AE919C62.Text": {
+    "": {
+      "Text": "Examine away."
+    },
+    "Context": "Flow/hobbesp3_3/07_hobbes: \"Examine away.\""
+  },
+  "DFr_DD725C55.Text": {
+    "": {
+      "Text": "Without obligation, selfish individuals are indeed likely to break the contract."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Without obligation, selfish individ...\""
+  },
+  "DFr_5746E34C.Text": {
+    "": {
+      "Text": "However, such obligation can easily be created by fear. Namely, fear of repercussions."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"However, such obligation can easily...\""
+  },
+  "DFr_D34D9318.Text": {
+    "": {
+      "Text": "This fear can, in turn, be created by empowering a Sovereign."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"This fear can, in turn, be created...\""
+  },
+  "DFr_D0D49A9C.Text": {
+    "": {
+      "Text": "Such a ruler could then deal out punishments to those who break the contract."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Such a ruler could then deal out pu...\""
+  },
+  "DFr_053F40C9.Text": {
+    "": {
+      "Text": "And as a result, the moral systems of the contract would remain intact!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"And as a result, the moral systems...\""
+  },
+  "DFr_AED121DE.Text": {
+    "": {
+      "Text": "The Sovereign forms a contract with the people to enforce their rules."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"The Sovereign forms a contract with...\""
+  },
+  "DFr_01123BAD.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_0CAEA235.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_B970A69A.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_221A43F9.Text": {
+    "": {
+      "Text": "As you observed, ^^^^men will break the contract to their own benefit."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"As you observed, ^^^^men will break...\""
+  },
+  "DFr_660EF75C.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_68A0F96B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_70176F02.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_7FBC0B06.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BD67549E.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4594B0BF.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_17CE42B7.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_480CE31B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_6211AA35.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_30C330BE.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_8739D05A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_368DC5F2.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_1447D6CF.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_E74534F1.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_2F428414.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_211DE79A.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_50908C47.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_B434FF02.Text": {
+    "": {
+      "Text": "Oh yes, ^^^^^just give me a moment... ^^^^^ahem..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Oh yes, ^^^^^just give me a moment....\""
+  },
+  "DFr_2928A6FE.Text": {
+    "": {
+      "Text": "In order to find a solution, one must first understand the problem."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"In order to find a solution, one mu...\""
+  },
+  "DFr_F1C074BF.Text": {
+    "": {
+      "Text": "But people work together! ^^^^^^^So I don’t think—^^^^^^"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"But people work together! ^^^^^^^So...\""
+  },
+  "DFr_072316F6.Text": {
+    "": {
+      "Text": "Keeping them from doing such requires either great incentive towards keeping it, ^^^^or disincentive from breaking it."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Keeping them from doing such requir...\""
+  },
+  "DFr_1F598FEC.Text": {
+    "": {
+      "Text": "“The most advantageous situation for anyone would be that they keep their rights while others give them up!!”"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"“The most advantageous situation fo...\""
+  },
+  "DFr_6A321CD0.Text": {
+    "": {
+      "Text": "“Everyone would stab each other in the back the moment they could get away with it!!”"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"“Everyone would stab each other in...\""
+  },
+  "DFr_706E418F.Text": {
+    "": {
+      "Text": "“My name is Socrates Jones and I am... ^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"“My name is Socrates Jones and I am...\""
+  },
+  "DFr_0BB10D15.Text": {
+    "": {
+      "Text": "an imbecile!”"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"an imbecile!”\""
+  },
+  "DFr_C2D0241D.Text": {
+    "": {
+      "Text": "There. ^^^^^Enough support for you?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"There. ^^^^^Enough support for you?\""
+  },
+  "DFr_BDF8BA77.Text": {
+    "": {
+      "Text": "Yes... ^^^^^^^^uh, ^^^^I believe that will do."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Yes... ^^^^^^^^uh, ^^^^I believe th...\""
+  },
+  "DFr_0F2B6DB8.Text": {
+    "": {
+      "Text": "Here, I am detailing the problem."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Here, I am detailing the problem.\""
+  },
+  "DFr_1DABE02D.Text": {
+    "": {
+      "Text": "I am going to stop you there, ^^^^^Mr. Jones."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"I am going to stop you there, ^^^^^...\""
+  },
+  "DFr_5FA05556.Text": {
+    "": {
+      "Text": "This ENTIRE prattling discussion has been about HOW people wind up working together..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"This ENTIRE prattling discussion ha...\""
+  },
+  "DFr_4BA11A60.Text": {
+    "": {
+      "Text": "As you just so boisterously showed, ^^^^individuals are driven by selfishness in my philosophy, ^^^^which is all I am referring to here."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"As you just so boisterously showed,...\""
+  },
+  "DFr_996D2CA8.Text": {
+    "": {
+      "Text": "I will go on to establish how they may STILL work together, ^^^^^^so whatever you are going to say here is not a contradiction at all."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"I will go on to establish how they...\""
+  },
+  "DFr_991C4F79.Text": {
+    "": {
+      "Text": "I really don’t understand why you are so determined to waste my time."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"I really don’t understand why you a...\""
+  },
+  "DFr_59E1E33A.Text": {
+    "": {
+      "Text": "But— ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"But— ^^^^^^^^^^^^\""
+  },
+  "DFr_053D1352.Text": {
+    "": {
+      "Text": "Dad, ^^^be careful not to lose sight of the bigger picture when looking for counterpoints."
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"Dad, ^^^be careful not to lose sigh...\""
+  },
+  "DFr_2451C32C.Text": {
+    "": {
+      "Text": "We are looking for logical errors here. ^^^^^^Make sure the gap is in HIS thinking, ^^^^not yours..."
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"We are looking for logical errors h...\""
+  },
+  "DFr_CD5C40F5.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2CCA7779.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_923A6283.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4F90DB66.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_71F83F91.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_91B78C0A.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_AAA082CD.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_BAFC3FE6.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_0D3411D8.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_157143FA.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C5B23359.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_DB666620.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_E67F9F6B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_BDA20458.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_5B1E5BEF.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_C77F91B5.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_2119D425.Text": {
+    "": {
+      "Text": "And how is this related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"And how is this related to your con...\""
+  },
+  "DFr_CF473F4B.Text": {
+    "": {
+      "Text": "Fear repels us from its source."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Fear repels us from its source.\""
+  },
+  "DFr_E7F0B34B.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_089D6C44.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_D25FB614.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_30D10092.Text": {
+    "": {
+      "Text": "Tell me, ^^^^Mr. Jones, ^^^^^are you familiar with the concept of Hell?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Tell me, ^^^^Mr. Jones, ^^^^^are yo...\""
+  },
+  "DFr_901CC8A9.Text": {
+    "": {
+      "Text": "I am describing the solution to the aforementioned problem."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"I am describing the solution to the...\""
+  },
+  "DFr_5A5186E6.Text": {
+    "": {
+      "Text": "If breaking the contract was connected with something men feared, ^^^^^^^they would be compelled to respect it."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"If breaking the contract was connec...\""
+  },
+  "DFr_591D8D4C.Text": {
+    "": {
+      "Text": "So, ^^^^like... ^^^^^^a horde of zombies?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"So, ^^^^like... ^^^^^^a horde of zo...\""
+  },
+  "DFr_0305FC49.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_E17B3887.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Excuse me?\""
+  },
+  "DFr_74EA2A47.Text": {
+    "": {
+      "Text": "Well, ^^^^uh, ^^^^people fear zombies, ^^^^^^^so if breaking the contract was tied to unleashing zombies...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well, ^^^^uh, ^^^^people fear zombi...\""
+  },
+  "DFr_035E7D75.Text": {
+    "": {
+      "Text": "I think my Dad gets it. ^^^^^Let’s move on."
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"I think my Dad gets it. ^^^^^Let’s...\""
+  },
+  "DFr_41E5372E.Text": {
+    "": {
+      "Text": "For once, ^^^^^we agree."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"For once, ^^^^^we agree.\""
+  },
+  "DFr_53828D60.Text": {
+    "": {
+      "Text": "In most Christian sects, ^^^^fear of Hell is used as a major motivator in keeping the tenets of the faith."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"In most Christian sects, ^^^^fear o...\""
+  },
+  "DFr_D173A2ED.Text": {
+    "": {
+      "Text": "For many, ^^^^^it is an even more effective motivator than the promise of Heaven."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"For many, ^^^^^it is an even more e...\""
+  },
+  "DFr_5A6F3D8F.Text": {
+    "": {
+      "Text": "“Spare the rod, ^^^^spoil the child.” ^^^^^^There are countless situations in which fear is used to enforce the public good."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"“Spare the rod, ^^^^spoil the child...\""
+  },
+  "DFr_39F01975.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_8CD8088F.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_E4609992.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_F62201DF.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_2DEF8831.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_283A13DA.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_AB16B1F8.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_060A54E1.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_A3D3CA7A.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_800A40FD.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_EB2974A8.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_43CCEEA8.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_843D4765.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_E96089EF.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_C84A6DEF.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_F4622813.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_EC6635C9.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_4D47B99E.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_52F4BF0C.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_214A7544.Text": {
+    "": {
+      "Text": "What do you mean by this, exactly?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by this, exactly?\""
+  },
+  "DFr_F97932C8.Text": {
+    "": {
+      "Text": "Can you support that statement?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Can you support that statement?\""
+  },
+  "DFr_562B3B76.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_F24566C8.Text": {
+    "": {
+      "Text": "Simple. The people give power to a ruler who is able to enforce the contract."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Simple. The people give power to a...\""
+  },
+  "DFr_44C28849.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_2B6376DA.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_A1F912EB.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_18D77EF9.Text": {
+    "": {
+      "Text": "Who do you fear more than someone who is stronger than you?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Who do you fear more than someone w...\""
+  },
+  "DFr_50D68D3B.Text": {
+    "": {
+      "Text": "It details a key step in solving the problem."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"It details a key step in solving th...\""
+  },
+  "DFr_C2612EED.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_3A741454.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_BB498A0C.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_3DFC1BCA.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A8434D26.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_2B606DC7.Text": {
+    "": {
+      "Text": "By give power... you mean form an agreement with?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"By give power... you mean form an a...\""
+  },
+  "DFr_8089C80D.Text": {
+    "": {
+      "Text": "Indeed."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Indeed.\""
+  },
+  "DFr_47D72E0C.Text": {
+    "": {
+      "Text": "As in a contract?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"As in a contract?\""
+  },
+  "DFr_86008408.Text": {
+    "": {
+      "Text": "Yes. ^^^^In exchange for the power, ^^^^he grants order and protection."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Yes. ^^^^In exchange for the power,...\""
+  },
+  "DFr_64E25F25.Text": {
+    "": {
+      "Text": "Interesting."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Interesting.\""
+  },
+  "DFr_62FEA3EE.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/hobbesp3_argument/11_nobody: \"Statement updated.\""
+  },
+  "DFr_E7FB69C9.Text": {
+    "": {
+      "Text": "A king is the ultimate strongman. ^^^^^^All fear his punishments."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"A king is the ultimate strongman. ^...\""
+  },
+  "DFr_6292AB23.Text": {
+    "": {
+      "Text": "(“Details?” ^^^^^^It seems awfully vague...)"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"(“Details?” ^^^^^^It seems awfully...\""
+  },
+  "DFr_20946A93.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_22CA6A1A.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_28860083.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_9313D86A.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_7BEA283C.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_98F8881B.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_03AD797A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_154EF2AF.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_753AB94D.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_6C65705D.Text": {
+    "": {
+      "Text": "This won’t work, Hobbes! ^^^^^As you yourself said, mankind is selfish!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This won’t work, Hobbes! ^^^^^As yo...\""
+  },
+  "DFr_C4D9CDB4.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_EAE808AD.Text": {
+    "": {
+      "Text": "What do you have to support this statement?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you have to support this st...\""
+  },
+  "DFr_23987CA2.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_655E28B8.Text": {
+    "": {
+      "Text": "The people agree to obey the Sovereign. They give him power."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"The people agree to obey the Sovere...\""
+  },
+  "DFr_9173A9FA.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_76FE9EBE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_E7798045.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_62697E9E.Text": {
+    "": {
+      "Text": "There is an agreement between the people and their protector. If the protector fails his duties, his people may rebel."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"There is an agreement between the p...\""
+  },
+  "DFr_04AA186B.Text": {
+    "": {
+      "Text": "It details the process through which the sovereign gains the power needed to solve our little... ^^^^people problem."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"It details the process through whic...\""
+  },
+  "DFr_D35CCD70.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_6EDF22E2.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_62A3915F.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_FD245D68.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_4D54AF16.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_83DCEF26.Text": {
+    "": {
+      "Text": "In return, ^^^^the Sovereign punishes those who disobey the Social Contract."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"In return, ^^^^the Sovereign punish...\""
+  },
+  "DFr_52DF0EB9.Text": {
+    "": {
+      "Text": "In this way, the people form a contract with their ruler."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"In this way, the people form a cont...\""
+  },
+  "DFr_AA4D4547.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_2A1047CF.Text": {
+    "": {
+      "Text": "Mr. Jones, ^^^^^^^^^the Selfishness of Man is why we need a sovereign in the first place."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Mr. Jones, ^^^^^^^^^the Selfishness...\""
+  },
+  "DFr_E6FC388D.Text": {
+    "": {
+      "Text": "What foolishness are you trying to achieve?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"What foolishness are you trying to...\""
+  },
+  "DFr_3FE99370.Text": {
+    "": {
+      "Text": "Uh..."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Uh...\""
+  },
+  "DFr_7E46F6BB.Text": {
+    "": {
+      "Text": "Dad, ^^^^^I think I know what you are going for..."
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"Dad, ^^^^^I think I know what you a...\""
+  },
+  "DFr_2FD0F02B.Text": {
+    "": {
+      "Text": "Maybe presenting a different idea would approach the problem more directly?"
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"Maybe presenting a different idea w...\""
+  },
+  "DFr_D8A74184.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_CBD79350.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_EE1446E2.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_61320925.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7882FF11.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_A762A57A.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_10FBA042.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C058208C.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_2E54C82A.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_5080D1F0.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_9235F4B3.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_6DD549EC.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_B5C224F9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C1C7EE26.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_3B60A6AA.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_A7A2FE5A.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_715DBEF2.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C9B57943.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_33D985EF.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_160305E9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_EACAD41E.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_11202F56.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_5BADB6EE.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_1434ECFD.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7A5EAFFD.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_FD066581.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_CE5D768D.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_EF8A6953.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BCCB3EA8.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_6F55F405.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_1B02D33C.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_1BA6B7B6.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_4478756C.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_FE0971E7.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_8B366783.Text": {
+    "": {
+      "Text": "Can you back this statement up?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Can you back this statement up?\""
+  },
+  "DFr_29D3279B.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_F8895758.Text": {
+    "": {
+      "Text": "Imprisonment, flaying, hanging... a ruler would be able to deal out justice, as appropriate, to those who deserve it."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Imprisonment, flaying, hanging... a...\""
+  },
+  "DFr_FB735C2C.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_E3DA3D95.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_D90FBC86.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_0F654810.Text": {
+    "": {
+      "Text": "Do you know what “The Law” is?"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Do you know what “The Law” is?\""
+  },
+  "DFr_FFA1A585.Text": {
+    "": {
+      "Text": "I have already established fear is essential to the contract, and I believe a sovereign is essential to create this fear."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"I have already established fear is...\""
+  },
+  "DFr_E6E7933B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_E46C5391.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_72FAB4B9.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_D7D3798F.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_CE4A2FB2.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_BD2A8B4B.Text": {
+    "": {
+      "Text": "...Yes?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...Yes?\""
+  },
+  "DFr_07E2600B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_314B4B81.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_873E4884.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_AEA314BB.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_771C77C4.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_299B3EA9.Text": {
+    "": {
+      "Text": "Here, ^^^^I detailed the why and the how."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Here, ^^^^I detailed the why and th...\""
+  },
+  "DFr_380EB82D.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_082D59BE.Text": {
+    "": {
+      "Text": "Have you ever heard of “The Law” without “The Government?”"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Have you ever heard of “The Law” wi...\""
+  },
+  "DFr_6C15AB87.Text": {
+    "": {
+      "Text": "The higher power of the Sovereign is necessary for such systems of enforcement to exist."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"The higher power of the Sovereign i...\""
+  },
+  "DFr_E042D971.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_C3449E78.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_DC7B5235.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_D90BDBDC.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_C94BF751.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_64FBF867.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_7D025003.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_4147D203.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_AE5E08DA.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_0DC62040.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_DB6221C0.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_855B4E5B.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_8036F685.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_F2FA7A80.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_5222DD6F.Text": {
+    "": {
+      "Text": "Let’s go with not."
+    },
+    "Context": "Flow/hobbesp3_argument/04_arbiter: \"Let’s go with not.\""
+  },
+  "DFr_171BED09.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_82A107A4.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_8029C85B.Text": {
+    "": {
+      "Text": "He ignored me...."
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"He ignored me....\""
+  },
+  "DFr_F58B9BF8.Text": {
+    "": {
+      "Text": "HUMBUG!!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"HUMBUG!!\""
+  },
+  "DFr_56B1585C.Text": {
+    "": {
+      "Text": "Or... maybe not?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Or... maybe not?\""
+  },
+  "DFr_1D6F8066.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_D7B8891D.Text": {
+    "": {
+      "Text": "Can you back that up for me?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Can you back that up for me?\""
+  },
+  "DFr_5580759A.Text": {
+    "": {
+      "Text": "How is that related to your conclusion?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"How is that related to your conclus...\""
+  },
+  "DFr_B49E6FDC.Text": {
+    "": {
+      "Text": "The sovereign provides the obligation the Social Contract needs to survive."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"The sovereign provides the obligati...\""
+  },
+  "DFr_FCE4D066.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_304DC14D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"...\""
+  },
+  "DFr_E39A5E49.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"...\""
+  },
+  "DFr_91E9DA84.Text": {
+    "": {
+      "Text": "Our society hasn’t fallen apart yet, has it? ^^^^^^So man, ^^^^for all his inadequacies, ^^^^must be doing something right."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Our society hasn’t fallen apart yet...\""
+  },
+  "DFr_F1E3F60E.Text": {
+    "": {
+      "Text": "This is my conclusion."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"This is my conclusion.\""
+  },
+  "DFr_37B82CBF.Text": {
+    "": {
+      "Text": "That’s... ^^^^a matter of perspective."
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"That’s... ^^^^a matter of perspecti...\""
+  },
+  "DFr_E1FADF3D.Text": {
+    "": {
+      "Text": "Save your political musings for a sequel, ^^^^girl."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Save your political musings for a s...\""
+  },
+  "DFr_5952915B.Text": {
+    "": {
+      "Text": "But, ^^^^^^given how “selfish” they are, ^^^^^surely men would try to disobey anyway?"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"But, ^^^^^^given how “selfish” they...\""
+  },
+  "DFr_B8B40E62.Text": {
+    "": {
+      "Text": "Perhaps they would..."
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"Perhaps they would...\""
+  },
+  "DFr_6FF66BD9.Text": {
+    "": {
+      "Text": "But the sovereign would make sure it was the last thing they ever did!"
+    },
+    "Context": "Flow/hobbesp3_argument/07_hobbes: \"But the sovereign would make sure i...\""
+  },
+  "DFr_7104A8DE.Text": {
+    "": {
+      "Text": "(^^^^^^.^^^^^^.^^^^^^.^^^^^^Eeesh.)"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"(^^^^^^.^^^^^^.^^^^^^.^^^^^^Eeesh.)\""
+  },
+  "DFr_33885F06.Text": {
+    "": {
+      "Text": "Have you found anything yet, Dad?"
+    },
+    "Context": "Flow/hobbesp3_argument/02_ari: \"Have you found anything yet, Dad?\""
+  },
+  "DFr_300559D8.Text": {
+    "": {
+      "Text": "I’m thinking, ^^^^^^I’m thinking!"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"I’m thinking, ^^^^^^I’m thinking!\""
+  },
+  "DFr_39C2F05C.Text": {
+    "": {
+      "Text": "(Okay... ^^^^I know there’s a problem here... ^^^^^^I can feel it! ^^^^^^^^^But where is it?)"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"(Okay... ^^^^I know there’s a probl...\""
+  },
+  "DFr_460D756C.Text": {
+    "": {
+      "Text": "(Back to the top!)"
+    },
+    "Context": "Flow/hobbesp3_argument/01_socrates: \"(Back to the top!)\""
+  },
+  "DFr_90AF4342.Text": {
+    "": {
+      "Text": "Hobbes!"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"Hobbes!\""
+  },
+  "DFr_8CEF1C07.Text": {
+    "": {
+      "Text": "I will admit your philosophy is very interesting from a political perspective..."
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"I will admit your philosophy is ver...\""
+  },
+  "DFr_E17C8310.Text": {
+    "": {
+      "Text": "But as a basis of morality, ^^^^^it simply won’t stand!"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"But as a basis of morality, ^^^^^it...\""
+  },
+  "DFr_FF2FABC6.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"...\""
+  },
+  "DFr_F23792D4.Text": {
+    "": {
+      "Text": "Mr. Jones, ^^^^^^even now you lack sensible qualities such as fear."
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"Mr. Jones, ^^^^^^even now you lack...\""
+  },
+  "DFr_337618B4.Text": {
+    "": {
+      "Text": "Haven’t you learned not to make such brash statements?"
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"Haven’t you learned not to make suc...\""
+  },
+  "DFr_8D6A509E.Text": {
+    "": {
+      "Text": "Brash? ^^^^^^This time, ^^^^^^I think not."
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"Brash? ^^^^^^This time, ^^^^^^I thi...\""
+  },
+  "DFr_B3EF79DF.Text": {
+    "": {
+      "Text": "Boys! ^^^^Enough grandstanding. ^^^^^Get to the point!"
+    },
+    "Context": "Flow/hobbesa3_correct/02_ari: \"Boys! ^^^^Enough grandstanding. ^^^...\""
+  },
+  "DFr_4F60AF90.Text": {
+    "": {
+      "Text": "(Erp!)"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"(Erp!)\""
+  },
+  "DFr_69C32852.Text": {
+    "": {
+      "Text": "Hobbes, you said our obligation to the Social Contract comes from the pressures laid upon us by the sovereign, correct?"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"Hobbes, you said our obligation to...\""
+  },
+  "DFr_4D49CF01.Text": {
+    "": {
+      "Text": "Correct."
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"Correct.\""
+  },
+  "DFr_E7290EDF.Text": {
+    "": {
+      "Text": "And the sovereign’s power to apply such pressures comes from a contract between him and the people, ^^^^yes?"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"And the sovereign’s power to apply...\""
+  },
+  "DFr_207EA74B.Text": {
+    "": {
+      "Text": "Absolutely."
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"Absolutely.\""
+  },
+  "DFr_F8C50285.Text": {
+    "": {
+      "Text": "Well then, ^^^^^Hobbes, ^^^^^answer me this: ^^^^^^^^^^^^what obligates the king to follow his contract with his people?"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"Well then, ^^^^^Hobbes, ^^^^^answer...\""
+  },
+  "DFr_93DF51F0.Text": {
+    "": {
+      "Text": "!!!"
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"!!!\""
+  },
+  "DFr_DD10A149.Text": {
+    "": {
+      "Text": "You may have added a layer of obligation, ^^^^^Hobbes, ^^^^^^but you haven’t fixed anything."
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"You may have added a layer of oblig...\""
+  },
+  "DFr_5CC1C2DB.Text": {
+    "": {
+      "Text": "The problem’s still exactly the same! ^^^^^^The king, ^^^^being selfish, ^^^^will take advantage of his people!"
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"The problem’s still exactly the sam...\""
+  },
+  "DFr_8FE11F58.Text": {
+    "": {
+      "Text": "And we are back where we started."
+    },
+    "Context": "Flow/hobbesa3_correct/01_socrates: \"And we are back where we started.\""
+  },
+  "DFr_CCB0B4A9.Text": {
+    "": {
+      "Text": "No matter. ^^^^^^^^Just another moment of your time, ^^^^and I will lay out what binds the king to his contract."
+    },
+    "Context": "Flow/hobbesa3_correct/07_hobbes: \"No matter. ^^^^^^^^Just another mom...\""
+  },
+  "DFr_3FF1800C.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hobbesa3_correct_1/07_hobbes: \"...\""
+  },
+  "DFr_3CA24370.Text": {
+    "": {
+      "Text": "Well, ^^^^you see—"
+    },
+    "Context": "Flow/hobbesa3_correct_1/07_hobbes: \"Well, ^^^^you see—\""
+  },
+  "DFr_14240CD2.Text": {
+    "": {
+      "Text": "!?!?"
+    },
+    "Context": "Flow/hobbesa3_correct_2/07_hobbes: \"!?!?\""
+  },
+  "DFr_7EA45A7A.Text": {
+    "": {
+      "Text": "I don’t need to hear it, ^^^^Hobbes."
+    },
+    "Context": "Flow/hobbesa3_correct_2/01_socrates: \"I don’t need to hear it, ^^^^Hobbes...\""
+  },
+  "DFr_4C2DB2CC.Text": {
+    "": {
+      "Text": "...What— ^^^^what?! ^^^^^^^^How dare you—"
+    },
+    "Context": "Flow/hobbesa3_correct_2/07_hobbes: \"...What— ^^^^what?! ^^^^^^^^How dar...\""
+  },
+  "DFr_34232A0B.Text": {
+    "": {
+      "Text": "The fact is, we can do this forever. ^^^^^^^^I can continue to point out the lack of obligation in your morality, ^^^^and you can attempt to provide a source."
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"The fact is, we can do this forever...\""
+  },
+  "DFr_888BC723.Text": {
+    "": {
+      "Text": "You are curing the symptoms and not the disease!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"You are curing the symptoms and not...\""
+  },
+  "DFr_34475C01.Text": {
+    "": {
+      "Text": "The question you need to answer is not what obligates the king. ^^^^^^^^"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"The question you need to answer is...\""
+  },
+  "DFr_64A8F1BD.Text": {
+    "": {
+      "Text": "If the source of obligation is the Social Contract, then it can only be another contract!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"If the source of obligation is the...\""
+  },
+  "DFr_221EE00C.Text": {
+    "": {
+      "Text": "Instead, answer me this: ^^^^^^what obligates us to keep our contracts? ^^^^^^^^What makes THEM the source of morality?"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Instead, answer me this: ^^^^^^what...\""
+  },
+  "DFr_A8F5213B.Text": {
+    "": {
+      "Text": "Can you answer this, ^^^^Hobbes?"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Can you answer this, ^^^^Hobbes?\""
+  },
+  "DFr_225DCA1A.Text": {
+    "": {
+      "Text": "I... ^^^^^^I... ^^^^^^Well..."
+    },
+    "Context": "Flow/hobbesa3_correct_3/07_hobbes: \"I... ^^^^^^I... ^^^^^^Well...\""
+  },
+  "DFr_5B4C9B74.Text": {
+    "": {
+      "Text": "Dad, you’ve actually stumped him!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/02_ari: \"Dad, you’ve actually stumped him!\""
+  },
+  "DFr_8C9D0C94.Text": {
+    "": {
+      "Text": "This is the core of your problem, Hobbes!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"This is the core of your problem, H...\""
+  },
+  "DFr_2570F7F7.Text": {
+    "": {
+      "Text": "Morality based in contracts leads to an infinite regression of obligations!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Morality based in contracts leads t...\""
+  },
+  "DFr_C22720D9.Text": {
+    "": {
+      "Text": "Thus, it can’t possibly be the true source!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Thus, it can’t possibly be the true...\""
+  },
+  "DFr_CC981851.Text": {
+    "": {
+      "Text": "GAH!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/07_hobbes: \"GAH!\""
+  },
+  "DFr_E4680639.Text": {
+    "": {
+      "Text": "Wow, ^^^^Dad! ^^^^^^^^Let’s see him counter that!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/02_ari: \"Wow, ^^^^Dad! ^^^^^^^^Let’s see him...\""
+  },
+  "DFr_5B1B2732.Text": {
+    "": {
+      "Text": "Well, ^^^^^^^^Hobbes?"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Well, ^^^^^^^^Hobbes?\""
+  },
+  "DFr_20312849.Text": {
+    "": {
+      "Text": "How can something that requires obligation be the source of all obligation?"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"How can something that requires obl...\""
+  },
+  "DFr_513D0C7F.Text": {
+    "": {
+      "Text": "It just doesn’t make sense! ^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"It just doesn’t make sense! ^^^^^^^...\""
+  },
+  "DFr_5001208A.Text": {
+    "": {
+      "Text": "Your philosophy is hobbled, ^^^^^^^^Hobbes!!"
+    },
+    "Context": "Flow/hobbesa3_correct_3/01_socrates: \"Your philosophy is hobbled, ^^^^^^^...\""
+  },
+  "DFr_8BE12E0E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"...\""
+  },
+  "DFr_11E1B027.Text": {
+    "": {
+      "Text": "Well, ^^^^^you see, ^^^^^preposterous, ^^^^^the sovereign will, ^^^^^uh..."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"Well, ^^^^^you see, ^^^^^prepostero...\""
+  },
+  "DFr_3064B6D8.Text": {
+    "": {
+      "Text": "The fear, ^^^^^I, ^^^^^uh, ^^^^^it creates in us a mechanical drive to, ^^^^^to uh..."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"The fear, ^^^^^I, ^^^^^uh, ^^^^^it...\""
+  },
+  "DFr_3F9BA889.Text": {
+    "": {
+      "Text": "I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I -\""
+  },
+  "DFr_1F5D9F41.Text": {
+    "": {
+      "Text": "I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I -\""
+  },
+  "DFr_4AD803E0.Text": {
+    "": {
+      "Text": "I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I -\""
+  },
+  "DFr_605098FD.Text": {
+    "": {
+      "Text": "I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I -\""
+  },
+  "DFr_4D8E267C.Text": {
+    "": {
+      "Text": "I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I -\""
+  },
+  "DFr_3D43ACF0.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I -\""
+  },
+  "DFr_8BF77A2F.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I -\""
+  },
+  "DFr_A31F24D7.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I - I -\""
+  },
+  "DFr_3235E46A.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I - I - I -\""
+  },
+  "DFr_27A66C54.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I - I - I -...\""
+  },
+  "DFr_A0BA26E4.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I - I - I -...\""
+  },
+  "DFr_36A898D8.Text": {
+    "": {
+      "Text": "I - I - I - I - I - I - I - I - I - I - I - I -"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I - I - I - I - I - I - I - I - I -...\""
+  },
+  "DFr_6DB194FA.Text": {
+    "": {
+      "Text": "HHHHHHHHUUUUUUUUUUUUUUUUUUUUUMMMMMMM MMMMMBUUUUUUUUUUUUUGGGGGGGGGGG!!!"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"HHHHHHHHUUUUUUUUUUUUUUUUUUUUUMMMMMM...\""
+  },
+  "DFr_00324773.Text": {
+    "": {
+      "Text": "Socrates, ^^^^do you know what my last words were before I died?"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"Socrates, ^^^^do you know what my l...\""
+  },
+  "DFr_6A0CB8A5.Text": {
+    "": {
+      "Text": "“Now I am about to take my last voyage, ^^^^^^^a great leap into the dark.”"
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"“Now I am about to take my last voy...\""
+  },
+  "DFr_067E64AD.Text": {
+    "": {
+      "Text": "I desired rest. ^^^^^^^^^A life finally free from fear and discomfort. ^^^^^^...I did not wish to be trapped in this realm, ^^^^debating for all eternity."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I desired rest. ^^^^^^^^^A life fin...\""
+  },
+  "DFr_6C188267.Text": {
+    "": {
+      "Text": "Accepting the Arbiter’s challenge was a foolish choice, ^^^Mr. Jones. ^^^^^^But needless to say, ^^^^I can understand why you did so."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"Accepting the Arbiter’s challenge w...\""
+  },
+  "DFr_4E2272E7.Text": {
+    "": {
+      "Text": "And ignorant as you are, ^^^^^you have given me reason to reexamine my principles."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"And ignorant as you are, ^^^^^you h...\""
+  },
+  "DFr_ADF23185.Text": {
+    "": {
+      "Text": "I shall now take my leave."
+    },
+    "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I shall now take my leave.\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

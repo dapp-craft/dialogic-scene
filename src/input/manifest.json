@@ -1,0 +1,193 @@
+{
+  "Settings": {
+    "set_UseScriptSupport": "True",
+    "set_TextFormatter": "",
+    "set_IncludedNodes": "Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets",
+    "set_IncludingAssets": "True",
+    "ExportVersion": "2.0",
+    "RuleSetId": "010000000001E7BE",
+    "RuleSetName": "Export Socrates"
+  },
+  "Project": {
+    "Name": "Socrates Jones: Pro Philosopher (Копия) (Копия) (Копия) (Копия) (Копия)",
+    "DetailName": "",
+    "Guid": "6d7173df-1316-476d-9f5e-fee31098c306",
+    "TechnicalName": "Socrates_Jones_Pro_Philosopher"
+  },
+  "Languages": [
+    {
+      "CultureName": "",
+      "ArticyLanguageId": 127,
+      "LanguageName": null,
+      "IsVoiceOver": false
+    }
+  ],
+  "GlobalVariables": {
+    "FileName": "global_variables.json",
+    "Hash": "soUsSZXSbFvvYsl9OfPeSLQJYi0A8H5T3atZ3pfIX7E="
+  },
+  "ObjectDefinitions": {
+    "Types": {
+      "FileName": "object_definitions.json",
+      "Hash": "yzSbZIoJ4zCll+P4ZZZbcSzKacaUPj4/i/5poKueino="
+    },
+    "Texts": {
+      "FileName": "object_definitions_localization.json",
+      "Hash": "RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o="
+    }
+  },
+  "Packages": [
+    {
+      "Name": "Prologue",
+      "Id": "0x010000000001E7C3",
+      "Description": "",
+      "IsDefaultPackage": true,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "paP2FNPPqPNtxoe1QajydkIM9fnaS/CPv/pFObA4Pxo=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7C3_objects.json",
+          "Hash": "ET/rMb91761YQSjoP7i95GrqU+do0wrx/uupdZJl+GQ="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7C3_localization.json",
+          "Hash": "2WgDfMWOqTi2h61enjJyOYTQ0pTqNWec0IqwdyaZ+TQ="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_1",
+      "Id": "0x010000000001E7C5",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "iPDPDjzX+sGkiPe6pnA8EMFWOYobW1dcJeMHJrbHwZg=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7C5_objects.json",
+          "Hash": "CGkyAF/+RoJwCos1LDI+afeRGVVLMR3/R3q99LHf2VU="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7C5_localization.json",
+          "Hash": "2zv45mZtR9cmm1yh+q1MTm2S0emkD8lkJOr/o54Fd9Q="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_2",
+      "Id": "0x010000000001E7C7",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "+hTEXqFRrngGpa7Vq79Wb+07kDXu59bbnABku+ySad0=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7C7_objects.json",
+          "Hash": "tyErrqa9DfuVlcNxyjcL77XNlpwxG/PBqLplweZQsbg="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7C7_localization.json",
+          "Hash": "7lU4fuA1dCX3ykGEj3KF52V3bmPA81KBDd7HtHYqmCY="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_3",
+      "Id": "0x010000000001E7C9",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "Zh8/kkbseC2zk50H4L5kwiK++Y+rRLgek+6jC6PMHCI=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7C9_objects.json",
+          "Hash": "68NVBHGhU0kiD5/RE8P6kQ9XSQEp4vYQNESE2Pcehqg="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7C9_localization.json",
+          "Hash": "NcBK/fe4ycyITJw7ImnXqE8lsFyM3KpIYOTKfdiy7K4="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_4",
+      "Id": "0x010000000001E7CB",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "1GglYsRL1Xh39hcYRX9Q5K6Pxl2s2qEB3tRwMggpWAs=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7CB_objects.json",
+          "Hash": "m3Wu1JB2hARPG+u0PSUdxOdAc6bkl72Ie5DZJk6/7Yw="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7CB_localization.json",
+          "Hash": "RSsmeRQB3LppRsGG8BldESwjyLrJ9eI7m1Uuuasti5I="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_5",
+      "Id": "0x010000000001E7CD",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "VtnB9oDQvX+HeNBLzL0CUseotIUiEAzadiLZY7S6Bd8=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7CD_objects.json",
+          "Hash": "XZ7XDG39smf6ey6rSeJWFhEFadz0ZO+V04Ta/xSHfVg="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7CD_localization.json",
+          "Hash": "JFrJxPjqD4RL/ETJzPRTVf8zVhPImAcUYPSQzsItC4M="
+        }
+      }
+    },
+    {
+      "Name": "Chapter_6",
+      "Id": "0x010000000001E7CF",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "P5YeawAD50YdekKRTQJIQqveOSQEheGdM/4T+FWe3yE=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001E7CF_objects.json",
+          "Hash": "2tEk4jHyHzx7JPy9sev3A3zC7ynojSVGfnpRDrwKNoY="
+        },
+        "Texts": {
+          "FileName": "package_010000000001E7CF_localization.json",
+          "Hash": "3Qt2pAS6b8suMnRbr8nLdKhcgGyEawZJfRBMppGH+Cc="
+        }
+      }
+    },
+    {
+      "Name": "Victory",
+      "Id": "0x010000000001EEC2",
+      "Description": "",
+      "IsDefaultPackage": false,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "r1Vw9aGBC3r3jK9LxwpmDw31HkK6+R1N5bIyjeDoPfw=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_010000000001EEC2_objects.json",
+          "Hash": "8nN5nVGOQWQo8wVBBpvrZMabpr6HJXFrVHBgruCKq5w="
+        },
+        "Texts": {
+          "FileName": "package_010000000001EEC2_localization.json",
+          "Hash": "Il5EwsHWvkLjwaDENzUEVn+EPeHijRRay/0t18bqqMQ="
+        }
+      }
+    }
+  ],
+  "ScriptMethods": {
+    "FileName": "script_methods.json",
+    "Hash": "+Hc7CrqwO4HgaJLz4pXA58UKo/0PYZLVIzK1n03xTOY="
+  },
+  "Hierarchy": {
+    "FileName": "hierarchy.json",
+    "Hash": "fb43xRkIrumo1jII95xjm9IrMvRDv2Ikgvx2V3tZGb0="
+  }
+}

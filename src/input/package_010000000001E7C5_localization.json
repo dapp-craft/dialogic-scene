@@ -1,0 +1,4772 @@
+{
+  "Dlg_2772ADE1.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1"
+    },
+    "Context": "Flow/euthyphro_s1"
+  },
+  "Dlg_CCB23063.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p2"
+    },
+    "Context": "Flow/euthyphro_s1_p2"
+  },
+  "Dlg_D2926CBA.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p3"
+    },
+    "Context": "Flow/euthyphro_s1_p3"
+  },
+  "Dlg_23D65296.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p4"
+    },
+    "Context": "Flow/euthyphro_s1_p4"
+  },
+  "Dlg_C6B37649.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p5"
+    },
+    "Context": "Flow/euthyphro_s1_p5"
+  },
+  "Dlg_C7E7D8B1.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p6"
+    },
+    "Context": "Flow/euthyphro_s1_p6"
+  },
+  "Dlg_9395D37F.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p7"
+    },
+    "Context": "Flow/euthyphro_s1_p7"
+  },
+  "Dlg_8C67E336.DisplayName": {
+    "": {
+      "Text": "euthyphro_s1_p8"
+    },
+    "Context": "Flow/euthyphro_s1_p8"
+  },
+  "Dlg_AFE91B25.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_presentation"
+    },
+    "Context": "Flow/euthyphro_p1_presentation"
+  },
+  "Dlg_B7F561DC.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_presentation_1"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1"
+  },
+  "Dlg_685BD794.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_argument"
+    },
+    "Context": "Flow/euthyphro_p1_argument"
+  },
+  "Dlg_B42670BC.DisplayName": {
+    "": {
+      "Text": "euthyphro_gameover"
+    },
+    "Context": "Flow/euthyphro_gameover"
+  },
+  "Dlg_8AB3C90C.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_end_1"
+    },
+    "Context": "Flow/euthyphro_p1_end_1"
+  },
+  "Dlg_A239F070.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_end_2"
+    },
+    "Context": "Flow/euthyphro_p1_end_2"
+  },
+  "Dlg_D3D4D46E.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_end_3"
+    },
+    "Context": "Flow/euthyphro_p1_end_3"
+  },
+  "Dlg_3EE493A0.DisplayName": {
+    "": {
+      "Text": "euthyphro_p1_end_4"
+    },
+    "Context": "Flow/euthyphro_p1_end_4"
+  },
+  "Dlg_7B0AD5AD.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2_presentation"
+    },
+    "Context": "Flow/euthyphro_p2_presentation"
+  },
+  "Dlg_47B49B01.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2"
+    },
+    "Context": "Flow/euthyphro_p2"
+  },
+  "Dlg_FFE5BB2A.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2_argument"
+    },
+    "Context": "Flow/euthyphro_p2_argument"
+  },
+  "Dlg_BF3403E4.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2_end"
+    },
+    "Context": "Flow/euthyphro_p2_end"
+  },
+  "Dlg_7BDA93A3.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2_end_2"
+    },
+    "Context": "Flow/euthyphro_p2_end_2"
+  },
+  "Dlg_37270D51.DisplayName": {
+    "": {
+      "Text": "euthyphro_p2_end_3"
+    },
+    "Context": "Flow/euthyphro_p2_end_3"
+  },
+  "DFr_5F078C34.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/euthyphro_p1_argument/i1: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_44FF4873.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/euthyphro_p1_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_29A6B985.Text": {
+    "": {
+      "Text": "Euthyphro believes good things are good because gods like them."
+    },
+    "Context": "Flow/euthyphro_p1_argument/i2: \"Euthyphro believes good things are...\""
+  },
+  "DFr_B57EFB37.Text": {
+    "": {
+      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
+    },
+    "Context": "Flow/euthyphro_p1_argument/i3: \"Euthyphro's philosophy applies to a...\""
+  },
+  "DFr_D84B78B1.Text": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/euthyphro_p2_argument/i1: \"Euthyphro believes that sentient be...\""
+  },
+  "DFr_08449113.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/euthyphro_p2_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_EC3E9E38.Text": {
+    "": {
+      "Text": "Euthyphro believes good things are good because gods like them."
+    },
+    "Context": "Flow/euthyphro_p2_argument/i2: \"Euthyphro believes good things are...\""
+  },
+  "DFr_43B78563.Text": {
+    "": {
+      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
+    },
+    "Context": "Flow/euthyphro_p2_argument/i3: \"Euthyphro's philosophy applies to a...\""
+  },
+  "DFr_F0F181C8.Text": {
+    "": {
+      "Text": "^^^^^^^Hey look! ^^^^^^^A new arrival!"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"^^^^^^^Hey look! ^^^^^^^A new arriv...\""
+  },
+  "DFr_2C8930A1.Text": {
+    "": {
+      "Text": "Do you think he’s okay?"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Do you think he’s okay?\""
+  },
+  "DFr_2F1B1482.Text": {
+    "": {
+      "Text": "Of course he’s not okay, ^^^^Rousseau. ^^^^^He wouldn’t be ^^^^HERE ^^^^if he was okay!"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Of course he’s not okay, ^^^^Rousse...\""
+  },
+  "DFr_6CF75756.Text": {
+    "": {
+      "Text": ".^^^^^^^^.^^^^^^^^.^^^^^^^^Well, ^^^^^^maybe he’s okay ^^^^^^in the spiritual sense."
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \".^^^^^^^^.^^^^^^^^.^^^^^^^^Well, ^^...\""
+  },
+  "DFr_4D71CDDC.Text": {
+    "": {
+      "Text": "(Oooh, ^^^^my head...)"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"(Oooh, ^^^^my head...)\""
+  },
+  "DFr_AEE0AD58.Text": {
+    "": {
+      "Text": "(I didn’t think it was possible to feel this much pain...)"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"(I didn’t think it was possible to...\""
+  },
+  "DFr_52870D94.Text": {
+    "": {
+      "Text": "Hold on, ^^^he’s coming to!"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Hold on, ^^^he’s coming to!\""
+  },
+  "DFr_875B5862.Text": {
+    "": {
+      "Text": "Hey, buddy! ^^^^^^^^^^^^^^^What’s your name?"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Hey, buddy! ^^^^^^^^^^^^^^^What’s y...\""
+  },
+  "DFr_640A87C2.Text": {
+    "": {
+      "Text": "...Soc... ^^^^^^^rates..."
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"...Soc... ^^^^^^^rates...\""
+  },
+  "DFr_31D82FC7.Text": {
+    "": {
+      "Text": ".^^^.^^^.^^^^^^Sorry, ^^^^^^^^^didn’t quite catch that."
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \".^^^.^^^.^^^^^^Sorry, ^^^^^^^^^didn...\""
+  },
+  "DFr_4E655C20.Text": {
+    "": {
+      "Text": "...it’s... ^^^^^Socrates..."
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"...it’s... ^^^^^Socrates...\""
+  },
+  "DFr_EFC48B00.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"...\""
+  },
+  "DFr_72B45DED.Text": {
+    "": {
+      "Text": "Did he say... ^^^^^^^“Socrates\"?"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Did he say... ^^^^^^^“Socrates\"?\""
+  },
+  "DFr_E1A988A0.Text": {
+    "": {
+      "Text": "...^^^^^^^^^Oh. ^^^^^My. ^^^^^GOD."
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"...^^^^^^^^^Oh. ^^^^^My. ^^^^^GOD.\""
+  },
+  "DFr_D87FB484.Text": {
+    "": {
+      "Text": "OH MY GOD! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"OH MY GOD! ^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_C596880E.Text": {
+    "": {
+      "Text": "HE’S BACK! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"HE’S BACK! ^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_30C8AE32.Text": {
+    "": {
+      "Text": "HE’S BACK! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"HE’S BACK! ^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_D89921BB.Text": {
+    "": {
+      "Text": "SOCRATES IS BACK!"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"SOCRATES IS BACK!\""
+  },
+  "DFr_7AAE9E9A.Text": {
+    "": {
+      "Text": "Quick, ^^^^^^^^^^^^^let’s take him to the Arbiter!!!"
+    },
+    "Context": "Flow/euthyphro_s1/10_crowd: \"Quick, ^^^^^^^^^^^^^let’s take him...\""
+  },
+  "DFr_943B346C.Text": {
+    "": {
+      "Text": "Huh!?! ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"Huh!?! ^^^^^^^^^^^^\""
+  },
+  "DFr_729AA885.Text": {
+    "": {
+      "Text": "Hold on, ^^^^^^what— ^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"Hold on, ^^^^^^what— ^^^^^^^^^^^^\""
+  },
+  "DFr_10690E2A.Text": {
+    "": {
+      "Text": "no!! ^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"no!! ^^^^^^^^^^^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_324366A5.Text": {
+    "": {
+      "Text": "Put me dooooooooooooooooowwwwwn! ^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1/01_socrates: \"Put me dooooooooooooooooowwwwwn! ^^...\""
+  },
+  "DFr_A70DD81E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_s1/11_nobody: \"...\""
+  },
+  "DFr_92008982.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^What? ^^^^^^^^^WHAT?"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"^^^^^^^^^^^^^^What? ^^^^^^^^^WHAT?\""
+  },
+  "DFr_9556F3B0.Text": {
+    "": {
+      "Text": "What is going on? ^^^^^^Where have you taken me!?!"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"What is going on? ^^^^^^Where have...\""
+  },
+  "DFr_01DD6B14.Text": {
+    "": {
+      "Text": "Greetings, ^^^^Great Thinker Socrates."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Greetings, ^^^^Great Thinker Socrat...\""
+  },
+  "DFr_F3FB46BE.Text": {
+    "": {
+      "Text": "AHHHHHHHHH! ^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"AHHHHHHHHH! ^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_D64ADC47.Text": {
+    "": {
+      "Text": "A d-^^^^^^^^^^^d-^^^^demon!!"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"A d-^^^^^^^^^^^d-^^^^demon!!\""
+  },
+  "DFr_8D85AA09.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"...\""
+  },
+  "DFr_7ED6F8AA.Text": {
+    "": {
+      "Text": "P-^^^^^^please... ^^^^^^^^^^^please don’t eat me!"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"P-^^^^^^please... ^^^^^^^^^^^please...\""
+  },
+  "DFr_A3FEB4B5.Text": {
+    "": {
+      "Text": "Hrmph. ^^^^^^^This is not the Great Thinker Socrates."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Hrmph. ^^^^^^^This is not the Great...\""
+  },
+  "DFr_D5DE912C.Text": {
+    "": {
+      "Text": "The Great Thinker Socrates was much wiser... ^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"The Great Thinker Socrates was much...\""
+  },
+  "DFr_36260B10.Text": {
+    "": {
+      "Text": "and far more bearded."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"and far more bearded.\""
+  },
+  "DFr_FA43961A.Text": {
+    "": {
+      "Text": "*sigh* ^^^^^^^Yeah, ^^^^^^I could’ve told you that."
+    },
+    "Context": "Flow/euthyphro_s1_p2/02_ari: \"*sigh* ^^^^^^^Yeah, ^^^^^^I could’v...\""
+  },
+  "DFr_75C74E58.Text": {
+    "": {
+      "Text": "Ari!! Oh, THANK GOD you’re okay!! ^^^^^^^^^^^ Did it hurt you?"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"Ari!! Oh, THANK GOD you’re okay!! ^...\""
+  },
+  "DFr_7662D0DB.Text": {
+    "": {
+      "Text": "Hi, ^^^^Dad..."
+    },
+    "Context": "Flow/euthyphro_s1_p2/02_ari: \"Hi, ^^^^Dad...\""
+  },
+  "DFr_B308F119.Text": {
+    "": {
+      "Text": "Oh, ^^^^^you are kin to Ariadne Jones? ^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Oh, ^^^^^you are kin to Ariadne Jon...\""
+  },
+  "DFr_DF3AD171.Text": {
+    "": {
+      "Text": "A sharp thinker! ^^^^^^^We were just discussing the nature of existence."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"A sharp thinker! ^^^^^^^We were jus...\""
+  },
+  "DFr_7C6B7034.Text": {
+    "": {
+      "Text": "I suppose I should introduce myself. ^^^^^^^I am the Arbiter, ^^^^overseer of the Intelligible Realm."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"I suppose I should introduce myself...\""
+  },
+  "DFr_B989095C.Text": {
+    "": {
+      "Text": "The ^^^^WHAT ^^^^realm?"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"The ^^^^WHAT ^^^^realm?\""
+  },
+  "DFr_2AF33939.Text": {
+    "": {
+      "Text": "The Intelligible Realm; ^^^^^The Realm of Ideas."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"The Intelligible Realm; ^^^^^The Re...\""
+  },
+  "DFr_56E813E0.Text": {
+    "": {
+      "Text": "The plane from which all thought originates, ^^^^^^^^^and the final resting place for those who concern themselves with the art of philosophy."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"The plane from which all thought or...\""
+  },
+  "DFr_1C0A211D.Text": {
+    "": {
+      "Text": "The final... ^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"The final... ^^^^^^^^^\""
+  },
+  "DFr_F01148C1.Text": {
+    "": {
+      "Text": "Wait, hold on a moment... I’m not— ^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"Wait, hold on a moment... I’m not—...\""
+  },
+  "DFr_931574AE.Text": {
+    "": {
+      "Text": "Do not worry, ^^^^Socrates. ^^^^^^^Your presence here is entirely a mistake. ^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Do not worry, ^^^^Socrates. ^^^^^^^...\""
+  },
+  "DFr_3BB1F7E3.Text": {
+    "": {
+      "Text": "You are no philosopher, ^^^^^^after all."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"You are no philosopher, ^^^^^^after...\""
+  },
+  "DFr_BB4D28CA.Text": {
+    "": {
+      "Text": "Your... ^^^^interesting... ^^^^name must have confused the existential sorting algorithm. ^^^^^^^^^I must have a word with Turing."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Your... ^^^^interesting... ^^^^name...\""
+  },
+  "DFr_57492EAE.Text": {
+    "": {
+      "Text": "And, ^^^^^^uh, ^^^^^^Ari?"
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"And, ^^^^^^uh, ^^^^^^Ari?\""
+  },
+  "DFr_9D879887.Text": {
+    "": {
+      "Text": "Still alive. ^^^^^^Her knowledge, ^^^^I am sure, ^^^^contributed to this misfiling."
+    },
+    "Context": "Flow/euthyphro_s1_p2/04_arbiter: \"Still alive. ^^^^^^Her knowledge, ^...\""
+  },
+  "DFr_2E73A3DC.Text": {
+    "": {
+      "Text": "Oh, ^^^^^^^^thank God."
+    },
+    "Context": "Flow/euthyphro_s1_p2/01_socrates: \"Oh, ^^^^^^^^thank God.\""
+  },
+  "DFr_D3B2D1FC.Text": {
+    "": {
+      "Text": "Okay, ^^^^^not that I’m not enjoying this peek behind the mortal curtain, ^^^^^^^but, ^^^^^uh, ^^^^^what does that mean for us?"
+    },
+    "Context": "Flow/euthyphro_s1_p2/02_ari: \"Okay, ^^^^^not that I’m not enjoyin...\""
+  },
+  "DFr_3CEAFB85.Text": {
+    "": {
+      "Text": "Well, ^^^Ariadne Jones...^^^^^^^^^^^^^^^^^^^^^^ I suppose it means you can leave."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"Well, ^^^Ariadne Jones...^^^^^^^^^^...\""
+  },
+  "DFr_9964507C.Text": {
+    "": {
+      "Text": "W-w^^^^^^here did that come from?! ^^^^^^^^That wasn’t there a moment ago!"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"W-w^^^^^^here did that come from?!...\""
+  },
+  "DFr_38DB0FC4.Text": {
+    "": {
+      "Text": "Right now, ^^^^in the real world, ^^^^you are unconscious. ^^^^^^^^^“Comatose” may be more appropriate."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"Right now, ^^^^in the real world, ^...\""
+  },
+  "DFr_EAE4FB1B.Text": {
+    "": {
+      "Text": "But the moment you step through the Gate, ^^^^^^^^^you will wake up in your hospital bed in New York. ^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"But the moment you step through the...\""
+  },
+  "DFr_E9B8BA8E.Text": {
+    "": {
+      "Text": "It’s... ^^^^^^going to be painful?"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"It’s... ^^^^^^going to be painful?\""
+  },
+  "DFr_078193E4.Text": {
+    "": {
+      "Text": "In a large amount of pain, ^^^^^^^but alive."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"In a large amount of pain, ^^^^^^^b...\""
+  },
+  "DFr_CB47A2C5.Text": {
+    "": {
+      "Text": "It would be, ^^^yes. ^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"It would be, ^^^yes. ^^^^^^^^^^^^^^\""
+  },
+  "DFr_65123D01.Text": {
+    "": {
+      "Text": "But you have no need to worry now, ^^^Socrates. ^^^^^^^^^^^^There is no pain in your future."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"But you have no need to worry now,...\""
+  },
+  "DFr_FFB40AA3.Text": {
+    "": {
+      "Text": "Oh? ^^^^^^^^^^I got out of the crash uninjured?"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Oh? ^^^^^^^^^^I got out of the cras...\""
+  },
+  "DFr_729A7DBD.Text": {
+    "": {
+      "Text": "...^^^^^^^^Not... ^^^^^exactly."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"...^^^^^^^^Not... ^^^^^exactly.\""
+  },
+  "DFr_29C9BC00.Text": {
+    "": {
+      "Text": "...!"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"...!\""
+  },
+  "DFr_820C687B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"...\""
+  },
+  "DFr_B33E9900.Text": {
+    "": {
+      "Text": "You don’t— ^^^^^you don’t mean—"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"You don’t— ^^^^^you don’t mean—\""
+  },
+  "DFr_0CFA414A.Text": {
+    "": {
+      "Text": "I apologize for the confusion. ^^^^^^I said Socrates was not a philosopher. ^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"I apologize for the confusion. ^^^^...\""
+  },
+  "DFr_B921D218.Text": {
+    "": {
+      "Text": "I never meant to imply he ^^^was ^^^not ^^^dead."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"I never meant to imply he ^^^was ^^...\""
+  },
+  "DFr_4A521F77.Text": {
+    "": {
+      "Text": "one involving a lot of numbers, ^^^^^I suppose."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"one involving a lot of numbers, ^^^...\""
+  },
+  "DFr_ADF764EE.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"...\""
+  },
+  "DFr_ADC5960D.Text": {
+    "": {
+      "Text": "Is this a joke to you, ^^^Arbiter?"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"Is this a joke to you, ^^^Arbiter?\""
+  },
+  "DFr_097C0BC2.Text": {
+    "": {
+      "Text": "When you leave, ^^^^we’ll get him filed away to the appropriate afterlife... ^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"When you leave, ^^^^we’ll get him f...\""
+  },
+  "DFr_03072168.Text": {
+    "": {
+      "Text": "No. ^^^^^It is simply the way of the world."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"No. ^^^^^It is simply the way of th...\""
+  },
+  "DFr_E1B78665.Text": {
+    "": {
+      "Text": "But you can’t just... ^^^^^^he’s my dad!"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"But you can’t just... ^^^^^^he’s my...\""
+  },
+  "DFr_6C9161C2.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"...\""
+  },
+  "DFr_0BBD3F47.Text": {
+    "": {
+      "Text": "You have a life, ^^^he does not. ^^^^^There is no way he can possibly leave."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"You have a life, ^^^he does not. ^^...\""
+  },
+  "DFr_E6368913.Text": {
+    "": {
+      "Text": "Ari, ^^^stop. ^^^^^Please."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Ari, ^^^stop. ^^^^^Please.\""
+  },
+  "DFr_6BF5478D.Text": {
+    "": {
+      "Text": "But— ^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"But— ^^^^^^^^^\""
+  },
+  "DFr_6BA4CAE3.Text": {
+    "": {
+      "Text": "Look, ^^^as much as I hate it... ^^^^^I’m not sure we can talk our way out of this one.\""
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Look, ^^^as much as I hate it... ^^...\""
+  },
+  "DFr_4E6F11F4.Text": {
+    "": {
+      "Text": "So for now, just listen, okay? ^^^^^This... ^^^^^might be the last time we get to speak."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"So for now, just listen, okay? ^^^^...\""
+  },
+  "DFr_80C74A51.Text": {
+    "": {
+      "Text": "Of course."
+    },
+    "Context": "Flow/euthyphro_s1_p3/04_arbiter: \"Of course.\""
+  },
+  "DFr_53E317C8.Text": {
+    "": {
+      "Text": "Ari, I was..."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Ari, I was...\""
+  },
+  "DFr_CF4FC83C.Text": {
+    "": {
+      "Text": "Hold that thought, ^^^^Dad. ^^^I’ll be right back."
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"Hold that thought, ^^^^Dad. ^^^I’ll...\""
+  },
+  "DFr_DD7D61C1.Text": {
+    "": {
+      "Text": "...I was saying my goodbyes...."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"...I was saying my goodbyes....\""
+  },
+  "DFr_9C1FBD27.Text": {
+    "": {
+      "Text": "WHAT?! ^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"WHAT?! ^^^^^^^\""
+  },
+  "DFr_55698B3D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"...\""
+  },
+  "DFr_A10B6DC1.Text": {
+    "": {
+      "Text": ". . ."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \". . .\""
+  },
+  "DFr_63CCB4C9.Text": {
+    "": {
+      "Text": ".  .  ."
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \".  .  .\""
+  },
+  "DFr_A82576DE.Text": {
+    "": {
+      "Text": "Will you... ^^^just, ^^^^know I love you, ^^^^^and tell your mother “I’m sorry” for me, ^^^please?"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Will you... ^^^just, ^^^^know I lov...\""
+  },
+  "DFr_39226CFD.Text": {
+    "": {
+      "Text": "Remember to do your homework. ^^^And water the plants. ^^^And don’t stay out too late. ^^^And whatever you do—"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"Remember to do your homework. ^^^An...\""
+  },
+  "DFr_D0E6F8EE.Text": {
+    "": {
+      "Text": "Arbiter? ^^^^Can I talk to you for a moment?"
+    },
+    "Context": "Flow/euthyphro_s1_p3/02_ari: \"Arbiter? ^^^^Can I talk to you for...\""
+  },
+  "DFr_1833D054.Text": {
+    "": {
+      "Text": "(This is kind of killing my moment.)"
+    },
+    "Context": "Flow/euthyphro_s1_p3/01_socrates: \"(This is kind of killing my moment....\""
+  },
+  "DFr_3003BBD9.Text": {
+    "": {
+      "Text": "Well, ^^^Socrates. ^^^^^I must amend my initial statements. ^^^^^There is, ^^^^^in actuality, ^^^^^one way out."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"Well, ^^^Socrates. ^^^^^I must amen...\""
+  },
+  "DFr_3029AF22.Text": {
+    "": {
+      "Text": "There is?!"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"There is?!\""
+  },
+  "DFr_D281147E.Text": {
+    "": {
+      "Text": "Yes. ^^^^^^^^An ancient wager, ^^^set down by the original Arbiter, ^^^^^and reserved for the best of thinkers."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"Yes. ^^^^^^^^An ancient wager, ^^^s...\""
+  },
+  "DFr_78E37F87.Text": {
+    "": {
+      "Text": "After talking with your daughter, ^^^^^I have decided to offer you a chance at this challenge."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"After talking with your daughter, ^...\""
+  },
+  "DFr_E5551BD4.Text": {
+    "": {
+      "Text": "If you can provide an answer to one of the great philosophical questions— ^^^^^the nature of morality— ^^^^^one request will be granted."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"If you can provide an answer to one...\""
+  },
+  "DFr_9C01DEED.Text": {
+    "": {
+      "Text": "An.... ^^^^^answer?"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"An.... ^^^^^answer?\""
+  },
+  "DFr_BD68CB82.Text": {
+    "": {
+      "Text": "Yes. ^^^^^^^A way to think about morality that is internally consistent and compatible with the realities of the world."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"Yes. ^^^^^^^A way to think about mo...\""
+  },
+  "DFr_70C33904.Text": {
+    "": {
+      "Text": "However! ^^^^^^In this game, ^^^^^you are only allotted one chance. ^^^^^^^^And if I find your answer... ^^^^^^^^uninsightful..."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"However! ^^^^^^In this game, ^^^^^y...\""
+  },
+  "DFr_7F4EF8E1.Text": {
+    "": {
+      "Text": "I’m... ^^^^^stuck here."
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"I’m... ^^^^^stuck here.\""
+  },
+  "DFr_835B89BF.Text": {
+    "": {
+      "Text": "Correct. ^^^^^All parties involved must remain here for eternity."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"Correct. ^^^^^All parties involved...\""
+  },
+  "DFr_7D9E3417.Text": {
+    "": {
+      "Text": "But if he IS able to find the nature of morality...^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"But if he IS able to find the natur...\""
+  },
+  "DFr_921DB3C7.Text": {
+    "": {
+      "Text": "We can BOTH walk through that door?"
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"We can BOTH walk through that door?\""
+  },
+  "DFr_30142DEE.Text": {
+    "": {
+      "Text": "Correct."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"Correct.\""
+  },
+  "DFr_92DF9570.Text": {
+    "": {
+      "Text": "Okay, ^^^^Ari. ^^^^^^Fess up. ^^^^^^^What on earth did you do?!"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"Okay, ^^^^Ari. ^^^^^^Fess up. ^^^^^...\""
+  },
+  "DFr_8F9A5EFD.Text": {
+    "": {
+      "Text": "Ummm,^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"Ummm,^^^^^^\""
+  },
+  "DFr_B075C402.Text": {
+    "": {
+      "Text": "not much. ^^^^^I just...^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"not much. ^^^^^I just...^^^^^^^^^\""
+  },
+  "DFr_4F79A2D2.Text": {
+    "": {
+      "Text": "told him you’re actually a brilliant debater, is all."
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"told him you’re actually a brillian...\""
+  },
+  "DFr_836C5A76.Text": {
+    "": {
+      "Text": "WHAT? ^^^^^Are you crazy?! ^^^^^I’m an accountant! ^^^I can’t..."
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"WHAT? ^^^^^Are you crazy?! ^^^^^I’m...\""
+  },
+  "DFr_0D098D64.Text": {
+    "": {
+      "Text": "Ari, ^^^I appreciate the sentiment— ^^^^but we both know I don’t know ANYTHING about philosophy!"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"Ari, ^^^I appreciate the sentiment—...\""
+  },
+  "DFr_B9196B88.Text": {
+    "": {
+      "Text": "Look, ^^^^it’s not like you’re going to be alone. ^^^^^^^I’m going to stay, ^^^^^and there are people here who know even more than I do."
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"Look, ^^^^it’s not like you’re goin...\""
+  },
+  "DFr_976AF35C.Text": {
+    "": {
+      "Text": "Just... ^^^^give it a shot. ^^^^^^^^^Please?"
+    },
+    "Context": "Flow/euthyphro_s1_p4/02_ari: \"Just... ^^^^give it a shot. ^^^^^^^...\""
+  },
+  "DFr_FDD17EAF.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"...\""
+  },
+  "DFr_A2BA7850.Text": {
+    "": {
+      "Text": "The rules really don’t stop me from asking others for help?"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"The rules really don’t stop me from...\""
+  },
+  "DFr_996FA3DA.Text": {
+    "": {
+      "Text": "No, ^^^^they do not. ^^^^^^^However, ^^^^^you will have to use your own judgment to determine whether the ideas that others provide meet the criteria established."
+    },
+    "Context": "Flow/euthyphro_s1_p4/04_arbiter: \"No, ^^^^they do not. ^^^^^^^However...\""
+  },
+  "DFr_51D07200.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"...\""
+  },
+  "DFr_5D2D9853.Text": {
+    "": {
+      "Text": "(I know I am going to regret this.)"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"(I know I am going to regret this.)\""
+  },
+  "DFr_84BDF19F.Text": {
+    "": {
+      "Text": "*Sigh*^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"*Sigh*^^^^^^^\""
+  },
+  "DFr_709FF02F.Text": {
+    "": {
+      "Text": "Very well then, ^^^^Arbiter. ^^^^^^^I accept your wager."
+    },
+    "Context": "Flow/euthyphro_s1_p4/01_socrates: \"Very well then, ^^^^Arbiter. ^^^^^^...\""
+  },
+  "DFr_CC99EB8F.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^So be it."
+    },
+    "Context": "Flow/euthyphro_s1_p5/04_arbiter: \"^^^^^^^^^^^^^^^^^^^^^So be it.\""
+  },
+  "DFr_F2688B52.Text": {
+    "": {
+      "Text": "The door will reopen when you have completed your task. ^^^^^^^I wish you luck."
+    },
+    "Context": "Flow/euthyphro_s1_p5/04_arbiter: \"The door will reopen when you have...\""
+  },
+  "DFr_6BECC195.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p5/02_ari: \"...\""
+  },
+  "DFr_52A64065.Text": {
+    "": {
+      "Text": "(Well... uh, I suppose I should get started...)"
+    },
+    "Context": "Flow/euthyphro_s1_p5/01_socrates: \"(Well... uh, I suppose I should get...\""
+  },
+  "DFr_6E61150A.Text": {
+    "": {
+      "Text": "*ahem* ^^^^^^Can ANYONE here help me find the NATURE OF MORALITY?!"
+    },
+    "Context": "Flow/euthyphro_s1_p5/01_socrates: \"*ahem* ^^^^^^Can ANYONE here help m...\""
+  },
+  "DFr_31254C95.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/10_crowd: \"...\""
+  },
+  "DFr_39DA639D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/10_crowd: \"...\""
+  },
+  "DFr_7A07196B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/01_socrates: \"...\""
+  },
+  "DFr_43128D1F.Text": {
+    "": {
+      "Text": "Um, what is that?"
+    },
+    "Context": "Flow/euthyphro_s1_p6/01_socrates: \"Um, what is that?\""
+  },
+  "DFr_19CDE0FF.Text": {
+    "": {
+      "Text": "Sounds like an earthquake..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/02_ari: \"Sounds like an earthquake...\""
+  },
+  "DFr_AFF2F493.Text": {
+    "": {
+      "Text": "Really? ^^^^I thought it was more like a football game..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/01_socrates: \"Really? ^^^^I thought it was more l...\""
+  },
+  "DFr_45821D80.Text": {
+    "": {
+      "Text": "Now you’ve done it..."
+    },
+    "Context": "Flow/euthyphro_s1_p6/04_arbiter: \"Now you’ve done it...\""
+  },
+  "DFr_4F653C7D.Text": {
+    "": {
+      "Text": "Huh? ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p6/01_socrates: \"Huh? ^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_E148DD92.Text": {
+    "": {
+      "Text": "Me! ^^^^^^^^^^Me, ^^^^^^^Talk to me! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p7/10_crowd: \"Me! ^^^^^^^^^^Me, ^^^^^^^Talk to me...\""
+  },
+  "DFr_38A8CF33.Text": {
+    "": {
+      "Text": "I know the answer, ^^^^^^^I swear I do! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p7/10_crowd: \"I know the answer, ^^^^^^^I swear I...\""
+  },
+  "DFr_0CE86021.Text": {
+    "": {
+      "Text": "Morality is purely conceptual! ^^^^^^It cannot be defined! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p7/10_crowd: \"Morality is purely conceptual! ^^^^...\""
+  },
+  "DFr_3ACE0E3F.Text": {
+    "": {
+      "Text": "No, ^^^^morality is found in the circumference of the mooooooooooooooooon!^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p7/10_crowd: \"No, ^^^^morality is found in the ci...\""
+  },
+  "DFr_E643B1C7.Text": {
+    "": {
+      "Text": "Ahhhhhhh! ^^^^^What the hell!?!? ^^^^^Let me go!!"
+    },
+    "Context": "Flow/euthyphro_s1_p7/01_socrates: \"Ahhhhhhh! ^^^^^What the hell!?!? ^^...\""
+  },
+  "DFr_4B878CD7.Text": {
+    "": {
+      "Text": "Arbiter, do something!!"
+    },
+    "Context": "Flow/euthyphro_s1_p7/02_ari: \"Arbiter, do something!!\""
+  },
+  "DFr_87BCEE1F.Text": {
+    "": {
+      "Text": "What? ^^^^^^Is he not getting help?"
+    },
+    "Context": "Flow/euthyphro_s1_p7/04_arbiter: \"What? ^^^^^^Is he not getting help?\""
+  },
+  "DFr_21F9AB7F.Text": {
+    "": {
+      "Text": "You call this help?! ^^^^They are going to tear him apart!"
+    },
+    "Context": "Flow/euthyphro_s1_p7/02_ari: \"You call this help?! ^^^^They are g...\""
+  },
+  "DFr_858F5D0B.Text": {
+    "": {
+      "Text": "Hmmmm... ^^^^^very well, if you insist."
+    },
+    "Context": "Flow/euthyphro_s1_p7/04_arbiter: \"Hmmmm... ^^^^^very well, if you ins...\""
+  },
+  "DFr_E50DFFA2.Text": {
+    "": {
+      "Text": "SILENCE!"
+    },
+    "Context": "Flow/euthyphro_s1_p8/04_arbiter: \"SILENCE!\""
+  },
+  "DFr_FDDFD91A.Text": {
+    "": {
+      "Text": "One of you will come forward at a time— ^^^^^^and no more!"
+    },
+    "Context": "Flow/euthyphro_s1_p8/04_arbiter: \"One of you will come forward at a t...\""
+  },
+  "DFr_574843E7.Text": {
+    "": {
+      "Text": "Now, ^^^^^^which of you thinks they can help this accountant answer his question?"
+    },
+    "Context": "Flow/euthyphro_s1_p8/04_arbiter: \"Now, ^^^^^^which of you thinks they...\""
+  },
+  "DFr_590912DA.Text": {
+    "": {
+      "Text": "I believe I can."
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"I believe I can.\""
+  },
+  "DFr_2A7B4E45.Text": {
+    "": {
+      "Text": "Ah, ^^^of course. ^^^^^Euthyphro of Athens. ^^^^^^^^^^How do you fare?"
+    },
+    "Context": "Flow/euthyphro_s1_p8/04_arbiter: \"Ah, ^^^of course. ^^^^^Euthyphro of...\""
+  },
+  "DFr_334E2AC8.Text": {
+    "": {
+      "Text": "Quite well, noble Arbiter."
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"Quite well, noble Arbiter.\""
+  },
+  "DFr_E2762059.Text": {
+    "": {
+      "Text": "^^^^^Uh... ^^^^^^^who’s this guy?"
+    },
+    "Context": "Flow/euthyphro_s1_p8/01_socrates: \"^^^^^Uh... ^^^^^^^who’s this guy?\""
+  },
+  "DFr_85A83753.Text": {
+    "": {
+      "Text": "Euthyphro was a prominent religious scholar and priest back in ancient Greece. ^^^^^He famously debated your namesake many millennia ago."
+    },
+    "Context": "Flow/euthyphro_s1_p8/04_arbiter: \"Euthyphro was a prominent religious...\""
+  },
+  "DFr_A99F9526.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^My pious ways were known and respected throughout the land."
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"Indeed. ^^^^^^My pious ways were kn...\""
+  },
+  "DFr_B5313AAF.Text": {
+    "": {
+      "Text": "As a sophist, ^^^^it ^was my job to educate those who were ignorant, ^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"As a sophist, ^^^^it ^was my job to...\""
+  },
+  "DFr_61EA77DA.Text": {
+    "": {
+      "Text": "such as yourself."
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"such as yourself.\""
+  },
+  "DFr_537F9E23.Text": {
+    "": {
+      "Text": "Ah, ^^^^^I see. ^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p8/01_socrates: \"Ah, ^^^^^I see. ^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_D1C4CA76.Text": {
+    "": {
+      "Text": "Hey... wait"
+    },
+    "Context": "Flow/euthyphro_s1_p8/01_socrates: \"Hey... wait\""
+  },
+  "DFr_435045E6.Text": {
+    "": {
+      "Text": "a minute—! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_s1_p8/01_socrates: \"a minute—! ^^^^^^^^^^^^^^^^^^^^^^^^...\""
+  },
+  "DFr_2B1F8D69.Text": {
+    "": {
+      "Text": "Listen, ^^^^my child, ^^^^^^and I will share my insight with you."
+    },
+    "Context": "Flow/euthyphro_s1_p8/05_euthypro: \"Listen, ^^^^my child, ^^^^^^and I w...\""
+  },
+  "DFr_9E75DE0B.Text": {
+    "": {
+      "Text": "My religious studies have given me insight into the nature of right and wrong."
+    },
+    "Context": "Flow/euthyphro_p1_presentation/05_euthypro: \"My religious studies have given me...\""
+  },
+  "DFr_FA6CE314.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_presentation/11_nobody: \"...\""
+  },
+  "DFr_C11F0D2E.Text": {
+    "": {
+      "Text": "Human beings are fallible and vain. ^^^^They make mistakes."
+    },
+    "Context": "Flow/euthyphro_p1_presentation/05_euthypro: \"Human beings are fallible and vain....\""
+  },
+  "DFr_40E19268.Text": {
+    "": {
+      "Text": "A god, ^^^however, ^^^is a superior being."
+    },
+    "Context": "Flow/euthyphro_p1_presentation/05_euthypro: \"A god, ^^^however, ^^^is a superior...\""
+  },
+  "DFr_A4BA1DDE.Text": {
+    "": {
+      "Text": "Every one possesses wisdom far beyond our own."
+    },
+    "Context": "Flow/euthyphro_p1_presentation/05_euthypro: \"Every one possesses wisdom far beyo...\""
+  },
+  "DFr_1F01A8D6.Text": {
+    "": {
+      "Text": "Thus, ^^^whatever a god commands must be good."
+    },
+    "Context": "Flow/euthyphro_p1_presentation/05_euthypro: \"Thus, ^^^whatever a god commands mu...\""
+  },
+  "DFr_F528F76A.Text": {
+    "": {
+      "Text": "And there you have it: ^^^^The source of morality."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/05_euthypro: \"And there you have it: ^^^^The sour...\""
+  },
+  "DFr_64A925F9.Text": {
+    "": {
+      "Text": "“Mankind is Flawed” added to the Idea Slate."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/12_notification: \"“Mankind is Flawed” added to the Id...\""
+  },
+  "DFr_74C5242F.Text": {
+    "": {
+      "Text": "“Morality Comes from the Gods” added to the Idea Slate."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/12_notification: \"“Morality Comes from the Gods” adde...\""
+  },
+  "DFr_2A40249A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"...\""
+  },
+  "DFr_66DB131A.Text": {
+    "": {
+      "Text": "Is there a problem, ^^^^child?"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/05_euthypro: \"Is there a problem, ^^^^child?\""
+  },
+  "DFr_AF6C7FDC.Text": {
+    "": {
+      "Text": "Well, ^^^^I’m not exactly religious..."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"Well, ^^^^I’m not exactly religious...\""
+  },
+  "DFr_5A9EB0E9.Text": {
+    "": {
+      "Text": "I see.^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/05_euthypro: \"I see.^^^^^^^^^^\""
+  },
+  "DFr_303F7BDA.Text": {
+    "": {
+      "Text": "Poor, ^^^^^unfortunate soul, ^^^^^^having strayed so far from the light."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/05_euthypro: \"Poor, ^^^^^unfortunate soul, ^^^^^^...\""
+  },
+  "DFr_890A4843.Text": {
+    "": {
+      "Text": "If you allow your mind to remain clouded, ^^^^you will never win your way out of here."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/05_euthypro: \"If you allow your mind to remain cl...\""
+  },
+  "DFr_CE523C2D.Text": {
+    "": {
+      "Text": "...Clouded, ^^^^huh?"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/02_ari: \"...Clouded, ^^^^huh?\""
+  },
+  "DFr_C61F19AD.Text": {
+    "": {
+      "Text": "Ari?"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"Ari?\""
+  },
+  "DFr_18A8536A.Text": {
+    "": {
+      "Text": "Listen, Dad. ^^^Euthyphro’s argument benefits from its simple nature... ^^^^^but I can’t help but feel he’s making it seem more simple than it actually is."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/02_ari: \"Listen, Dad. ^^^Euthyphro’s argumen...\""
+  },
+  "DFr_9B5F891E.Text": {
+    "": {
+      "Text": "Okay. ^^^^^So what can I do?"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"Okay. ^^^^^So what can I do?\""
+  },
+  "DFr_606BCD21.Text": {
+    "": {
+      "Text": "Sometimes, ^^^by examining an argument closely, ^^^^^^you can find assumptions that were previously unstated..."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/02_ari: \"Sometimes, ^^^by examining an argum...\""
+  },
+  "DFr_C6B05244.Text": {
+    "": {
+      "Text": "I bet you could find something here like that. ^^^^^^^More information is always useful and can help you get to the bigger issues."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/02_ari: \"I bet you could find something here...\""
+  },
+  "DFr_4910DD1D.Text": {
+    "": {
+      "Text": "Well, ^^^^Socrates? ^^^^^Is this the answer you seek?"
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/04_arbiter: \"Well, ^^^^Socrates? ^^^^^Is this th...\""
+  },
+  "DFr_3AE5E8F0.Text": {
+    "": {
+      "Text": "I don’t think I’m ready to bet my life on the gods just yet, ^^^^Arbiter."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"I don’t think I’m ready to bet my l...\""
+  },
+  "DFr_04AC4481.Text": {
+    "": {
+      "Text": "Euthyphro, ^^^^^I think I need to ask you a few questions."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/01_socrates: \"Euthyphro, ^^^^^I think I need to a...\""
+  },
+  "DFr_517763E4.Text": {
+    "": {
+      "Text": "Alright, ^^Dad. ^^^^Good luck."
+    },
+    "Context": "Flow/euthyphro_p1_presentation_1/02_ari: \"Alright, ^^Dad. ^^^^Good luck.\""
+  },
+  "DFr_99F3DD00.Text": {
+    "": {
+      "Text": "My religious studies have given me insight into the nature of right and wrong."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"My religious studies have given me...\""
+  },
+  "DFr_FE69DB77.Text": {
+    "": {
+      "Text": "Human beings are fallible and vain. ^^^^They make mistakes."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Human beings are fallible and vain....\""
+  },
+  "DFr_43D6E02A.Text": {
+    "": {
+      "Text": "A god, ^^^however, ^^^is a superior being."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"A god, ^^^however, ^^^is a superior...\""
+  },
+  "DFr_1DA3643D.Text": {
+    "": {
+      "Text": "Every one possesses wisdom far beyond our own."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Every one possesses wisdom far beyo...\""
+  },
+  "DFr_C971998C.Text": {
+    "": {
+      "Text": "Thus, ^^^whatever a god commands must be good."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Thus, ^^^whatever a god commands mu...\""
+  },
+  "DFr_7FE7A227.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_36D52252.Text": {
+    "": {
+      "Text": "What exactly are you confused about, Socrates?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"What exactly are you confused about...\""
+  },
+  "DFr_D9A4FC08.Text": {
+    "": {
+      "Text": "I understand your mind is clouded, ^^^^child, ^^^^but I believe my statement is clear."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"I understand your mind is clouded,...\""
+  },
+  "DFr_39C57A3B.Text": {
+    "": {
+      "Text": "My studies of religous texts have given me insight beyond your own."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"My studies of religous texts have g...\""
+  },
+  "DFr_6D3FD3F6.Text": {
+    "": {
+      "Text": "(Ouch.)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(Ouch.)\""
+  },
+  "DFr_ED3CE612.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_E6318826.Text": {
+    "": {
+      "Text": "Of course, ^^^^^my child."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Of course, ^^^^^my child.\""
+  },
+  "DFr_99641A12.Text": {
+    "": {
+      "Text": "A large part of religion is providing moral guidance."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"A large part of religion is providi...\""
+  },
+  "DFr_5E949155.Text": {
+    "": {
+      "Text": "Thus, ^^^^as a priest, ^^^^I have been often called to give moral advice."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Thus, ^^^^as a priest, ^^^^I have b...\""
+  },
+  "DFr_0A618233.Text": {
+    "": {
+      "Text": "Hence, ^^^^my insight."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Hence, ^^^^my insight.\""
+  },
+  "DFr_3D63CFE2.Text": {
+    "": {
+      "Text": "How is this related to your argument?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"How is this related to your argumen...\""
+  },
+  "DFr_851F2130.Text": {
+    "": {
+      "Text": "Let’s say I was not a priest. ^^^^^^^Let’s say I was an accountant, like yourself."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Let’s say I was not a priest. ^^^^^...\""
+  },
+  "DFr_09D4122B.Text": {
+    "": {
+      "Text": "I would have little foundation upon which to discuss morality."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"I would have little foundation upon...\""
+  },
+  "DFr_BDDCF8D4.Text": {
+    "": {
+      "Text": "Credibility is essential, ^^^^^child. ^^^^^^^You should learn this."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Credibility is essential, ^^^^^chil...\""
+  },
+  "DFr_1D85E827.Text": {
+    "": {
+      "Text": "HEY! ^^^^^^^I’m perfectly credible! ^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"HEY! ^^^^^^^I’m perfectly credible!...\""
+  },
+  "DFr_28648804.Text": {
+    "": {
+      "Text": "In fact I’m Incredible!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"In fact I’m Incredible!\""
+  },
+  "DFr_6C0CDC0D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_61C2926A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_21069EE1.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_31974333.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_615F5A93.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"...\""
+  },
+  "DFr_8D2DE13C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_0603978A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_3B9156DF.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_7DF4C78E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_679D3B26.Text": {
+    "": {
+      "Text": "You sound pretty confident in yourself..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"You sound pretty confident in yours...\""
+  },
+  "DFr_BEE88869.Text": {
+    "": {
+      "Text": "But as you yourself have said, ^^^Mankind is Flawed. ^^^^Why couldn’t you have made a mistake in your own judgments?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"But as you yourself have said, ^^^M...\""
+  },
+  "DFr_F89E80ED.Text": {
+    "": {
+      "Text": "Hrmph."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Hrmph.\""
+  },
+  "DFr_3572E27F.Text": {
+    "": {
+      "Text": "Yes, ^^^my child. ^^^^^^^^Mankind is, indeed, flawed. ^^^^^^^^^I am humble enough to admit I am included in that number."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Yes, ^^^my child. ^^^^^^^^Mankind i...\""
+  },
+  "DFr_88B86BC2.Text": {
+    "": {
+      "Text": "But we are not all equal in our flaws. ^^^^^^^And I can assure you, ^^^yours far outweigh mine."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"But we are not all equal in our fla...\""
+  },
+  "DFr_C2C7BE29.Text": {
+    "": {
+      "Text": "Socrates, ^^^even if Euthyphro’s flaws are... ^^^^^visible... ^^^^^a discussion requires you to at least try to give each other the benefit of the doubt."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"Socrates, ^^^even if Euthyphro’s fl...\""
+  },
+  "DFr_1035248C.Text": {
+    "": {
+      "Text": "Your goal is to find the answer, ^^^^^not to tear him down, ^^^^^after all."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"Your goal is to find the answer, ^^...\""
+  },
+  "DFr_1284769D.Text": {
+    "": {
+      "Text": "You might as well have told him his face was ugly for all the good it would have done in furthering the discussion!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"You might as well have told him his...\""
+  },
+  "DFr_B200366F.Text": {
+    "": {
+      "Text": "...yeah. ^^^^^^^^Uh, ^^^^^why would anyone do that."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...yeah. ^^^^^^^^Uh, ^^^^^why would...\""
+  },
+  "DFr_617F9125.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_B78B99FA.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_02FD1C97.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_EF8F59B4.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_12CC8E43.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_B6E0CE70.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_7CF747F7.Text": {
+    "": {
+      "Text": "Human beings are prone to error."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Human beings are prone to error.\""
+  },
+  "DFr_A10588BE.Text": {
+    "": {
+      "Text": "They often make incorrect judgments as to what is right and wrong."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"They often make incorrect judgments...\""
+  },
+  "DFr_22800EB8.Text": {
+    "": {
+      "Text": "Is that clear now, ^^^^my child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is that clear now, ^^^^my child?\""
+  },
+  "DFr_32F07334.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_BB16AF20.Text": {
+    "": {
+      "Text": "Do you believe men to be perfect?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Do you believe men to be perfect?\""
+  },
+  "DFr_3397E2E1.Text": {
+    "": {
+      "Text": "Ummmm... ^^^^^^maybe?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Ummmm... ^^^^^^maybe?\""
+  },
+  "DFr_A97BC1E6.Text": {
+    "": {
+      "Text": "Interesting."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Interesting.\""
+  },
+  "DFr_D9B67F36.Text": {
+    "": {
+      "Text": "Well, ^^^^looking at you, child, ^^^^^^^^^^I can assure you they are not."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Well, ^^^^looking at you, child, ^^...\""
+  },
+  "DFr_B2D31E8C.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_A093A4FE.Text": {
+    "": {
+      "Text": "The fact human beings are vain shows they are not as reliable as the gods."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"The fact human beings are vain show...\""
+  },
+  "DFr_CA19816C.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_B3D17590.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_07D4AF8C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_704C91FD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"...\""
+  },
+  "DFr_473C5651.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_3A5E05E6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_B2DF178D.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_ED356879.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_76DB0870.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_C3CFDF7D.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_62DD2F48.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_6F6E8281.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7F4820F9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_7822DCE4.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_73F0F270.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_91811D81.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_0F861B77.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_3EDB0D80.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_A93E3352.Text": {
+    "": {
+      "Text": "A god has abilities far beyond our comprehension."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"A god has abilities far beyond our...\""
+  },
+  "DFr_A9349279.Text": {
+    "": {
+      "Text": "These abilities render them superior to us mere mortals."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"These abilities render them superio...\""
+  },
+  "DFr_DA666401.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_09B377F9.Text": {
+    "": {
+      "Text": "My child, ^^^^can you throw lightning or create storms?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"My child, ^^^^can you throw lightni...\""
+  },
+  "DFr_C92121C0.Text": {
+    "": {
+      "Text": "Did you create the world in seven days? ^^^^^^^Did you turn your daughter into a tree for her own protection?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Did you create the world in seven d...\""
+  },
+  "DFr_CA346460.Text": {
+    "": {
+      "Text": "Well, ^^^^^um, ^^^^^no..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well, ^^^^^um, ^^^^^no...\""
+  },
+  "DFr_66CCB4E6.Text": {
+    "": {
+      "Text": "Well, ^^^my child, ^^^each of these things was done by a god. ^^^^Clearly, they are superior."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Well, ^^^my child, ^^^each of these...\""
+  },
+  "DFr_9EB46979.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_D91E47B3.Text": {
+    "": {
+      "Text": "Accepting a god’s superiority is a crucial step toward enlightenment."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Accepting a god’s superiority is a...\""
+  },
+  "DFr_44EFA2DF.Text": {
+    "": {
+      "Text": "Here, ^^^I begin to set you on that enlightened path."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Here, ^^^I begin to set you on that...\""
+  },
+  "DFr_3D4D68BA.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_E248F27A.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_59835C09.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_351DCFB1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"...\""
+  },
+  "DFr_37F75FBE.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_4CB90D68.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_3B25E03E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_442F329E.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A3E35B79.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_92862F7F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_9510BDF3.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_13E8D7E6.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_FF0480A9.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_E0658207.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_EF4A0FEE.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_FC9465C3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_F6676F77.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_4AC0EA30.Text": {
+    "": {
+      "Text": "...“Every one?”"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...“Every one?”\""
+  },
+  "DFr_F8FEBB51.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Excuse me?\""
+  },
+  "DFr_77DD13FC.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_D981D974.Text": {
+    "": {
+      "Text": "Being immortal, ^^^^^the gods have had infinite years of learning and experience."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Being immortal, ^^^^^the gods have...\""
+  },
+  "DFr_4F0A9A36.Text": {
+    "": {
+      "Text": "Their immortality gives them perspective we cannot hope to achieve."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Their immortality gives them perspe...\""
+  },
+  "DFr_9C4B0E1F.Text": {
+    "": {
+      "Text": "Wait... ^^^^^^but isn’t everyone here immortal in a sense?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Wait... ^^^^^^but isn’t everyone he...\""
+  },
+  "DFr_FDE187BB.Text": {
+    "": {
+      "Text": "No, ^^^^we are all ^^^DEAD, ^^^^^child. ^^^^^^^^There is a difference."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"No, ^^^^we are all ^^^DEAD, ^^^^^ch...\""
+  },
+  "DFr_FAD88335.Text": {
+    "": {
+      "Text": "Wisdom is derived from experience with the world, ^^^^^^^and our experiences in that regard have ended."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Wisdom is derived from experience w...\""
+  },
+  "DFr_E8C0BFC6.Text": {
+    "": {
+      "Text": "(Speak for yourself. ^^^^I’m not done yet!)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(Speak for yourself. ^^^^I’m not do...\""
+  },
+  "DFr_810B6029.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_F4A0403B.Text": {
+    "": {
+      "Text": "The gods’ superior wisdom is what gives them credibility as sources of morality."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"The gods’ superior wisdom is what g...\""
+  },
+  "DFr_B19A4839.Text": {
+    "": {
+      "Text": "But... ^^^“wise” does not necessarily mean “good,” right?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"But... ^^^“wise” does not necessari...\""
+  },
+  "DFr_0F5DAEE4.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_0E88E517.Text": {
+    "": {
+      "Text": "A god’s commands define what is good, ^^^child."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"A god’s commands define what is goo...\""
+  },
+  "DFr_EEC71546.Text": {
+    "": {
+      "Text": "By definition under my philosophy, ^^^the way they apply their wisdom cannot be false."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"By definition under my philosophy,...\""
+  },
+  "DFr_E731C281.Text": {
+    "": {
+      "Text": "Your attempt to say so is based on your own perceptions of what is good... ^^^^heretical notions developed by someone far less wise than a god."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Your attempt to say so is based on...\""
+  },
+  "DFr_AB7B033D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_1A063EF4.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_B9D2B791.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_403AA2A1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_2914F429.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"...\""
+  },
+  "DFr_4404910C.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_0353F941.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_838D8D1D.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_274D17B8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_F7566B53.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_BD11C9F9.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C9E405B1.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_2E6BC923.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_62A3DA65.Text": {
+    "": {
+      "Text": "Well... ^^^mankind is flawed!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^mankind is flawed!\""
+  },
+  "DFr_9E97AC20.Text": {
+    "": {
+      "Text": "How is that— ^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"How is that— ^^^^^^^\""
+  },
+  "DFr_AD70B7D2.Text": {
+    "": {
+      "Text": "Sorry! ^^^^^^^^^^^^I mean the gods! ^^^^^^^^^^^^^The gods are flawed!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Sorry! ^^^^^^^^^^^^I mean the gods!...\""
+  },
+  "DFr_94EFBE2D.Text": {
+    "": {
+      "Text": "(I’m doing the best I can with this idea slate... ^^^thing...)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(I’m doing the best I can with this...\""
+  },
+  "DFr_B93E2701.Text": {
+    "": {
+      "Text": "Child, ^^^I will admit in many mythologies the gods’ behavior may occassionally seem rash or incomprehensible."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Child, ^^^I will admit in many myth...\""
+  },
+  "DFr_8142A579.Text": {
+    "": {
+      "Text": "But that is only because, ^^^as I have illustrated, ^^^they have wisdom far beyond our own."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"But that is only because, ^^^as I h...\""
+  },
+  "DFr_E592C49A.Text": {
+    "": {
+      "Text": "We are not capable of thinking on their level."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"We are not capable of thinking on t...\""
+  },
+  "DFr_98F4C6C4.Text": {
+    "": {
+      "Text": "Dad, ^^^I know what you are getting at, ^^^but this is a fundamental assumption in Euthyphro’s thinking."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"Dad, ^^^I know what you are getting...\""
+  },
+  "DFr_BF440CA2.Text": {
+    "": {
+      "Text": "It’s going to be difficult to attack from this angle."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"It’s going to be difficult to attac...\""
+  },
+  "DFr_CB5B56BB.Text": {
+    "": {
+      "Text": "What do you mean?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"What do you mean?\""
+  },
+  "DFr_B54D8D2C.Text": {
+    "": {
+      "Text": "Simply that the gods are the source of morality.."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Simply that the gods are the source...\""
+  },
+  "DFr_2B7E2282.Text": {
+    "": {
+      "Text": "There is no better place from which to receive guidance."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"There is no better place from which...\""
+  },
+  "DFr_47A34BB6.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_35FD4DBF.Text": {
+    "": {
+      "Text": "My child, ^^^who is more fit to judge morality: ^^^^a wise man, ^^^or a fool?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"My child, ^^^who is more fit to jud...\""
+  },
+  "DFr_F0A27C9D.Text": {
+    "": {
+      "Text": "The wise man, ^^^of course."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"The wise man, ^^^of course.\""
+  },
+  "DFr_58847D36.Text": {
+    "": {
+      "Text": "And as all gods have infinite wisdom, ^^^we should defer to their judgment."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"And as all gods have infinite wisdo...\""
+  },
+  "DFr_2C03A3B1.Text": {
+    "": {
+      "Text": "Thus, ^^^gods are the ideal source of morality."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Thus, ^^^gods are the ideal source...\""
+  },
+  "DFr_EC37F141.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_34430487.Text": {
+    "": {
+      "Text": "If there can be no sounder source of morality than the gods..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"If there can be no sounder source o...\""
+  },
+  "DFr_3832BF3A.Text": {
+    "": {
+      "Text": "Then there is little reason to doubt that gods are the source of morality!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Then there is little reason to doub...\""
+  },
+  "DFr_EE90638A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_AF6161BC.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_D7643830.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"...\""
+  },
+  "DFr_74FBA5DD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"...\""
+  },
+  "DFr_DDBA6004.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_23514CC1.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_DE5333B6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_F0BEF369.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_7D95CAEA.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_EFBB5684.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"...\""
+  },
+  "DFr_7C3FCEC9.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_9E7B5B78.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_65047032.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_07D831C9.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_FFBEB956.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_BABB7AB3.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_D0FE239E.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_1ADB3E85.Text": {
+    "": {
+      "Text": "I haven’t found a problem yet... ^^^^maybe this IS the answer..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"I haven’t found a problem yet... ^^...\""
+  },
+  "DFr_F7B08868.Text": {
+    "": {
+      "Text": "But... ^^^^I still feel so unsure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"But... ^^^^I still feel so unsure.\""
+  },
+  "DFr_5116BB02.Text": {
+    "": {
+      "Text": "Dad, ^^^remember what I’ve told you. ^^^^^^^Look for anything that might be hiding an assumption!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/02_ari: \"Dad, ^^^remember what I’ve told you...\""
+  },
+  "DFr_0B2AFF03.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_C18D1F3E.Text": {
+    "": {
+      "Text": "(Well, back to the top... ^^^^^^I need to go over this again.)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(Well, back to the top... ^^^^^^I n...\""
+  },
+  "DFr_97325D0D.Text": {
+    "": {
+      "Text": "(All right, I now have a better understanding of his position.)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(All right, I now have a better und...\""
+  },
+  "DFr_F39F891A.Text": {
+    "": {
+      "Text": "(There has to be a way to use that to my advantage...)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(There has to be a way to use that...\""
+  },
+  "DFr_39AD23F2.Text": {
+    "": {
+      "Text": "(Come on, ^^Socrates, ^^^think! ^^^^There’s too much at stake here!)"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"(Come on, ^^Socrates, ^^^think! ^^^...\""
+  },
+  "DFr_BCAEB74F.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_000D8F37.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_7E6D8987.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_CBAF7D79.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_63E6029E.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_EEC53B72.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_A2DC8DE0.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_D64FEE1E.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_9BAE52E1.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_386B8513.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_885F134A.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_92844604.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_447F6C73.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_B945B257.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_1A738C62.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_C90571F4.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_71F83337.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_7F373D9F.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_B36BF052.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p1_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_756AB6B9.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_920D515C.Text": {
+    "": {
+      "Text": "What do you mean?"
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"What do you mean?\""
+  },
+  "DFr_A2F38E43.Text": {
+    "": {
+      "Text": "Are we doing the “every one” thing again, child, because I swear—"
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Are we doing the “every one” thing...\""
+  },
+  "DFr_F3C5FC83.Text": {
+    "": {
+      "Text": "No, ^^no, ^^I mean, ^^^what do you actually mean? ^^^^The entire sentence, ^^^not just the first words."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"No, ^^no, ^^I mean, ^^^what do you...\""
+  },
+  "DFr_1E4DE2CE.Text": {
+    "": {
+      "Text": "Ah, ^^well then, ^^^I believe this is relatively straightforward."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"Ah, ^^well then, ^^^I believe this...\""
+  },
+  "DFr_803C71D8.Text": {
+    "": {
+      "Text": "The gods possess wisdom we cannot possibly hope to approach."
+    },
+    "Context": "Flow/euthyphro_p1_argument/05_euthypro: \"The gods possess wisdom we cannot p...\""
+  },
+  "DFr_DD7804EB.Text": {
+    "": {
+      "Text": "...Okay."
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...Okay.\""
+  },
+  "DFr_86982A43.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_argument/01_socrates: \"...\""
+  },
+  "DFr_257A5641.Text": {
+    "": {
+      "Text": "...I have had enough."
+    },
+    "Context": "Flow/euthyphro_gameover/05_euthypro: \"...I have had enough.\""
+  },
+  "DFr_759BAB9D.Text": {
+    "": {
+      "Text": "?!"
+    },
+    "Context": "Flow/euthyphro_gameover/01_socrates: \"?!\""
+  },
+  "DFr_9A1E1012.Text": {
+    "": {
+      "Text": "Impiety is one thing, ^^^but your blasphemy is... ^^^^^^directionless."
+    },
+    "Context": "Flow/euthyphro_gameover/05_euthypro: \"Impiety is one thing, ^^^but your b...\""
+  },
+  "DFr_96985481.Text": {
+    "": {
+      "Text": "I cannot teach you anything if you refuse to make room in that thick skull of yours."
+    },
+    "Context": "Flow/euthyphro_gameover/05_euthypro: \"I cannot teach you anything if you...\""
+  },
+  "DFr_D90EE87C.Text": {
+    "": {
+      "Text": "Wait—^^^^^^^ hold on—^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_gameover/01_socrates: \"Wait—^^^^^^^ hold on—^^^^^^^^\""
+  },
+  "DFr_6251218F.Text": {
+    "": {
+      "Text": "No! ^^^^^^^My sermon is over!"
+    },
+    "Context": "Flow/euthyphro_gameover/05_euthypro: \"No! ^^^^^^^My sermon is over!\""
+  },
+  "DFr_69C7000A.Text": {
+    "": {
+      "Text": "Goodbye, ^^^^child. ^^^^^May the gods have mercy on your soul."
+    },
+    "Context": "Flow/euthyphro_gameover/05_euthypro: \"Goodbye, ^^^^child. ^^^^^May the go...\""
+  },
+  "DFr_FDB5E621.Text": {
+    "": {
+      "Text": "(...And that was that. ^^^^^No one else was interested in debating me after that performance.)"
+    },
+    "Context": "Flow/euthyphro_gameover/01_socrates: \"(...And that was that. ^^^^^No one...\""
+  },
+  "DFr_0E17E688.Text": {
+    "": {
+      "Text": "(Who was I kidding? ^^^^I’m... ^^^^way over my head. ^^^^^^^I’m no philosopher.)"
+    },
+    "Context": "Flow/euthyphro_gameover/01_socrates: \"(Who was I kidding? ^^^^I’m... ^^^^...\""
+  },
+  "DFr_EDEC7B57.Text": {
+    "": {
+      "Text": "(I’m sorry, Ari. ^^^^I know you believed in me. ^^^^^^^But you are going to have to manage on your own, ^^^^now.)"
+    },
+    "Context": "Flow/euthyphro_gameover/01_socrates: \"(I’m sorry, Ari. ^^^^I know you bel...\""
+  },
+  "DFr_5B55DDC4.Text": {
+    "": {
+      "Text": "You said “EVERY one.”"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"You said “EVERY one.”\""
+  },
+  "DFr_4A37EF7B.Text": {
+    "": {
+      "Text": "...^^^^^^Your point, ^^^child?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/05_euthypro: \"...^^^^^^Your point, ^^^child?\""
+  },
+  "DFr_06D0256E.Text": {
+    "": {
+      "Text": "Well, ^^^I’ve been assuming you were referring to the commands of a specific deity, ^^^but..."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Well, ^^^I’ve been assuming you wer...\""
+  },
+  "DFr_E9A655AB.Text": {
+    "": {
+      "Text": "Well... ^^^which god are we talking about?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Well... ^^^which god are we talking...\""
+  },
+  "DFr_7E813990.Text": {
+    "": {
+      "Text": "Oh, gods, ^^^^^^give me the strength to deal with this ingrate."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/05_euthypro: \"Oh, gods, ^^^^^^give me the strengt...\""
+  },
+  "DFr_370446A4.Text": {
+    "": {
+      "Text": "That doesn’t answer my question!"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"That doesn’t answer my question!\""
+  },
+  "DFr_118B6A40.Text": {
+    "": {
+      "Text": "Right now, ^^^^^^^is there a particular god giving you strength?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Right now, ^^^^^^^is there a partic...\""
+  },
+  "DFr_8D0543D7.Text": {
+    "": {
+      "Text": "Does it matter? ^^^^^^^There are many gods. ^^^^^^Greek, ^^^^Hebrew, ^^^^Egyptian, ^^^^Norse..."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/05_euthypro: \"Does it matter? ^^^^^^^There are ma...\""
+  },
+  "DFr_AC1D385D.Text": {
+    "": {
+      "Text": "There are differences between them, ^^^^^^but any would fit the ideas I described here."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/05_euthypro: \"There are differences between them,...\""
+  },
+  "DFr_BD3FB058.Text": {
+    "": {
+      "Text": "“There are Different Gods” added to the Idea Slate."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/12_notification: \"“There are Different Gods” added to...\""
+  },
+  "DFr_2AA41619.Text": {
+    "": {
+      "Text": "I see..."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"I see...\""
+  },
+  "DFr_F451C852.Text": {
+    "": {
+      "Text": "Good work, ^^^Dad!"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"Good work, ^^^Dad!\""
+  },
+  "DFr_BED87575.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Huh?\""
+  },
+  "DFr_0B92A306.Text": {
+    "": {
+      "Text": "You’ve uncovered an unstated part of Euthyphro’s views by closely examining his argument."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"You’ve uncovered an unstated part o...\""
+  },
+  "DFr_96219153.Text": {
+    "": {
+      "Text": "Finding things like this can really help you out. ^^^^If you don’t have enough tools, ^^^the person you are debating may just hand you some!"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"Finding things like this can really...\""
+  },
+  "DFr_BFE00C80.Text": {
+    "": {
+      "Text": "Now get back in there and find the larger problem!"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"Now get back in there and find the...\""
+  },
+  "DFr_47F2F6F0.Text": {
+    "": {
+      "Text": "I don’t know, ^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"I don’t know, ^^^^^^\""
+  },
+  "DFr_914CC01B.Text": {
+    "": {
+      "Text": "Wait, ^^^hold on, ^^^are you telling me this idea’s going to be useful?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Wait, ^^^hold on, ^^^are you tellin...\""
+  },
+  "DFr_6D61B375.Text": {
+    "": {
+      "Text": "maaaaaaybeeeee?"
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"maaaaaaybeeeee?\""
+  },
+  "DFr_2644361B.Text": {
+    "": {
+      "Text": "You’re supposed to figure this out yourself, ^^^^^^remember? ^^^^^^^...I think I’m already pushing the “helping you” threshold, ^^^^dead guy."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/02_ari: \"You’re supposed to figure this out...\""
+  },
+  "DFr_095E6454.Text": {
+    "": {
+      "Text": "Right..."
+    },
+    "Context": "Flow/euthyphro_p1_end_1/01_socrates: \"Right...\""
+  },
+  "DFr_0DCE6F76.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"...\""
+  },
+  "DFr_62364388.Text": {
+    "": {
+      "Text": "Euthyphro!^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"Euthyphro!^^^^^^^^^^\""
+  },
+  "DFr_CE786965.Text": {
+    "": {
+      "Text": "^^^^^^^^ Uh,^^^^^^^ if we could stop for a moment,^^^^^^ I’d like to clear up a few things."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"^^^^^^^^ Uh,^^^^^^^ if we could sto...\""
+  },
+  "DFr_8D6CDD32.Text": {
+    "": {
+      "Text": "You said different religions have different gods, ^^^^right?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"You said different religions have d...\""
+  },
+  "DFr_7CA4A473.Text": {
+    "": {
+      "Text": "Yes, child."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/05_euthypro: \"Yes, child.\""
+  },
+  "DFr_B52192D8.Text": {
+    "": {
+      "Text": "And sometimes these gods have different views?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"And sometimes these gods have diffe...\""
+  },
+  "DFr_4AC29D61.Text": {
+    "": {
+      "Text": "Indeed. ^^^^^^^Piety comes in many forms."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/05_euthypro: \"Indeed. ^^^^^^^Piety comes in many...\""
+  },
+  "DFr_504C8BA8.Text": {
+    "": {
+      "Text": "Hmmm. ^^^^...Ok."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"Hmmm. ^^^^...Ok.\""
+  },
+  "DFr_2D7EDED1.Text": {
+    "": {
+      "Text": "Dad, ^^^^is something up?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/02_ari: \"Dad, ^^^^is something up?\""
+  },
+  "DFr_7DA1D3D0.Text": {
+    "": {
+      "Text": "I... ^^^^^^^don’t know. ^^^^^^^^^I may have found a problem here?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"I... ^^^^^^^don’t know. ^^^^^^^^^I...\""
+  },
+  "DFr_AB37A3ED.Text": {
+    "": {
+      "Text": "Really? ^^^^^That’s great! ^^^^^^^^Go ahead and present it!"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/02_ari: \"Really? ^^^^^That’s great! ^^^^^^^^...\""
+  },
+  "DFr_E49A0AE3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"...\""
+  },
+  "DFr_F0671C1E.Text": {
+    "": {
+      "Text": "Dad?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/02_ari: \"Dad?\""
+  },
+  "DFr_5B2886CE.Text": {
+    "": {
+      "Text": "I... ^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"I... ^^^^^^^^\""
+  },
+  "DFr_41C2B9C3.Text": {
+    "": {
+      "Text": "sorry, this is just a little intimidating"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"sorry, this is just a little intimi...\""
+  },
+  "DFr_AE3A0158.Text": {
+    "": {
+      "Text": "What if everyone laughs at me?"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"What if everyone laughs at me?\""
+  },
+  "DFr_56DF6E98.Text": {
+    "": {
+      "Text": "Just present it, ^^^Dad. ^^^^^^No one’s going to laugh at you."
+    },
+    "Context": "Flow/euthyphro_p1_end_2/02_ari: \"Just present it, ^^^Dad. ^^^^^^No o...\""
+  },
+  "DFr_271CA631.Text": {
+    "": {
+      "Text": "This isn’t some deer repellent salesman, ^^^^this is the real deal. ^^^^^^^^^^^^^^^^^^^^Real things are at stake here. ^^^^^^^^ Like ME!"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"This isn’t some deer repellent sale...\""
+  },
+  "DFr_104C776A.Text": {
+    "": {
+      "Text": "DAD! ^^^^^^^^^^^^^^^^^^^^^^^Just present it!"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/02_ari: \"DAD! ^^^^^^^^^^^^^^^^^^^^^^^Just pr...\""
+  },
+  "DFr_7DA2BC77.Text": {
+    "": {
+      "Text": "Okay, ^^^^^okay!"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"Okay, ^^^^^okay!\""
+  },
+  "DFr_22CA8854.Text": {
+    "": {
+      "Text": "*ahem* ^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_2/01_socrates: \"*ahem* ^^^^^^^^^^^^^^\""
+  },
+  "DFr_C7E546AD.Text": {
+    "": {
+      "Text": "Euthyphro!^^^^^^^ There is a problem with your position!"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"Euthyphro!^^^^^^^ There is a proble...\""
+  },
+  "DFr_4F2C5E34.Text": {
+    "": {
+      "Text": "Is that so, ^^^^^child?"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/05_euthypro: \"Is that so, ^^^^^child?\""
+  },
+  "DFr_C4847CA0.Text": {
+    "": {
+      "Text": "It is so!"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"It is so!\""
+  },
+  "DFr_365202F1.Text": {
+    "": {
+      "Text": "Look, ^^^^you claim morality comes from the gods...^^^^^^ that we can trust whatever they command is right."
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"Look, ^^^^you claim morality comes...\""
+  },
+  "DFr_4CF9A4DE.Text": {
+    "": {
+      "Text": "But if the gods disagree, ^^^^^^that puts your idea in a weird place!"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"But if the gods disagree, ^^^^^^tha...\""
+  },
+  "DFr_DAE21B20.Text": {
+    "": {
+      "Text": "You yourself said we can’t judge their wills for ourselves..."
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"You yourself said we can’t judge th...\""
+  },
+  "DFr_6FF3F899.Text": {
+    "": {
+      "Text": "^^^^^^^ But when different gods think different things are good, ^^^^^what would ACTUALLY be good?"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"^^^^^^^ But when different gods thi...\""
+  },
+  "DFr_2B319EB2.Text": {
+    "": {
+      "Text": "That would make the gods impossible to use as a source of morality!"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"That would make the gods impossible...\""
+  },
+  "DFr_A2B52615.Text": {
+    "": {
+      "Text": "Right?"
+    },
+    "Context": "Flow/euthyphro_p1_end_3/01_socrates: \"Right?\""
+  },
+  "DFr_60DEA2E4.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"...\""
+  },
+  "DFr_6B9E7F34.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/04_arbiter: \"...\""
+  },
+  "DFr_AD2B843D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/02_ari: \"...\""
+  },
+  "DFr_A8C3FBDE.Text": {
+    "": {
+      "Text": "That was a pretty lackluster presentation, ^^^^Dad."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/02_ari: \"That was a pretty lackluster presen...\""
+  },
+  "DFr_D5DFC199.Text": {
+    "": {
+      "Text": "HEY!"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/01_socrates: \"HEY!\""
+  },
+  "DFr_E75E8D68.Text": {
+    "": {
+      "Text": "While this may be true, the validity of an argument is not rooted in “style points.”"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/04_arbiter: \"While this may be true, the validit...\""
+  },
+  "DFr_78F7FBF7.Text": {
+    "": {
+      "Text": "Despite lacking both flair and vocabulary, ^^^^Socrates has a valid point... ^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/04_arbiter: \"Despite lacking both flair and voca...\""
+  },
+  "DFr_D1E6B251.Text": {
+    "": {
+      "Text": "As I believe you already know, ^^^^^Euthyphro."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/04_arbiter: \"As I believe you already know, ^^^^...\""
+  },
+  "DFr_7906DA2D.Text": {
+    "": {
+      "Text": "Hrmph!"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"Hrmph!\""
+  },
+  "DFr_2FE591E9.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"^^^^^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_47F14F07.Text": {
+    "": {
+      "Text": "Yes, Yes. ^^^^^^As I recall, ^^^^the first Socrates made very similar points."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"Yes, Yes. ^^^^^^As I recall, ^^^^th...\""
+  },
+  "DFr_545739CC.Text": {
+    "": {
+      "Text": "And what, ^^^^^^you just decided to ignore them?"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/01_socrates: \"And what, ^^^^^^you just decided to...\""
+  },
+  "DFr_E81EABA4.Text": {
+    "": {
+      "Text": "(Arrogant son of a—) ^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/01_socrates: \"(Arrogant son of a—) ^^^^^^^\""
+  },
+  "DFr_641C1F21.Text": {
+    "": {
+      "Text": "Like you, ^^^^he lacked the faith required to see the truth."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"Like you, ^^^^he lacked the faith r...\""
+  },
+  "DFr_F27B66B1.Text": {
+    "": {
+      "Text": "Your blasphemy will not take you as far as you think."
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"Your blasphemy will not take you as...\""
+  },
+  "DFr_7077BF28.Text": {
+    "": {
+      "Text": "Poor child. ^^^^^^^^Let me show you where you have lost your way!"
+    },
+    "Context": "Flow/euthyphro_p1_end_4/05_euthypro: \"Poor child. ^^^^^^^^Let me show you...\""
+  },
+  "DFr_4AC7C3F7.Text": {
+    "": {
+      "Text": "It is true different deities have different desires, in my religion and between religions."
+    },
+    "Context": "Flow/euthyphro_p2_presentation/05_euthypro: \"It is true different deities have d...\""
+  },
+  "DFr_8515637C.Text": {
+    "": {
+      "Text": "I admit this may be a source of confusion."
+    },
+    "Context": "Flow/euthyphro_p2_presentation/05_euthypro: \"I admit this may be a source of con...\""
+  },
+  "DFr_92BB4892.Text": {
+    "": {
+      "Text": "However, ^^^there are many points on which these divine beings agree."
+    },
+    "Context": "Flow/euthyphro_p2_presentation/05_euthypro: \"However, ^^^there are many points o...\""
+  },
+  "DFr_79A0CCED.Text": {
+    "": {
+      "Text": "For example, ^^^most deities agree it is wrong to kill without cause."
+    },
+    "Context": "Flow/euthyphro_p2_presentation/05_euthypro: \"For example, ^^^most deities agree...\""
+  },
+  "DFr_4061478C.Text": {
+    "": {
+      "Text": "Clearly, what the gods agree upon is always good."
+    },
+    "Context": "Flow/euthyphro_p2_presentation/05_euthypro: \"Clearly, what the gods agree upon i...\""
+  },
+  "DFr_80D3D969.Text": {
+    "": {
+      "Text": "Is that better, ^^^^^^^child?"
+    },
+    "Context": "Flow/euthyphro_p2/05_euthypro: \"Is that better, ^^^^^^^child?\""
+  },
+  "DFr_04EC7312.Text": {
+    "": {
+      "Text": "Well said, Euthyphro."
+    },
+    "Context": "Flow/euthyphro_p2/04_arbiter: \"Well said, Euthyphro.\""
+  },
+  "DFr_E9AD07EC.Text": {
+    "": {
+      "Text": "Thank you, Arbiter."
+    },
+    "Context": "Flow/euthyphro_p2/05_euthypro: \"Thank you, Arbiter.\""
+  },
+  "DFr_D9619575.Text": {
+    "": {
+      "Text": "As you can see, my child, ^^^^^^the gods overcome all obstacles."
+    },
+    "Context": "Flow/euthyphro_p2/05_euthypro: \"As you can see, my child, ^^^^^^the...\""
+  },
+  "DFr_81AB0570.Text": {
+    "": {
+      "Text": "Hmmmm."
+    },
+    "Context": "Flow/euthyphro_p2/01_socrates: \"Hmmmm.\""
+  },
+  "DFr_0C875CE4.Text": {
+    "": {
+      "Text": "...What are you thinking, ^^^^^Dad?"
+    },
+    "Context": "Flow/euthyphro_p2/02_ari: \"...What are you thinking, ^^^^^Dad?\""
+  },
+  "DFr_AFA70518.Text": {
+    "": {
+      "Text": "Well, ^^^^^his argument’s certainly more nuanced now..."
+    },
+    "Context": "Flow/euthyphro_p2/01_socrates: \"Well, ^^^^^his argument’s certainly...\""
+  },
+  "DFr_CA4CAD2F.Text": {
+    "": {
+      "Text": "...but something tells me it still won’t stand up to examination."
+    },
+    "Context": "Flow/euthyphro_p2/01_socrates: \"...but something tells me it still...\""
+  },
+  "DFr_F305974B.Text": {
+    "": {
+      "Text": "Hmph."
+    },
+    "Context": "Flow/euthyphro_p2/05_euthypro: \"Hmph.\""
+  },
+  "DFr_DCFB2171.Text": {
+    "": {
+      "Text": "I’m sorry, ^^^^Euthyphro, ^^^^but I still have some questions for you."
+    },
+    "Context": "Flow/euthyphro_p2/01_socrates: \"I’m sorry, ^^^^Euthyphro, ^^^^but I...\""
+  },
+  "DFr_F8D04B84.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_4CC78843.Text": {
+    "": {
+      "Text": "How is this related to your argument?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your argumen...\""
+  },
+  "DFr_F81ED060.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_5652B049.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_DB054C30.Text": {
+    "": {
+      "Text": "It is true different deities have different desires, in my religion and between religions."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It is true different deities have d...\""
+  },
+  "DFr_334C39A4.Text": {
+    "": {
+      "Text": "However, ^^^there are many points on which these divine beings agree."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"However, ^^^there are many points o...\""
+  },
+  "DFr_04C9BB8A.Text": {
+    "": {
+      "Text": "For example, ^^^most deities agree it is wrong to kill without cause."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"For example, ^^^most deities agree...\""
+  },
+  "DFr_7CA383BF.Text": {
+    "": {
+      "Text": "Clearly, what the gods agree upon is always good."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Clearly, what the gods agree upon i...\""
+  },
+  "DFr_12C91ECF.Text": {
+    "": {
+      "Text": "It was your objection, ^^^^child."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It was your objection, ^^^^child.\""
+  },
+  "DFr_83E92AE7.Text": {
+    "": {
+      "Text": "Are you claiming to not understand your own statement?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Are you claiming to not understand...\""
+  },
+  "DFr_5B8040A9.Text": {
+    "": {
+      "Text": "Er, ^^^^no... ^^^^I’m good."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Er, ^^^^no... ^^^^I’m good.\""
+  },
+  "DFr_450C545A.Text": {
+    "": {
+      "Text": "Do I need to? ^^^^You yourself supported this point five minutes ago."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Do I need to? ^^^^You yourself supp...\""
+  },
+  "DFr_A668E569.Text": {
+    "": {
+      "Text": "Did you not believe it yourself?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Did you not believe it yourself?\""
+  },
+  "DFr_0CD6D507.Text": {
+    "": {
+      "Text": "No... ^^^^^^^no... ^^^^^^^^I definitely... ^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"No... ^^^^^^^no... ^^^^^^^^I defini...\""
+  },
+  "DFr_81FE4C93.Text": {
+    "": {
+      "Text": "Eeeeesh..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Eeeeesh...\""
+  },
+  "DFr_9A99AC3F.Text": {
+    "": {
+      "Text": "My new conclusion addresses your objection."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"My new conclusion addresses your ob...\""
+  },
+  "DFr_ED834E9D.Text": {
+    "": {
+      "Text": "Restating your objection seemed like the best place to begin."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Restating your objection seemed lik...\""
+  },
+  "DFr_9FD04D4E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_A8541AD1.Text": {
+    "": {
+      "Text": "Stop right there, ^^^Euthyphro."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Stop right there, ^^^Euthyphro.\""
+  },
+  "DFr_4C9514AA.Text": {
+    "": {
+      "Text": "If the gods desire different things, ^^^how can morality possibly come from them?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"If the gods desire different things...\""
+  },
+  "DFr_7723F2B3.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_BE0E00D3.Text": {
+    "": {
+      "Text": "My child, ^^^was this not the essence of your last objection?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"My child, ^^^was this not the essen...\""
+  },
+  "DFr_6522F5EC.Text": {
+    "": {
+      "Text": "If you had paid attention, ^^^you would see I have revised the subtleties of my position since then."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"If you had paid attention, ^^^you w...\""
+  },
+  "DFr_9F8E2B81.Text": {
+    "": {
+      "Text": "I no longer claim that morality comes from each god, ^^^but that morality comes from the collective will of the gods."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I no longer claim that morality com...\""
+  },
+  "DFr_D68F9548.Text": {
+    "": {
+      "Text": "For this reason, ^^^the different desires of the gods no longer conflicts with that premise."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"For this reason, ^^^the different d...\""
+  },
+  "DFr_0B415AB8.Text": {
+    "": {
+      "Text": "...At least, ^^^^not on the surface..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...At least, ^^^^not on the surface...\""
+  },
+  "DFr_16D77C07.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_1AFE9BC1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_230936F1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_8F2CE8E8.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_66E76D08.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_B316053E.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_ECFD8BD2.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_8A447480.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_49E1269E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_2C9BEF89.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_A96306FA.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_C243DBB8.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_60AFCDA3.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_C84455F0.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_606D5CA4.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_126337B6.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_F9ABD9B1.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_871A6873.Text": {
+    "": {
+      "Text": "How is this related to your argument?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your argumen...\""
+  },
+  "DFr_B9E1760D.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_3CBE7274.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_67479AD1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_0F170EA2.Text": {
+    "": {
+      "Text": "Right."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Right.\""
+  },
+  "DFr_84696661.Text": {
+    "": {
+      "Text": "Only that one less enlightened than myself might, ^^^^say, ^^^^not be able to work around it."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Only that one less enlightened than...\""
+  },
+  "DFr_D4B3AA27.Text": {
+    "": {
+      "Text": "It confused you, ^^^^did it not?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It confused you, ^^^^did it not?\""
+  },
+  "DFr_2E2DD2D7.Text": {
+    "": {
+      "Text": "There. ^^^^My statement is backed."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"There. ^^^^My statement is backed.\""
+  },
+  "DFr_020F9D9C.Text": {
+    "": {
+      "Text": "It was a comment recognizing the problem."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It was a comment recognizing the pr...\""
+  },
+  "DFr_F48ED769.Text": {
+    "": {
+      "Text": "Not all of us ignore the issues with our statements, ^^^^child."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Not all of us ignore the issues wit...\""
+  },
+  "DFr_27B223D8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_7EA1C371.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_18819D15.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_4A7B3CD4.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_1C1E1469.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_B55EF4B4.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_DC57B47D.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_40616F9D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_210DB7B3.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_8167A4C9.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_214039F4.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_67105FBA.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_DFD1930A.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_B1FA1BE8.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_373367E1.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_C7DF1342.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_159B0568.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_1DE55B2A.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A0861BCF.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_B1D73C5C.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_2B2B8121.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_ACA47FF2.Text": {
+    "": {
+      "Text": "(So... ^^^^much... ^^^^passive... ^^^^aggressive...)"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"(So... ^^^^much... ^^^^passive... ^...\""
+  },
+  "DFr_317ED791.Text": {
+    "": {
+      "Text": "(Oh, ^^^^please. ^^^^^Teach me your humble ways, ^^^^Father Perfect.)"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"(Oh, ^^^^please. ^^^^^Teach me your...\""
+  },
+  "DFr_BF6A23C4.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_A7344BEA.Text": {
+    "": {
+      "Text": "How is this related to your argument?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your argumen...\""
+  },
+  "DFr_9703DD64.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_9B95CB96.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_548081D3.Text": {
+    "": {
+      "Text": "Just because gods disagree on some things, ^^^^does not mean they disagree on all."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Just because gods disagree on some...\""
+  },
+  "DFr_4BDE45BA.Text": {
+    "": {
+      "Text": "Be patient, ^^^^my child. ^^^^I’ll get to it."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Be patient, ^^^^my child. ^^^^I’ll...\""
+  },
+  "DFr_F4B088C9.Text": {
+    "": {
+      "Text": "The fact the gods can agree is essential to debunking your ridiculous objection."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"The fact the gods can agree is esse...\""
+  },
+  "DFr_4E4E418B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_97C94AAB.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_DDCB414E.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_2C5CB09D.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_118BCD5D.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_BF266C59.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_FC9D0731.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_44F0ED0B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_A76C0614.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_68E361C9.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_A8249BED.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_356CF798.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_EBA4178C.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_2D899377.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_C39286A5.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_89C3A50E.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_04C610BA.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_5570F3E9.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_48C87001.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_A99AB4ED.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_825887F8.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_3E5DC9E8.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_CB140BF7.Text": {
+    "": {
+      "Text": "How is this related to your argument?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your argumen...\""
+  },
+  "DFr_CD944AE7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_1380ACA4.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_07042FCD.Text": {
+    "": {
+      "Text": "I think this is pretty clear, ^^^^child."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I think this is pretty clear, ^^^^c...\""
+  },
+  "DFr_96513308.Text": {
+    "": {
+      "Text": "Are you familiar with the Qu’ran?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Are you familiar with the Qu’ran?\""
+  },
+  "DFr_E019D09A.Text": {
+    "": {
+      "Text": "It is an example reaffirming my point."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It is an example reaffirming my poi...\""
+  },
+  "DFr_E96C508B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_202E085E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_E34CA301.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_5CDF209A.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_B827DDF5.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_BC591EE6.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_5A5F199A.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_E3DE6382.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_63C70A36.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_D051C28A.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_5C7F25DB.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_2DED9A6C.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_1F797046.Text": {
+    "": {
+      "Text": "Hold on, ^^^Euthyphro. ^^^^You yourself admitted there are many gods. ^^^^And sure, most gods agree upon this."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Hold on, ^^^Euthyphro. ^^^^You your...\""
+  },
+  "DFr_B4A119C1.Text": {
+    "": {
+      "Text": "But what about the ones who disagree? ^^^^^Or the gods who are plain evil? ^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"But what about the ones who disagre...\""
+  },
+  "DFr_29E9940A.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_F2FD5E0D.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_B6BAF218.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_FC7233A6.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_0546A70C.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_00E57DBA.Text": {
+    "": {
+      "Text": "Like Hades, ^^^for example?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Like Hades, ^^^for example?\""
+  },
+  "DFr_4F22DD14.Text": {
+    "": {
+      "Text": "But- ^^^what?! ^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"But- ^^^what?! ^^^^^^\""
+  },
+  "DFr_8DC4533E.Text": {
+    "": {
+      "Text": "My child, ^^^^^the keeper of the dead isn’t evil!!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"My child, ^^^^^the keeper of the de...\""
+  },
+  "DFr_0060E615.Text": {
+    "": {
+      "Text": "Really? ^^^He was in the movie... ^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Really? ^^^He was in the movie... ^...\""
+  },
+  "DFr_DE29BA80.Text": {
+    "": {
+      "Text": "Look, ^^it doesn’t matter. ^^^^^^The question is: ^^^^how does THAT factor into your philosophy?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Look, ^^it doesn’t matter. ^^^^^^Th...\""
+  },
+  "DFr_E0F5A426.Text": {
+    "": {
+      "Text": "I was very careful to outline the fact this philosophy is based on divine majority."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I was very careful to outline the f...\""
+  },
+  "DFr_F19FCBBC.Text": {
+    "": {
+      "Text": "I suppose there could be outliers, ^^^but ultimately they would be insignificant to the larger picture."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I suppose there could be outliers,...\""
+  },
+  "DFr_EABFC6AF.Text": {
+    "": {
+      "Text": "To take the life of another is wrong."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"To take the life of another is wron...\""
+  },
+  "DFr_3C175876.Text": {
+    "": {
+      "Text": "Many gods agree about this. ^^^^Don’t you?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Many gods agree about this. ^^^^Don...\""
+  },
+  "DFr_43134C81.Text": {
+    "": {
+      "Text": "“Anyone who kills a human being... ^^^^^it shall be as though he has killed all of mankind.”"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"“Anyone who kills a human being......\""
+  },
+  "DFr_019FA437.Text": {
+    "": {
+      "Text": "And in Hinduism: ^^^^^^^“He who commits murder must be considered as the worst offender.”"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"And in Hinduism: ^^^^^^^“He who com...\""
+  },
+  "DFr_9058E964.Text": {
+    "": {
+      "Text": "There are countless examples, ^^^^^^throughout religions."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"There are countless examples, ^^^^^...\""
+  },
+  "DFr_E0A702A6.Text": {
+    "": {
+      "Text": "Dad, ^^^^do you really need such things laid out for you?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"Dad, ^^^^do you really need such th...\""
+  },
+  "DFr_E76BC192.Text": {
+    "": {
+      "Text": "Yes, I do, in fact. ^^^^^^^^^And don't shame me for it!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Yes, I do, in fact. ^^^^^^^^^And do...\""
+  },
+  "DFr_227E7F8B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_4CB56AF6.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_36D0AF78.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_FE11BC95.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_EEEB6B44.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_09D122D2.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_2C17E1DC.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_B420E2D7.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_D901BB03.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_88D0508C.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_C826E3A6.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_A9689F97.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_5C644709.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_84040764.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_F033A677.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_29731F45.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_C14A9110.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_54EB99C8.Text": {
+    "": {
+      "Text": "If the gods agree upon something, ^^^we can be sure that something is good."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"If the gods agree upon something, ^...\""
+  },
+  "DFr_A5EE4A25.Text": {
+    "": {
+      "Text": "Their collective wisdom is incalculable, ^^^after all."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Their collective wisdom is incalcul...\""
+  },
+  "DFr_12C00A92.Text": {
+    "": {
+      "Text": "Excuse me?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Excuse me?\""
+  },
+  "DFr_C2BBB48F.Text": {
+    "": {
+      "Text": "Why couldn’t something the gods agree on be bad?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Why couldn’t something the gods agr...\""
+  },
+  "DFr_20CBBCF3.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_372D1F99.Text": {
+    "": {
+      "Text": "The gods, ^^^^^in their superior wisdom, ^^^^^would never agree upon something that wasn’t good."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"The gods, ^^^^^in their superior wi...\""
+  },
+  "DFr_CB333BE1.Text": {
+    "": {
+      "Text": "They would only tell us to do things that would lead to positive ends."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"They would only tell us to do thing...\""
+  },
+  "DFr_231C5C5B.Text": {
+    "": {
+      "Text": "To suggest otherwise is blasphemy."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"To suggest otherwise is blasphemy.\""
+  },
+  "DFr_FC680498.Text": {
+    "": {
+      "Text": "Huh. ^^^^Interesting."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"Huh. ^^^^Interesting.\""
+  },
+  "DFr_AA7D6F26.Text": {
+    "": {
+      "Text": "Indeed. ^^^^And if you don’t mind, ^^^I think I’d like to further examine that idea..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Indeed. ^^^^And if you don’t mind,...\""
+  },
+  "DFr_C1BFEE55.Text": {
+    "": {
+      "Text": "New statement added."
+    },
+    "Context": "Flow/euthyphro_p2_argument/12_notification: \"New statement added.\""
+  },
+  "DFr_085B0E6B.Text": {
+    "": {
+      "Text": "The same way Zeus is related to Jupiter: ^^^^^They are one and the same."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"The same way Zeus is related to Jup...\""
+  },
+  "DFr_9F984107.Text": {
+    "": {
+      "Text": "This is wrong because... ^^^^^^^because you said morality comes from the gods!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is wrong because... ^^^^^^^bec...\""
+  },
+  "DFr_70FE79DA.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_42A8C627.Text": {
+    "": {
+      "Text": "I don’t understand what you are trying to say, ^^^child. ^^^^^^That is the core idea on which this argument is elaborating."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I don’t understand what you are try...\""
+  },
+  "DFr_9C2AE9F9.Text": {
+    "": {
+      "Text": "But... ^^^but if whatever the gods agree on is good... ^^^if morality comes from them... ^^^^Uh..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"But... ^^^but if whatever the gods...\""
+  },
+  "DFr_A6C56D73.Text": {
+    "": {
+      "Text": "It sounds like there’s a contradiction in there somewhere."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"It sounds like there’s a contradict...\""
+  },
+  "DFr_7BD6F682.Text": {
+    "": {
+      "Text": "I kind of get that feeling too... ^^^^let’s look at these last parts a bit more closely."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"I kind of get that feeling too... ^...\""
+  },
+  "DFr_71E74A11.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_C9E0AFA6.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_4603A040.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_6D5F9FBB.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_C8594AA6.Text": {
+    "": {
+      "Text": "For surely if things are good, the gods will agree upon them."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"For surely if things are good, the...\""
+  },
+  "DFr_C0A8425B.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_88027462.Text": {
+    "": {
+      "Text": "Well... ^^^^^^Well, your face is ugly!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Well... ^^^^^^Well, your face is ug...\""
+  },
+  "DFr_42AF9290.Text": {
+    "": {
+      "Text": "This is what is wrong with your argument!"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"This is what is wrong with your arg...\""
+  },
+  "DFr_08CEA760.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_634BAB3A.Text": {
+    "": {
+      "Text": "If the gods look at something, ^^^they would not all agree upon it unless it was clearly moral or immoral."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"If the gods look at something, ^^^t...\""
+  },
+  "DFr_43360B8D.Text": {
+    "": {
+      "Text": "We have established gods possess infinite wisdom, ^^^have we not?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"We have established gods possess in...\""
+  },
+  "DFr_B7B6E8E3.Text": {
+    "": {
+      "Text": "It shows why the previous statement can stand as true."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"It shows why the previous statement...\""
+  },
+  "DFr_F13E59C9.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_B6257A6E.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_8BDD4ECE.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_FB88AB69.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_4952B883.Text": {
+    "": {
+      "Text": "While there may be some slight variance between them, ^^^these infinitely wise beings will surely come down on the same side when dealing with important matters."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"While there may be some slight vari...\""
+  },
+  "DFr_ACC96092.Text": {
+    "": {
+      "Text": "Like the aforementioned example of murder."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Like the aforementioned example of...\""
+  },
+  "DFr_9BE178A3.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"...\""
+  },
+  "DFr_95691C93.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"...\""
+  },
+  "DFr_EA150829.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"...\""
+  },
+  "DFr_CA977849.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...\""
+  },
+  "DFr_5486850C.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_B959F861.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_562B573C.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_D8D5FE9A.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_85A344DD.Text": {
+    "": {
+      "Text": "...Carry on. ^^^^^^^^Um, please."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"...Carry on. ^^^^^^^^Um, please.\""
+  },
+  "DFr_1A7BDC13.Text": {
+    "": {
+      "Text": "Um... I think so?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"Um... I think so?\""
+  },
+  "DFr_9436F697.Text": {
+    "": {
+      "Text": "Is it, child?"
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"Is it, child?\""
+  },
+  "DFr_966D510E.Text": {
+    "": {
+      "Text": "*Sigh*"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"*Sigh*\""
+  },
+  "DFr_BF660FF9.Text": {
+    "": {
+      "Text": "I’m not so sure."
+    },
+    "Context": "Flow/euthyphro_p2_argument/04_arbiter: \"I’m not so sure.\""
+  },
+  "DFr_079159FD.Text": {
+    "": {
+      "Text": "I don’t know what to do, ^^Ari. ^^^^This seems to have fixed many of the problems with his previous argument."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"I don’t know what to do, ^^Ari. ^^^...\""
+  },
+  "DFr_0A0AD980.Text": {
+    "": {
+      "Text": "Did it? ^^^^Just because all the same words are there doesn’t mean the argument falls the same way."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"Did it? ^^^^Just because all the sa...\""
+  },
+  "DFr_332F72DA.Text": {
+    "": {
+      "Text": "Think very carefully about how this might be different from what we heard before..."
+    },
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"Think very carefully about how this...\""
+  },
+  "DFr_C3321AE1.Text": {
+    "": {
+      "Text": "(Back to the top. ^^^^Clearly, ^^I’m missing something here!)"
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"(Back to the top. ^^^^Clearly, ^^I’...\""
+  },
+  "DFr_6CFE408D.Text": {
+    "": {
+      "Text": "I admit this may be a source of confusion."
+    },
+    "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I admit this may be a source of con...\""
+  },
+  "DFr_2C1B2033.Text": {
+    "": {
+      "Text": "...What now, ^^^^child?"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"...What now, ^^^^child?\""
+  },
+  "DFr_76C536D4.Text": {
+    "": {
+      "Text": "(...Eeesshh, ^^^^he’s glaring at me again....)"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"(...Eeesshh, ^^^^he’s glaring at me...\""
+  },
+  "DFr_39964C9F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"...\""
+  },
+  "DFr_4E127D1E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"...\""
+  },
+  "DFr_D5713796.Text": {
+    "": {
+      "Text": "(No, ^^^^pull yourself together, Socrates! ^^^^^^^^^^^You have a point to make, ^^^so make it!)"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"(No, ^^^^pull yourself together, So...\""
+  },
+  "DFr_47D45849.Text": {
+    "": {
+      "Text": "...Did you intend to speak, ^^^^child, ^^^^or did you just shout ^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"...Did you intend to speak, ^^^^chi...\""
+  },
+  "DFr_1B26E218.Text": {
+    "": {
+      "Text": "“NONSENSE!”"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"“NONSENSE!”\""
+  },
+  "DFr_131CEA42.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"^^^^^^^^^^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_CEB1AB95.Text": {
+    "": {
+      "Text": "for your own amusement?"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"for your own amusement?\""
+  },
+  "DFr_BBD4D287.Text": {
+    "": {
+      "Text": "Right, ^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Right, ^^^^^^^\""
+  },
+  "DFr_72CD68CA.Text": {
+    "": {
+      "Text": "sorry!"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"sorry!\""
+  },
+  "DFr_42D66CBB.Text": {
+    "": {
+      "Text": "Ok, ^^^^Euthyphro. ^^^^^^The core of your argument is that morality comes from the gods, ^^^^right?"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Ok, ^^^^Euthyphro. ^^^^^^The core o...\""
+  },
+  "DFr_30BF8C20.Text": {
+    "": {
+      "Text": "Yes, ^^^^my child."
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"Yes, ^^^^my child.\""
+  },
+  "DFr_B890E926.Text": {
+    "": {
+      "Text": "And this is true because gods would only command what is good, yes?"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"And this is true because gods would...\""
+  },
+  "DFr_F55409FB.Text": {
+    "": {
+      "Text": "Also true. ^^^^^There may be hope for you yet."
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"Also true. ^^^^^There may be hope f...\""
+  },
+  "DFr_6F327BCF.Text": {
+    "": {
+      "Text": "Is that so? ^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Is that so? ^^^^^^^^^^\""
+  },
+  "DFr_918B6CC8.Text": {
+    "": {
+      "Text": "Because I think you just revealed a major problem in your argument."
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Because I think you just revealed a...\""
+  },
+  "DFr_32F50C15.Text": {
+    "": {
+      "Text": "WHAT?!"
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"WHAT?!\""
+  },
+  "DFr_59608CA2.Text": {
+    "": {
+      "Text": "I... ^^^^^I have no idea what you mean, ^^^^child."
+    },
+    "Context": "Flow/euthyphro_p2_end/05_euthypro: \"I... ^^^^^I have no idea what you m...\""
+  },
+  "DFr_B0327FA2.Text": {
+    "": {
+      "Text": "Really? ^^^^^Well then, ^^^^^^let me ask you one last question..."
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Really? ^^^^^Well then, ^^^^^^let m...\""
+  },
+  "DFr_F84F1AF4.Text": {
+    "": {
+      "Text": "Are things good ^^^because gods command them... ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"Are things good ^^^because gods com...\""
+  },
+  "DFr_726B769B.Text": {
+    "": {
+      "Text": "or do gods merely command things ^^^because they are good?"
+    },
+    "Context": "Flow/euthyphro_p2_end/01_socrates: \"or do gods merely command things ^^...\""
+  },
+  "DFr_09606063.Text": {
+    "": {
+      "Text": "Or do gods merely command things ^^^because they are good"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"Or do gods merely command things ^^...\""
+  },
+  "DFr_FB71AA8C.Text": {
+    "": {
+      "Text": "...!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/05_euthypro: \"...!\""
+  },
+  "DFr_B76A5A27.Text": {
+    "": {
+      "Text": "...Wha...^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/05_euthypro: \"...Wha...^^^^^^^^\""
+  },
+  "DFr_09E76051.Text": {
+    "": {
+      "Text": "WHHHAAAAAT?"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/05_euthypro: \"WHHHAAAAAT?\""
+  },
+  "DFr_60FBD2AA.Text": {
+    "": {
+      "Text": "Look, ^^^^Euthyphro. ^^^^^^You have said over and over the gods would never ask us to do something bad."
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"Look, ^^^^Euthyphro. ^^^^^^You have...\""
+  },
+  "DFr_83CAEDFC.Text": {
+    "": {
+      "Text": "That they restrict their commands to things which would be good for mankind."
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"That they restrict their commands t...\""
+  },
+  "DFr_BC02F707.Text": {
+    "": {
+      "Text": "But in order for this to be true, wouldn’t the things they command have to already be good?"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"But in order for this to be true, w...\""
+  },
+  "DFr_F6D2AFDF.Text": {
+    "": {
+      "Text": "They would need to have value rooted in something other than the gods!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"They would need to have value roote...\""
+  },
+  "DFr_46D1E552.Text": {
+    "": {
+      "Text": "Oh, ^^^^^^nice catch, ^^^^^Dad!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/02_ari: \"Oh, ^^^^^^nice catch, ^^^^^Dad!\""
+  },
+  "DFr_56776C90.Text": {
+    "": {
+      "Text": "The fact is, ^^^^^even in a world where gods existed, ^^^^^they could not be the source of good!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"The fact is, ^^^^^even in a world w...\""
+  },
+  "DFr_9951FADE.Text": {
+    "": {
+      "Text": "They would merely serve to point out good things which ALREADY exist!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"They would merely serve to point ou...\""
+  },
+  "DFr_3DA3E349.Text": {
+    "": {
+      "Text": "Good things that are good because of other things!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"Good things that are good because o...\""
+  },
+  "DFr_CB52ED46.Text": {
+    "": {
+      "Text": "Excellent point, ^^^^^Socrates Jones! ^^^^^Very clearly presented!"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/04_arbiter: \"Excellent point, ^^^^^Socrates Jone...\""
+  },
+  "DFr_A2479B12.Text": {
+    "": {
+      "Text": "I agree! ^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/02_ari: \"I agree! ^^^^^^^^^^^^^^^\""
+  },
+  "DFr_8F029085.Text": {
+    "": {
+      "Text": "Though, ^^^^^maybe I should coach you on vocab. ^^^^^^^^^^^^^^^^...“things” isn’t exactly a scholarly term..."
+    },
+    "Context": "Flow/euthyphro_p2_end_2/02_ari: \"Though, ^^^^^maybe I should coach y...\""
+  },
+  "DFr_09586C92.Text": {
+    "": {
+      "Text": "Thanks ^^^^^^...I think, ^^^^but I’m most concerned with Euthyphro’s thoughts."
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"Thanks ^^^^^^...I think, ^^^^but I’...\""
+  },
+  "DFr_E1E1C483.Text": {
+    "": {
+      "Text": "What do you say, ^^^^^Euthyphro?"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"What do you say, ^^^^^Euthyphro?\""
+  },
+  "DFr_C25B51EA.Text": {
+    "": {
+      "Text": "Are moral actions good because the gods command them, ^^^^^^^^^or do the gods command moral actions because they are good!?"
+    },
+    "Context": "Flow/euthyphro_p2_end_2/01_socrates: \"Are moral actions good because the...\""
+  },
+  "DFr_DC2CD11B.Text": {
+    "": {
+      "Text": ".^.^. ^^. ^^^. ^^^^^."
+    },
+    "Context": "Flow/euthyphro_p2_end_2/05_euthypro: \".^.^. ^^. ^^^. ^^^^^.\""
+  },
+  "DFr_B5465F62.Text": {
+    "": {
+      "Text": "N-n^^^^o..."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"N-n^^^^o...\""
+  },
+  "DFr_2FC95903.Text": {
+    "": {
+      "Text": "NOOOOOOOOOOOOOOOOOOOOOOO!!!!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"NOOOOOOOOOOOOOOOOOOOOOOO!!!!\""
+  },
+  "DFr_47719B28.Text": {
+    "": {
+      "Text": "Just as I thought— ^^^^^^^^^you’ve got nothing!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"Just as I thought— ^^^^^^^^^you’ve...\""
+  },
+  "DFr_394698F0.Text": {
+    "": {
+      "Text": "You talk a big game, ^^^^^^but you clearly haven’t thought your points through!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"You talk a big game, ^^^^^^but you...\""
+  },
+  "DFr_1727F2C8.Text": {
+    "": {
+      "Text": "There’s no way I could accept this argument as my own. ^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"There’s no way I could accept this...\""
+  },
+  "DFr_C60E8FE8.Text": {
+    "": {
+      "Text": "It’s too...^^^^^^^^^"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"It’s too...^^^^^^^^^\""
+  },
+  "DFr_C0417721.Text": {
+    "": {
+      "Text": "“hole-y.”"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"“hole-y.”\""
+  },
+  "DFr_3006DE42.Text": {
+    "": {
+      "Text": "INSOLENT WRETCH!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"INSOLENT WRETCH!\""
+  },
+  "DFr_2ED62E31.Text": {
+    "": {
+      "Text": "I try to help save you, ^^^^^^and this is how you repay me?!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"I try to help save you, ^^^^^^and t...\""
+  },
+  "DFr_B24703E1.Text": {
+    "": {
+      "Text": "You won’t last to win your way out of here, child— ^^^^^^^^^^^The gods will smite you for your blasphemy!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"You won’t last to win your way out...\""
+  },
+  "DFr_9CA1C6FB.Text": {
+    "": {
+      "Text": "Will they? ^^^^^^^Somehow, ^^^^I think I’ll be fine. ^^^^^^^^I’ve already died once, ^^^^after all. ^^^^^^^What more could happen?"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/01_socrates: \"Will they? ^^^^^^^Somehow, ^^^^I th...\""
+  },
+  "DFr_C92FF9A6.Text": {
+    "": {
+      "Text": "...!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...!\""
+  },
+  "DFr_4D2FF16F.Text": {
+    "": {
+      "Text": "There are no limits on the extent of smiting! ^^^^^^^^^^^^^^^^^^^^^^^Just you wait!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"There are no limits on the extent o...\""
+  },
+  "DFr_CF67CC74.Text": {
+    "": {
+      "Text": "You will be nothing but a pile of dust, ^^^^^^^^^^^^^^^^^^^^of smoulder!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"You will be nothing but a pile of d...\""
+  },
+  "DFr_1D4A3833.Text": {
+    "": {
+      "Text": "A warning to all who dare insult the gods!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"A warning to all who dare insult th...\""
+  },
+  "DFr_2625AD23.Text": {
+    "": {
+      "Text": "SILENCE!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/04_arbiter: \"SILENCE!\""
+  },
+  "DFr_9A8ADABE.Text": {
+    "": {
+      "Text": "...!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...!\""
+  },
+  "DFr_B6495DA8.Text": {
+    "": {
+      "Text": "I believe we’ve heard enough from you, ^^^^^^Euthyphro."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/04_arbiter: \"I believe we’ve heard enough from y...\""
+  },
+  "DFr_C28F4134.Text": {
+    "": {
+      "Text": "Socrates was right to question you. ^^^^^^In the end... ^^^^^your philosophy failed to measure up."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/04_arbiter: \"Socrates was right to question you....\""
+  },
+  "DFr_A71EAF0D.Text": {
+    "": {
+      "Text": "Go and reflect upon this."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/04_arbiter: \"Go and reflect upon this.\""
+  },
+  "DFr_F1B989C2.Text": {
+    "": {
+      "Text": "...But...!"
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...But...!\""
+  },
+  "DFr_0EC1B876.Text": {
+    "": {
+      "Text": "Go. ^^^^^^^And. ^^^^^^^Reflect."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/04_arbiter: \"Go. ^^^^^^^And. ^^^^^^^Reflect.\""
+  },
+  "DFr_10CF4150.Text": {
+    "": {
+      "Text": "...Yes, ^^^^^^Arbiter."
+    },
+    "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...Yes, ^^^^^^Arbiter.\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}

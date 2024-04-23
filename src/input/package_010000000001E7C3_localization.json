@@ -1,0 +1,3326 @@
+{
+  "Dlg_295E0809.DisplayName": {
+    "": {
+      "Text": "kitchen"
+    },
+    "Context": "Flow/kitchen"
+  },
+  "Dlg_C4A94633.DisplayName": {
+    "": {
+      "Text": "hallway"
+    },
+    "Context": "Flow/hallway"
+  },
+  "Dlg_249D92F7.DisplayName": {
+    "": {
+      "Text": "prologue_p1"
+    },
+    "Context": "Flow/prologue_p1"
+  },
+  "Dlg_0D0CE2B6.DisplayName": {
+    "": {
+      "Text": "prologue_s1_argument"
+    },
+    "Context": "Flow/prologue_s1_argument"
+  },
+  "Dlg_8F750BCF.DisplayName": {
+    "": {
+      "Text": "prologue_a2"
+    },
+    "Context": "Flow/prologue_a2"
+  },
+  "Dlg_B166F62F.DisplayName": {
+    "": {
+      "Text": "prologue_p3_presentation"
+    },
+    "Context": "Flow/prologue_p3_presentation"
+  },
+  "Dlg_A808036F.DisplayName": {
+    "": {
+      "Text": "prologue_p3"
+    },
+    "Context": "Flow/prologue_p3"
+  },
+  "Dlg_EAAFA160.DisplayName": {
+    "": {
+      "Text": "prologue_a3_argument"
+    },
+    "Context": "Flow/prologue_a3_argument"
+  },
+  "Dlg_63E644B9.DisplayName": {
+    "": {
+      "Text": "prologue_s5_silence"
+    },
+    "Context": "Flow/prologue_s5_silence"
+  },
+  "Dlg_FD48391B.DisplayName": {
+    "": {
+      "Text": "prologue_s5_socrates_nonsense"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense"
+  },
+  "Dlg_FD0C3B3F.DisplayName": {
+    "": {
+      "Text": "prologue_s5_billy_nonsense"
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense"
+  },
+  "Dlg_E74B2B39.DisplayName": {
+    "": {
+      "Text": "prologue_p4_dialogue_1"
+    },
+    "Context": "Flow/prologue_p4_dialogue_1"
+  },
+  "Dlg_559BA24F.DisplayName": {
+    "": {
+      "Text": "prologue_p4_dialogue_2"
+    },
+    "Context": "Flow/prologue_p4_dialogue_2"
+  },
+  "Dlg_EBBE72DC.DisplayName": {
+    "": {
+      "Text": "prologue_p4_argument"
+    },
+    "Context": "Flow/prologue_p4_argument"
+  },
+  "Dlg_DECCC347.DisplayName": {
+    "": {
+      "Text": "prologue_s6"
+    },
+    "Context": "Flow/prologue_s6"
+  },
+  "Dlg_9BD50DBB.DisplayName": {
+    "": {
+      "Text": "prologue_gameower"
+    },
+    "Context": "Flow/prologue_gameower"
+  },
+  "Dlg_B0F5175E.DisplayName": {
+    "": {
+      "Text": "prologue_p1_1"
+    },
+    "Context": "Flow/prologue_p1_1"
+  },
+  "DFr_E67A0454.Text": {
+    "": {
+      "Text": "Morning, Ari. ^^^^^^^^^^^^You ready for school?"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"Morning, Ari. ^^^^^^^^^^^^You ready...\""
+  },
+  "DFr_9A95A9CC.Text": {
+    "": {
+      "Text": "Of course! ^^^^^^Guess what? ^^^^^^^^^^"
+    },
+    "Context": "Flow/kitchen/02_ari: \"Of course! ^^^^^^Guess what? ^^^^^^...\""
+  },
+  "DFr_944B583F.Text": {
+    "": {
+      "Text": "We’re talking about John Stuart Mill in class today!"
+    },
+    "Context": "Flow/kitchen/02_ari: \"We’re talking about John Stuart Mil...\""
+  },
+  "DFr_6B452086.Text": {
+    "": {
+      "Text": ".^^^.^^^.^^^^^^Who?"
+    },
+    "Context": "Flow/kitchen/01_socrates: \".^^^.^^^.^^^^^^Who?\""
+  },
+  "DFr_2B662DC8.Text": {
+    "": {
+      "Text": "You’re kidding, ^^^right? ^^^^^^^John Stuart Mill?"
+    },
+    "Context": "Flow/kitchen/02_ari: \"You’re kidding, ^^^right? ^^^^^^^Jo...\""
+  },
+  "DFr_74788909.Text": {
+    "": {
+      "Text": "......^^^^"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"......^^^^\""
+  },
+  "DFr_2AAA3D0B.Text": {
+    "": {
+      "Text": "Oh! ^^^^Wait, ^^^I think I know. ^^^^^^^He’s a comedian, ^^^^^right?"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"Oh! ^^^^Wait, ^^^I think I know. ^^...\""
+  },
+  "DFr_E97031E0.Text": {
+    "": {
+      "Text": "^^^Moral philosopher? ^^^^^Utilitarianism?"
+    },
+    "Context": "Flow/kitchen/02_ari: \"^^^Moral philosopher? ^^^^^Utilitar...\""
+  },
+  "DFr_4B5B8A95.Text": {
+    "": {
+      "Text": "I see..."
+    },
+    "Context": "Flow/kitchen/01_socrates: \"I see...\""
+  },
+  "DFr_9C1E76F2.Text": {
+    "": {
+      "Text": "He’s brilliant. ^^^Opened up my eyes to a new way to view the world."
+    },
+    "Context": "Flow/kitchen/02_ari: \"He’s brilliant. ^^^Opened up my eye...\""
+  },
+  "DFr_DC313E24.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kitchen/01_socrates: \"...\""
+  },
+  "DFr_54E026C0.Text": {
+    "": {
+      "Text": "Dad"
+    },
+    "Context": "Flow/kitchen/02_ari: \"Dad\""
+  },
+  "DFr_D13C64EB.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/kitchen/01_socrates: \"...\""
+  },
+  "DFr_21BE2B0C.Text": {
+    "": {
+      "Text": "DAD!"
+    },
+    "Context": "Flow/kitchen/02_ari: \"DAD!\""
+  },
+  "DFr_B8A50698.Text": {
+    "": {
+      "Text": "What?! ^^^^^"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"What?! ^^^^^\""
+  },
+  "DFr_88B42BB7.Text": {
+    "": {
+      "Text": "Huh!?"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"Huh!?\""
+  },
+  "DFr_8D45D2A2.Text": {
+    "": {
+      "Text": "Were you paying attention to ANYTHING I just said?"
+    },
+    "Context": "Flow/kitchen/02_ari: \"Were you paying attention to ANYTHI...\""
+  },
+  "DFr_5DAD2412.Text": {
+    "": {
+      "Text": "Uhhh..."
+    },
+    "Context": "Flow/kitchen/01_socrates: \"Uhhh...\""
+  },
+  "DFr_4EDB2B8D.Text": {
+    "": {
+      "Text": "Oh, someone’s at the door! ^^^You can tell me about this later, okay?"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"Oh, someone’s at the door! ^^^You c...\""
+  },
+  "DFr_F9252347.Text": {
+    "": {
+      "Text": "Well hurry up! ^^^I have school in half an hour!"
+    },
+    "Context": "Flow/kitchen/02_ari: \"Well hurry up! ^^^I have school in...\""
+  },
+  "DFr_C1776DEC.Text": {
+    "": {
+      "Text": "(My name is Socrates Jones. ^^^^^^^^Everyone in my family seems to care about philosophy... ^^^^^^^^but I could never really get into it.)"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"(My name is Socrates Jones. ^^^^^^^...\""
+  },
+  "DFr_323ACB50.Text": {
+    "": {
+      "Text": "(I’m just an accountant, after all. ^^^^^^^^^^^^^^Why should I care about the nature of right and wrong?)"
+    },
+    "Context": "Flow/kitchen/01_socrates: \"(I’m just an accountant, after all....\""
+  },
+  "DFr_FF070444.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/hallway/11_nobody: \"...\""
+  },
+  "DFr_06316B1C.Text": {
+    "": {
+      "Text": "Well, hey there!"
+    },
+    "Context": "Flow/hallway/03_billy: \"Well, hey there!\""
+  },
+  "DFr_8B707EA8.Text": {
+    "": {
+      "Text": "^^^^^^^^Uh, ^^^^^^^^hi?"
+    },
+    "Context": "Flow/hallway/01_socrates: \"^^^^^^^^Uh, ^^^^^^^^hi?\""
+  },
+  "DFr_A30AF716.Text": {
+    "": {
+      "Text": "The name’s Billy, ^^^^^Billy the Salesman! ^^^^^^^^^I was travelin’ this country selling my wares, ^^^^when I saw your shabby apartment and instantly knew: ^^^^^^^^"
+    },
+    "Context": "Flow/hallway/03_billy: \"The name’s Billy, ^^^^^Billy the Sa...\""
+  },
+  "DFr_C16A45C0.Text": {
+    "": {
+      "Text": "There lives a man who appreciates a good deal!"
+    },
+    "Context": "Flow/hallway/03_billy: \"There lives a man who appreciates a...\""
+  },
+  "DFr_E427718F.Text": {
+    "": {
+      "Text": "...Excuse me?"
+    },
+    "Context": "Flow/hallway/01_socrates: \"...Excuse me?\""
+  },
+  "DFr_AF766384.Text": {
+    "": {
+      "Text": "How would you like to hear about the fabulous bargains I have for you today?"
+    },
+    "Context": "Flow/hallway/03_billy: \"How would you like to hear about th...\""
+  },
+  "DFr_58033B58.Text": {
+    "": {
+      "Text": "Oh... ^^^I’m sorry, ^^^I have to take my daughter— ^^^^^^"
+    },
+    "Context": "Flow/hallway/01_socrates: \"Oh... ^^^I’m sorry, ^^^I have to ta...\""
+  },
+  "DFr_0E2E6349.Text": {
+    "": {
+      "Text": "What about me? ^^^^^^^"
+    },
+    "Context": "Flow/hallway/02_ari: \"What about me? ^^^^^^^\""
+  },
+  "DFr_DF789039.Text": {
+    "": {
+      "Text": "Ack! ^^^^^^^^^"
+    },
+    "Context": "Flow/hallway/01_socrates: \"Ack! ^^^^^^^^^\""
+  },
+  "DFr_99A0F059.Text": {
+    "": {
+      "Text": "Ari, ^^^^what are you doing here?"
+    },
+    "Context": "Flow/hallway/01_socrates: \"Ari, ^^^^what are you doing here?\""
+  },
+  "DFr_2CF747E0.Text": {
+    "": {
+      "Text": "The name’s Billy, ^^^Billy the Salesman! ^^^^^^^I was travelin’ this country selling my wares, ^^^^^when I saw— ^^^^^"
+    },
+    "Context": "Flow/hallway/03_billy: \"The name’s Billy, ^^^Billy the Sale...\""
+  },
+  "DFr_194B5AB1.Text": {
+    "": {
+      "Text": "I got bored"
+    },
+    "Context": "Flow/hallway/02_ari: \"I got bored\""
+  },
+  "DFr_E15BB01B.Text": {
+    "": {
+      "Text": "Doesn’t mean I can’t be bored. ^^^^^^^^^^"
+    },
+    "Context": "Flow/hallway/02_ari: \"Doesn’t mean I can’t be bored. ^^^^...\""
+  },
+  "DFr_B28A90B4.Text": {
+    "": {
+      "Text": "...Who’s this guy?"
+    },
+    "Context": "Flow/hallway/02_ari: \"...Who’s this guy?\""
+  },
+  "DFr_52D4A2E6.Text": {
+    "": {
+      "Text": "But I just left!"
+    },
+    "Context": "Flow/hallway/01_socrates: \"But I just left!\""
+  },
+  "DFr_7CE230D4.Text": {
+    "": {
+      "Text": "I’m glad you asked, ^^^^little lady!"
+    },
+    "Context": "Flow/hallway/03_billy: \"I’m glad you asked, ^^^^little lady...\""
+  },
+  "DFr_4E2495F6.Text": {
+    "": {
+      "Text": "Yes, yes. ^^^^^^^Listen, Billy, ^^^^I’m sorry, but I really don’t want— ^^^^^"
+    },
+    "Context": "Flow/hallway/01_socrates: \"Yes, yes. ^^^^^^^Listen, Billy, ^^^...\""
+  },
+  "DFr_C6AB7C91.Text": {
+    "": {
+      "Text": "I think we should hear him out."
+    },
+    "Context": "Flow/hallway/02_ari: \"I think we should hear him out.\""
+  },
+  "DFr_BE21374E.Text": {
+    "": {
+      "Text": "What?!"
+    },
+    "Context": "Flow/hallway/01_socrates: \"What?!\""
+  },
+  "DFr_C6830013.Text": {
+    "": {
+      "Text": "If you don’t bother to at least listen, ^^^^^^you aren’t going to get anywhere."
+    },
+    "Context": "Flow/hallway/02_ari: \"If you don’t bother to at least lis...\""
+  },
+  "DFr_94E4F964.Text": {
+    "": {
+      "Text": "Thank you, ^^^^miss, ^^^^^^^you won’t regret it!"
+    },
+    "Context": "Flow/hallway/03_billy: \"Thank you, ^^^^miss, ^^^^^^^you won...\""
+  },
+  "DFr_0DEE6B16.Text": {
+    "": {
+      "Text": "(Pretty sure I will...)"
+    },
+    "Context": "Flow/hallway/01_socrates: \"(Pretty sure I will...)\""
+  },
+  "DFr_B21EFCFD.Text": {
+    "": {
+      "Text": "*Sigh* ^^^^^^Okay, ^^^Billy, ^^^^let’s hear what you’ve got."
+    },
+    "Context": "Flow/hallway/01_socrates: \"*Sigh* ^^^^^^Okay, ^^^Billy, ^^^^le...\""
+  },
+  "DFr_E9A9CDC5.Text": {
+    "": {
+      "Text": "Right!"
+    },
+    "Context": "Flow/hallway/03_billy: \"Right!\""
+  },
+  "DFr_5D31F8EB.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p1/11_nobody: \"...\""
+  },
+  "DFr_A3585D26.Text": {
+    "": {
+      "Text": "I have a great product for you!"
+    },
+    "Context": "Flow/prologue_p1/03_billy: \"I have a great product for you!\""
+  },
+  "DFr_BC552715.Text": {
+    "": {
+      "Text": "It’s the best there is!"
+    },
+    "Context": "Flow/prologue_p1/03_billy: \"It’s the best there is!\""
+  },
+  "DFr_33262E15.Text": {
+    "": {
+      "Text": "You need my product to do what it does!"
+    },
+    "Context": "Flow/prologue_p1/03_billy: \"You need my product to do what it d...\""
+  },
+  "DFr_65D793CF.Text": {
+    "": {
+      "Text": "You don’t want those pests around!"
+    },
+    "Context": "Flow/prologue_p1/03_billy: \"You don’t want those pests around!\""
+  },
+  "DFr_28500B29.Text": {
+    "": {
+      "Text": "And that’s what I’ve got for y’all!"
+    },
+    "Context": "Flow/prologue_p1/03_billy: \"And that’s what I’ve got for y’all!\""
+  },
+  "DFr_95E842EC.Text": {
+    "": {
+      "Text": "I have a great product for you!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"I have a great product for you!\""
+  },
+  "DFr_0829871C.Text": {
+    "": {
+      "Text": "It’s the best there is!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"It’s the best there is!\""
+  },
+  "DFr_9D725281.Text": {
+    "": {
+      "Text": "The product I’ve got here is Billy’s Deer Repellent."
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"The product I’ve got here is Billy’...\""
+  },
+  "DFr_1DA8DD14.Text": {
+    "": {
+      "Text": "You need my product to do what it does!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"You need my product to do what it d...\""
+  },
+  "DFr_A131BB6C.Text": {
+    "": {
+      "Text": "You need my product to protect you from the danger of deer!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"You need my product to protect you...\""
+  },
+  "DFr_19FC96B9.Text": {
+    "": {
+      "Text": "You don’t want those pests around!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"You don’t want those pests around!\""
+  },
+  "DFr_B9813B29.Text": {
+    "": {
+      "Text": "(Well there it is again, his pitch...)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(Well there it is again, his pitch....\""
+  },
+  "DFr_76EE71AC.Text": {
+    "": {
+      "Text": "(Still not making a whole lot of sense.)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(Still not making a whole lot of se...\""
+  },
+  "DFr_5625328B.Text": {
+    "": {
+      "Text": "(Guess I should give it another look over... ^^^^^^^make sure I’ve clarified everything I can!)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(Guess I should give it another loo...\""
+  },
+  "DFr_B3E0EE38.Text": {
+    "": {
+      "Text": "And what kind of product would that be, exactly?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"And what kind of product would that...\""
+  },
+  "DFr_51B8C6C2.Text": {
+    "": {
+      "Text": "Billy’s Deer Repellent!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Billy’s Deer Repellent!\""
+  },
+  "DFr_5341BF01.Text": {
+    "": {
+      "Text": "Oh, ^^^^okay."
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"Oh, ^^^^okay.\""
+  },
+  "DFr_7CE90198.Text": {
+    "": {
+      "Text": "(That wasn’t so hard.)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(That wasn’t so hard.)\""
+  },
+  "DFr_5BEA2181.Text": {
+    "": {
+      "Text": "I’m still not exactly sure what that is. Can you clarify for me?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"I’m still not exactly sure what tha...\""
+  },
+  "DFr_01C84B6E.Text": {
+    "": {
+      "Text": "Sure thing. You spray it, and it repels deer!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Sure thing. You spray it, and it re...\""
+  },
+  "DFr_D572E678.Text": {
+    "": {
+      "Text": "...That’s why it’s called deer repellent."
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"...That’s why it’s called deer repe...\""
+  },
+  "DFr_D44EB864.Text": {
+    "": {
+      "Text": "Oh. ^^^Right. ^^^Makes sense."
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"Oh. ^^^Right. ^^^Makes sense.\""
+  },
+  "DFr_5FCB7C93.Text": {
+    "": {
+      "Text": "(I should try to clarify some of his <color=#BB0000>other statements</color>, too.)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(I should try to clarify some of hi...\""
+  },
+  "DFr_8E4D6B10.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/prologue_s1_argument/12_notification: \"Statement updated.\""
+  },
+  "DFr_BD5F1E71.Text": {
+    "": {
+      "Text": "Different statements will get different responses! Navigate with Next and Back!"
+    },
+    "Context": "Flow/prologue_s1_argument/12_notification: \"Different statements will get diffe...\""
+  },
+  "DFr_FB8E1E0C.Text": {
+    "": {
+      "Text": "And what do you mean by that?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"And what do you mean by that?\""
+  },
+  "DFr_7D0A8DFD.Text": {
+    "": {
+      "Text": "It’s the best! ^^^^^It’s better than the rest!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"It’s the best! ^^^^^It’s better tha...\""
+  },
+  "DFr_BF8D32DC.Text": {
+    "": {
+      "Text": "...It’s really good at doing what it does, ^^^^^Partner!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"...It’s really good at doing what i...\""
+  },
+  "DFr_65A12007.Text": {
+    "": {
+      "Text": "...Right."
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"...Right.\""
+  },
+  "DFr_BC11BFDD.Text": {
+    "": {
+      "Text": "(I guess there’s no clarifying THIS bit of sales speak...)"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"(I guess there’s no clarifying THIS...\""
+  },
+  "DFr_E039141D.Text": {
+    "": {
+      "Text": "And, ^^^^uh... ^^^^^^^^^what does it do, ^^^^exactly?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"And, ^^^^uh... ^^^^^^^^^what does i...\""
+  },
+  "DFr_5802F79D.Text": {
+    "": {
+      "Text": "Why, it only protects you from danger! ^^^The danger... ^^^^^of DEER!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Why, it only protects you from dang...\""
+  },
+  "DFr_E979728A.Text": {
+    "": {
+      "Text": "And trust me, you can use all the protection you can get..."
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"And trust me, you can use all the p...\""
+  },
+  "DFr_50AA11BE.Text": {
+    "": {
+      "Text": "Statement updated."
+    },
+    "Context": "Flow/prologue_s1_argument/12_notification: \"Statement updated.\""
+  },
+  "DFr_B117761F.Text": {
+    "": {
+      "Text": "What exactly do you mean?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"What exactly do you mean?\""
+  },
+  "DFr_C0A8CECE.Text": {
+    "": {
+      "Text": "My product will protect you from deer!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"My product will protect you from de...\""
+  },
+  "DFr_17F8F76F.Text": {
+    "": {
+      "Text": "It will keep deer from hurting you!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"It will keep deer from hurting you!\""
+  },
+  "DFr_09DDA59D.Text": {
+    "": {
+      "Text": "From damaging your well being!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"From damaging your well being!\""
+  },
+  "DFr_390F87C5.Text": {
+    "": {
+      "Text": "That clear enough for ya?"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"That clear enough for ya?\""
+  },
+  "DFr_A830AEC6.Text": {
+    "": {
+      "Text": "What pests are you talking about?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"What pests are you talking about?\""
+  },
+  "DFr_232E3CDE.Text": {
+    "": {
+      "Text": "Deer! ^^^Odocoileus! ^^^The bane of American Life!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Deer! ^^^Odocoileus! ^^^The bane of...\""
+  },
+  "DFr_32D94EE0.Text": {
+    "": {
+      "Text": "They are a menace, I tell ya! ^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"They are a menace, I tell ya! ^^^^^...\""
+  },
+  "DFr_F8DEDB43.Text": {
+    "": {
+      "Text": "A MENACE!"
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"A MENACE!\""
+  },
+  "DFr_84FE6578.Text": {
+    "": {
+      "Text": "Well, his argument’s much clearer now..."
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"Well, his argument’s much clearer n...\""
+  },
+  "DFr_CD1E7DA3.Text": {
+    "": {
+      "Text": "...Maybe I do need this deer repellent after all..."
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"...Maybe I do need this deer repell...\""
+  },
+  "DFr_8146BD9E.Text": {
+    "": {
+      "Text": "Are you serious?"
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"Are you serious?\""
+  },
+  "DFr_B01B9F85.Text": {
+    "": {
+      "Text": "What?! ^^^^^Am I wrong?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"What?! ^^^^^Am I wrong?\""
+  },
+  "DFr_F6F852E2.Text": {
+    "": {
+      "Text": "Dad, you can’t just let an argument go unexamined, no matter how clearly stated."
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"Dad, you can’t just let an argument...\""
+  },
+  "DFr_D84169F6.Text": {
+    "": {
+      "Text": "Especially when someone’s trying to talk you into buying Deer Repellent!"
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"Especially when someone’s trying to...\""
+  },
+  "DFr_E30EE700.Text": {
+    "": {
+      "Text": "But I got him to clarify everything... ^^^^What else is there to do?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"But I got him to clarify everything...\""
+  },
+  "DFr_E580D045.Text": {
+    "": {
+      "Text": "*Sigh* Come on, Dad."
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"*Sigh* Come on, Dad.\""
+  },
+  "DFr_617EF0CB.Text": {
+    "": {
+      "Text": "In a situation like this, if something seems to be on shaky ground, you need to <color=#BB0000>Press for Backing.</color>"
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"In a situation like this, if someth...\""
+  },
+  "DFr_E9ACF7E9.Text": {
+    "": {
+      "Text": "Make sure he can support his statements with foundational ideas!"
+    },
+    "Context": "Flow/prologue_s1_argument/02_ari: \"Make sure he can support his statem...\""
+  },
+  "DFr_D1A7E7E0.Text": {
+    "": {
+      "Text": "Uh, hello? ^^^I’m still here."
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Uh, hello? ^^^I’m still here.\""
+  },
+  "DFr_5DD534A2.Text": {
+    "": {
+      "Text": "Right! ^^^^^^^^Sorry, can I hear your pitch again?"
+    },
+    "Context": "Flow/prologue_s1_argument/01_socrates: \"Right! ^^^^^^^^Sorry, can I hear yo...\""
+  },
+  "DFr_68AC6BD5.Text": {
+    "": {
+      "Text": "Again?! ^^^^^^^^Well, ^^^^okay..."
+    },
+    "Context": "Flow/prologue_s1_argument/03_billy: \"Again?! ^^^^^^^^Well, ^^^^okay...\""
+  },
+  "DFr_CA0FDBB6.Text": {
+    "": {
+      "Text": "Press for \"Backing” option added."
+    },
+    "Context": "Flow/prologue_s1_argument/12_notification: \"Press for \"Backing” option added.\""
+  },
+  "DFr_C55A964B.Text": {
+    "": {
+      "Text": "It’s the best there is!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"It’s the best there is!\""
+  },
+  "DFr_C9E76996.Text": {
+    "": {
+      "Text": "The product I’ve got here is Billy’s Deer Repellent."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"The product I’ve got here is Billy’...\""
+  },
+  "DFr_21CF8867.Text": {
+    "": {
+      "Text": "You need my product to protect you from the danger of deer!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"You need my product to protect you...\""
+  },
+  "DFr_C88021AF.Text": {
+    "": {
+      "Text": "You don’t want those pests around!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"You don’t want those pests around!\""
+  },
+  "DFr_905C7E2B.Text": {
+    "": {
+      "Text": "I’m still not exactly sure what that is. Can you clarify for me?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"I’m still not exactly sure what tha...\""
+  },
+  "DFr_1FCF1B4D.Text": {
+    "": {
+      "Text": "Sure thing. You spray it, and it repels deer!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Sure thing. You spray it, and it re...\""
+  },
+  "DFr_F462E594.Text": {
+    "": {
+      "Text": "...That’s why it’s called deer repellent."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"...That’s why it’s called deer repe...\""
+  },
+  "DFr_0964D40A.Text": {
+    "": {
+      "Text": "Oh. ^^^Right. ^^^Makes sense."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Oh. ^^^Right. ^^^Makes sense.\""
+  },
+  "DFr_C57D8918.Text": {
+    "": {
+      "Text": "And what do you mean by that?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"And what do you mean by that?\""
+  },
+  "DFr_AE8486B1.Text": {
+    "": {
+      "Text": "It’s the best! ^^^^^It’s better than the rest!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"It’s the best! ^^^^^It’s better tha...\""
+  },
+  "DFr_1C276324.Text": {
+    "": {
+      "Text": "...It’s really good at doing what it does, ^^^^^Partner!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"...It’s really good at doing what i...\""
+  },
+  "DFr_CDB0D1AC.Text": {
+    "": {
+      "Text": "...Right."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"...Right.\""
+  },
+  "DFr_48BAF4F2.Text": {
+    "": {
+      "Text": "(I guess there’s no clarifying THIS bit of sales speak...)"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"(I guess there’s no clarifying THIS...\""
+  },
+  "DFr_5A8A3E25.Text": {
+    "": {
+      "Text": "What exactly do you mean?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"What exactly do you mean?\""
+  },
+  "DFr_462649E1.Text": {
+    "": {
+      "Text": "My product will protect you from deer!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"My product will protect you from de...\""
+  },
+  "DFr_A527CFA3.Text": {
+    "": {
+      "Text": "It will keep deer from hurting you!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"It will keep deer from hurting you!\""
+  },
+  "DFr_667AEBF4.Text": {
+    "": {
+      "Text": "From damaging your well being!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"From damaging your well being!\""
+  },
+  "DFr_BE7BFB86.Text": {
+    "": {
+      "Text": "That clear enough for ya?"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"That clear enough for ya?\""
+  },
+  "DFr_1625EEF1.Text": {
+    "": {
+      "Text": "What pests are you talking about?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"What pests are you talking about?\""
+  },
+  "DFr_F2B04A44.Text": {
+    "": {
+      "Text": "Deer! ^^^Odocoileus! ^^^The bane of American Life!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Deer! ^^^Odocoileus! ^^^The bane of...\""
+  },
+  "DFr_45F10C91.Text": {
+    "": {
+      "Text": "They are a menace, I tell ya! ^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"They are a menace, I tell ya! ^^^^^...\""
+  },
+  "DFr_250CBF35.Text": {
+    "": {
+      "Text": "A MENACE!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"A MENACE!\""
+  },
+  "DFr_2D874D26.Text": {
+    "": {
+      "Text": "What evidence do you have to support that statement?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"What evidence do you have to suppor...\""
+  },
+  "DFr_2E22B94F.Text": {
+    "": {
+      "Text": "...You see the bottles in my bag?"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"...You see the bottles in my bag?\""
+  },
+  "DFr_35D569E5.Text": {
+    "": {
+      "Text": "...Yes?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"...Yes?\""
+  },
+  "DFr_2A0F0B7A.Text": {
+    "": {
+      "Text": "They say “Billy’s Deer Repellent” on them."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"They say “Billy’s Deer Repellent” o...\""
+  },
+  "DFr_8F88833A.Text": {
+    "": {
+      "Text": "I think it’s safe to say that’s the name of the product, don’t you?"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"I think it’s safe to say that’s the...\""
+  },
+  "DFr_1A687DFA.Text": {
+    "": {
+      "Text": "Uh... ^^^Okay."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Uh... ^^^Okay.\""
+  },
+  "DFr_8A0952C7.Text": {
+    "": {
+      "Text": "Can you back that statement up?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Can you back that statement up?\""
+  },
+  "DFr_E0E7BAC0.Text": {
+    "": {
+      "Text": "Sure thing, ^^^Partner."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Sure thing, ^^^Partner.\""
+  },
+  "DFr_2BD3449A.Text": {
+    "": {
+      "Text": "My product does everything better than competing products!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"My product does everything better t...\""
+  },
+  "DFr_C5279876.Text": {
+    "": {
+      "Text": "Therefore, ^^^it is by definition, ^^^the best!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Therefore, ^^^it is by definition,...\""
+  },
+  "DFr_1480A3BA.Text": {
+    "": {
+      "Text": "There are competing products?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"There are competing products?\""
+  },
+  "DFr_9119062F.Text": {
+    "": {
+      "Text": "...Well, ^^^^^no."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"...Well, ^^^^^no.\""
+  },
+  "DFr_FDD2E5A1.Text": {
+    "": {
+      "Text": "But that means, ^^^without a doubt, ^^^mine’s the best!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"But that means, ^^^without a doubt,...\""
+  },
+  "DFr_A6C5AB34.Text": {
+    "": {
+      "Text": "Hey! Maybe I should call it “Billy’s Best Deer Repellent!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Hey! Maybe I should call it “Billy’...\""
+  },
+  "DFr_35D4DEA1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"...\""
+  },
+  "DFr_0A597159.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_FD3F8F48.Text": {
+    "": {
+      "Text": "Well, you never know when a deer will attack..."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Well, you never know when a deer wi...\""
+  },
+  "DFr_EBF18A49.Text": {
+    "": {
+      "Text": "And if you don’t have my product, you’ll be in quite a predicament, Partner!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"And if you don’t have my product, y...\""
+  },
+  "DFr_B16DB5F1.Text": {
+    "": {
+      "Text": "Better to be safe than sorry!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Better to be safe than sorry!\""
+  },
+  "DFr_9665120E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"...\""
+  },
+  "DFr_BBC7C48D.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_29D8D1B3.Text": {
+    "": {
+      "Text": "I think I just did, Partner."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"I think I just did, Partner.\""
+  },
+  "DFr_EF340D33.Text": {
+    "": {
+      "Text": "Them bein’ a threat to society an’ all, I reckon this stands."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Them bein’ a threat to society an’...\""
+  },
+  "DFr_8D97434F.Text": {
+    "": {
+      "Text": "You don’t like keepin’ danger around, do ya?"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"You don’t like keepin’ danger aroun...\""
+  },
+  "DFr_FA798A62.Text": {
+    "": {
+      "Text": "So this point is backed up by an earlier statement?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"So this point is backed up by an ea...\""
+  },
+  "DFr_AC963AD8.Text": {
+    "": {
+      "Text": "That’s right! As long as deer are dangerous, you don’t want them around!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"That’s right! As long as deer are d...\""
+  },
+  "DFr_A30F4814.Text": {
+    "": {
+      "Text": "Hold on, ^^^I’m not sure I buy this."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Hold on, ^^^I’m not sure I buy this...\""
+  },
+  "DFr_F9C3C1A4.Text": {
+    "": {
+      "Text": "We’re talking about DEER, right?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"We’re talking about DEER, right?\""
+  },
+  "DFr_4C1AAC85.Text": {
+    "": {
+      "Text": "That’s right!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"That’s right!\""
+  },
+  "DFr_1D11C848.Text": {
+    "": {
+      "Text": "As in... ^^^Bambi?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"As in... ^^^Bambi?\""
+  },
+  "DFr_D6BB46CB.Text": {
+    "": {
+      "Text": "Well... ^^^^^^^uh... ^^^yeah. ^^^^^I guess, ^^^^Partner."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Well... ^^^^^^^uh... ^^^yeah. ^^^^^...\""
+  },
+  "DFr_4C4D0482.Text": {
+    "": {
+      "Text": "I see."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"I see.\""
+  },
+  "DFr_126D23A7.Text": {
+    "": {
+      "Text": "Are you really trying to tell me Bambi poses a threat to my well-being?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"Are you really trying to tell me Ba...\""
+  },
+  "DFr_2DFB41F5.Text": {
+    "": {
+      "Text": "That’s going to take quite a bit of convincing."
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"That’s going to take quite a bit of...\""
+  },
+  "DFr_59D16A2C.Text": {
+    "": {
+      "Text": "Bambi IS dangerous, Partner!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Bambi IS dangerous, Partner!\""
+  },
+  "DFr_FB961E19.Text": {
+    "": {
+      "Text": "He may look cute, but that deer’s a little monster!"
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"He may look cute, but that deer’s a...\""
+  },
+  "DFr_CBD05EA4.Text": {
+    "": {
+      "Text": "Let me tell you why deer are a menace to our society..."
+    },
+    "Context": "Flow/prologue_a2/03_billy: \"Let me tell you why deer are a mena...\""
+  },
+  "DFr_9E9B2CA2.Text": {
+    "": {
+      "Text": "Dad!"
+    },
+    "Context": "Flow/prologue_a2/02_ari: \"Dad!\""
+  },
+  "DFr_70EAB427.Text": {
+    "": {
+      "Text": "What?!?"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"What?!?\""
+  },
+  "DFr_CDC825EC.Text": {
+    "": {
+      "Text": "Keep pressing him for backing!"
+    },
+    "Context": "Flow/prologue_a2/02_ari: \"Keep pressing him for backing!\""
+  },
+  "DFr_AABB902E.Text": {
+    "": {
+      "Text": "(That was my plan!)"
+    },
+    "Context": "Flow/prologue_a2/01_socrates: \"(That was my plan!)\""
+  },
+  "DFr_7C49FDE8.Text": {
+    "": {
+      "Text": "They eat our crops!"
+    },
+    "Context": "Flow/prologue_p3_presentation/03_billy: \"They eat our crops!\""
+  },
+  "DFr_E9B29BEC.Text": {
+    "": {
+      "Text": "They steal our jobs!"
+    },
+    "Context": "Flow/prologue_p3_presentation/03_billy: \"They steal our jobs!\""
+  },
+  "DFr_806F1F5F.Text": {
+    "": {
+      "Text": "Every year they cause accidents and injuries!"
+    },
+    "Context": "Flow/prologue_p3_presentation/03_billy: \"Every year they cause accidents and...\""
+  },
+  "DFr_BCD4D4E1.Text": {
+    "": {
+      "Text": "Why, the only reason you’re safe is that I’m here with my repellent!"
+    },
+    "Context": "Flow/prologue_p3_presentation/03_billy: \"Why, the only reason you’re safe is...\""
+  },
+  "DFr_152F6BBF.Text": {
+    "": {
+      "Text": "And there we go! ^^^^^As you can see, those darn deer threaten our very way of life!!"
+    },
+    "Context": "Flow/prologue_p3/03_billy: \"And there we go! ^^^^^As you can se...\""
+  },
+  "DFr_C100E0D5.Text": {
+    "": {
+      "Text": "Hmm... ^^^a threat, ^^^huh? ^^^^^I’m not sure if everything you’ve said here is true."
+    },
+    "Context": "Flow/prologue_p3/01_socrates: \"Hmm... ^^^a threat, ^^^huh? ^^^^^I’...\""
+  },
+  "DFr_73457518.Text": {
+    "": {
+      "Text": "You know Dad, ^^^^^in a debate you can do more than just ask questions."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"You know Dad, ^^^^^in a debate you...\""
+  },
+  "DFr_5110C1AC.Text": {
+    "": {
+      "Text": "In fact, sometimes that just won’t cut it."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"In fact, sometimes that just won’t...\""
+  },
+  "DFr_940FB33C.Text": {
+    "": {
+      "Text": "Oh?"
+    },
+    "Context": "Flow/prologue_p3/01_socrates: \"Oh?\""
+  },
+  "DFr_78F47DBF.Text": {
+    "": {
+      "Text": "Sometimes, ^^^you may need to <color=#BB0000>Challenge</color> your opponent with a counterpoint!"
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"Sometimes, ^^^you may need to <colo...\""
+  },
+  "DFr_D039A324.Text": {
+    "": {
+      "Text": "Some fact or observation which throws a wrench in the presumption his statement is true."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"Some fact or observation which thro...\""
+  },
+  "DFr_049522E3.Text": {
+    "": {
+      "Text": "For example, the fact “Deer live in the woods” might throw a wrench in one of Billy’s statements here."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"For example, the fact “Deer live in...\""
+  },
+  "DFr_0F45499B.Text": {
+    "": {
+      "Text": "If you find that statement, and present this observation to counter it, you should be home free!"
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"If you find that statement, and pre...\""
+  },
+  "DFr_F291AD13.Text": {
+    "": {
+      "Text": "When you get a useful idea, ^^^I’ll write it down for you in the “Idea Slate.”"
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"When you get a useful idea, ^^^I’ll...\""
+  },
+  "DFr_1423F098.Text": {
+    "": {
+      "Text": "You can now “Challenge” your opponent’s moves."
+    },
+    "Context": "Flow/prologue_p3/12_notification: \"You can now “Challenge” your oppone...\""
+  },
+  "DFr_4C0347C7.Text": {
+    "": {
+      "Text": "“Deer Live in the Woods” added to the Idea Slate."
+    },
+    "Context": "Flow/prologue_p3/12_notification: \"“Deer Live in the Woods” added to t...\""
+  },
+  "DFr_29F3B7E3.Text": {
+    "": {
+      "Text": "Oh, all right, ^^^I’ll go ahead and do that then, ^^^^^I guess."
+    },
+    "Context": "Flow/prologue_p3/01_socrates: \"Oh, all right, ^^^I’ll go ahead and...\""
+  },
+  "DFr_AF8C170F.Text": {
+    "": {
+      "Text": "You need to be careful though, Dad."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"You need to be careful though, Dad.\""
+  },
+  "DFr_0662535F.Text": {
+    "": {
+      "Text": "If you say really stupid things, ^^^you’ll lose credibility with your audience."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"If you say really stupid things, ^^...\""
+  },
+  "DFr_9BF34D6D.Text": {
+    "": {
+      "Text": "From now on, your moves can affect your CREDIBILITY."
+    },
+    "Context": "Flow/prologue_p3/12_notification: \"From now on, your moves can affect...\""
+  },
+  "DFr_3A05E406.Text": {
+    "": {
+      "Text": "If you lose all of your CREDIBILITY, you will forfeit the argument!"
+    },
+    "Context": "Flow/prologue_p3/12_notification: \"If you lose all of your CREDIBILITY...\""
+  },
+  "DFr_9E972760.Text": {
+    "": {
+      "Text": "But wait! ^^^^^Hold on, ^^^^I’m just fact-checking a salesman! ^^^^^Who am I going to lose credibility with?"
+    },
+    "Context": "Flow/prologue_p3/01_socrates: \"But wait! ^^^^^Hold on, ^^^^I’m jus...\""
+  },
+  "DFr_E89D40A6.Text": {
+    "": {
+      "Text": "Me."
+    },
+    "Context": "Flow/prologue_p3/02_ari: \"Me.\""
+  },
+  "DFr_E8729206.Text": {
+    "": {
+      "Text": "Oh."
+    },
+    "Context": "Flow/prologue_p3/01_socrates: \"Oh.\""
+  },
+  "DFr_CA0662DA.Text": {
+    "": {
+      "Text": "“Your Face is Ugly!” added to the Idea Slate."
+    },
+    "Context": "Flow/prologue_p3/12_notification: \"“Your Face is Ugly!” added to the I...\""
+  },
+  "DFr_11A8D683.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p3/11_nobody: \"...\""
+  },
+  "DFr_7430AC54.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/11_nobody: \"...\""
+  },
+  "DFr_16B55BDD.Text": {
+    "": {
+      "Text": "They eat our crops!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"They eat our crops!\""
+  },
+  "DFr_ED161517.Text": {
+    "": {
+      "Text": "They steal our jobs!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"They steal our jobs!\""
+  },
+  "DFr_845BDB9A.Text": {
+    "": {
+      "Text": "Every year they cause accidents and injuries!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Every year they cause accidents and...\""
+  },
+  "DFr_DCD22248.Text": {
+    "": {
+      "Text": "Why, the only reason you’re safe is that I’m here with my repellent!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Why, the only reason you’re safe is...\""
+  },
+  "DFr_97D3E294.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_997E3AA8.Text": {
+    "": {
+      "Text": "Deer eat the plants farmers grow!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Deer eat the plants farmers grow!\""
+  },
+  "DFr_FD5481EC.Text": {
+    "": {
+      "Text": "A deer could eat a whole bushel of corn without breakin’ a sweat!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"A deer could eat a whole bushel of...\""
+  },
+  "DFr_38DA1988.Text": {
+    "": {
+      "Text": "What evidence do you have to back that up?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"What evidence do you have to back t...\""
+  },
+  "DFr_298B0B86.Text": {
+    "": {
+      "Text": "Do you know what deer are, Partner?!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Do you know what deer are, Partner?...\""
+  },
+  "DFr_F66473E2.Text": {
+    "": {
+      "Text": "THEY ARE HERBIVORES!!!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"THEY ARE HERBIVORES!!!\""
+  },
+  "DFr_8767CA61.Text": {
+    "": {
+      "Text": "That means they eat plants! ^^^^^Lots of ‘em."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"That means they eat plants! ^^^^^Lo...\""
+  },
+  "DFr_A461178B.Text": {
+    "": {
+      "Text": "Can you imagine? ^^^^Living without steak? ^^^^Horrible!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Can you imagine? ^^^^Living without...\""
+  },
+  "DFr_E8A7BE95.Text": {
+    "": {
+      "Text": "Well, ^^^crops are plants. ^^^^^^So those darn deer will eat ‘em."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Well, ^^^crops are plants. ^^^^^^So...\""
+  },
+  "DFr_FF05D91E.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_A499E26E.Text": {
+    "": {
+      "Text": "How can they do that if they live in the woods?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"How can they do that if they live i...\""
+  },
+  "DFr_B252FBE6.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_C331C7FD.Text": {
+    "": {
+      "Text": "Just because they live in the woods, ^^^^doesn’t mean they don’t wander, ^^^^Partner."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Just because they live in the woods...\""
+  },
+  "DFr_EFA4585B.Text": {
+    "": {
+      "Text": "Farms are rural, ^^^^^^meanin’ very little stands between them and the livelyhood of hard workin’ farmers."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Farms are rural, ^^^^^^meanin’ very...\""
+  },
+  "DFr_61429129.Text": {
+    "": {
+      "Text": "There’s no buildings, ^^^^^no highways... ^^^^^nothin’ to stop ‘em."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"There’s no buildings, ^^^^^no highw...\""
+  },
+  "DFr_B8251E7F.Text": {
+    "": {
+      "Text": "My dear grandma could tell y’all all about it. ^^^^^Deer almost ate her out of house and home!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"My dear grandma could tell y’all al...\""
+  },
+  "DFr_68584D4F.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"...\""
+  },
+  "DFr_50193647.Text": {
+    "": {
+      "Text": "Or... ^^^^^farm and barn..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Or... ^^^^^farm and barn...\""
+  },
+  "DFr_6D971467.Text": {
+    "": {
+      "Text": "Regardless, ^^^^^it’s terrible, ^^^^^^and it happens."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Regardless, ^^^^^it’s terrible, ^^^...\""
+  },
+  "DFr_C36EAECF.Text": {
+    "": {
+      "Text": "Fine."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Fine.\""
+  },
+  "DFr_A38D721F.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_0CDF7E38.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"...\""
+  },
+  "DFr_C850DEB9.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_59C80B99.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_F626D7A6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"...\""
+  },
+  "DFr_1C5D3CFD.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_0391E6D2.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_CE726F92.Text": {
+    "": {
+      "Text": "Deer take jobs from the working man!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Deer take jobs from the working man...\""
+  },
+  "DFr_A11C606C.Text": {
+    "": {
+      "Text": "Companies hire them instead of normal folks!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Companies hire them instead of norm...\""
+  },
+  "DFr_80D3AEE3.Text": {
+    "": {
+      "Text": "Cheap labor. ^^^^You only need to pay them in leaves!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Cheap labor. ^^^^You only need to p...\""
+  },
+  "DFr_923FE180.Text": {
+    "": {
+      "Text": "I see..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"I see...\""
+  },
+  "DFr_7F71AA87.Text": {
+    "": {
+      "Text": "Really? And how exactly do they do that?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Really? And how exactly do they do...\""
+  },
+  "DFr_1C4CB9FD.Text": {
+    "": {
+      "Text": "Well, uh..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Well, uh...\""
+  },
+  "DFr_403C2959.Text": {
+    "": {
+      "Text": "Well, you see..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Well, you see...\""
+  },
+  "DFr_91600D08.Text": {
+    "": {
+      "Text": "Uh..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Uh...\""
+  },
+  "DFr_2778B28F.Text": {
+    "": {
+      "Text": "Corporate Sabotage?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Corporate Sabotage?\""
+  },
+  "DFr_B86397A8.Text": {
+    "": {
+      "Text": "Corporate. ^^^^^^^^Sabotage."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Corporate. ^^^^^^^^Sabotage.\""
+  },
+  "DFr_5AB548E8.Text": {
+    "": {
+      "Text": "Okay, they don’t actually steal our jobs."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Okay, they don’t actually steal our...\""
+  },
+  "DFr_4507EE16.Text": {
+    "": {
+      "Text": "I was just being dramatic."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"I was just being dramatic.\""
+  },
+  "DFr_2CCA29BF.Text": {
+    "": {
+      "Text": "Statement removed."
+    },
+    "Context": "Flow/prologue_a3_argument/12_notification: \"Statement removed.\""
+  },
+  "DFr_5A811BC1.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_FA37A896.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_FCFB03B9.Text": {
+    "": {
+      "Text": "They live in the woods!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"They live in the woods!\""
+  },
+  "DFr_8433F174.Text": {
+    "": {
+      "Text": "Dad, what are you doing?"
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"Dad, what are you doing?\""
+  },
+  "DFr_A40C2855.Text": {
+    "": {
+      "Text": "Making a point!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Making a point!\""
+  },
+  "DFr_F8A3E526.Text": {
+    "": {
+      "Text": "They can’t steal our jobs because they live in the woods!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"They can’t steal our jobs because t...\""
+  },
+  "DFr_D823FC0B.Text": {
+    "": {
+      "Text": "...I mean, I guess."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"...I mean, I guess.\""
+  },
+  "DFr_94D8DD95.Text": {
+    "": {
+      "Text": "But I don’t think them living in the woods is the root of the problem here."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"But I don’t think them living in th...\""
+  },
+  "DFr_C2BE7DA1.Text": {
+    "": {
+      "Text": "In fact, ^^^^^taking this approach implies you ACCEPT deer could steal our jobs."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"In fact, ^^^^^taking this approach...\""
+  },
+  "DFr_7ABD5746.Text": {
+    "": {
+      "Text": "Just because you can present a counterpoint doesn’t mean that’s the best angle of attack. ^^^^^You can probably do something else to refute this praticular idea."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"Just because you can present a coun...\""
+  },
+  "DFr_B319E617.Text": {
+    "": {
+      "Text": "Can you clarify that for me?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Can you clarify that for me?\""
+  },
+  "DFr_96FCB0B3.Text": {
+    "": {
+      "Text": "Do you know what an injury is?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Do you know what an injury is?\""
+  },
+  "DFr_FE19C5F4.Text": {
+    "": {
+      "Text": "Well, ^^^^of course."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well, ^^^^of course.\""
+  },
+  "DFr_222D3229.Text": {
+    "": {
+      "Text": "And what accidents are?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"And what accidents are?\""
+  },
+  "DFr_E673F011.Text": {
+    "": {
+      "Text": "...Yes."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...Yes.\""
+  },
+  "DFr_18E2284C.Text": {
+    "": {
+      "Text": "Then I think my statement is pretty clear, Partner."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Then I think my statement is pretty...\""
+  },
+  "DFr_0436E924.Text": {
+    "": {
+      "Text": "Do you have any evidence to support that deer cause injuries?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Do you have any evidence to support...\""
+  },
+  "DFr_457AA7B6.Text": {
+    "": {
+      "Text": "Have you ever heard of the term ^^^^^^^“deer in the headlights?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Have you ever heard of the term ^^^...\""
+  },
+  "DFr_BB7E75A8.Text": {
+    "": {
+      "Text": "Well, ^^^^turns out that term comes from real life deer!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Well, ^^^^turns out that term comes...\""
+  },
+  "DFr_F4D19FF1.Text": {
+    "": {
+      "Text": "They stand in the middle of the road and just get hit."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"They stand in the middle of the roa...\""
+  },
+  "DFr_27BDC17A.Text": {
+    "": {
+      "Text": "Causes all sorts of horrible crashes."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Causes all sorts of horrible crashe...\""
+  },
+  "DFr_ED0B8A17.Text": {
+    "": {
+      "Text": "It’s quite terrible, ^^^^^believe me."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"It’s quite terrible, ^^^^^believe m...\""
+  },
+  "DFr_C67B4FFE.Text": {
+    "": {
+      "Text": "Hm. ^^^^^Okay, I buy it."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Hm. ^^^^^Okay, I buy it.\""
+  },
+  "DFr_65555D83.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_C0464CEC.Text": {
+    "": {
+      "Text": "This is what’s wrong with your argument!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"This is what’s wrong with your argu...\""
+  },
+  "DFr_0F5E3F5F.Text": {
+    "": {
+      "Text": "Uh, I don’t really think that flies."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Uh, I don’t really think that flies...\""
+  },
+  "DFr_814672D0.Text": {
+    "": {
+      "Text": "Dad! That’s not a relevant counterpoint to this premise!"
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"Dad! That’s not a relevant counterp...\""
+  },
+  "DFr_EFC2A76E.Text": {
+    "": {
+      "Text": "Oops..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Oops...\""
+  },
+  "DFr_C754C295.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_DCB56A3C.Text": {
+    "": {
+      "Text": "If I wasn’t here, this street would be swarming with deer!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"If I wasn’t here, this street would...\""
+  },
+  "DFr_6FC544C7.Text": {
+    "": {
+      "Text": "Deer, everywhere! Hurting everybody!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Deer, everywhere! Hurting everybody...\""
+  },
+  "DFr_2A080546.Text": {
+    "": {
+      "Text": "Why, it’s too horrible to even comprehend."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Why, it’s too horrible to even comp...\""
+  },
+  "DFr_865F5CB1.Text": {
+    "": {
+      "Text": "How can you be so sure?"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"How can you be so sure?\""
+  },
+  "DFr_B19F59DA.Text": {
+    "": {
+      "Text": "Tell me, Partner... ^^^^do you see any deer around?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Tell me, Partner... ^^^^do you see...\""
+  },
+  "DFr_3F6256DE.Text": {
+    "": {
+      "Text": "Well, no..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well, no...\""
+  },
+  "DFr_7BB39D5C.Text": {
+    "": {
+      "Text": "There you go! ^^^^My Deer Repellent at work!"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"There you go! ^^^^My Deer Repellent...\""
+  },
+  "DFr_DE8940F6.Text": {
+    "": {
+      "Text": "And less you can give me a reason to doubt it, I see no reason anyone should think otherwise."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"And less you can give me a reason t...\""
+  },
+  "DFr_F495FACB.Text": {
+    "": {
+      "Text": "Dad, do you think you could oblige him?"
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"Dad, do you think you could oblige...\""
+  },
+  "DFr_4F400FC7.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"...\""
+  },
+  "DFr_F9E666F1.Text": {
+    "": {
+      "Text": "You have something which throws one of his statements into question, Dad."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"You have something which throws one...\""
+  },
+  "DFr_F0C6B12F.Text": {
+    "": {
+      "Text": "Just point it out and you’ll be good to go!"
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"Just point it out and you’ll be goo...\""
+  },
+  "DFr_C932289C.Text": {
+    "": {
+      "Text": "All right, ^^^^^all right!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"All right, ^^^^^all right!\""
+  },
+  "DFr_8B84A894.Text": {
+    "": {
+      "Text": "Nonsense!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Nonsense!\""
+  },
+  "DFr_4677766A.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_984C0BCF.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"...\""
+  },
+  "DFr_911D54C5.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_D05E0815.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_BAD48F74.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"...\""
+  },
+  "DFr_DDB9F325.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_A6B9E2D5.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_98D0AC88.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"...\""
+  },
+  "DFr_5316C12B.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_2BAFEF48.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_712E39F5.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"...\""
+  },
+  "DFr_87C5C650.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_385A8BE5.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_4A0B2D5B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"...\""
+  },
+  "DFr_CE80A016.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_13EE8DF1.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_a3_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_A347533D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_a3_argument/02_ari: \"...\""
+  },
+  "DFr_532E3938.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_a3_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_D54C496F.Text": {
+    "": {
+      "Text": "Uhhh... forests, mountains, and plains, I reckon. ^^^^^^Right?"
+    },
+    "Context": "Flow/prologue_s5_silence/03_billy: \"Uhhh... forests, mountains, and pla...\""
+  },
+  "DFr_9080CD88.Text": {
+    "": {
+      "Text": "That sounds about right. ^^^And where are we now?"
+    },
+    "Context": "Flow/prologue_s5_silence/01_socrates: \"That sounds about right. ^^^And whe...\""
+  },
+  "DFr_C6CEFBFD.Text": {
+    "": {
+      "Text": "New York City!"
+    },
+    "Context": "Flow/prologue_s5_silence/03_billy: \"New York City!\""
+  },
+  "DFr_43999063.Text": {
+    "": {
+      "Text": "Exactly. ^^^^^So then, tell me Billy..."
+    },
+    "Context": "Flow/prologue_s5_silence/01_socrates: \"Exactly. ^^^^^So then, tell me Bill...\""
+  },
+  "DFr_DD66EC31.Text": {
+    "": {
+      "Text": "^^^^^Billy... ^^^^^^^^Can you tell me where deer most commonly reside?"
+    },
+    "Context": "Flow/prologue_s5_silence/01_socrates: \"^^^^^Billy... ^^^^^^^^Can you tell...\""
+  },
+  "DFr_F473F16F.Text": {
+    "": {
+      "Text": "When was the last time you heard of a deer in New York City?!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"When was the last time you heard of...\""
+  },
+  "DFr_3484B6EE.Text": {
+    "": {
+      "Text": "ACK!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/03_billy: \"ACK!\""
+  },
+  "DFr_C0D576F3.Text": {
+    "": {
+      "Text": "It’s highly unlikely a deer will show up in any city, ^^^^^let alone in New York!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"It’s highly unlikely a deer will sh...\""
+  },
+  "DFr_0ED5F162.Text": {
+    "": {
+      "Text": "Do you really think you can take credit for the fact there are no deer around?!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"Do you really think you can take cr...\""
+  },
+  "DFr_A5908146.Text": {
+    "": {
+      "Text": "But— ^^^^^^^^But— ^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/03_billy: \"But— ^^^^^^^^But— ^^^^^^^^^^\""
+  },
+  "DFr_E6199645.Text": {
+    "": {
+      "Text": "GAH!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/03_billy: \"GAH!\""
+  },
+  "DFr_BAE6A31C.Text": {
+    "": {
+      "Text": "Way to go, Dad!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/02_ari: \"Way to go, Dad!\""
+  },
+  "DFr_105F1E47.Text": {
+    "": {
+      "Text": "Maybe if we were living in the wilderness, we would need your deer repellent..."
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"Maybe if we were living in the wild...\""
+  },
+  "DFr_10236710.Text": {
+    "": {
+      "Text": "But as we live in the middle of a city, ^^^I hardly see the point!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"But as we live in the middle of a c...\""
+  },
+  "DFr_7AD2C3E2.Text": {
+    "": {
+      "Text": "I highly doubt Bambi is going to wander down Main Street! ^^^^^He’d be hit in an instant!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"I highly doubt Bambi is going to wa...\""
+  },
+  "DFr_75BCD298.Text": {
+    "": {
+      "Text": "Clearly, your repellent is of no use!"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"Clearly, your repellent is of no us...\""
+  },
+  "DFr_276B6D3E.Text": {
+    "": {
+      "Text": "So I hardly think I need to buy— ^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s5_socrates_nonsense/01_socrates: \"So I hardly think I need to buy— ^^...\""
+  },
+  "DFr_073FF4D6.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/03_billy: \"...\""
+  },
+  "DFr_AD06AC2F.Text": {
+    "": {
+      "Text": "Now listen here, Mister. It seems to me y’all are bein’ unfair."
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/03_billy: \"Now listen here, Mister. It seems t...\""
+  },
+  "DFr_231385B0.Text": {
+    "": {
+      "Text": "I’ll admit you have a point, ^^^but you are failin’ to consider all the finer qualities of this here product."
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/03_billy: \"I’ll admit you have a point, ^^^but...\""
+  },
+  "DFr_01012D42.Text": {
+    "": {
+      "Text": "Is that so?"
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/01_socrates: \"Is that so?\""
+  },
+  "DFr_85FB68EE.Text": {
+    "": {
+      "Text": "It sure is!"
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/03_billy: \"It sure is!\""
+  },
+  "DFr_2914DD9D.Text": {
+    "": {
+      "Text": "...Let me explain to you what y’all are missin’. ^^^^^Why my product is still useful to ya!"
+    },
+    "Context": "Flow/prologue_s5_billy_nonsense/03_billy: \"...Let me explain to you what y’all...\""
+  },
+  "DFr_0DFF56D5.Text": {
+    "": {
+      "Text": "My product comes in a fine blue casing!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_1/03_billy: \"My product comes in a fine blue cas...\""
+  },
+  "DFr_70D203FD.Text": {
+    "": {
+      "Text": "Each letter of the label is hand painted!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_1/03_billy: \"Each letter of the label is hand pa...\""
+  },
+  "DFr_CD15B8EA.Text": {
+    "": {
+      "Text": "My grandma toiled over the design!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_1/03_billy: \"My grandma toiled over the design!\""
+  },
+  "DFr_5829A4EC.Text": {
+    "": {
+      "Text": "Clearly, my product would still be useful to you!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_1/03_billy: \"Clearly, my product would still be...\""
+  },
+  "DFr_3E019EE9.Text": {
+    "": {
+      "Text": "Ari, I don’t think I have any evidence to counter these points!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/01_socrates: \"Ari, I don’t think I have any evide...\""
+  },
+  "DFr_0C05CE70.Text": {
+    "": {
+      "Text": "You know, even if a point is supported, it may not be related to the conclusion."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"You know, even if a point is suppor...\""
+  },
+  "DFr_ED258406.Text": {
+    "": {
+      "Text": "If that’s the case, it really doesn’t matter if it’s supported or not."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"If that’s the case, it really doesn...\""
+  },
+  "DFr_6815D616.Text": {
+    "": {
+      "Text": "The point has no place being presented in the discussion."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"The point has no place being presen...\""
+  },
+  "DFr_CD94ACCA.Text": {
+    "": {
+      "Text": "I think I get it."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/01_socrates: \"I think I get it.\""
+  },
+  "DFr_E3ECE84A.Text": {
+    "": {
+      "Text": "You’re saying in such situations... I should <color=#BB0000>Question Relevance</color> for the statement?"
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/01_socrates: \"You’re saying in such situations......\""
+  },
+  "DFr_5ECD9458.Text": {
+    "": {
+      "Text": "Well, that’s what John Stuart Mill would do."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"Well, that’s what John Stuart Mill...\""
+  },
+  "DFr_4E99C297.Text": {
+    "": {
+      "Text": "It’s not useful for us to listen to statements that have no connection to the overall argument."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"It’s not useful for us to listen to...\""
+  },
+  "DFr_15275D3E.Text": {
+    "": {
+      "Text": "If we’re discussing economics, for example, it really doesn’t matter how well you support the fact purple is the best color."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"If we’re discussing economics, for...\""
+  },
+  "DFr_7D1DF5D5.Text": {
+    "": {
+      "Text": "Of course not. ^^^^^We all know green is, anyway."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/01_socrates: \"Of course not. ^^^^^We all know gre...\""
+  },
+  "DFr_9C8B8CFA.Text": {
+    "": {
+      "Text": "...getting back on track..."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"...getting back on track...\""
+  },
+  "DFr_6B8895C5.Text": {
+    "": {
+      "Text": "Even if the statement is relevant, questioning can be a great way to see how everything fits together!"
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/02_ari: \"Even if the statement is relevant,...\""
+  },
+  "DFr_B6DA7692.Text": {
+    "": {
+      "Text": "(I guess I should go forward with questioning him, then...)"
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/01_socrates: \"(I guess I should go forward with q...\""
+  },
+  "DFr_444CBDED.Text": {
+    "": {
+      "Text": "Question \"Relevance” move added."
+    },
+    "Context": "Flow/prologue_p4_dialogue_2/12_notification: \"Question \"Relevance” move added.\""
+  },
+  "DFr_3B1035DC.Text": {
+    "": {
+      "Text": "My product comes in a fine blue casing!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"My product comes in a fine blue cas...\""
+  },
+  "DFr_F8BA01AF.Text": {
+    "": {
+      "Text": "What do you mean by that?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"What do you mean by that?\""
+  },
+  "DFr_2DE2908A.Text": {
+    "": {
+      "Text": "The spray cans are blue!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"The spray cans are blue!\""
+  },
+  "DFr_70688123.Text": {
+    "": {
+      "Text": "Didn’t they teach you anything in school?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Didn’t they teach you anything in s...\""
+  },
+  "DFr_371EC36F.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_CB0B1825.Text": {
+    "": {
+      "Text": "...Can you see these canisters here?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...Can you see these canisters here...\""
+  },
+  "DFr_55BF5C3B.Text": {
+    "": {
+      "Text": "Yes?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Yes?\""
+  },
+  "DFr_842E8757.Text": {
+    "": {
+      "Text": "What color are they?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"What color are they?\""
+  },
+  "DFr_31F36F4E.Text": {
+    "": {
+      "Text": "...^"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...^\""
+  },
+  "DFr_23016DCB.Text": {
+    "": {
+      "Text": "Blue. ^^^^^^^^They’re.... ^^^^bright blue."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Blue. ^^^^^^^^They’re.... ^^^^brigh...\""
+  },
+  "DFr_D59E1D28.Text": {
+    "": {
+      "Text": "Well, ^^^^^^there we go. ^^^^^^^Was that so hard?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Well, ^^^^^^there we go. ^^^^^^^Was...\""
+  },
+  "DFr_1CE84756.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...\""
+  },
+  "DFr_351EEA72.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_CCA96C01.Text": {
+    "": {
+      "Text": "Blue is pretty, Partner!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Blue is pretty, Partner!\""
+  },
+  "DFr_856DA184.Text": {
+    "": {
+      "Text": "...^^^^^^Go on..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...^^^^^^Go on...\""
+  },
+  "DFr_BC2B9416.Text": {
+    "": {
+      "Text": "Therefore... ^^^the fact my product is pretty... ^^^^makes it... ^^^^^more useful?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Therefore... ^^^the fact my product...\""
+  },
+  "DFr_09704A5D.Text": {
+    "": {
+      "Text": "I don’t think so."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"I don’t think so.\""
+  },
+  "DFr_F3B2BBF1.Text": {
+    "": {
+      "Text": "Statement removed."
+    },
+    "Context": "Flow/prologue_p4_argument/12_notification: \"Statement removed.\""
+  },
+  "DFr_307F0084.Text": {
+    "": {
+      "Text": "Each letter of the label is hand painted!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Each letter of the label is hand pa...\""
+  },
+  "DFr_2B3797C0.Text": {
+    "": {
+      "Text": "This is what’s wrong with your argument!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"This is what’s wrong with your argu...\""
+  },
+  "DFr_2DF7A8C1.Text": {
+    "": {
+      "Text": "Uh, I don’t really think that flies."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Uh, I don’t really think that flies...\""
+  },
+  "DFr_1138624E.Text": {
+    "": {
+      "Text": "Dad! That’s not a relevant counterpoint to this premise!"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Dad! That’s not a relevant counterp...\""
+  },
+  "DFr_1CD85FB6.Text": {
+    "": {
+      "Text": "Oops..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Oops...\""
+  },
+  "DFr_C3E0CCB4.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_7CE6F68A.Text": {
+    "": {
+      "Text": "Can you back that up?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Can you back that up?\""
+  },
+  "DFr_7BA10264.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_239795A0.Text": {
+    "": {
+      "Text": "I mean I picked up a paintbrush and painted ‘em on myself."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"I mean I picked up a paintbrush and...\""
+  },
+  "DFr_9FDAFA9F.Text": {
+    "": {
+      "Text": "I always fancied myself a bit of an artist. ^^^^^I have an exhibit at the Guggenheim!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"I always fancied myself a bit of an...\""
+  },
+  "DFr_14B5C421.Text": {
+    "": {
+      "Text": "You do?!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"You do?!\""
+  },
+  "DFr_4BBF5D54.Text": {
+    "": {
+      "Text": "Well, ^^^^no."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Well, ^^^^no.\""
+  },
+  "DFr_7CFDCB50.Text": {
+    "": {
+      "Text": "But I dreamed I did once..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"But I dreamed I did once...\""
+  },
+  "DFr_BD62A182.Text": {
+    "": {
+      "Text": "Sure, Partner!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Sure, Partner!\""
+  },
+  "DFr_9A60CDF7.Text": {
+    "": {
+      "Text": "If you line these cans up, you’ll see they’re all different!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"If you line these cans up, you’ll s...\""
+  },
+  "DFr_4E3A66CD.Text": {
+    "": {
+      "Text": "Why, ^^^look! ^^^^^^This one here says ^^^^^^^^“Beer repellent.”"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Why, ^^^look! ^^^^^^This one here s...\""
+  },
+  "DFr_BF89C992.Text": {
+    "": {
+      "Text": "What fine craftsmanship...."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"What fine craftsmanship....\""
+  },
+  "DFr_29A27D5D.Text": {
+    "": {
+      "Text": "Art is craftsmanship!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Art is craftsmanship!\""
+  },
+  "DFr_03CC9376.Text": {
+    "": {
+      "Text": "And things being done by machine? ^^^^^^^^That’s not craftsmanship."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"And things being done by machine? ^...\""
+  },
+  "DFr_E51E2A4C.Text": {
+    "": {
+      "Text": "Okay, ^^^^^great... ^^^^^^^but how does this “craftmanship” make your product more useful?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Okay, ^^^^^great... ^^^^^^^but how...\""
+  },
+  "DFr_5423B4C4.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_7247BB0D.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_6DA1E555.Text": {
+    "": {
+      "Text": "Okay, ^^^fine, ^^^^you made your point. Let’s move on."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Okay, ^^^fine, ^^^^you made your po...\""
+  },
+  "DFr_E493E190.Text": {
+    "": {
+      "Text": "Statement removed."
+    },
+    "Context": "Flow/prologue_p4_argument/12_notification: \"Statement removed.\""
+  },
+  "DFr_EADB7B0F.Text": {
+    "": {
+      "Text": "My grandma toiled over the design!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"My grandma toiled over the design!\""
+  },
+  "DFr_7F904D52.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...\""
+  },
+  "DFr_1FEDE626.Text": {
+    "": {
+      "Text": "This is what’s wrong with your argument!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"This is what’s wrong with your argu...\""
+  },
+  "DFr_E67A6C3D.Text": {
+    "": {
+      "Text": "Uh, I don’t really think that flies."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Uh, I don’t really think that flies...\""
+  },
+  "DFr_C90B2D1B.Text": {
+    "": {
+      "Text": "Dad! That’s not a relevant counterpoint to this premise!"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Dad! That’s not a relevant counterp...\""
+  },
+  "DFr_ECE058F4.Text": {
+    "": {
+      "Text": "Oops..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Oops...\""
+  },
+  "DFr_BABA2BA8.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_510BA58B.Text": {
+    "": {
+      "Text": "My grandma spent hours designing this for me!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"My grandma spent hours designing th...\""
+  },
+  "DFr_0D393E7A.Text": {
+    "": {
+      "Text": "That’s why it’s so darn pretty!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"That’s why it’s so darn pretty!\""
+  },
+  "DFr_865D3FE4.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_57B5D87E.Text": {
+    "": {
+      "Text": "She told me she did!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"She told me she did!\""
+  },
+  "DFr_AC2E1649.Text": {
+    "": {
+      "Text": "You would question the honesty of an old lady?!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"You would question the honesty of a...\""
+  },
+  "DFr_FF30DB24.Text": {
+    "": {
+      "Text": "Er... ^^^^^maybe...?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Er... ^^^^^maybe...?\""
+  },
+  "DFr_77ECEEA3.Text": {
+    "": {
+      "Text": "I won’t have it, Partner!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"I won’t have it, Partner!\""
+  },
+  "DFr_65E7D627.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_55DEB9B8.Text": {
+    "": {
+      "Text": "Quality takes effort, ^^^Partner!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Quality takes effort, ^^^Partner!\""
+  },
+  "DFr_5D42F4FF.Text": {
+    "": {
+      "Text": "Surely the amount of time my gran poured into it contributes to its value!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Surely the amount of time my gran p...\""
+  },
+  "DFr_DA10982E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...\""
+  },
+  "DFr_BA05253D.Text": {
+    "": {
+      "Text": "...not... ^^^really?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...not... ^^^really?\""
+  },
+  "DFr_CB743883.Text": {
+    "": {
+      "Text": "ACK! ^^^^^^^^^Heartless! ^^^Just heartless... ^^^^^^^no respect for the elderly."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"ACK! ^^^^^^^^^Heartless! ^^^Just he...\""
+  },
+  "DFr_48702BE4.Text": {
+    "": {
+      "Text": "Very well, ^^^have it your way, ^^^Partner."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Very well, ^^^have it your way, ^^^...\""
+  },
+  "DFr_F472D238.Text": {
+    "": {
+      "Text": "Statement removed."
+    },
+    "Context": "Flow/prologue_p4_argument/12_notification: \"Statement removed.\""
+  },
+  "DFr_13039EAE.Text": {
+    "": {
+      "Text": "Clearly, my product would still be useful to you!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Clearly, my product would still be...\""
+  },
+  "DFr_848613A5.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...\""
+  },
+  "DFr_8BC535BD.Text": {
+    "": {
+      "Text": "This is what’s wrong with your argument!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"This is what’s wrong with your argu...\""
+  },
+  "DFr_03B91DE1.Text": {
+    "": {
+      "Text": "Uh, I don’t really think that flies."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Uh, I don’t really think that flies...\""
+  },
+  "DFr_A6E4FC15.Text": {
+    "": {
+      "Text": "Dad! That’s not a relevant counterpoint to this premise!"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Dad! That’s not a relevant counterp...\""
+  },
+  "DFr_3A77BB86.Text": {
+    "": {
+      "Text": "Oops..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Oops...\""
+  },
+  "DFr_4B36B173.Text": {
+    "": {
+      "Text": "What do you mean by this?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"What do you mean by this?\""
+  },
+  "DFr_F2E56108.Text": {
+    "": {
+      "Text": "It’s a regular Mona Lisa! It’s pretty!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"It’s a regular Mona Lisa! It’s pret...\""
+  },
+  "DFr_FB642DC5.Text": {
+    "": {
+      "Text": "Can you back this up?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Can you back this up?\""
+  },
+  "DFr_EFC13350.Text": {
+    "": {
+      "Text": "I did, Partner! ^^^Weren’t you listening?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"I did, Partner! ^^^Weren’t you list...\""
+  },
+  "DFr_1E514A26.Text": {
+    "": {
+      "Text": "Every little detail before this point... ^^^that’s why my product would be of use to you!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Every little detail before this poi...\""
+  },
+  "DFr_0A26D3C0.Text": {
+    "": {
+      "Text": "How is this related to your conclusion?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"How is this related to your conclus...\""
+  },
+  "DFr_39B8E827.Text": {
+    "": {
+      "Text": "This is my conclusion, ^^^Partner!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"This is my conclusion, ^^^Partner!\""
+  },
+  "DFr_3A46DD26.Text": {
+    "": {
+      "Text": "For all the reasons I just gave, ^^^my product is of great use!"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"For all the reasons I just gave, ^^...\""
+  },
+  "DFr_21FFF2EB.Text": {
+    "": {
+      "Text": "And as long as those stand strong, ^^^I don’t think you can really question it"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"And as long as those stand strong,...\""
+  },
+  "DFr_C35B4605.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"...\""
+  },
+  "DFr_C50E8B7E.Text": {
+    "": {
+      "Text": "This is what’s wrong with your argument!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"This is what’s wrong with your argu...\""
+  },
+  "DFr_1042D212.Text": {
+    "": {
+      "Text": "Uh, I don’t really think that flies."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Uh, I don’t really think that flies...\""
+  },
+  "DFr_09545E20.Text": {
+    "": {
+      "Text": "Oops..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Oops...\""
+  },
+  "DFr_C5E29F99.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_D3DBDFC7.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_23B0B897.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_9AA8E1B8.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"...\""
+  },
+  "DFr_7FB93665.Text": {
+    "": {
+      "Text": "Dad! That’s not a relevant counterpoint to this premise!"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Dad! That’s not a relevant counterp...\""
+  },
+  "DFr_8674CE8C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_C82C274A.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_406BADE2.Text": {
+    "": {
+      "Text": "Dad, is something wrong?"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Dad, is something wrong?\""
+  },
+  "DFr_895EF72B.Text": {
+    "": {
+      "Text": "Uhhh... no?"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Uhhh... no?\""
+  },
+  "DFr_C4E4F9A9.Text": {
+    "": {
+      "Text": "Well, then what’s holding you up?"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Well, then what’s holding you up?\""
+  },
+  "DFr_2D18EBE4.Text": {
+    "": {
+      "Text": "Point out what is irrelevant!"
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"Point out what is irrelevant!\""
+  },
+  "DFr_F178FB0F.Text": {
+    "": {
+      "Text": "Right. Will do!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Right. Will do!\""
+  },
+  "DFr_B119CE8E.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_444D3EC5.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_36168DC3.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_28D811A1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"...\""
+  },
+  "DFr_7124F8E1.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_4283C35D.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_714EBF29.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_DC431FAB.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_2515F7C1.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_600B7E24.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"...\""
+  },
+  "DFr_B3BB9F35.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_1E0B4B28.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_81E199C9.Text": {
+    "": {
+      "Text": "Well... Well, your face is ugly!"
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Well... Well, your face is ugly!\""
+  },
+  "DFr_9EDA6AB0.Text": {
+    "": {
+      "Text": "Sorry! Don’t know what came over me..."
+    },
+    "Context": "Flow/prologue_p4_argument/01_socrates: \"Sorry! Don’t know what came over me...\""
+  },
+  "DFr_F9155C88.Text": {
+    "": {
+      "Text": "Now you’ve gone an’ hurt my feelings."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Now you’ve gone an’ hurt my feeling...\""
+  },
+  "DFr_9C88352E.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/02_ari: \"...\""
+  },
+  "DFr_0FE36BAD.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"...\""
+  },
+  "DFr_D2D84BD3.Text": {
+    "": {
+      "Text": "Aw, wha’d you go an’ say that for?"
+    },
+    "Context": "Flow/prologue_p4_argument/03_billy: \"Aw, wha’d you go an’ say that for?\""
+  },
+  "DFr_E3657C9C.Text": {
+    "": {
+      "Text": "Billy!!"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Billy!!\""
+  },
+  "DFr_F36D4CB0.Text": {
+    "": {
+      "Text": "AH!! ^^^^^^Don’t hurt me!"
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"AH!! ^^^^^^Don’t hurt me!\""
+  },
+  "DFr_468E19EE.Text": {
+    "": {
+      "Text": "Oh, the yelling... ^^^it’s too much for my heart to bear..."
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"Oh, the yelling... ^^^it’s too much...\""
+  },
+  "DFr_D06C1DE9.Text": {
+    "": {
+      "Text": "Relax. I’m not going to hurt you. ^^^^^^Just your sales pitch."
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Relax. I’m not going to hurt you. ^...\""
+  },
+  "DFr_1F4AAB57.Text": {
+    "": {
+      "Text": "Oh. ^^^^^Okay, that’s good. ^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"Oh. ^^^^^Okay, that’s good. ^^^^^^^...\""
+  },
+  "DFr_94B604A0.Text": {
+    "": {
+      "Text": "...wait, ^^^^^^^^^^no, ^^^^^^^^^^actually, ^^^^^^^^^^^I don’t think I like that..."
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"...wait, ^^^^^^^^^^no, ^^^^^^^^^^ac...\""
+  },
+  "DFr_A8E2997C.Text": {
+    "": {
+      "Text": "Well, I’m afraid there is no avoiding it."
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Well, I’m afraid there is no avoidi...\""
+  },
+  "DFr_DC1605AB.Text": {
+    "": {
+      "Text": "Billy, you are trying to sell me a product based on its usefulness to me...\""
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Billy, you are trying to sell me a...\""
+  },
+  "DFr_2300708C.Text": {
+    "": {
+      "Text": "But its aesthetic qualities and methods of manufacturing, ^^^^while nice, ^^^^^offer no function which benefits me!"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"But its aesthetic qualities and met...\""
+  },
+  "DFr_C5D90326.Text": {
+    "": {
+      "Text": "At this point, you are grasping at straws to convince me to buy your product, ^^^^^and you know it!"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"At this point, you are grasping at...\""
+  },
+  "DFr_2966999C.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"...\""
+  },
+  "DFr_FAA16229.Text": {
+    "": {
+      "Text": "Well, okay then!"
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"Well, okay then!\""
+  },
+  "DFr_0A91CD5A.Text": {
+    "": {
+      "Text": "Huh?"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Huh?\""
+  },
+  "DFr_4B036217.Text": {
+    "": {
+      "Text": "It’s been nice chatting with you, but I’ve got clients to find."
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"It’s been nice chatting with you, b...\""
+  },
+  "DFr_B65B1887.Text": {
+    "": {
+      "Text": "There are many fish in the sea, and it’s clear you ain’t one of mine."
+    },
+    "Context": "Flow/prologue_s6/03_billy: \"There are many fish in the sea, and...\""
+  },
+  "DFr_2380833C.Text": {
+    "": {
+      "Text": "Oh. ^^^^Okay. ^^^^^^Bye?"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Oh. ^^^^Okay. ^^^^^^Bye?\""
+  },
+  "DFr_3EDA863D.Text": {
+    "": {
+      "Text": "Well, ^^^^that was fun."
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"Well, ^^^^that was fun.\""
+  },
+  "DFr_93391097.Text": {
+    "": {
+      "Text": "Fun?! ^^^I think you mean infuriating. ^^^^^^...How much time do you have left before school?"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Fun?! ^^^I think you mean infuriati...\""
+  },
+  "DFr_DBF1B497.Text": {
+    "": {
+      "Text": "Relax, ^^^Dad, ^^^I’m sure I’m fine. ^^^^^^We still have..."
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"Relax, ^^^Dad, ^^^I’m sure I’m fine...\""
+  },
+  "DFr_A5C84BE3.Text": {
+    "": {
+      "Text": "...^.^.^.^^.^^.^^^."
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"...^.^.^.^^.^^.^^^.\""
+  },
+  "DFr_5D21E4BF.Text": {
+    "": {
+      "Text": "...oh. ^^^^^^UM... ^^^^^^^^^haha."
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"...oh. ^^^^^^UM... ^^^^^^^^^haha.\""
+  },
+  "DFr_B11EB5EF.Text": {
+    "": {
+      "Text": "...Negative half an hour."
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"...Negative half an hour.\""
+  },
+  "DFr_4AB80FF8.Text": {
+    "": {
+      "Text": "WHAT?! ^^^^^^^^^^^^^We’ve got to get going!"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"WHAT?! ^^^^^^^^^^^^^We’ve got to ge...\""
+  },
+  "DFr_10512F87.Text": {
+    "": {
+      "Text": "^^^^^^^^^^^^^^^^I can’t believe we lost track of time! ^^^^^^^It’s all that fool Billy’s fault! ^^^^^^^Billy and his idiotic Deer Repellent! ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"^^^^^^^^^^^^^^^^I can’t believe we...\""
+  },
+  "DFr_BBC4C12C.Text": {
+    "": {
+      "Text": "Now you’re going to be late for school, ^^^^^^^and you’ll probably be expelled, ^^^^^^^and your mother will never forgive me, ^^^^^^^not that she talks to me anymore anyway... ^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Now you’re going to be late for sch...\""
+  },
+  "DFr_5184D524.Text": {
+    "": {
+      "Text": "“The best of its kind.” HAH! But it’s not competing with anything. ^^^^^I mean, what would it compete with? Harry’s Deer Vanisher? ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"“The best of its kind.” HAH! But it...\""
+  },
+  "DFr_BF963AC0.Text": {
+    "": {
+      "Text": "Dad... ^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"Dad... ^^^^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_07BA70A2.Text": {
+    "": {
+      "Text": "Honestly, people believe they can sell you on anything these days, wasting our time. The nerve! They think we’re a bunch of fools— ^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"Honestly, people believe they can s...\""
+  },
+  "DFr_F9795856.Text": {
+    "": {
+      "Text": "Dad! ^^^^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"Dad! ^^^^^^^^^^^^^^^^^^^^\""
+  },
+  "DFr_9FED0F91.Text": {
+    "": {
+      "Text": "DAD! LOOK OUT! ^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/02_ari: \"DAD! LOOK OUT! ^^^^^^^^^\""
+  },
+  "DFr_A648A760.Text": {
+    "": {
+      "Text": "!!! ^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"!!! ^^^^^^^^\""
+  },
+  "DFr_8CBAAC0C.Text": {
+    "": {
+      "Text": "— and we can just be convinced we should buy a stupid product we’ll never, ever, need. I mean, aesthetic qualities, I ask you... ^^^^^^^^^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_s6/01_socrates: \"— and we can just be convinced we s...\""
+  },
+  "DFr_5407FD5A.Text": {
+    "": {
+      "Text": ""
+    },
+    "Context": "Flow/prologue_s6/11_nobody: \"...\""
+  },
+  "DFr_64B3E09F.Text": {
+    "": {
+      "Text": "Listen, Partner, ^^^I appreciate the interrogation, ^^I really do... ^^^^^^^^^^but my time is tickin’, ^^^as they say."
+    },
+    "Context": "Flow/prologue_gameower/03_billy: \"Listen, Partner, ^^^I appreciate th...\""
+  },
+  "DFr_32734879.Text": {
+    "": {
+      "Text": "WHAT?!"
+    },
+    "Context": "Flow/prologue_gameower/02_ari: \"WHAT?!\""
+  },
+  "DFr_C1683360.Text": {
+    "": {
+      "Text": "Oh, come on, Ari! ^^^^^^Have you been listening to him? ^^^^^^^^^"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"Oh, come on, Ari! ^^^^^^Have you be...\""
+  },
+  "DFr_603D2E0B.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_gameower/02_ari: \"...\""
+  },
+  "DFr_326AC7B7.Text": {
+    "": {
+      "Text": "What are we going to do if a deer attacks?"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"What are we going to do if a deer a...\""
+  },
+  "DFr_3BEEAF7B.Text": {
+    "": {
+      "Text": "I^^^^^^^^^^ don’t believe this. ^^^^^You are dead to me."
+    },
+    "Context": "Flow/prologue_gameower/02_ari: \"I^^^^^^^^^^ don’t believe this. ^^^...\""
+  },
+  "DFr_72AF7754.Text": {
+    "": {
+      "Text": "Ari!"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"Ari!\""
+  },
+  "DFr_0EC8EB4F.Text": {
+    "": {
+      "Text": "I’m never speaking to you again!"
+    },
+    "Context": "Flow/prologue_gameower/02_ari: \"I’m never speaking to you again!\""
+  },
+  "DFr_A061F425.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"...\""
+  },
+  "DFr_21D6544C.Text": {
+    "": {
+      "Text": "Soooo..."
+    },
+    "Context": "Flow/prologue_gameower/03_billy: \"Soooo...\""
+  },
+  "DFr_D476AEEB.Text": {
+    "": {
+      "Text": "how much will you be buying?"
+    },
+    "Context": "Flow/prologue_gameower/03_billy: \"how much will you be buying?\""
+  },
+  "DFr_1A17C07C.Text": {
+    "": {
+      "Text": "(Well, uh, ^^^^^^^I wound up buying ALL of the deer repellent.)"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"(Well, uh, ^^^^^^^I wound up buying...\""
+  },
+  "DFr_FD37ADB6.Text": {
+    "": {
+      "Text": "(...And nothing was really learned that day.)"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"(...And nothing was really learned...\""
+  },
+  "DFr_2F8CBCBD.Text": {
+    "": {
+      "Text": "So I’m going to need a decision, ^^^^^soon. ^^^^^^^^I need to be on my way."
+    },
+    "Context": "Flow/prologue_gameower/03_billy: \"So I’m going to need a decision, ^^...\""
+  },
+  "DFr_E69F0ED6.Text": {
+    "": {
+      "Text": "..."
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"...\""
+  },
+  "DFr_C3C40194.Text": {
+    "": {
+      "Text": "Okay. ^^^^^^"
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"Okay. ^^^^^^\""
+  },
+  "DFr_85C8167C.Text": {
+    "": {
+      "Text": "Okay! ^^^^^You know what? ^^^^^I’ll buy some."
+    },
+    "Context": "Flow/prologue_gameower/01_socrates: \"Okay! ^^^^^You know what? ^^^^^I’ll...\""
+  },
+  "DFr_8B7EC8EF.Text": {
+    "": {
+      "Text": "But... ^^^you hardly told me anything!"
+    },
+    "Context": "Flow/prologue_p1_1/01_socrates: \"But... ^^^you hardly told me anythi...\""
+  },
+  "DFr_AF642F8A.Text": {
+    "": {
+      "Text": "Horsefeathers!! ^^^^^^I told you my product was the best, didn’t I? ^^^^^^^^What more do you need to know?"
+    },
+    "Context": "Flow/prologue_p1_1/03_billy: \"Horsefeathers!! ^^^^^^I told you my...\""
+  },
+  "DFr_FCEF0799.Text": {
+    "": {
+      "Text": "Ariadne Jones, ^^this is all your fault! ^^^^^He didn’t tell me anything!"
+    },
+    "Context": "Flow/prologue_p1_1/01_socrates: \"Ariadne Jones, ^^this is all your f...\""
+  },
+  "DFr_442C16F2.Text": {
+    "": {
+      "Text": "....What do I do?"
+    },
+    "Context": "Flow/prologue_p1_1/01_socrates: \"....What do I do?\""
+  },
+  "DFr_B282A102.Text": {
+    "": {
+      "Text": "Well, generally, one goes about getting more information by asking questions."
+    },
+    "Context": "Flow/prologue_p1_1/02_ari: \"Well, generally, one goes about get...\""
+  },
+  "DFr_067FC5BA.Text": {
+    "": {
+      "Text": "In this case, ^^^it’s probably most appropriate to ^^^^<color=#BB0000>Ask for Clarification</color>."
+    },
+    "Context": "Flow/prologue_p1_1/02_ari: \"In this case, ^^^it’s probably most...\""
+  },
+  "DFr_EEB732CB.Text": {
+    "": {
+      "Text": "If you can clear up any vagueness surrounding his ideas, ^^^you’ll be in a much better position to deal with them."
+    },
+    "Context": "Flow/prologue_p1_1/02_ari: \"If you can clear up any vagueness s...\""
+  },
+  "DFr_98AE5EA7.Text": {
+    "": {
+      "Text": "Right... ^^^^^Okay then..."
+    },
+    "Context": "Flow/prologue_p1_1/01_socrates: \"Right... ^^^^^Okay then...\""
+  },
+  "DFr_B2B56BD9.Text": {
+    "": {
+      "Text": "Good! ^^^^^Most arguments are made out of multiple statements. ^^^^Be sure to check them all for anything that seems vague."
+    },
+    "Context": "Flow/prologue_p1_1/02_ari: \"Good! ^^^^^Most arguments are made...\""
+  },
+  "DFr_D16CE66B.Text": {
+    "": {
+      "Text": "So what do you think, Partner? ^^^You buying?"
+    },
+    "Context": "Flow/prologue_p1_1/03_billy: \"So what do you think, Partner? ^^^Y...\""
+  },
+  "DFr_0515766F.Text": {
+    "": {
+      "Text": "Actually, ^^^^^could I hear your pitch again?"
+    },
+    "Context": "Flow/prologue_p1_1/01_socrates: \"Actually, ^^^^^could I hear your pi...\""
+  },
+  "DFr_8D21E2DD.Text": {
+    "": {
+      "Text": "Sure thing, ^^^^Partner!"
+    },
+    "Context": "Flow/prologue_p1_1/03_billy: \"Sure thing, ^^^^Partner!\""
+  },
+  "DFr_A22102D3.Text": {
+    "": {
+      "Text": "“Ask for Clarification” option added."
+    },
+    "Context": "Flow/prologue_p1_1/12_notification: \"“Ask for Clarification” option adde...\""
+  },
+  "DFr_DFB8546C.Text": {
+    "": {
+      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
+    },
+    "Context": "Flow/prologue_s1_argument/i1: \"Deer are most commonly found in lar...\""
+  },
+  "DFr_529BB4BF.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/prologue_s1_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_7153E08A.Text": {
+    "": {
+      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
+    },
+    "Context": "Flow/prologue_a2/i1: \"Deer are most commonly found in lar...\""
+  },
+  "DFr_69F08435.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/prologue_a2/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_29C1AA34.Text": {
+    "": {
+      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
+    },
+    "Context": "Flow/prologue_a3_argument/i1: \"Deer are most commonly found in lar...\""
+  },
+  "DFr_EE807716.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/prologue_a3_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "DFr_A0BFF99A.Text": {
+    "": {
+      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
+    },
+    "Context": "Flow/prologue_p4_argument/i1: \"Deer are most commonly found in lar...\""
+  },
+  "DFr_D95E851E.Text": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/prologue_p4_argument/i0: \"My opponent only believes what he d...\""
+  },
+  "Ntt_406C2809.DisplayName": {
+    "": {
+      "Text": "02_ari"
+    },
+    "Context": "Entities/02_ari"
+  },
+  "Ntt_52EFC8D7.DisplayName": {
+    "": {
+      "Text": "01_socrates"
+    },
+    "Context": "Entities/01_socrates"
+  },
+  "Ntt_E1112220.DisplayName": {
+    "": {
+      "Text": "04_arbiter"
+    },
+    "Context": "Entities/04_arbiter"
+  },
+  "Ntt_0940413C.DisplayName": {
+    "": {
+      "Text": "09_kant"
+    },
+    "Context": "Entities/09_kant"
+  },
+  "Ntt_20504E66.DisplayName": {
+    "": {
+      "Text": "06_protagoras"
+    },
+    "Context": "Entities/06_protagoras"
+  },
+  "Ntt_E0BCEF21.DisplayName": {
+    "": {
+      "Text": "08_mill"
+    },
+    "Context": "Entities/08_mill"
+  },
+  "Ntt_15DBE53D.DisplayName": {
+    "": {
+      "Text": "05_euthypro"
+    },
+    "Context": "Entities/05_euthypro"
+  },
+  "Ntt_484678B9.DisplayName": {
+    "": {
+      "Text": "07_hobbes"
+    },
+    "Context": "Entities/07_hobbes"
+  },
+  "Ntt_7D7EF15A.DisplayName": {
+    "": {
+      "Text": "03_billy"
+    },
+    "Context": "Entities/03_billy"
+  },
+  "Ntt_11108B5D.DisplayName": {
+    "": {
+      "Text": "10_crowd"
+    },
+    "Context": "Entities/10_crowd"
+  },
+  "Ntt_2D3E3EF2.DisplayName": {
+    "": {
+      "Text": "12_notification"
+    },
+    "Context": "Entities/12_notification"
+  },
+  "Ntt_DA53CBBE.DisplayName": {
+    "": {
+      "Text": "11_nobody"
+    },
+    "Context": "Entities/11_nobody"
+  }
+}
