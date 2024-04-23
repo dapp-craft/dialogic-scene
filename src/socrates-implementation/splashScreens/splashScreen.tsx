@@ -1,12 +1,12 @@
 import { Color4 } from "@dcl/sdk/math";
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
-import { palette } from "../../engine/ui/palette";
-import { canvasWidth } from "../../engine/ui/canvasConstants";
+import { palette } from "../../dcl-novel-engine/engine/ui/palette";
+import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
 import { timers } from "@dcl-sdk/utils";
-import UiStaticMethods from "../../engine/ui/ui-static-methods";
-import { note_button, settings_button } from "../../engine/ui/button/buttonsCanvas";
+import UiStaticMethods from "../../dcl-novel-engine/engine/ui/ui-static-methods";
+import { note_button, settings_button } from "../../dcl-novel-engine/engine/ui/button/buttonsCanvas";
 import { title } from "../ui/title";
-import { Tween } from "../../engine/addons/tween";
+import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
 
 // #region Loading Splash Screen
 let loadingScreenVisible = true;

@@ -1,6 +1,6 @@
 import { InputAction } from "@dcl/sdk/ecs";
-import { Resources } from "../../../resources";
-import { ButtonTemplate } from "../../../engine/ui/button/renderedButton";
+import { Resources } from "../../../dcl-novel-engine/resources";
+import { ButtonTemplate } from "../../../dcl-novel-engine/engine/ui/button/renderedButton";
 import { Color4 } from "@dcl/ecs-math";
 
 export const buttonTemplates: ButtonTemplate[] = [

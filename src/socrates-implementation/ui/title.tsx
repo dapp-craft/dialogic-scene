@@ -1,6 +1,6 @@
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
-import { canvasWidth } from "../../engine/ui/canvasConstants";
-import { palette } from "../../engine/ui/palette";
+import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
+import { palette } from "../../dcl-novel-engine/engine/ui/palette";
 
 let titleText = "Let's find them into strange magic forest!"
 let visible = true;

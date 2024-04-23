@@ -1,9 +1,9 @@
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
 import { Color4, Vector3 } from "@dcl/sdk/math";
 import { saveAndQuit } from "./new-chapter";
-import { canvasHeight, canvasWidth } from "../../engine/ui/canvasConstants";
-import { Tween } from "../../engine/addons/tween";
-import { palette } from "../../engine/ui/palette";
+import { canvasHeight, canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
+import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
+import { palette } from "../../dcl-novel-engine/engine/ui/palette";
  
 let visible =false;
 let victoryFunction = ()=>{};

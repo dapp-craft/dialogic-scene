@@ -1,14 +1,14 @@
 import { Entity, UiBackground } from "@dcl/sdk/ecs";
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
-import { novelEngine } from "../..";
+import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 import { getPlayerPosition, playSound, timers } from "@dcl-sdk/utils";
 import { Vector3 } from "@dcl/ecs-math";
 import { Color4 } from "@dcl/sdk/math";
-import { canvasHeight, canvasWidth } from "../../engine/ui/canvasConstants";
-import { Tween } from "../../engine/addons/tween";
+import { canvasHeight, canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
+import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
 import { saveAndQuit } from "./new-chapter";
 import { setUiCanvas } from "../splashScreens/splashScreen";
-import { soundController } from "../../engine/util/sound-controller";
+import { soundController } from "../../dcl-novel-engine/engine/util/sound-controller";
 
 let theme_sound: Entity|undefined = undefined;
 let continueVisible = false;

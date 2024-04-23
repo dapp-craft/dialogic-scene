@@ -4,12 +4,12 @@ import { showVictorySplashScreen } from "./ui/victory-screen";
 import { credibilityStats, setCredibility } from "./ui/credibility";
 import { setTitleText } from "./ui/title";
 import { drawNewChapter } from "./ui/new-chapter";
-import Sequence from "../engine/sequence/sequence";
-import Frame from "../engine/sequence/frame";
+import Sequence from "../dcl-novel-engine/engine/sequence/sequence";
+import Frame from "../dcl-novel-engine/engine/sequence/frame";
 import { IFrameNote, notesTab } from "./ui/notes";
-import { setNoteButtonVisible } from "../engine/ui/button/buttonsCanvas";
-import { buttonConfig } from "../engine/ui/button/buttonConfig";
-import NodeType from "../engine/parser/enum/enum-type-node";
+import { setNoteButtonVisible } from "../dcl-novel-engine/engine/ui/button/buttonsCanvas";
+import { buttonConfig } from "../dcl-novel-engine/engine/ui/button/buttonConfig";
+import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
 
 export default class UserCreatedController{
 

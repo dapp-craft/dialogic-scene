@@ -1,10 +1,10 @@
 import ReactEcs, { ReactEcsRenderer, UiEntity } from "@dcl/sdk/react-ecs";
-import { novelEngine } from "../..";
-import { cameraChild, playerChildren } from "../../factory";
+import { cameraChild, playerChildren } from "../../dcl-novel-engine/factory";
 import { Transform, engine } from "@dcl/sdk/ecs";
 import { Color4, Vector3 } from "@dcl/sdk/math";
 import { changeRealm, movePlayerTo } from "~system/RestrictedActions";
 import { timers } from "@dcl-sdk/utils";
+import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 
 export function saveAndQuit(){
     visible = false;
@@ -23,7 +23,7 @@ export function saveAndQuit(){
         cameraTarget: Vector3.create(2, 2 , 2),  
     })
     timers.setTimeout(()=>{
-        novelEngine.uiController.overlayController.hideOverlay();
+        engineInstance.uiController.overlayController.hideOverlay();
     }, 500)
 
     ReactEcsRenderer.destroy();
@@ -31,8 +31,8 @@ export function saveAndQuit(){
 }
 function newChapter(target:string){
     visible = false; 
-    novelEngine.uiController.visible = true;
-    novelEngine.showFrame(target)
+    engineInstance.uiController.visible = true;
+    engineInstance.showFrame(target)
 }   
  
 let visible = false;
@@ -40,7 +40,7 @@ let targetFrame = ""
 export function drawNewChapter(target:string){
     visible = true;
     targetFrame = target;
-    novelEngine.uiController.visible = false;
+    engineInstance.uiController.visible = false;
 }
 export function renderChapter(){
     return(<UiEntity

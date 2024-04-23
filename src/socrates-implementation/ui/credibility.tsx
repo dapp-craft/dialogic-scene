@@ -1,9 +1,9 @@
 import { Color4 } from "@dcl/sdk/math";
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
-import { Tween } from "../../engine/addons/tween";
-import Frame from "../../engine/sequence/frame";
-import { novelEngine } from "../..";
-import { canvasWidth } from "../../engine/ui/canvasConstants";
+import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
+import Frame from "../../dcl-novel-engine/engine/sequence/frame";
+import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
+import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 
 
 export const credibilityStats = {
@@ -12,7 +12,7 @@ export const credibilityStats = {
 }
 
 export function setCredibility(frame: Frame){
-    let val = novelEngine._variables["Socrates.credibility"].value
+    let val = engineInstance._variables["Socrates.credibility"].value
 
     credibilityStats.visible = frame.parameters.showHpButton;
 

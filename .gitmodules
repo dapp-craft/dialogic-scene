@@ -1,0 +1,4 @@
+[submodule "src/dcl-novel-engine"]
+	path = src/dcl-novel-engine
+	url = https://github.com/dapp-craft/dcl-novel-engine.git
+	branch = engine-only

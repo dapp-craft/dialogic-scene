@@ -1,6 +1,6 @@
 import { Color4 } from "@dcl/sdk/math";
 import ReactEcs, { Button, Input, Label, UiEntity } from "@dcl/sdk/react-ecs";
-import { currentFrameId } from "../../engine/engine";
+import { currentFrameId } from "../../dcl-novel-engine/engine/engine";
 import { novelEngine, philisophyQuest } from "../..";
 
 let goalFrame: string = "0x0100000000000000";

@@ -1,12 +1,12 @@
 import ReactEcs, { Label, UiEntity } from "@dcl/sdk/react-ecs";
-import { Resources } from "../../resources";
+import { Resources } from "../../dcl-novel-engine/resources";
 import { Color4, Vector3 } from "@dcl/sdk/math";
-import { novelEngine } from "../..";
-import { setNoteButtonVisible } from "../../engine/ui/button/buttonsCanvas";
-import { canvasWidth } from "../../engine/ui/canvasConstants";
+import { engineInstance } from "../../dcl-novel-engine/engine/engine";
+import { setNoteButtonVisible } from "../../dcl-novel-engine/engine/ui/button/buttonsCanvas";
+import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
 import { setTitleText } from "./title";
-import UiStaticMethods from "../../engine/ui/ui-static-methods";
-import { palette } from "../../engine/ui/palette";
+import UiStaticMethods from "../../dcl-novel-engine/engine/ui/ui-static-methods";
+import { palette } from "../../dcl-novel-engine/engine/ui/palette";
 import { getPlayerPosition, playSound } from "@dcl-sdk/utils";
 
 export interface IFrameNote{
@@ -46,7 +46,7 @@ export class NotesTab{
             onMouseDown={()=>{  
                 if(note.targetId){
                     setTitleText(this.rememberedTitle);
-                    novelEngine.showFrame(note.targetId)
+                    engineInstance.showFrame(note.targetId)
                     this.visible = false;
                     this.closable = true;
                     setNoteButtonVisible(true);
@@ -191,9 +191,9 @@ export class NotesTab{
                            playSound("Assets/Audio/click.wav", false, Vector3.subtract(getPlayerPosition(), Vector3.create(0, 2, 0)))
                        // }
                        if(!this.closable){
-                        let prev = novelEngine.getPrevousFrame()
+                        let prev = engineInstance.getPrevousFrame()
                             if(prev)
-                                novelEngine.showFrame(prev);
+                                engineInstance.showFrame(prev);
                        }
                          
                     }}
