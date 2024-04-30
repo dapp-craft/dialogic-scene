@@ -1,16 +1,16 @@
 import Engine from './dcl-novel-engine/engine/engine'
 import { timers } from '@dcl-sdk/utils'
-import { hideLoadingSplashScreen, showErrorSplashScreen, showGameOverSplashScreen, showLoadingSplashScreen } from './socrates-implementation/splashScreens/splashScreen'
-import { createContinueButton, createStartButton } from './socrates-implementation/ui/startGame'
+import { hideLoadingSplashScreen, showErrorSplashScreen, showGameOverSplashScreen, showLoadingSplashScreen } from './phylosopher-implementation/splashScreens/splashScreen'
+import { createContinueButton, createStartButton } from './phylosopher-implementation/ui/startGame'
 import { buildMap } from './dcl-novel-engine/factory'
 import { Quest } from './quest'
 import { ReactEcsRenderer } from '@dcl/sdk/react-ecs'
 import { RootCanvas } from './ui'
 import { settings } from './dcl-novel-engine/engine/ui/settings'
-import UserCreatedController from './socrates-implementation/user-created-controller'
+import UserCreatedController from './phylosopher-implementation/user-created-controller'
 import IHookNode from './dcl-novel-engine/engine/parser/interface/i-hook-node'
 import { getPlayer } from '@dcl/sdk/src/players'
-import { showVictorySplashScreen } from './socrates-implementation/ui/victory-screen'
+import { showVictorySplashScreen } from './phylosopher-implementation/ui/victory-screen'
 
 async function startChapter(chapter: string) {
     console.log("Loading package: " + chapter)
