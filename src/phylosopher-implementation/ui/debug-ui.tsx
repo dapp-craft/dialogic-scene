@@ -4,7 +4,7 @@ import { currentFrameId } from "../../dcl-novel-engine/engine/engine";
 import { novelEngine, philisophyQuest } from "../..";
 
 let goalFrame: string = "0x0100000000000000";
-
+// the debug ui shows a bar to quickly move between frames
 export const debugUI = () => (
 <UiEntity
     key={"debugUI"}

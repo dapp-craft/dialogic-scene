@@ -7,6 +7,8 @@ import { timers } from "@dcl-sdk/utils";
 import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 import { hideLoadingSplashScreen, showLoadingSplashScreen } from "../splashScreens/splashScreen";
 
+
+// this function needs to move player on new location and remove all resources.
 export function saveAndQuit(){
     visible = false;
 
@@ -32,6 +34,7 @@ export function saveAndQuit(){
 
     changeRealm({ realm: 'peer.decentraland.org' })
 }
+
 function newChapter(target:string){
     visible = false; 
     engineInstance.getUiController().visible = true;
@@ -40,6 +43,7 @@ function newChapter(target:string){
  
 let visible = false;
 let targetFrame = ""
+
 export function drawNewChapter(target:string){
     visible = true;
     targetFrame = target;
@@ -69,9 +73,6 @@ export function renderChapter(){
                    
                     newChapter(targetFrame);
                 }}
-                uiBackground={{
-                 // color:Color4.Red() //pallete.noteBackground
-                }}
                 />
             <UiEntity
                 uiTransform={{
@@ -80,9 +81,6 @@ export function renderChapter(){
                     position: { bottom: "-10%"},
                     alignSelf: 'center',
                     margin:"2%"
-                }}
-                uiBackground={{
-                    //color: Color4.Red()//pallete.noteBackground
                 }}
               
                 onMouseDown={()=>{

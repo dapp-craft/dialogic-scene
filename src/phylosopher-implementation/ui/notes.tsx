@@ -15,16 +15,13 @@ export interface IFrameNote{
     targetId?: string
 }
 
+// The notes tab implementation. You can add your own system by the same pattern
 export class NotesTab{
     
-
     public visible = false;
     public closable = true;
     public notes: IFrameNote[]= [];
     public rememberedTitle: string|undefined = "";
-    // Notes tab settings
-
-  //  private size = 0.001 * canvasWidth;
     private first = 0;
     private maxCount = 3;
     
@@ -39,9 +36,6 @@ export class NotesTab{
                 alignContent: 'center',
                 flexDirection: 'column',
                 margin: "1%"
-            }}
-            uiBackground={{
-              //  color: palette.gray
             }}
             onMouseDown={()=>{  
                 if(note.targetId){
@@ -138,8 +132,6 @@ export class NotesTab{
             uiTransform={{
                 width: canvasWidth * 0.6,
                 height: canvasWidth * 0.6 * 620 / 1024 ,
-                // width: "100%",
-                // height: "100%",
                 position: {top: "2%"},
                
                 
@@ -153,7 +145,6 @@ export class NotesTab{
                 texture:{
                     src: Resources.ui.notesBackground
                 },
-               // color: Color4.Red()
             }}
             >
                    <UiEntity
@@ -184,21 +175,18 @@ export class NotesTab{
                     }}
                     
                     onMouseDown={()=>{
-                       // if(this.closable){
-                            setTitleText(this.rememberedTitle);
-                            this.visible = false;
-                            setNoteButtonVisible(true);
-                           playSound("Assets/Audio/click.wav", false, Vector3.subtract(getPlayerPosition(), Vector3.create(0, 2, 0)))
-                       // }
+
+                        setTitleText(this.rememberedTitle);
+                        this.visible = false;
+                        setNoteButtonVisible(true);
+                        playSound("Assets/Audio/click.wav", false, Vector3.subtract(getPlayerPosition(), Vector3.create(0, 2, 0)))
+
                        if(!this.closable){
                         let prev = engineInstance.getPrevousFrame()
                             if(prev)
                                 engineInstance.showFrame(prev);
                        }
                          
-                    }}
-                    uiBackground={{
-                      // color: Color4.Red()
                     }}
                 />
                 <UiEntity

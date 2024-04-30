@@ -166,34 +166,4 @@ export function hideErrorSplashScreen(){
 }
 
 // #endregion
-export function setUiCanvas(visible: boolean) {
-    uiCanvasVisible = visible;
-  }
-  let uiCanvasVisible = false;
-export function uiCanvas (){
-  return (<UiEntity
-      key={"uiCanvas"}
-      uiTransform={{
-        width: "100%",
-        height: "100%",
-        positionType: 'absolute',
-        alignItems: "center",
-        alignContent: "center",
-        justifyContent: "flex-start",
-        flexDirection: 'column',
-   //     display: uiCanvasVisible ? 'flex' : 'none'
-      }}
-    >
-  
-      {
-        note_button()
-      }
-      {
-        settings_button()
-      }
-      {
-        title()
-      }
-  
-    </UiEntity>
-  )}
+

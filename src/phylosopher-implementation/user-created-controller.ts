@@ -12,9 +12,6 @@ import { buttonConfig } from "../dcl-novel-engine/engine/ui/button/buttonConfig"
 import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
 import { NovelController } from "../dcl-novel-engine/engine/util/controller";
 
-
-// write official comments for people who will try to repeat this code
-
 /// <summary>
 /// This class is an example of class, which is responsible for handling the custom logic of the game.
 /// You can create your own class and implement the logic you need, just make sure to add it to the NovelEngine by its constructor.
@@ -76,10 +73,10 @@ export default class UserCreatedController extends NovelController
         }
         
     }
-    public newChapterLogic(frame: Frame){
-        drawNewChapter(frame.buttons[0].targetFrame)
-        novelEngine.getUiController().forgetAllMarkables();
-    }
+    ///<summary>
+    /// This method is called when the sequences are loaded. You can use
+    /// information about all frames of your game to implement some logic.
+    ///</summary>
     public setSequences(sequences: Sequence[]) {
         for(let i = 0; i < sequences.length; i ++){
             for(let j = 0; j < sequences[i].frames.length; j++){
@@ -89,6 +86,7 @@ export default class UserCreatedController extends NovelController
             }
         }
     }
+    // The service node is a special node that is used to display additional information to the player.
     private loadServiceNode(frame:Frame){
 
         let b = frame.buttons;
@@ -96,12 +94,17 @@ export default class UserCreatedController extends NovelController
         if (frame.menuText == "Challenge") {
 
             novelEngine.getUiController().stopTextAnimation = true;
-            
+        
             notesTab.rememberedTitle = frame.parameters.title;
+
             setTitleText("")
+
             notesTab.visible = true;
+
             setNoteButtonVisible(false);
+
             notesTab.notes = []
+
             for (let i = 0; i < frame.buttons.length; i++) {
                 if (/^i\d+$/.test(b[i].text)) {
                         // console.log(b[i])
@@ -117,10 +120,7 @@ export default class UserCreatedController extends NovelController
                 }
             }
             notesTab.closable = notesTab.notes.length == 0;
-            // timers.setTimeout(() => {
 
-            //     this.updateTextByAnimation(this.npcText, "Challenge", 10, () => { })
-            // }, 20)
             novelEngine.getUiController().visible = true;
             buttonConfig.refresh();
             
@@ -129,6 +129,11 @@ export default class UserCreatedController extends NovelController
             novelEngine.showFrame(frame.buttons[0].targetFrame)
         }
         
+    }
+
+    public newChapterLogic(frame: Frame){
+        drawNewChapter(frame.buttons[0].targetFrame)
+        novelEngine.getUiController().forgetAllMarkables();
     }
 
     private isChapterFrame(filePath?: string){

@@ -4,6 +4,7 @@ import { palette } from "../../dcl-novel-engine/engine/ui/palette";
 
 let titleText = "Let's find them into strange magic forest!"
 let visible = true;
+// this function is responsible for setting the title text
 export function setTitleText(text?: string) {
     if (text) {
         titleText = text;
@@ -14,6 +15,7 @@ export function setTitleText(text?: string) {
     } 
 }
 
+// the title, which shows sometimes in the game
 export const title = () => (
     <UiEntity
         uiTransform={

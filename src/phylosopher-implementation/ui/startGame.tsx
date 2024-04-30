@@ -7,8 +7,13 @@ import { Color4 } from "@dcl/sdk/math";
 import { canvasHeight, canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
 import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
 import { saveAndQuit } from "./new-chapter";
-import { setUiCanvas } from "../splashScreens/splashScreen";
 import { soundController } from "../../dcl-novel-engine/engine/util/sound-controller";
+import { setUiCanvas } from "../buttonsCanvas";
+
+
+// Here you can see the implementation of the Start Game screen. 
+// You can add a new screen by following the same pattern.
+// Just use visible = false to hide the screen and start the game!
 
 let theme_sound: Entity|undefined = undefined;
 let continueVisible = false;
@@ -20,9 +25,9 @@ let continueButtonFunction = ()=>{};
 let lobbyParams = {size: 1};
 let lobbyAnimation = new Tween(lobbyParams);
 
+
 export function createContinueButton(action:()=>void)
 {
-   
     continueVisible = true;
     theme_sound = soundController.playMusicSound("Assets/Audio/Decentraland_Philosophy Game_Reflection Theme.mp3", true, Vector3.create(0, 11, 0));
     continueButtonFunction = action;
