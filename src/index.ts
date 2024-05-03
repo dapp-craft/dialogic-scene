@@ -142,9 +142,7 @@ export async function main() {
 
     novelEngine.addOnNodeParsedHook((node: IHookNode, packageId: string) => {
         if (node.type == "ideaContent") {
-            const idea = _parseIdea(node.data, node.data.PackageName);
-            console.log("Idea: ")
-            console.log(idea)
+            const idea = _parseIdea(node.data, packageId);
             if (idea == undefined) {
                 return;
             }
