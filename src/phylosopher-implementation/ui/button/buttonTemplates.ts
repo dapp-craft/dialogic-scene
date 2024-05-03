@@ -2,7 +2,7 @@ import { InputAction } from "@dcl/sdk/ecs";
 import { Resources } from "../../../dcl-novel-engine/resources";
 import { ButtonTemplate } from "../../../dcl-novel-engine/engine/ui/button/renderedButton";
 import { Color4 } from "@dcl/ecs-math";
-import { buttonConfig } from "../../../dcl-novel-engine/engine/ui/button/buttonConfig";
+import { ButtonConfig } from "../../../dcl-novel-engine/engine/ui/button/buttonConfig";
 
 /// <reference path="../../../dcl-novel-engine/engine/ui/button/buttonConfig.ts" />
 /// <reference path="../../../dcl-novel-engine/engine/ui/button/renderedButton.tsx" />
@@ -189,4 +189,4 @@ export const buttonTemplates: ButtonTemplate[] = [
   // // 0x0100000000005358
   ]
   
-buttonConfig.addTemplates(buttonTemplates);
+export const buttonConfig = new ButtonConfig(buttonTemplates);

@@ -5,7 +5,9 @@ import Frame from "../../dcl-novel-engine/engine/sequence/frame";
 import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
 import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 
-
+/// <summary>
+/// It is the implementation of changable variable - Credibility. Credibility represented as a field-bar and updates via input jsons
+/// <summary>
 export const credibilityStats = {
     visible: false,
     value: 0.5

@@ -8,9 +8,9 @@ import Sequence from "../dcl-novel-engine/engine/sequence/sequence";
 import Frame from "../dcl-novel-engine/engine/sequence/frame";
 import { IFrameNote, notesTab } from "./ui/notes";
 import { setNoteButtonVisible } from "./buttonsCanvas";
-import { buttonConfig } from "../dcl-novel-engine/engine/ui/button/buttonConfig";
 import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
 import { NovelController } from "../dcl-novel-engine/engine/util/controller";
+import { buttonConfig } from "./ui/button/buttonTemplates";
 
 /// <summary>
 /// This class is an example of class, which is responsible for handling the custom logic of the game.
