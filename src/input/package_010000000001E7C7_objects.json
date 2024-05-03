@@ -1859,286 +1859,6 @@
       }
     },
     {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_D14A974F",
-        "Id": "0x0100000200010702",
-        "Parent": "0x010000020001033B",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_D14A974F.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 3350.0,
-          "y": -125.0
-        },
-        "ZIndex": 165.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3511326543,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200010703",
-            "Owner": "0x0100000200010702"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200010704",
-            "Owner": "0x0100000200010702",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000200010703",
-                "Target": "0x0100000200010702"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_F21C8823",
-        "Id": "0x0100000200010AC0",
-        "Parent": "0x010000020001083E",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_F21C8823.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 3700.0,
-          "y": -400.0
-        },
-        "ZIndex": 165.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 4061956131,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200010AC1",
-            "Owner": "0x0100000200010AC0"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200010AC2",
-            "Owner": "0x0100000200010AC0",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000200010AC1",
-                "Target": "0x0100000200010AC0"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_52387080",
-        "Id": "0x0100000200010AC9",
-        "Parent": "0x010000020001083E",
-        "MenuText": "Speech Penalty",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_52387080.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 3700.0,
-          "y": -150.0
-        },
-        "ZIndex": 165.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1379430528,
-        "InputPins": [
-          {
-            "Text": "Protagoras.i1_unlock == true",
-            "Id": "0x0100000200010ACA",
-            "Owner": "0x0100000200010AC9"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200010ACB",
-            "Owner": "0x0100000200010AC9",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000200010ACA",
-                "Target": "0x0100000200010AC9"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_50EFEBFB",
-        "Id": "0x0100000200011016",
-        "Parent": "0x0100000200010FE4",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_50EFEBFB.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2675.0,
-          "y": -250.0
-        },
-        "ZIndex": 165.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1357900795,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200011017",
-            "Owner": "0x0100000200011016"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000200011018",
-            "Owner": "0x0100000200011016",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000200011017",
-                "Target": "0x0100000200011016"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_60515310",
-        "Id": "0x010000020001101D",
-        "Parent": "0x0100000200010FE4",
-        "MenuText": "Speech Penalty",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_60515310.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2675.0,
-          "y": 0.0
-        },
-        "ZIndex": 165.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1615942416,
-        "InputPins": [
-          {
-            "Text": "Protagoras.i1_unlock == true",
-            "Id": "0x010000020001101E",
-            "Owner": "0x010000020001101D"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000020001101F",
-            "Owner": "0x010000020001101D",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000020001101E",
-                "Target": "0x010000020001101D"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
       "Type": "nodeTemplateFrame_02",
       "Properties": {
         "TechnicalName": "DFr_435449C6",
@@ -4207,7 +3927,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "",
+            "Text": "Socrates.credibility = 5",
             "Id": "0x01000002000101DC",
             "Owner": "0x01000002000101DA",
             "Connections": [
@@ -60574,6 +60294,231 @@
       }
     },
     {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_A45E2C44",
+        "Id": "0x010000000001F0CE",
+        "Parent": "0x010000020001033B",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 3300.0,
+          "y": -50.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2757635140,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0CF",
+            "Owner": "0x010000000001F0CE"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0D0",
+            "Owner": "0x010000000001F0CE"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_A45E2C44.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_40573311",
+        "Id": "0x010000000001F0D6",
+        "Parent": "0x010000020001083E",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 3700.0,
+          "y": -325.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1079456529,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0D7",
+            "Owner": "0x010000000001F0D6"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0D8",
+            "Owner": "0x010000000001F0D6"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_40573311.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_2A4435B1",
+        "Id": "0x010000000001F17E",
+        "Parent": "0x010000020001083E",
+        "DisplayName": "Speech Penalty",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 3700.0,
+          "y": -125.0
+        },
+        "ZIndex": 308.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 709113265,
+        "InputPins": [
+          {
+            "Text": "Protagoras.i1_unlock == true",
+            "Id": "0x010000000001F180",
+            "Owner": "0x010000000001F17E"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F181",
+            "Owner": "0x010000000001F17E"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_2A4435B1.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_0F741ECD",
+        "Id": "0x010000000001F0DE",
+        "Parent": "0x0100000200010FE4",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2675.0,
+          "y": -175.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 259268301,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0DF",
+            "Owner": "0x010000000001F0DE"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0E0",
+            "Owner": "0x010000000001F0DE"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_0F741ECD.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_15FCDED9",
+        "Id": "0x010000000001F18B",
+        "Parent": "0x0100000200010FE4",
+        "DisplayName": "Speech Penalty",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2675.0,
+          "y": 50.0
+        },
+        "ZIndex": 308.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 368893657,
+        "InputPins": [
+          {
+            "Text": "Protagoras.i1_unlock == true",
+            "Id": "0x010000000001F18C",
+            "Owner": "0x010000000001F18B"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F18D",
+            "Owner": "0x010000000001F18B"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_15FCDED9.idea.ideaDescription"
+        }
+      }
+    },
+    {
       "Type": "chapterConnector",
       "Properties": {
         "TechnicalName": "Hub_6E0BEFC5",
@@ -60706,8 +60651,8 @@
         "Text": "",
         "ExternalId": "",
         "Position": {
-          "x": 3065.54593269939,
-          "y": -38.4667491860504
+          "x": 3075.0,
+          "y": -50.0
         },
         "ZIndex": 163.0,
         "Size": {
@@ -60736,8 +60681,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000200010703",
-                "Target": "0x0100000200010702"
+                "TargetPin": "0x010000000001F0CF",
+                "Target": "0x010000000001F0CE"
               }
             ]
           }
@@ -60789,8 +60734,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000200010AC1",
-                "Target": "0x0100000200010AC0"
+                "TargetPin": "0x010000000001F0D7",
+                "Target": "0x010000000001F0D6"
               },
               {
                 "Color": {
@@ -60800,8 +60745,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000200010ACA",
-                "Target": "0x0100000200010AC9"
+                "TargetPin": "0x010000000001F180",
+                "Target": "0x010000000001F17E"
               }
             ]
           }
@@ -60853,8 +60798,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000200011017",
-                "Target": "0x0100000200011016"
+                "TargetPin": "0x010000000001F0DF",
+                "Target": "0x010000000001F0DE"
               },
               {
                 "Color": {
@@ -60864,8 +60809,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000020001101E",
-                "Target": "0x010000020001101D"
+                "TargetPin": "0x010000000001F18C",
+                "Target": "0x010000000001F18B"
               }
             ]
           }
@@ -64071,6 +64016,120 @@
     },
     {
       "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/NormalBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_F4510453",
+        "Id": "0x010000000001F296",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "NormalBubble",
+        "Filename": "NormalBubble(F397).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/NormalBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4098950227
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/OutcryBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_C59DD928",
+        "Id": "0x010000000001F299",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "OutcryBubble",
+        "Filename": "OutcryBubble(F398).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/OutcryBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 3315456296
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/ThoughtsBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_4D9E0C6D",
+        "Id": "0x010000000001F29C",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "ThoughtsBubble",
+        "Filename": "ThoughtsBubble(F39D).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/ThoughtsBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 1302203501
+      }
+    },
+    {
+      "Type": "Asset",
       "AssetRef": "Assets/Audio/AllOnTheLine.mp3",
       "Category": "Audio",
       "Properties": {
@@ -65788,6 +65847,17 @@
         "DisplayName": "Images",
         "ExternalId": "",
         "ShortId": 39821167
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_DD35E060",
+        "Id": "0x010000000001F292",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "bubbleSpeech",
+        "ExternalId": "",
+        "ShortId": 3711295584
       }
     },
     {

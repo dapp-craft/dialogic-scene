@@ -131,54 +131,6 @@
     },
     "Context": "Flow/euthyphro_p2_end_3"
   },
-  "DFr_5F078C34.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/euthyphro_p1_argument/i1: \"Euthyphro believes that sentient be...\""
-  },
-  "DFr_44FF4873.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/euthyphro_p1_argument/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_29A6B985.Text": {
-    "": {
-      "Text": "Euthyphro believes good things are good because gods like them."
-    },
-    "Context": "Flow/euthyphro_p1_argument/i2: \"Euthyphro believes good things are...\""
-  },
-  "DFr_B57EFB37.Text": {
-    "": {
-      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
-    },
-    "Context": "Flow/euthyphro_p1_argument/i3: \"Euthyphro's philosophy applies to a...\""
-  },
-  "DFr_D84B78B1.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/euthyphro_p2_argument/i1: \"Euthyphro believes that sentient be...\""
-  },
-  "DFr_08449113.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/euthyphro_p2_argument/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_EC3E9E38.Text": {
-    "": {
-      "Text": "Euthyphro believes good things are good because gods like them."
-    },
-    "Context": "Flow/euthyphro_p2_argument/i2: \"Euthyphro believes good things are...\""
-  },
-  "DFr_43B78563.Text": {
-    "": {
-      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
-    },
-    "Context": "Flow/euthyphro_p2_argument/i3: \"Euthyphro's philosophy applies to a...\""
-  },
   "DFr_F0F181C8.Text": {
     "": {
       "Text": "^^^^^^^Hey look! ^^^^^^^A new arrival!"
@@ -4696,6 +4648,54 @@
       "Text": "...Yes, ^^^^^^Arbiter."
     },
     "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...Yes, ^^^^^^Arbiter.\""
+  },
+  "Hub_0698D9D2.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/euthyphro_p1_argument/Your Face is Ugly!"
+  },
+  "Hub_89B70B51.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/euthyphro_p1_argument/Mankind is Flawed"
+  },
+  "Hub_7B99218E.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes good things are good because gods like them."
+    },
+    "Context": "Flow/euthyphro_p1_argument/Morality Comes from the Gods"
+  },
+  "Hub_7677CFA2.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
+    },
+    "Context": "Flow/euthyphro_p1_argument/There are Different Gods"
+  },
+  "Hub_A20B564D.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/euthyphro_p2_argument/Your Face is Ugly!"
+  },
+  "Hub_AD5DF768.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/euthyphro_p2_argument/Mankind is Flawed"
+  },
+  "Hub_9A5501C9.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes good things are good because gods like them."
+    },
+    "Context": "Flow/euthyphro_p2_argument/Morality Comes from the Gods"
+  },
+  "Hub_54FC8809.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro's philosophy applies to all gods, though they might have different ideas."
+    },
+    "Context": "Flow/euthyphro_p2_argument/There are Different Gods"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

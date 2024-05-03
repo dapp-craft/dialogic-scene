@@ -4322,6 +4322,40 @@
       }
     },
     {
+      "Type": "ideaContent",
+      "Class": "Hub",
+      "InheritsFrom": "Hub",
+      "Template": {
+        "TechnicalName": "ideaContent",
+        "DisplayName": "ideaСontent",
+        "Features": [
+          {
+            "TechnicalName": "idea",
+            "DisplayName": "idea",
+            "Properties": [
+              {
+                "Property": "ideaDescription",
+                "Type": "ArticyMultiLanguageString",
+                "DisplayName": "ideaDescription",
+                "Localizable": true
+              }
+            ],
+            "Constraints": [
+              {
+                "Property": "ideaDescription",
+                "Type": "Text",
+                "MaxLength": "2048",
+                "PlaceholderValue": "",
+                "IsLocalized": "True",
+                "AllowsLinebreaks": "True",
+                "HasVoiceOver": "False"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "Type": "Comment",
       "Class": "Comment",
       "DisplayName": "Comment",

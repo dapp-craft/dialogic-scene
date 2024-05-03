@@ -149,96 +149,6 @@
     },
     "Context": "Flow/hobbesa3_correct_4"
   },
-  "DFr_98E4CC9B.Text": {
-    "": {
-      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
-    },
-    "Context": "Flow/hobbesp1_argument/i1: \"According to Hobbes, in the natural...\""
-  },
-  "DFr_7D69B7CD.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/hobbesp1_argument/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_0AD3CA43.Text": {
-    "": {
-      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
-    },
-    "Context": "Flow/hobbesp1_argument/i2: \"Hobbes believes that man will alway...\""
-  },
-  "DFr_E365347B.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/hobbesp1_argument/i3: \"People often help each other in ord...\""
-  },
-  "DFr_69C0811D.Text": {
-    "": {
-      "Text": "Every contract requires obligations powerful enough to enforce its morals."
-    },
-    "Context": "Flow/hobbesp1_argument/i4: \"Every contract requires obligations...\""
-  },
-  "DFr_BB39B5D6.Text": {
-    "": {
-      "Text": "Every contract requires obligations powerful enough to enforce its morals."
-    },
-    "Context": "Flow/hobbesp2_argument/i4: \"Every contract requires obligations...\""
-  },
-  "DFr_B9278B1B.Text": {
-    "": {
-      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
-    },
-    "Context": "Flow/hobbesp2_argument/i1: \"According to Hobbes, in the natural...\""
-  },
-  "DFr_A761BA19.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/hobbesp2_argument/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_426134C1.Text": {
-    "": {
-      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
-    },
-    "Context": "Flow/hobbesp2_argument/i2: \"Hobbes believes that man will alway...\""
-  },
-  "DFr_39C7F919.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/hobbesp2_argument/i3: \"People often help each other in ord...\""
-  },
-  "DFr_CC880AFB.Text": {
-    "": {
-      "Text": "Every contract requires obligations powerful enough to enforce its morals."
-    },
-    "Context": "Flow/hobbesp3_argument/i4: \"Every contract requires obligations...\""
-  },
-  "DFr_E7F7BC46.Text": {
-    "": {
-      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
-    },
-    "Context": "Flow/hobbesp3_argument/i1: \"According to Hobbes, in the natural...\""
-  },
-  "DFr_9CC3BAAD.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/hobbesp3_argument/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_FE889652.Text": {
-    "": {
-      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
-    },
-    "Context": "Flow/hobbesp3_argument/i2: \"Hobbes believes that man will alway...\""
-  },
-  "DFr_F858D51A.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/hobbesp3_argument/i3: \"People often help each other in ord...\""
-  },
   "DFr_7F88E65E.Text": {
     "": {
       "Text": ""
@@ -5152,6 +5062,96 @@
       "Text": "I shall now take my leave."
     },
     "Context": "Flow/hobbesa3_correct_4/07_hobbes: \"I shall now take my leave.\""
+  },
+  "Hub_2C898E6F.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp1_argument/Your Face is Ugly!"
+  },
+  "Hub_6ACE5BD7.idea.ideaDescription": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp1_argument/The Natural State"
+  },
+  "Hub_4BA88E48.idea.ideaDescription": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp1_argument/Mankind is Selfish"
+  },
+  "Hub_7C1155E4.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp1_argument/People Work Together"
+  },
+  "Hub_B5689C81.idea.ideaDescription": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp1_argument/Contracts Need to be Enforced"
+  },
+  "Hub_24C1E31C.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp2_argument/Your Face is Ugly!"
+  },
+  "Hub_E5B0B06D.idea.ideaDescription": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp2_argument/The Natural State"
+  },
+  "Hub_04FBB9E0.idea.ideaDescription": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp2_argument/Mankind is Selfish"
+  },
+  "Hub_8D640CAD.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp2_argument/People Work Together"
+  },
+  "Hub_D3C8891C.idea.ideaDescription": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp2_argument/Contracts Need to be Enforced"
+  },
+  "Hub_DD4DC008.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/hobbesp3_argument/Your Face is Ugly!"
+  },
+  "Hub_0243E016.idea.ideaDescription": {
+    "": {
+      "Text": "According to Hobbes, in the natural state every man is in constant war with others."
+    },
+    "Context": "Flow/hobbesp3_argument/The Natural State"
+  },
+  "Hub_F595FE28.idea.ideaDescription": {
+    "": {
+      "Text": "Hobbes believes that man will always seek the greatest benefit to the self."
+    },
+    "Context": "Flow/hobbesp3_argument/Mankind is Selfish"
+  },
+  "Hub_0BB55FB0.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/hobbesp3_argument/People Work Together"
+  },
+  "Hub_D6F17A2A.idea.ideaDescription": {
+    "": {
+      "Text": "Every contract requires obligations powerful enough to enforce its morals."
+    },
+    "Context": "Flow/hobbesp3_argument/Contracts Need to be Enforced"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

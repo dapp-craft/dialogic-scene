@@ -131,36 +131,6 @@
     },
     "Context": "Flow/protagorasa3end4"
   },
-  "DFr_D14A974F.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/argument protagorasa1/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_F21C8823.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/argument protagorasa2/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_52387080.Text": {
-    "": {
-      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
-    },
-    "Context": "Flow/argument protagorasa2/i1: \"According to Protagoras, some peopl...\""
-  },
-  "DFr_50EFEBFB.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/protagorasa3/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_60515310.Text": {
-    "": {
-      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
-    },
-    "Context": "Flow/protagorasa3/i1: \"According to Protagoras, some peopl...\""
-  },
   "DFr_435449C6.Text": {
     "": {
       "Text": "Okay, ^^^^Dad. ^^^^^“Regress?”"
@@ -3340,6 +3310,36 @@
       "Text": "(That’s my namesake?! ^^^^^I really hope I’m not expected to live up to that!)"
     },
     "Context": "Flow/protagorasa3end4/01_socrates: \"(That’s my namesake?! ^^^^^I really...\""
+  },
+  "Hub_A45E2C44.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/argument protagorasa1/Your Face is Ugly!"
+  },
+  "Hub_40573311.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/argument protagorasa2/Your Face is Ugly!"
+  },
+  "Hub_2A4435B1.idea.ideaDescription": {
+    "": {
+      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
+    },
+    "Context": "Flow/argument protagorasa2/Speech Penalty"
+  },
+  "Hub_0F741ECD.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/protagorasa3/Your Face is Ugly!"
+  },
+  "Hub_15FCDED9.idea.ideaDescription": {
+    "": {
+      "Text": "According to Protagoras, some people believe that those who speak out should be put to death."
+    },
+    "Context": "Flow/protagorasa3/Speech Penalty"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

@@ -107,48 +107,6 @@
     },
     "Context": "Flow/mills5.1"
   },
-  "DFr_282BBFD6.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon's backside."
-    },
-    "Context": "Flow/milla1start/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_37F494C1.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/milla1start/i1: \"Mill believes that something can be...\""
-  },
-  "DFr_855FE572.Text": {
-    "": {
-      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
-    },
-    "Context": "Flow/milla1start/i2: \"According to Mill, it is irrelevant...\""
-  },
-  "DFr_3490760E.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon's backside."
-    },
-    "Context": "Flow/milla2/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_1C87B893.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/milla2/i1: \"Mill believes that something can be...\""
-  },
-  "DFr_64591E32.Text": {
-    "": {
-      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
-    },
-    "Context": "Flow/milla2/i2: \"According to Mill, it is irrelevant...\""
-  },
-  "DFr_7DB0174A.Text": {
-    "": {
-      "Text": "If following a rule would create unhappiness, we should replace it with a more nuanced rule."
-    },
-    "Context": "Flow/milla2/i3: \"If following a rule would create un...\""
-  },
   "DFr_D58B5F64.Text": {
     "": {
       "Text": "Well, ^^^^^I must say, ^^^Socrates, ^^^^^I’m impressed."
@@ -2578,6 +2536,48 @@
       "Text": "No..."
     },
     "Context": "Flow/mills5.1/02_ari: \"No...\""
+  },
+  "Hub_D68DFF62.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/milla1start/Your Face is Ugly!"
+  },
+  "Hub_3642B753.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/milla1start/Good is Happiness"
+  },
+  "Hub_C1D43AC3.idea.ideaDescription": {
+    "": {
+      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
+    },
+    "Context": "Flow/milla1start/Happiness Distribution"
+  },
+  "Hub_614F8BB4.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/milla2/Your Face is Ugly!"
+  },
+  "Hub_897BA774.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/milla2/Good is Happiness"
+  },
+  "Hub_B2B0AF96.idea.ideaDescription": {
+    "": {
+      "Text": "According to Mill, it is irrelevant how happiness is distributed as long as it increases overall."
+    },
+    "Context": "Flow/milla2/Happiness Distribution"
+  },
+  "Hub_B9D8F12F.idea.ideaDescription": {
+    "": {
+      "Text": "If following a rule would create unhappiness, we should replace it with a more nuanced rule."
+    },
+    "Context": "Flow/milla2/Rule Nuances"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

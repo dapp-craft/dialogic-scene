@@ -1513,398 +1513,6 @@
       }
     },
     {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_282BBFD6",
-        "Id": "0x01000004000134F6",
-        "Parent": "0x01000004000134BC",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_282BBFD6.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -875.0
-        },
-        "ZIndex": 15.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 673955798,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x01000004000134F7",
-            "Owner": "0x01000004000134F6"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x01000004000134F8",
-            "Owner": "0x01000004000134F6",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x01000004000134F7",
-                "Target": "0x01000004000134F6"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_37F494C1",
-        "Id": "0x01000004000134FE",
-        "Parent": "0x01000004000134BC",
-        "MenuText": "Good is Happiness",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_37F494C1.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -600.0
-        },
-        "ZIndex": 17.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 938775745,
-        "InputPins": [
-          {
-            "Text": "Mill.i1_unlock == true",
-            "Id": "0x01000004000134FF",
-            "Owner": "0x01000004000134FE"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013500",
-            "Owner": "0x01000004000134FE",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x01000004000134FF",
-                "Target": "0x01000004000134FE"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_855FE572",
-        "Id": "0x0100000400013718",
-        "Parent": "0x01000004000134BC",
-        "MenuText": "Happiness Distribution",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_855FE572.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -325.0
-        },
-        "ZIndex": 17.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2237654386,
-        "InputPins": [
-          {
-            "Text": "Mill.i2_unlock == true",
-            "Id": "0x0100000400013719",
-            "Owner": "0x0100000400013718"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000040001371A",
-            "Owner": "0x0100000400013718",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000400013719",
-                "Target": "0x0100000400013718"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_3490760E",
-        "Id": "0x0100000400013B2A",
-        "Parent": "0x0100000400013AF0",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_3490760E.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -875.0
-        },
-        "ZIndex": 15.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 881882638,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013B2B",
-            "Owner": "0x0100000400013B2A"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013B2C",
-            "Owner": "0x0100000400013B2A",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000400013B2B",
-                "Target": "0x0100000400013B2A"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_1C87B893",
-        "Id": "0x0100000400013B32",
-        "Parent": "0x0100000400013AF0",
-        "MenuText": "Good is Happiness",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_1C87B893.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -600.0
-        },
-        "ZIndex": 17.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 478656659,
-        "InputPins": [
-          {
-            "Text": "Mill.i1_unlock == true",
-            "Id": "0x0100000400013B33",
-            "Owner": "0x0100000400013B32"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013B34",
-            "Owner": "0x0100000400013B32",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000400013B33",
-                "Target": "0x0100000400013B32"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_64591E32",
-        "Id": "0x0100000400013C19",
-        "Parent": "0x0100000400013AF0",
-        "MenuText": "Happiness Distribution",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_64591E32.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -325.0
-        },
-        "ZIndex": 17.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1683562034,
-        "InputPins": [
-          {
-            "Text": "Mill.i2_unlock == true",
-            "Id": "0x0100000400013C1A",
-            "Owner": "0x0100000400013C19"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013C1B",
-            "Owner": "0x0100000400013C19",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000400013C1A",
-                "Target": "0x0100000400013C19"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_7DB0174A",
-        "Id": "0x0100000400013C52",
-        "Parent": "0x0100000400013AF0",
-        "MenuText": "Rule Nuances",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_7DB0174A.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2525.0,
-          "y": -50.0
-        },
-        "ZIndex": 17.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2108692298,
-        "InputPins": [
-          {
-            "Text": "Mill.i3_unlock == true",
-            "Id": "0x0100000400013C53",
-            "Owner": "0x0100000400013C52"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000400013C54",
-            "Owner": "0x0100000400013C52",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000400013C53",
-                "Target": "0x0100000400013C52"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
       "Type": "nodeTemplateFrame_04",
       "Properties": {
         "TechnicalName": "DFr_D58B5F64",
@@ -2985,7 +2593,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "",
+            "Text": "Socrates.credibility = 5",
             "Id": "0x0100000400014382",
             "Owner": "0x010000040001437E",
             "Connections": [
@@ -42560,6 +42168,321 @@
       }
     },
     {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_D68DFF62",
+        "Id": "0x010000000001F0E6",
+        "Parent": "0x01000004000134BC",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -650.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3599630178,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0E7",
+            "Owner": "0x010000000001F0E6"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0E8",
+            "Owner": "0x010000000001F0E6"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_D68DFF62.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_3642B753",
+        "Id": "0x010000000001F192",
+        "Parent": "0x01000004000134BC",
+        "DisplayName": "Good is Happiness",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -525.0
+        },
+        "ZIndex": 242.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 910341971,
+        "InputPins": [
+          {
+            "Text": "Mill.i1_unlock == true",
+            "Id": "0x010000000001F194",
+            "Owner": "0x010000000001F192"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F195",
+            "Owner": "0x010000000001F192"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_3642B753.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_C1D43AC3",
+        "Id": "0x010000000001F1F2",
+        "Parent": "0x01000004000134BC",
+        "DisplayName": "Happiness Distribution",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -400.0
+        },
+        "ZIndex": 241.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3251911363,
+        "InputPins": [
+          {
+            "Text": "Mill.i2_unlock == true",
+            "Id": "0x010000000001F1F4",
+            "Owner": "0x010000000001F1F2"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1F5",
+            "Owner": "0x010000000001F1F2"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_C1D43AC3.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_614F8BB4",
+        "Id": "0x010000000001F0EE",
+        "Parent": "0x0100000400013AF0",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -650.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1632603060,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0EF",
+            "Owner": "0x010000000001F0EE"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0F0",
+            "Owner": "0x010000000001F0EE"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_614F8BB4.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_897BA774",
+        "Id": "0x010000000001F199",
+        "Parent": "0x0100000400013AF0",
+        "DisplayName": "Good is Happiness",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -525.0
+        },
+        "ZIndex": 242.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2306582388,
+        "InputPins": [
+          {
+            "Text": "Mill.i1_unlock == true",
+            "Id": "0x010000000001F19A",
+            "Owner": "0x010000000001F199"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F19B",
+            "Owner": "0x010000000001F199"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_897BA774.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_B2B0AF96",
+        "Id": "0x010000000001F1FF",
+        "Parent": "0x0100000400013AF0",
+        "DisplayName": "Happiness Distribution",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -400.0
+        },
+        "ZIndex": 241.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2997923734,
+        "InputPins": [
+          {
+            "Text": "Mill.i2_unlock == true",
+            "Id": "0x010000000001F200",
+            "Owner": "0x010000000001F1FF"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F201",
+            "Owner": "0x010000000001F1FF"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_B2B0AF96.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_B9D8F12F",
+        "Id": "0x010000000001F25A",
+        "Parent": "0x0100000400013AF0",
+        "DisplayName": "Rule Nuances",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2525.0,
+          "y": -275.0
+        },
+        "ZIndex": 281.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3118002479,
+        "InputPins": [
+          {
+            "Text": "Mill.i3_unlock == true",
+            "Id": "0x010000000001F25C",
+            "Owner": "0x010000000001F25A"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F25D",
+            "Owner": "0x010000000001F25A"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_B9D8F12F.idea.ideaDescription"
+        }
+      }
+    },
+    {
       "Type": "chapterConnector",
       "Properties": {
         "TechnicalName": "Hub_9D9986F2",
@@ -42722,8 +42645,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x01000004000134F7",
-                "Target": "0x01000004000134F6"
+                "TargetPin": "0x010000000001F0E7",
+                "Target": "0x010000000001F0E6"
               },
               {
                 "Color": {
@@ -42733,8 +42656,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x01000004000134FF",
-                "Target": "0x01000004000134FE"
+                "TargetPin": "0x010000000001F194",
+                "Target": "0x010000000001F192"
               },
               {
                 "Color": {
@@ -42744,8 +42667,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000400013719",
-                "Target": "0x0100000400013718"
+                "TargetPin": "0x010000000001F1F4",
+                "Target": "0x010000000001F1F2"
               }
             ]
           }
@@ -42797,8 +42720,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000400013B2B",
-                "Target": "0x0100000400013B2A"
+                "TargetPin": "0x010000000001F0EF",
+                "Target": "0x010000000001F0EE"
               },
               {
                 "Color": {
@@ -42808,8 +42731,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000400013B33",
-                "Target": "0x0100000400013B32"
+                "TargetPin": "0x010000000001F19A",
+                "Target": "0x010000000001F199"
               },
               {
                 "Color": {
@@ -42819,8 +42742,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000400013C1A",
-                "Target": "0x0100000400013C19"
+                "TargetPin": "0x010000000001F200",
+                "Target": "0x010000000001F1FF"
               },
               {
                 "Color": {
@@ -42830,8 +42753,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000400013C53",
-                "Target": "0x0100000400013C52"
+                "TargetPin": "0x010000000001F25C",
+                "Target": "0x010000000001F25A"
               }
             ]
           }
@@ -45245,6 +45168,120 @@
     },
     {
       "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/NormalBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_F4510453",
+        "Id": "0x010000000001F296",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "NormalBubble",
+        "Filename": "NormalBubble(F397).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/NormalBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4098950227
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/OutcryBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_C59DD928",
+        "Id": "0x010000000001F299",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "OutcryBubble",
+        "Filename": "OutcryBubble(F398).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/OutcryBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 3315456296
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/ThoughtsBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_4D9E0C6D",
+        "Id": "0x010000000001F29C",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "ThoughtsBubble",
+        "Filename": "ThoughtsBubble(F39D).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/ThoughtsBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 1302203501
+      }
+    },
+    {
+      "Type": "Asset",
       "AssetRef": "Assets/Audio/AllOnTheLine.mp3",
       "Category": "Audio",
       "Properties": {
@@ -46962,6 +46999,17 @@
         "DisplayName": "Images",
         "ExternalId": "",
         "ShortId": 39821167
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_DD35E060",
+        "Id": "0x010000000001F292",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "bubbleSpeech",
+        "ExternalId": "",
+        "ShortId": 3711295584
       }
     },
     {

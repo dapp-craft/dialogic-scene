@@ -143,78 +143,6 @@
     },
     "Context": "Flow/kanta3correct_2"
   },
-  "DFr_6D56B978.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/kanta1/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_91662B6A.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/kanta1/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_C9FD02D8.Text": {
-    "": {
-      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
-    },
-    "Context": "Flow/kanta1/i2: \"Kant believes that lying is one of...\""
-  },
-  "DFr_36C2D73D.Text": {
-    "": {
-      "Text": "Kant believes the act of helping a dying man is among the imperatives."
-    },
-    "Context": "Flow/kanta1/i3: \"Kant believes the act of helping a...\""
-  },
-  "DFr_A86249E9.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/kanta2/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_5434DA1E.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/kanta2/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_464CCD19.Text": {
-    "": {
-      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
-    },
-    "Context": "Flow/kanta2/i2: \"Kant believes that lying is one of...\""
-  },
-  "DFr_CD0E32F1.Text": {
-    "": {
-      "Text": "Kant believes the act of helping a dying man is among the imperatives."
-    },
-    "Context": "Flow/kanta2/i3: \"Kant believes the act of helping a...\""
-  },
-  "DFr_925AE573.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/kanta3/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_7E4763AA.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/kanta3/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_EA45AD80.Text": {
-    "": {
-      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
-    },
-    "Context": "Flow/kanta3/i2: \"Kant believes that lying is one of...\""
-  },
-  "DFr_F9FE942B.Text": {
-    "": {
-      "Text": "Kant believes the act of helping a dying man is among the imperatives."
-    },
-    "Context": "Flow/kanta3/i3: \"Kant believes the act of helping a...\""
-  },
   "DFr_444FC84D.Text": {
     "": {
       "Text": ""
@@ -4138,6 +4066,78 @@
       "Text": "I guess that’s all we’re going to get out of Kant..."
     },
     "Context": "Flow/kanta3correct_2/01_socrates: \"I guess that’s all we’re going to g...\""
+  },
+  "Hub_DA7AEFD3.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta1/Your Face is Ugly!"
+  },
+  "Hub_5F07C8BB.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta1/Intentionalism"
+  },
+  "Hub_78580487.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta1/Never Lie"
+  },
+  "Hub_68DE6982.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta1/Help the Dying Man"
+  },
+  "Hub_7E281BA4.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta2/Your Face is Ugly!"
+  },
+  "Hub_2D9E95C8.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta2/Intentionalism"
+  },
+  "Hub_38399D11.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta2/Never Lie"
+  },
+  "Hub_12E6220D.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta2/Help the Dying Man"
+  },
+  "Hub_39B6FDA8.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/kanta3/Your Face is Ugly!"
+  },
+  "Hub_92D6E61E.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/kanta3/Intentionalism"
+  },
+  "Hub_6D0009E1.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes that lying is one of the actions which is categorically immoral."
+    },
+    "Context": "Flow/kanta3/Never Lie"
+  },
+  "Hub_67A04C4D.idea.ideaDescription": {
+    "": {
+      "Text": "Kant believes the act of helping a dying man is among the imperatives."
+    },
+    "Context": "Flow/kanta3/Help the Dying Man"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

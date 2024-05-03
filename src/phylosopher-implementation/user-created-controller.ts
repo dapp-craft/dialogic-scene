@@ -1,5 +1,5 @@
 import { timers } from "@dcl-sdk/utils";
-import { novelEngine } from "..";
+import { getIdeaByTarget, getUnlockedIdeas, novelEngine } from "..";
 import { showVictorySplashScreen } from "./ui/victory-screen";
 import { credibilityStats, setCredibility } from "./ui/credibility";
 import { setTitleText } from "./ui/title";
@@ -29,9 +29,9 @@ export default class UserCreatedController extends NovelController
     /// </summary>
     public onFrameLoaded(frame: Frame){
 
-        let ideas = novelEngine.getUnlockedIdeas(frame.parentSequence);
+        let ideas = getUnlockedIdeas(frame.parentSequence);
         let notes: IFrameNote[] = []
-        if (novelEngine.getUnlockedIdeas(frame.parentSequence) && ideas.length > 0) {
+        if (getUnlockedIdeas(frame.parentSequence) && ideas.length > 0) {
             setNoteButtonVisible(true);
             for (let i = 0; i < ideas.length; i++) {
                 notes.push({
@@ -108,12 +108,12 @@ export default class UserCreatedController extends NovelController
             for (let i = 0; i < frame.buttons.length; i++) {
                 if (/^i\d+$/.test(b[i].text)) {
                         // console.log(b[i])
-                    if (!novelEngine.getIdeaByTarget(b[i].targetFrame))
+                    if (!getIdeaByTarget(b[i].targetFrame))
                         continue;
 
                     let note = {
-                        header: novelEngine.getIdeaByTarget(b[i].targetFrame)?.title ?? "",
-                        text: novelEngine.getIdeaByTarget(b[i].targetFrame)?.description ?? "",
+                        header: getIdeaByTarget(b[i].targetFrame)?.title ?? "",
+                        text: getIdeaByTarget(b[i].targetFrame)?.description ?? "",
                         targetId: b[i].targetFrame,
                     }
                     notesTab.notes.push(note)

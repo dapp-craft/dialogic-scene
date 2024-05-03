@@ -3203,53 +3203,53 @@
     },
     "Context": "Flow/prologue_p1_1/12_notification: \"“Ask for Clarification” option adde...\""
   },
-  "DFr_DFB8546C.Text": {
-    "": {
-      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
-    },
-    "Context": "Flow/prologue_s1_argument/i1: \"Deer are most commonly found in lar...\""
-  },
-  "DFr_529BB4BF.Text": {
+  "Hub_1AE73A87.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
     },
-    "Context": "Flow/prologue_s1_argument/i0: \"My opponent only believes what he d...\""
+    "Context": "Flow/prologue_s1_argument/Your Face is Ugly!"
   },
-  "DFr_7153E08A.Text": {
+  "Hub_A7BB7170.idea.ideaDescription": {
     "": {
       "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
     },
-    "Context": "Flow/prologue_a2/i1: \"Deer are most commonly found in lar...\""
+    "Context": "Flow/prologue_s1_argument/Deer Live in the Woods"
   },
-  "DFr_69F08435.Text": {
+  "Hub_CF113AE8.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
     },
-    "Context": "Flow/prologue_a2/i0: \"My opponent only believes what he d...\""
+    "Context": "Flow/prologue_a2/Your Face is Ugly!"
   },
-  "DFr_29C1AA34.Text": {
+  "Hub_EA8D8DB1.idea.ideaDescription": {
     "": {
       "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
     },
-    "Context": "Flow/prologue_a3_argument/i1: \"Deer are most commonly found in lar...\""
+    "Context": "Flow/prologue_a2/Deer Live in the Woods"
   },
-  "DFr_EE807716.Text": {
+  "Hub_25DBFBBB.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
     },
-    "Context": "Flow/prologue_a3_argument/i0: \"My opponent only believes what he d...\""
+    "Context": "Flow/prologue_a3_argument/Your Face is Ugly!"
   },
-  "DFr_A0BFF99A.Text": {
+  "Hub_1A9FE704.idea.ideaDescription": {
     "": {
       "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
     },
-    "Context": "Flow/prologue_p4_argument/i1: \"Deer are most commonly found in lar...\""
+    "Context": "Flow/prologue_a3_argument/Deer Live in the Woods"
   },
-  "DFr_D95E851E.Text": {
+  "Hub_AA3B3DCB.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
     },
-    "Context": "Flow/prologue_p4_argument/i0: \"My opponent only believes what he d...\""
+    "Context": "Flow/prologue_p4_argument/Your Face is Ugly!"
+  },
+  "Hub_FB53BD40.idea.ideaDescription": {
+    "": {
+      "Text": "Deer are most commonly found in large, wooded areas, away from the bustle of people."
+    },
+    "Context": "Flow/prologue_p4_argument/Deer Live in the Woods"
   },
   "Ntt_406C2809.DisplayName": {
     "": {

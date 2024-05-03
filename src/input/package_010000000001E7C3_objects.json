@@ -3481,11 +3481,11 @@
         ],
         "OutputPins": [
           {
-            "Text": "Socrates.credibility = 10;\nbilly.backing_open = false;\nbilly.i0_unlock = false;\nbilly.i1_unlock = false;\nbilly.prologuea1s1_open = true;\nbilly.prologuea1s1a_open = false;\nbilly.prologuea1s3_open = true;\nbilly.prologuea1s3a_open = false;\nbilly.prologuea3s2_open = true;\nbilly.prologuea4s1_open = true;\nbilly.prologuea4s2_open = true;\nbilly.prologuea4s3_open = true;\nEuthyphro.eutha2s5b1_open = false;\nEuthyphro.i1_unlock = false;\nEuthyphro.i2_unlock = false;\nEuthyphro.i3_unlock = false;\nHobbes.hobbesa2s3_open = true;\nHobbes.hobbesa2s3c1_open = false;\nHobbes.hobbesa3s3_open = true;\nHobbes.hobbesa3s3c1_open = false;\nHobbes.i1_unlock = false;\nHobbes.i2_unlock = false;\nHobbes.i3_unlock = false;\nHobbes.i4_unlock = false;\nMill.i1_unlock = false;\nMill.i2_unlock = false;\nMill.i3_unlock = false;\nArbiter.arbitera1s1_open = true;\nArbiter.arbitera1s1c1_open = false;\nArbiter.arbitera3s3c1_open = false;\nArbiter.arbitera4s2b1_open = false;\nArbiter.arbitera4s2b2_open = false;\nArbiter.arbitera4s2b2c1_open = false;\nArbiter.arbitera4s3_open = true;\nArbiter.ChallengeButton_open = false;\nArbiter.i0_unlock = false;\nArbiter.i1_unlock = false;\nArbiter.i2_unlock = false;\nArbiter.i3_unlock = false;\nArbiter.i4_unlock = false;\nKant.i1_unlock = false;\nKant.i2_unlock = false;\nKant.i3_unlock = false;\nKant.kanta3s3c1_open = false;\nKant.kanta3s4_open = false;\nProtagoras.i1_unlock = false;\nProtagoras.protagorasa1s4_open = true;\nProtagoras.protagorasa1s5_open = false;",
+            "Text": "Socrates.credibility = 5;\nbilly.backing_open = false;\nbilly.i0_unlock = false;\nbilly.i1_unlock = false;\nbilly.prologuea1s1_open = true;\nbilly.prologuea1s1a_open = false;\nbilly.prologuea1s3_open = true;\nbilly.prologuea1s3a_open = false;\nbilly.prologuea3s2_open = true;\nbilly.prologuea4s1_open = true;\nbilly.prologuea4s2_open = true;\nbilly.prologuea4s3_open = true;\nEuthyphro.eutha2s5b1_open = false;\nEuthyphro.i1_unlock = false;\nEuthyphro.i2_unlock = false;\nEuthyphro.i3_unlock = false;\nHobbes.hobbesa2s3_open = true;\nHobbes.hobbesa2s3c1_open = false;\nHobbes.hobbesa3s3_open = true;\nHobbes.hobbesa3s3c1_open = false;\nHobbes.i1_unlock = false;\nHobbes.i2_unlock = false;\nHobbes.i3_unlock = false;\nHobbes.i4_unlock = false;\nMill.i1_unlock = false;\nMill.i2_unlock = false;\nMill.i3_unlock = false;\nArbiter.arbitera1s1_open = true;\nArbiter.arbitera1s1c1_open = false;\nArbiter.arbitera3s3c1_open = false;\nArbiter.arbitera4s2b1_open = false;\nArbiter.arbitera4s2b2_open = false;\nArbiter.arbitera4s2b2c1_open = false;\nArbiter.arbitera4s3_open = true;\nArbiter.ChallengeButton_open = false;\nArbiter.i0_unlock = false;\nArbiter.i1_unlock = false;\nArbiter.i2_unlock = false;\nArbiter.i3_unlock = false;\nArbiter.i4_unlock = false;\nKant.i1_unlock = false;\nKant.i2_unlock = false;\nKant.i3_unlock = false;\nKant.kanta3s3c1_open = false;\nKant.kanta3s4_open = false;\nProtagoras.i1_unlock = false;\nProtagoras.protagorasa1s4_open = true;\nProtagoras.protagorasa1s5_open = false;",
             "Id": "0x0100000000003F8B",
             "Owner": "0x0100000000003F87",
             "Connections": [
-              { 
+              {
                 "Color": {
                   "a": 1.0,
                   "r": 0.784313738,
@@ -53392,7 +53392,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -53499,7 +53499,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -53606,7 +53606,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -53713,7 +53713,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -53820,7 +53820,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -53927,7 +53927,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -54034,7 +54034,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 3,
@@ -54141,7 +54141,7 @@
           "animations": 2,
           "name": 3,
           "directionOfView": 2,
-          "position": 12.0
+          "position": 20.0
         },
         "characterInFrame_01": {
           "animations": 6,
@@ -58432,454 +58432,6 @@
       }
     },
     {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_DFB8546C",
-        "Id": "0x010000000000FF6C",
-        "Parent": "0x0100000000005339",
-        "MenuText": "Deer Live in the Woods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_DFB8546C.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 513.983516483516,
-          "y": -318.736263736264
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3753399404,
-        "InputPins": [
-          {
-            "Text": "billy.i1_unlock == true",
-            "Id": "0x010000000000FF6D",
-            "Owner": "0x010000000000FF6C"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000FF6E",
-            "Owner": "0x010000000000FF6C",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000FF6D",
-                "Target": "0x010000000000FF6C"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_529BB4BF",
-        "Id": "0x010000000000FF78",
-        "Parent": "0x0100000000005339",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_529BB4BF.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 513.983516483516,
-          "y": -568.736263736264
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1385936063,
-        "InputPins": [
-          {
-            "Text": "billy.i0_unlock == true",
-            "Id": "0x010000000000FF79",
-            "Owner": "0x010000000000FF78"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000FF7A",
-            "Owner": "0x010000000000FF78",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000FF79",
-                "Target": "0x010000000000FF78"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_7153E08A",
-        "Id": "0x010000000000FF4C",
-        "Parent": "0x0100000000005EE8",
-        "MenuText": "Deer Live in the Woods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_7153E08A.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 975.0,
-          "y": -125.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1901322378,
-        "InputPins": [
-          {
-            "Text": "billy.i1_unlock == true",
-            "Id": "0x010000000000FF4D",
-            "Owner": "0x010000000000FF4C"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000FF4E",
-            "Owner": "0x010000000000FF4C",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000FF4D",
-                "Target": "0x010000000000FF4C"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_69F08435",
-        "Id": "0x010000000000FF58",
-        "Parent": "0x0100000000005EE8",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_69F08435.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 975.0,
-          "y": -375.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1777370165,
-        "InputPins": [
-          {
-            "Text": "billy.i0_unlock == true",
-            "Id": "0x010000000000FF59",
-            "Owner": "0x010000000000FF58"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000FF5A",
-            "Owner": "0x010000000000FF58",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000FF59",
-                "Target": "0x010000000000FF58"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_29C1AA34",
-        "Id": "0x01000000000091FA",
-        "Parent": "0x0100000000006855",
-        "MenuText": "Deer Live in the Woods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_29C1AA34.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1350.0,
-          "y": -25.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 700557876,
-        "InputPins": [
-          {
-            "Text": "billy.i1_unlock == true",
-            "Id": "0x01000000000091FD",
-            "Owner": "0x01000000000091FA"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x01000000000091FE",
-            "Owner": "0x01000000000091FA",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x01000000000091FD",
-                "Target": "0x01000000000091FA"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_EE807716",
-        "Id": "0x0100000000009201",
-        "Parent": "0x0100000000006855",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_EE807716.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1350.0,
-          "y": -275.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 4001396502,
-        "InputPins": [
-          {
-            "Text": "billy.i0_unlock == true",
-            "Id": "0x0100000000009202",
-            "Owner": "0x0100000000009201"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009203",
-            "Owner": "0x0100000000009201",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000000009202",
-                "Target": "0x0100000000009201"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_A0BFF99A",
-        "Id": "0x0100000000009216",
-        "Parent": "0x01000000000070F7",
-        "MenuText": "Deer Live in the Woods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_A0BFF99A.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1850.0,
-          "y": -125.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2696935834,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009217",
-            "Owner": "0x0100000000009216"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009218",
-            "Owner": "0x0100000000009216",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000000009217",
-                "Target": "0x0100000000009216"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_D95E851E",
-        "Id": "0x010000000000921D",
-        "Parent": "0x01000000000070F7",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_D95E851E.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1850.0,
-          "y": -375.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3646850334,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000921E",
-            "Owner": "0x010000000000921D"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000921F",
-            "Owner": "0x010000000000921D",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000921E",
-                "Target": "0x010000000000921D"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
       "Type": "ideaSlate",
       "Properties": {
         "TechnicalName": "Hub_02346D3E",
@@ -58924,8 +58476,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000FF6D",
-                "Target": "0x010000000000FF6C"
+                "TargetPin": "0x010000000001F059",
+                "Target": "0x010000000001F057"
               },
               {
                 "Color": {
@@ -58935,8 +58487,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000FF79",
-                "Target": "0x010000000000FF78"
+                "TargetPin": "0x010000000001F0F8",
+                "Target": "0x010000000001F0F6"
               }
             ]
           }
@@ -58989,8 +58541,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000FF4D",
-                "Target": "0x010000000000FF4C"
+                "TargetPin": "0x010000000001F05F",
+                "Target": "0x010000000001F05E"
               },
               {
                 "Color": {
@@ -59000,8 +58552,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000FF59",
-                "Target": "0x010000000000FF58"
+                "TargetPin": "0x010000000001F100",
+                "Target": "0x010000000001F0FE"
               }
             ]
           }
@@ -59054,8 +58606,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x01000000000091FD",
-                "Target": "0x01000000000091FA"
+                "TargetPin": "0x010000000001F066",
+                "Target": "0x010000000001F065"
               },
               {
                 "Color": {
@@ -59065,8 +58617,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000009202",
-                "Target": "0x0100000000009201"
+                "TargetPin": "0x010000000001F107",
+                "Target": "0x010000000001F106"
               }
             ]
           }
@@ -59119,8 +58671,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000009217",
-                "Target": "0x0100000000009216"
+                "TargetPin": "0x010000000001F10F",
+                "Target": "0x010000000001F10E"
               },
               {
                 "Color": {
@@ -59130,14 +58682,374 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000921E",
-                "Target": "0x010000000000921D"
+                "TargetPin": "0x010000000001F06D",
+                "Target": "0x010000000001F06C"
               }
             ]
           }
         ]
       },
       "Template": {}
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_1AE73A87",
+        "Id": "0x010000000001F057",
+        "Parent": "0x0100000000005339",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 525.0,
+          "y": -425.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 451361415,
+        "InputPins": [
+          {
+            "Text": "billy.i0_unlock == true",
+            "Id": "0x010000000001F059",
+            "Owner": "0x010000000001F057"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F05A",
+            "Owner": "0x010000000001F057"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_1AE73A87.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_A7BB7170",
+        "Id": "0x010000000001F0F6",
+        "Parent": "0x0100000000005339",
+        "DisplayName": "Deer Live in the Woods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 525.0,
+          "y": -300.0
+        },
+        "ZIndex": 136.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2814079344,
+        "InputPins": [
+          {
+            "Text": "billy.i1_unlock == true",
+            "Id": "0x010000000001F0F8",
+            "Owner": "0x010000000001F0F6"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F0F9",
+            "Owner": "0x010000000001F0F6"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_A7BB7170.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_CF113AE8",
+        "Id": "0x010000000001F05E",
+        "Parent": "0x0100000000005EE8",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1000.0,
+          "y": -225.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3474012904,
+        "InputPins": [
+          {
+            "Text": "billy.i0_unlock == true",
+            "Id": "0x010000000001F05F",
+            "Owner": "0x010000000001F05E"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F060",
+            "Owner": "0x010000000001F05E"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_CF113AE8.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_EA8D8DB1",
+        "Id": "0x010000000001F0FE",
+        "Parent": "0x0100000000005EE8",
+        "DisplayName": "Deer Live in the Woods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1000.0,
+          "y": -100.0
+        },
+        "ZIndex": 147.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3935145393,
+        "InputPins": [
+          {
+            "Text": "billy.i1_unlock == true",
+            "Id": "0x010000000001F100",
+            "Owner": "0x010000000001F0FE"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F101",
+            "Owner": "0x010000000001F0FE"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_EA8D8DB1.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_25DBFBBB",
+        "Id": "0x010000000001F065",
+        "Parent": "0x0100000000006855",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1350.0,
+          "y": -175.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 635173819,
+        "InputPins": [
+          {
+            "Text": "billy.i0_unlock == true",
+            "Id": "0x010000000001F066",
+            "Owner": "0x010000000001F065"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F067",
+            "Owner": "0x010000000001F065"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_25DBFBBB.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_1A9FE704",
+        "Id": "0x010000000001F106",
+        "Parent": "0x0100000000006855",
+        "DisplayName": "Deer Live in the Woods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1350.0,
+          "y": 0.0
+        },
+        "ZIndex": 147.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 446686980,
+        "InputPins": [
+          {
+            "Text": "billy.i1_unlock == true",
+            "Id": "0x010000000001F107",
+            "Owner": "0x010000000001F106"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F108",
+            "Owner": "0x010000000001F106"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_1A9FE704.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_AA3B3DCB",
+        "Id": "0x010000000001F06C",
+        "Parent": "0x01000000000070F7",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1850.0,
+          "y": -275.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2856009163,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F06D",
+            "Owner": "0x010000000001F06C"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F06E",
+            "Owner": "0x010000000001F06C"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_AA3B3DCB.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_FB53BD40",
+        "Id": "0x010000000001F10E",
+        "Parent": "0x01000000000070F7",
+        "DisplayName": "Deer Live in the Woods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1850.0,
+          "y": -100.0
+        },
+        "ZIndex": 136.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 4216569152,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F10F",
+            "Owner": "0x010000000001F10E"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F110",
+            "Owner": "0x010000000001F10E"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_FB53BD40.idea.ideaDescription"
+        }
+      }
     },
     {
       "Type": "chapterConnector",
@@ -62704,6 +62616,120 @@
     },
     {
       "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/NormalBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_F4510453",
+        "Id": "0x010000000001F296",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "NormalBubble",
+        "Filename": "NormalBubble(F397).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/NormalBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4098950227
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/OutcryBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_C59DD928",
+        "Id": "0x010000000001F299",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "OutcryBubble",
+        "Filename": "OutcryBubble(F398).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/OutcryBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 3315456296
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/ThoughtsBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_4D9E0C6D",
+        "Id": "0x010000000001F29C",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "ThoughtsBubble",
+        "Filename": "ThoughtsBubble(F39D).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/ThoughtsBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 1302203501
+      }
+    },
+    {
+      "Type": "Asset",
       "AssetRef": "Assets/Audio/AllOnTheLine.mp3",
       "Category": "Audio",
       "Properties": {
@@ -64421,6 +64447,17 @@
         "DisplayName": "Images",
         "ExternalId": "",
         "ShortId": 39821167
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_DD35E060",
+        "Id": "0x010000000001F292",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "bubbleSpeech",
+        "ExternalId": "",
+        "ShortId": 3711295584
       }
     },
     {

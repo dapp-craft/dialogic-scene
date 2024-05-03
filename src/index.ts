@@ -11,6 +11,8 @@ import UserCreatedController from './phylosopher-implementation/user-created-con
 import IHookNode from './dcl-novel-engine/engine/parser/interface/i-hook-node'
 import { getPlayer } from '@dcl/sdk/src/players'
 import { showVictorySplashScreen } from './phylosopher-implementation/ui/victory-screen'
+import IIdea from './phylosopher-implementation/interface/i-idea'
+import { getLocalization } from './dcl-novel-engine/engine/parser/parser'
 
 async function startChapter(chapter: string) {
     console.log("Loading package: " + chapter)
@@ -28,6 +30,74 @@ showLoadingSplashScreen()
 export let novelEngine = new Engine("src/input/manifest.json")
 export const userCreatedController = new UserCreatedController();
 export let philisophyQuest = new Quest()
+
+let _ideas: IIdea[] = [];
+
+function _parseIdea(model: any, packageName: string): IIdea | undefined {
+    const properties = model.Properties;
+    const title = properties.DisplayName;
+    if (title.length == 0){
+        return undefined;
+    }
+    const description = getLocalization(model.Template.idea.ideaDescription);
+
+    const inputPin = properties.InputPins[0];
+    const condition: string = inputPin.Text;
+
+    const ideaObject: IIdea = {
+        title: title,
+        description: description,
+        condition: condition.length > 0 ? condition : undefined,
+        chapter: packageName
+    };
+    return ideaObject;
+}
+
+export function getUnlockedIdeas(currentSequenceId: string): IIdea[] {
+    let sequence = novelEngine.getSequenceById(currentSequenceId);
+    let chapterNumber = sequence?.chapter;
+    let unlockedIdeas: IIdea[] = []
+    for (let idea of _ideas) {
+        if (idea.chapter == chapterNumber) {
+            if (idea.condition == undefined) {
+                unlockedIdeas.push(idea)
+            } else if (novelEngine._evaluateInput(idea.condition)) {
+                unlockedIdeas.push(idea)
+            }
+        }
+    }
+    return unlockedIdeas
+}
+
+export function getIdeaByTarget(target: string): IIdea | undefined {
+    // get frame by target
+    let frame;
+    let chapterId = "";
+    for (let sequence of novelEngine.getSequences()) {
+        frame = sequence.frames.find(f => f.id === target);
+        if (frame) {
+            chapterId = sequence.chapter;
+            break;
+        }
+    }
+    if (!frame) {
+        // console.log("Frame " + target + " not found.");
+        return undefined
+    }
+    const ideaTitle = frame.menuText
+    const idea = _ideas.find(i => i.title === ideaTitle && i.chapter === chapterId)
+    if (!idea) {
+        // console.log("Idea " + ideaTitle + " not found.");
+        return undefined
+    }
+    if (idea.condition == undefined) {
+        return idea
+    }
+    if (novelEngine._evaluateInput(idea.condition)) {
+        return idea
+    }
+    return undefined
+}
 
 export async function main() {
     novelEngine.onSequencesInitialized.push((s) => { 
@@ -68,6 +138,26 @@ export async function main() {
                 hideLoadingSplashScreen()
             }
         })
+    })
+
+    novelEngine.addOnNodeParsedHook((node: IHookNode, packageId: string) => {
+        if (node.type == "ideaContent") {
+            const idea = _parseIdea(node.data, node.data.PackageName);
+            console.log("Idea: ")
+            console.log(idea)
+            if (idea == undefined) {
+                return;
+            }
+            // upsert
+            let existingIdea = _ideas.find(i => i.title === idea.title && i.chapter === packageId);
+            if (!existingIdea) {
+                _ideas.push(idea);
+            }else{
+                if (existingIdea.condition == undefined) {
+                    existingIdea.condition = idea.condition;
+                }
+            }
+        }
     })
     
     console.log("Launch setting up scene")

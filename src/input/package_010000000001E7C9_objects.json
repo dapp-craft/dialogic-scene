@@ -2105,846 +2105,6 @@
       }
     },
     {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_98E4CC9B",
-        "Id": "0x010000000000C413",
-        "Parent": "0x010000000000C273",
-        "MenuText": "The Natural State",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_98E4CC9B.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1700.0,
-          "y": -675.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2565131419,
-        "InputPins": [
-          {
-            "Text": "Hobbes.i1_unlock == true",
-            "Id": "0x010000000000C414",
-            "Owner": "0x010000000000C413"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C415",
-            "Owner": "0x010000000000C413",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000C414",
-                "Target": "0x010000000000C413"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_7D69B7CD",
-        "Id": "0x010000000000C41A",
-        "Parent": "0x010000000000C273",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_7D69B7CD.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1700.0,
-          "y": -925.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2104080333,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C41B",
-            "Owner": "0x010000000000C41A"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C41C",
-            "Owner": "0x010000000000C41A",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000C41B",
-                "Target": "0x010000000000C41A"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_0AD3CA43",
-        "Id": "0x010000000000C421",
-        "Parent": "0x010000000000C273",
-        "MenuText": "Mankind is Selfish",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_0AD3CA43.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1701.39569192286,
-          "y": -426.699876237956
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 181652035,
-        "InputPins": [
-          {
-            "Text": "Hobbes.i2_unlock == true",
-            "Id": "0x010000000000C422",
-            "Owner": "0x010000000000C421"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C423",
-            "Owner": "0x010000000000C421",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000C422",
-                "Target": "0x010000000000C421"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_E365347B",
-        "Id": "0x010000000000C428",
-        "Parent": "0x010000000000C273",
-        "MenuText": "People Work Together",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_E365347B.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1700.0,
-          "y": -175.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3815060603,
-        "InputPins": [
-          {
-            "Text": "Hobbes.i3_unlock == true",
-            "Id": "0x010000000000C429",
-            "Owner": "0x010000000000C428"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C42A",
-            "Owner": "0x010000000000C428",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000C429",
-                "Target": "0x010000000000C428"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_69C0811D",
-        "Id": "0x010000000000C439",
-        "Parent": "0x010000000000C273",
-        "MenuText": "Contracts Need to be Enforced",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_69C0811D.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1700.0,
-          "y": 75.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1774223645,
-        "InputPins": [
-          {
-            "Text": "Hobbes.i4_unlock == true",
-            "Id": "0x010000000000C43A",
-            "Owner": "0x010000000000C439"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000C43B",
-            "Owner": "0x010000000000C439",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000C43A",
-                "Target": "0x010000000000C439"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_BB39B5D6",
-        "Id": "0x010000000000CDD9",
-        "Parent": "0x010000000000CC8F",
-        "MenuText": "Contracts Need to be Enforced",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_BB39B5D6.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2825.0,
-          "y": 100.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3141121494,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDDA",
-            "Owner": "0x010000000000CDD9"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDDB",
-            "Owner": "0x010000000000CDD9",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000CDDA",
-                "Target": "0x010000000000CDD9"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_B9278B1B",
-        "Id": "0x010000000000CDE0",
-        "Parent": "0x010000000000CC8F",
-        "MenuText": "The Natural State",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_B9278B1B.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2825.0,
-          "y": -650.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3106376475,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDE1",
-            "Owner": "0x010000000000CDE0"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDE2",
-            "Owner": "0x010000000000CDE0",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000CDE1",
-                "Target": "0x010000000000CDE0"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_A761BA19",
-        "Id": "0x010000000000CDE7",
-        "Parent": "0x010000000000CC8F",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_A761BA19.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2825.0,
-          "y": -900.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2808199705,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDE8",
-            "Owner": "0x010000000000CDE7"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDE9",
-            "Owner": "0x010000000000CDE7",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000CDE8",
-                "Target": "0x010000000000CDE7"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_426134C1",
-        "Id": "0x010000000000CDEE",
-        "Parent": "0x010000000000CC8F",
-        "MenuText": "Mankind is Selfish",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_426134C1.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2826.39569192286,
-          "y": -401.699876237956
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1113666753,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDEF",
-            "Owner": "0x010000000000CDEE"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDF0",
-            "Owner": "0x010000000000CDEE",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000CDEF",
-                "Target": "0x010000000000CDEE"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_39C7F919",
-        "Id": "0x010000000000CDF5",
-        "Parent": "0x010000000000CC8F",
-        "MenuText": "People Work Together",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_39C7F919.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 2825.0,
-          "y": -150.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 969406745,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDF6",
-            "Owner": "0x010000000000CDF5"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000CDF7",
-            "Owner": "0x010000000000CDF5",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000CDF6",
-                "Target": "0x010000000000CDF5"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_CC880AFB",
-        "Id": "0x010000000000DA47",
-        "Parent": "0x010000000000D93B",
-        "MenuText": "Contracts Need to be Enforced",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_CC880AFB.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 4725.0,
-          "y": -50.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3431467771,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA48",
-            "Owner": "0x010000000000DA47"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA49",
-            "Owner": "0x010000000000DA47",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000DA48",
-                "Target": "0x010000000000DA47"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_E7F7BC46",
-        "Id": "0x010000000000DA4E",
-        "Parent": "0x010000000000D93B",
-        "MenuText": "The Natural State",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_E7F7BC46.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 4725.0,
-          "y": -800.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3891772486,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA4F",
-            "Owner": "0x010000000000DA4E"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA50",
-            "Owner": "0x010000000000DA4E",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000DA4F",
-                "Target": "0x010000000000DA4E"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_9CC3BAAD",
-        "Id": "0x010000000000DA55",
-        "Parent": "0x010000000000D93B",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_9CC3BAAD.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 4725.0,
-          "y": -1050.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2630073005,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA56",
-            "Owner": "0x010000000000DA55"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA57",
-            "Owner": "0x010000000000DA55",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000DA56",
-                "Target": "0x010000000000DA55"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_FE889652",
-        "Id": "0x010000000000DA5C",
-        "Parent": "0x010000000000D93B",
-        "MenuText": "Mankind is Selfish",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_FE889652.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 4726.39569192286,
-          "y": -551.699876237956
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 4270364242,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA5D",
-            "Owner": "0x010000000000DA5C"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA5E",
-            "Owner": "0x010000000000DA5C",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000DA5D",
-                "Target": "0x010000000000DA5C"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_F858D51A",
-        "Id": "0x010000000000DA63",
-        "Parent": "0x010000000000D93B",
-        "MenuText": "People Work Together",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_F858D51A.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 4725.0,
-          "y": -300.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 4166571290,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA64",
-            "Owner": "0x010000000000DA63"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000DA65",
-            "Owner": "0x010000000000DA63",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000DA64",
-                "Target": "0x010000000000DA63"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
       "Type": "nodeTemplateFrame_03",
       "Properties": {
         "TechnicalName": "DFr_7F88E65E",
@@ -2980,7 +2140,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "",
+            "Text": "Socrates.credibility = 5",
             "Id": "0x010000000000BC14",
             "Owner": "0x010000000000BC10",
             "Connections": [
@@ -88293,8 +87453,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000C414",
-                "Target": "0x010000000000C413"
+                "TargetPin": "0x010000000001F082",
+                "Target": "0x010000000001F081"
               },
               {
                 "Color": {
@@ -88304,8 +87464,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000C41B",
-                "Target": "0x010000000000C41A"
+                "TargetPin": "0x010000000001F134",
+                "Target": "0x010000000001F133"
               },
               {
                 "Color": {
@@ -88315,8 +87475,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000C422",
-                "Target": "0x010000000000C421"
+                "TargetPin": "0x010000000001F1AE",
+                "Target": "0x010000000001F1AC"
               },
               {
                 "Color": {
@@ -88326,8 +87486,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000C429",
-                "Target": "0x010000000000C428"
+                "TargetPin": "0x010000000001F216",
+                "Target": "0x010000000001F214"
               },
               {
                 "Color": {
@@ -88337,8 +87497,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000C43A",
-                "Target": "0x010000000000C439"
+                "TargetPin": "0x010000000001F263",
+                "Target": "0x010000000001F261"
               }
             ]
           }
@@ -88391,8 +87551,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000CDE1",
-                "Target": "0x010000000000CDE0"
+                "TargetPin": "0x010000000001F089",
+                "Target": "0x010000000001F088"
               },
               {
                 "Color": {
@@ -88402,8 +87562,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000CDE8",
-                "Target": "0x010000000000CDE7"
+                "TargetPin": "0x010000000001F13B",
+                "Target": "0x010000000001F13A"
               },
               {
                 "Color": {
@@ -88413,8 +87573,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000CDEF",
-                "Target": "0x010000000000CDEE"
+                "TargetPin": "0x010000000001F1B4",
+                "Target": "0x010000000001F1B3"
               },
               {
                 "Color": {
@@ -88424,8 +87584,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000CDF6",
-                "Target": "0x010000000000CDF5"
+                "TargetPin": "0x010000000001F21C",
+                "Target": "0x010000000001F21B"
               },
               {
                 "Color": {
@@ -88435,8 +87595,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000CDDA",
-                "Target": "0x010000000000CDD9"
+                "TargetPin": "0x010000000001F269",
+                "Target": "0x010000000001F268"
               }
             ]
           }
@@ -88489,8 +87649,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000DA4F",
-                "Target": "0x010000000000DA4E"
+                "TargetPin": "0x010000000001F091",
+                "Target": "0x010000000001F090"
               },
               {
                 "Color": {
@@ -88500,8 +87660,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000DA56",
-                "Target": "0x010000000000DA55"
+                "TargetPin": "0x010000000001F142",
+                "Target": "0x010000000001F141"
               },
               {
                 "Color": {
@@ -88511,8 +87671,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000DA5D",
-                "Target": "0x010000000000DA5C"
+                "TargetPin": "0x010000000001F1BB",
+                "Target": "0x010000000001F1BA"
               },
               {
                 "Color": {
@@ -88522,8 +87682,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000DA64",
-                "Target": "0x010000000000DA63"
+                "TargetPin": "0x010000000001F223",
+                "Target": "0x010000000001F222"
               },
               {
                 "Color": {
@@ -88533,14 +87693,689 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000DA48",
-                "Target": "0x010000000000DA47"
+                "TargetPin": "0x010000000001F270",
+                "Target": "0x010000000001F26F"
               }
             ]
           }
         ]
       },
       "Template": {}
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_2C898E6F",
+        "Id": "0x010000000001F081",
+        "Parent": "0x010000000000C273",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1700.0,
+          "y": -850.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 747212399,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F082",
+            "Owner": "0x010000000001F081"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F083",
+            "Owner": "0x010000000001F081"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_2C898E6F.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_6ACE5BD7",
+        "Id": "0x010000000001F133",
+        "Parent": "0x010000000000C273",
+        "DisplayName": "The Natural State",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1700.0,
+          "y": -725.0
+        },
+        "ZIndex": 475.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1791908823,
+        "InputPins": [
+          {
+            "Text": "Hobbes.i1_unlock == true",
+            "Id": "0x010000000001F134",
+            "Owner": "0x010000000001F133"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F135",
+            "Owner": "0x010000000001F133"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_6ACE5BD7.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_4BA88E48",
+        "Id": "0x010000000001F1AC",
+        "Parent": "0x010000000000C273",
+        "DisplayName": "Mankind is Selfish",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1700.0,
+          "y": -600.0
+        },
+        "ZIndex": 341.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1269337672,
+        "InputPins": [
+          {
+            "Text": "Hobbes.i2_unlock == true",
+            "Id": "0x010000000001F1AE",
+            "Owner": "0x010000000001F1AC"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1AF",
+            "Owner": "0x010000000001F1AC"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_4BA88E48.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_7C1155E4",
+        "Id": "0x010000000001F214",
+        "Parent": "0x010000000000C273",
+        "DisplayName": "People Work Together",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1700.0,
+          "y": -475.0
+        },
+        "ZIndex": 340.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2081510884,
+        "InputPins": [
+          {
+            "Text": "Hobbes.i3_unlock == true",
+            "Id": "0x010000000001F216",
+            "Owner": "0x010000000001F214"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F217",
+            "Owner": "0x010000000001F214"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_7C1155E4.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_B5689C81",
+        "Id": "0x010000000001F261",
+        "Parent": "0x010000000000C273",
+        "DisplayName": "Contracts Need to be Enforced",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1700.0,
+          "y": -350.0
+        },
+        "ZIndex": 339.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3043531905,
+        "InputPins": [
+          {
+            "Text": "Hobbes.i4_unlock == true",
+            "Id": "0x010000000001F263",
+            "Owner": "0x010000000001F261"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F264",
+            "Owner": "0x010000000001F261"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_B5689C81.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_24C1E31C",
+        "Id": "0x010000000001F088",
+        "Parent": "0x010000000000CC8F",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2825.0,
+          "y": -825.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 616686364,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F089",
+            "Owner": "0x010000000001F088"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F08A",
+            "Owner": "0x010000000001F088"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_24C1E31C.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_E5B0B06D",
+        "Id": "0x010000000001F13A",
+        "Parent": "0x010000000000CC8F",
+        "DisplayName": "The Natural State",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2825.0,
+          "y": -700.0
+        },
+        "ZIndex": 475.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3853561965,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F13B",
+            "Owner": "0x010000000001F13A"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F13C",
+            "Owner": "0x010000000001F13A"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_E5B0B06D.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_04FBB9E0",
+        "Id": "0x010000000001F1B3",
+        "Parent": "0x010000000000CC8F",
+        "DisplayName": "Mankind is Selfish",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2825.0,
+          "y": -575.0
+        },
+        "ZIndex": 341.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 83605984,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1B4",
+            "Owner": "0x010000000001F1B3"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1B5",
+            "Owner": "0x010000000001F1B3"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_04FBB9E0.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_8D640CAD",
+        "Id": "0x010000000001F21B",
+        "Parent": "0x010000000000CC8F",
+        "DisplayName": "People Work Together",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2825.0,
+          "y": -450.0
+        },
+        "ZIndex": 340.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2372144301,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F21C",
+            "Owner": "0x010000000001F21B"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F21D",
+            "Owner": "0x010000000001F21B"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_8D640CAD.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_D3C8891C",
+        "Id": "0x010000000001F268",
+        "Parent": "0x010000000000CC8F",
+        "DisplayName": "Contracts Need to be Enforced",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 2825.0,
+          "y": -325.0
+        },
+        "ZIndex": 339.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3553134876,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F269",
+            "Owner": "0x010000000001F268"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F26A",
+            "Owner": "0x010000000001F268"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_D3C8891C.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_DD4DC008",
+        "Id": "0x010000000001F090",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 4725.0,
+          "y": -975.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3712860168,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F091",
+            "Owner": "0x010000000001F090"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F092",
+            "Owner": "0x010000000001F090"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_DD4DC008.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_0243E016",
+        "Id": "0x010000000001F141",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "The Natural State",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 4725.0,
+          "y": -850.0
+        },
+        "ZIndex": 475.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 38002710,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F142",
+            "Owner": "0x010000000001F141"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F143",
+            "Owner": "0x010000000001F141"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_0243E016.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_F595FE28",
+        "Id": "0x010000000001F1BA",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "Mankind is Selfish",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 4725.0,
+          "y": -725.0
+        },
+        "ZIndex": 341.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 4120247848,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1BB",
+            "Owner": "0x010000000001F1BA"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1BC",
+            "Owner": "0x010000000001F1BA"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_F595FE28.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_0BB55FB0",
+        "Id": "0x010000000001F222",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "People Work Together",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 4725.0,
+          "y": -600.0
+        },
+        "ZIndex": 340.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 196435888,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F223",
+            "Owner": "0x010000000001F222"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F224",
+            "Owner": "0x010000000001F222"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_0BB55FB0.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_D6F17A2A",
+        "Id": "0x010000000001F26F",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "Contracts Need to be Enforced",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 4725.0,
+          "y": -475.0
+        },
+        "ZIndex": 339.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 3606149674,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F270",
+            "Owner": "0x010000000001F26F"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F271",
+            "Owner": "0x010000000001F26F"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_D6F17A2A.idea.ideaDescription"
+        }
+      }
     },
     {
       "Type": "chapterConnector",
@@ -91715,6 +91550,120 @@
     },
     {
       "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/NormalBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_F4510453",
+        "Id": "0x010000000001F296",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "NormalBubble",
+        "Filename": "NormalBubble(F397).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/NormalBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4098950227
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/OutcryBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_C59DD928",
+        "Id": "0x010000000001F299",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "OutcryBubble",
+        "Filename": "OutcryBubble(F398).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/OutcryBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 3315456296
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/ThoughtsBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_4D9E0C6D",
+        "Id": "0x010000000001F29C",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "ThoughtsBubble",
+        "Filename": "ThoughtsBubble(F39D).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/ThoughtsBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 1302203501
+      }
+    },
+    {
+      "Type": "Asset",
       "AssetRef": "Assets/Audio/AllOnTheLine.mp3",
       "Category": "Audio",
       "Properties": {
@@ -93432,6 +93381,17 @@
         "DisplayName": "Images",
         "ExternalId": "",
         "ShortId": 39821167
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_DD35E060",
+        "Id": "0x010000000001F292",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "bubbleSpeech",
+        "ExternalId": "",
+        "ShortId": 3711295584
       }
     },
     {

@@ -1841,454 +1841,6 @@
       }
     },
     {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_5F078C34",
-        "Id": "0x0100000000009231",
-        "Parent": "0x0100000000008F05",
-        "MenuText": "Mankind is Flawed",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_5F078C34.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 350.0,
-          "y": -650.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1594330164,
-        "InputPins": [
-          {
-            "Text": "Euthyphro.i1_unlock == true",
-            "Id": "0x0100000000009232",
-            "Owner": "0x0100000000009231"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009233",
-            "Owner": "0x0100000000009231",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000000009232",
-                "Target": "0x0100000000009231"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_44FF4873",
-        "Id": "0x0100000000009238",
-        "Parent": "0x0100000000008F05",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_44FF4873.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 350.0,
-          "y": -900.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1157580915,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009239",
-            "Owner": "0x0100000000009238"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000923A",
-            "Owner": "0x0100000000009238",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000000009239",
-                "Target": "0x0100000000009238"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_29A6B985",
-        "Id": "0x0100000000009245",
-        "Parent": "0x0100000000008F05",
-        "MenuText": "Morality Comes from the Gods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_29A6B985.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 351.395691922861,
-          "y": -401.699876237956
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 698792325,
-        "InputPins": [
-          {
-            "Text": "Euthyphro.i2_unlock == true",
-            "Id": "0x0100000000009246",
-            "Owner": "0x0100000000009245"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000009247",
-            "Owner": "0x0100000000009245",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x0100000000009246",
-                "Target": "0x0100000000009245"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_B57EFB37",
-        "Id": "0x010000000000924C",
-        "Parent": "0x0100000000008F05",
-        "MenuText": "There are Different Gods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_B57EFB37.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 350.0,
-          "y": -150.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3044997943,
-        "InputPins": [
-          {
-            "Text": "Euthyphro.i3_unlock == true",
-            "Id": "0x010000000000924D",
-            "Owner": "0x010000000000924C"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000924E",
-            "Owner": "0x010000000000924C",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000924D",
-                "Target": "0x010000000000924C"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_D84B78B1",
-        "Id": "0x010000000000B17B",
-        "Parent": "0x010000000000A9A2",
-        "MenuText": "Mankind is Flawed",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_D84B78B1.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1575.0,
-          "y": -575.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3628824753,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B17C",
-            "Owner": "0x010000000000B17B"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B17D",
-            "Owner": "0x010000000000B17B",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000B17C",
-                "Target": "0x010000000000B17B"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_08449113",
-        "Id": "0x010000000000B182",
-        "Parent": "0x010000000000A9A2",
-        "MenuText": "Your Face is Ugly!",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_08449113.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1575.0,
-          "y": -825.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 138711315,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B183",
-            "Owner": "0x010000000000B182"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B184",
-            "Owner": "0x010000000000B182",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000B183",
-                "Target": "0x010000000000B182"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_EC3E9E38",
-        "Id": "0x010000000000B189",
-        "Parent": "0x010000000000A9A2",
-        "MenuText": "Morality Comes from the Gods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_EC3E9E38.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1576.39569192286,
-          "y": -326.699876237956
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3963526712,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B18A",
-            "Owner": "0x010000000000B189"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B18B",
-            "Owner": "0x010000000000B189",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000B18A",
-                "Target": "0x010000000000B189"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "DialogueFragment",
-      "Properties": {
-        "TechnicalName": "DFr_43B78563",
-        "Id": "0x010000000000B190",
-        "Parent": "0x010000000000A9A2",
-        "MenuText": "There are Different Gods",
-        "StageDirections": "",
-        "Speaker": "0x03000000F071A5F6",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_43B78563.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 1575.0,
-          "y": -75.0
-        },
-        "ZIndex": 273.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1136100707,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B191",
-            "Owner": "0x010000000000B190"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B192",
-            "Owner": "0x010000000000B190",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000B191",
-                "Target": "0x010000000000B190"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
       "Type": "nodeTemplateFrame_01",
       "Properties": {
         "TechnicalName": "DFr_F0F181C8",
@@ -4785,7 +4337,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "",
+            "Text": "Socrates.credibility = 5",
             "Id": "0x010000000001E8AD",
             "Owner": "0x010000000001E8AB",
             "Connections": [
@@ -84215,8 +83767,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000009232",
-                "Target": "0x0100000000009231"
+                "TargetPin": "0x010000000001F074",
+                "Target": "0x010000000001F073"
               },
               {
                 "Color": {
@@ -84226,8 +83778,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000009239",
-                "Target": "0x0100000000009238"
+                "TargetPin": "0x010000000001F1A2",
+                "Target": "0x010000000001F1A0"
               },
               {
                 "Color": {
@@ -84237,8 +83789,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000009246",
-                "Target": "0x0100000000009245"
+                "TargetPin": "0x010000000001F127",
+                "Target": "0x010000000001F125"
               },
               {
                 "Color": {
@@ -84248,8 +83800,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000924D",
-                "Target": "0x010000000000924C"
+                "TargetPin": "0x010000000001F208",
+                "Target": "0x010000000001F206"
               }
             ]
           }
@@ -84302,8 +83854,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000B17C",
-                "Target": "0x010000000000B17B"
+                "TargetPin": "0x010000000001F07B",
+                "Target": "0x010000000001F07A"
               },
               {
                 "Color": {
@@ -84313,8 +83865,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000B183",
-                "Target": "0x010000000000B182"
+                "TargetPin": "0x010000000001F1A7",
+                "Target": "0x010000000001F1A6"
               },
               {
                 "Color": {
@@ -84324,8 +83876,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000B18A",
-                "Target": "0x010000000000B189"
+                "TargetPin": "0x010000000001F12D",
+                "Target": "0x010000000001F12C"
               },
               {
                 "Color": {
@@ -84335,14 +83887,374 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000B191",
-                "Target": "0x010000000000B190"
+                "TargetPin": "0x010000000001F20E",
+                "Target": "0x010000000001F20D"
               }
             ]
           }
         ]
       },
       "Template": {}
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_0698D9D2",
+        "Id": "0x010000000001F073",
+        "Parent": "0x0100000000008F05",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 350.0,
+          "y": -700.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 110680530,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F074",
+            "Owner": "0x010000000001F073"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F075",
+            "Owner": "0x010000000001F073"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_0698D9D2.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_89B70B51",
+        "Id": "0x010000000001F125",
+        "Parent": "0x0100000000008F05",
+        "DisplayName": "Mankind is Flawed",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 350.0,
+          "y": -600.0
+        },
+        "ZIndex": 475.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2310474577,
+        "InputPins": [
+          {
+            "Text": "Euthyphro.i1_unlock == true",
+            "Id": "0x010000000001F127",
+            "Owner": "0x010000000001F125"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F128",
+            "Owner": "0x010000000001F125"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_89B70B51.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_7B99218E",
+        "Id": "0x010000000001F1A0",
+        "Parent": "0x0100000000008F05",
+        "DisplayName": "Morality Comes from the Gods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 350.0,
+          "y": -500.0
+        },
+        "ZIndex": 474.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2073633166,
+        "InputPins": [
+          {
+            "Text": "Euthyphro.i2_unlock == true",
+            "Id": "0x010000000001F1A2",
+            "Owner": "0x010000000001F1A0"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1A3",
+            "Owner": "0x010000000001F1A0"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_7B99218E.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_7677CFA2",
+        "Id": "0x010000000001F206",
+        "Parent": "0x0100000000008F05",
+        "DisplayName": "There are Different Gods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 350.0,
+          "y": -400.0
+        },
+        "ZIndex": 473.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1987563426,
+        "InputPins": [
+          {
+            "Text": "Euthyphro.i3_unlock == true",
+            "Id": "0x010000000001F208",
+            "Owner": "0x010000000001F206"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F209",
+            "Owner": "0x010000000001F206"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_7677CFA2.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_A20B564D",
+        "Id": "0x010000000001F07A",
+        "Parent": "0x010000000000A9A2",
+        "DisplayName": "Your Face is Ugly!",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1575.0,
+          "y": -750.0
+        },
+        "ZIndex": 137.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2718651981,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F07B",
+            "Owner": "0x010000000001F07A"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F07C",
+            "Owner": "0x010000000001F07A"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_A20B564D.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_AD5DF768",
+        "Id": "0x010000000001F12C",
+        "Parent": "0x010000000000A9A2",
+        "DisplayName": "Mankind is Flawed",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1575.0,
+          "y": -625.0
+        },
+        "ZIndex": 475.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2908616552,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F12D",
+            "Owner": "0x010000000001F12C"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F12E",
+            "Owner": "0x010000000001F12C"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_AD5DF768.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_9A5501C9",
+        "Id": "0x010000000001F1A6",
+        "Parent": "0x010000000000A9A2",
+        "DisplayName": "Morality Comes from the Gods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1575.0,
+          "y": -500.0
+        },
+        "ZIndex": 474.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 2589262281,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1A7",
+            "Owner": "0x010000000001F1A6"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F1A8",
+            "Owner": "0x010000000001F1A6"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_9A5501C9.idea.ideaDescription"
+        }
+      }
+    },
+    {
+      "Type": "ideaContent",
+      "Properties": {
+        "TechnicalName": "Hub_54FC8809",
+        "Id": "0x010000000001F20D",
+        "Parent": "0x010000000000A9A2",
+        "DisplayName": "There are Different Gods",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 1575.0,
+          "y": -375.0
+        },
+        "ZIndex": 473.0,
+        "Size": {
+          "w": 175.0,
+          "h": 50.0
+        },
+        "ShortId": 1425836041,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F20E",
+            "Owner": "0x010000000001F20D"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F20F",
+            "Owner": "0x010000000001F20D"
+          }
+        ]
+      },
+      "Template": {
+        "idea": {
+          "ideaDescription": "Hub_54FC8809.idea.ideaDescription"
+        }
+      }
     },
     {
       "Type": "chapterConnector",
@@ -87191,6 +87103,120 @@
     },
     {
       "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/NormalBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_F4510453",
+        "Id": "0x010000000001F296",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "NormalBubble",
+        "Filename": "NormalBubble(F397).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/NormalBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4098950227
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/OutcryBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_C59DD928",
+        "Id": "0x010000000001F299",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "OutcryBubble",
+        "Filename": "OutcryBubble(F398).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/OutcryBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 3315456296
+      }
+    },
+    {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/bubbleSpeech/ThoughtsBubble.png",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_4D9E0C6D",
+        "Id": "0x010000000001F29C",
+        "Parent": "0x010000000001F292",
+        "DisplayName": "ThoughtsBubble",
+        "Filename": "ThoughtsBubble(F39D).png",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/Telegram Desktop/bubbles (2)/bubbles/ThoughtsBubble.png",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 1302203501
+      }
+    },
+    {
+      "Type": "Asset",
       "AssetRef": "Assets/Audio/AllOnTheLine.mp3",
       "Category": "Audio",
       "Properties": {
@@ -88908,6 +88934,17 @@
         "DisplayName": "Images",
         "ExternalId": "",
         "ShortId": 39821167
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_DD35E060",
+        "Id": "0x010000000001F292",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "bubbleSpeech",
+        "ExternalId": "",
+        "ShortId": 3711295584
       }
     },
     {

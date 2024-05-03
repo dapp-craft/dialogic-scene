@@ -269,126 +269,6 @@
     },
     "Context": "Flow/arbitera4correct_7"
   },
-  "DFr_D5E9EA40.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/arbitera1/i2: \"Mill believes that something can be...\""
-  },
-  "DFr_47A47644.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/arbitera1/i3: \"People often help each other in ord...\""
-  },
-  "DFr_CEAF8751.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/arbitera1/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_AED50584.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/arbitera1/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_E175CD7E.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/arbitera1/i4: \"Euthyphro believes that sentient be...\""
-  },
-  "DFr_A5742DA3.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/arbitera2/i2: \"Mill believes that something can be...\""
-  },
-  "DFr_FD093F47.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/arbitera2/i3: \"People often help each other in ord...\""
-  },
-  "DFr_4A18B0FC.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/arbitera2/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_456B43CD.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/arbitera2/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_964C1561.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/arbitera2/i4: \"Euthyphro believes that sentient be...\""
-  },
-  "DFr_5617D1F8.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/arbitera3/i2: \"Mill believes that something can be...\""
-  },
-  "DFr_F6754B89.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/arbitera3/i3: \"People often help each other in ord...\""
-  },
-  "DFr_55510D40.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/arbitera3/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_5210A7FD.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/arbitera3/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_4DBA0B2B.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/arbitera3/i4: \"Euthyphro believes that sentient be...\""
-  },
-  "DFr_622073E2.Text": {
-    "": {
-      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
-    },
-    "Context": "Flow/arbitera4/i2: \"Mill believes that something can be...\""
-  },
-  "DFr_08E9BC5D.Text": {
-    "": {
-      "Text": "People often help each other in order to further the overall good."
-    },
-    "Context": "Flow/arbitera4/i3: \"People often help each other in ord...\""
-  },
-  "DFr_D9205592.Text": {
-    "": {
-      "Text": "According to Kant, all true moral systems must be intention-based."
-    },
-    "Context": "Flow/arbitera4/i1: \"According to Kant, all true moral s...\""
-  },
-  "DFr_7DE056F1.Text": {
-    "": {
-      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
-    },
-    "Context": "Flow/arbitera4/i0: \"My opponent only believes what he d...\""
-  },
-  "DFr_ABB4361A.Text": {
-    "": {
-      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
-    },
-    "Context": "Flow/arbitera4/i4: \"Euthyphro believes that sentient be...\""
-  },
   "DFr_1B72B5B6.Text": {
     "": {
       "Text": "Well, ^^^^that was quite a spirited performance, ^^^^Socrates!"
@@ -5776,6 +5656,126 @@
       "Text": "What?! ^^^^Now wait a minute—"
     },
     "Context": "Flow/arbitera4correct_7/05_euthypro: \"What?! ^^^^Now wait a minute—\""
+  },
+  "Hub_89C4E4F7.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera1/Your Face is Ugly!"
+  },
+  "Hub_9C2DD1A8.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera1/Intentionalism"
+  },
+  "Hub_1916A964.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera1/Good is Happiness"
+  },
+  "Hub_8FD4F934.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera1/People Work Together"
+  },
+  "Hub_0B549F66.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera1/Mankind is Flawed"
+  },
+  "Hub_77B4A5AE.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera2/Your Face is Ugly!"
+  },
+  "Hub_502B7394.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera2/Intentionalism"
+  },
+  "Hub_70676A82.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera2/Good is Happiness"
+  },
+  "Hub_742C8DB0.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera2/People Work Together"
+  },
+  "Hub_8AC6025F.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera2/Mankind is Flawed"
+  },
+  "Hub_E38742E2.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera3/Your Face is Ugly!"
+  },
+  "Hub_08B4EFE1.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera3/Intentionalism"
+  },
+  "Hub_6EC4A27D.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera3/Good is Happiness"
+  },
+  "Hub_5A5E06EA.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera3/People Work Together"
+  },
+  "Hub_489A12C2.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera3/Mankind is Flawed"
+  },
+  "Hub_0B4ADF0C.idea.ideaDescription": {
+    "": {
+      "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
+    },
+    "Context": "Flow/arbitera4/Your Face is Ugly!"
+  },
+  "Hub_FA50F122.idea.ideaDescription": {
+    "": {
+      "Text": "According to Kant, all true moral systems must be intention-based."
+    },
+    "Context": "Flow/arbitera4/Intentionalism"
+  },
+  "Hub_1D1B06F5.idea.ideaDescription": {
+    "": {
+      "Text": "Mill believes that something can be called good as long as it increases overall happiness."
+    },
+    "Context": "Flow/arbitera4/Good is Happiness"
+  },
+  "Hub_7039984C.idea.ideaDescription": {
+    "": {
+      "Text": "People often help each other in order to further the overall good."
+    },
+    "Context": "Flow/arbitera4/People Work Together"
+  },
+  "Hub_8B777DC2.idea.ideaDescription": {
+    "": {
+      "Text": "Euthyphro believes that sentient beings are flawed and often make bad judgments."
+    },
+    "Context": "Flow/arbitera4/Mankind is Flawed"
   },
   "Ntt_406C2809.DisplayName": {
     "": {
