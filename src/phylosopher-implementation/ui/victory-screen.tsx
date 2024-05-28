@@ -35,7 +35,7 @@ export let renderVictoryScreen = () => (
             alignItems: 'center'
         }} 
         uiBackground={{
-            color: Color4.Black()
+            color: palette.overlayBackground
         }}
         > 
           <UiEntity // startScreen

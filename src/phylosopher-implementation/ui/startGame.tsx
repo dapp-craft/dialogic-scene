@@ -9,6 +9,7 @@ import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
 import { saveAndQuit } from "./new-chapter";
 import { soundController } from "../../dcl-novel-engine/engine/util/sound-controller";
 import { setUiCanvas } from "../buttonsCanvas";
+import { palette } from "../../dcl-novel-engine/engine/ui/palette";
 
 
 // Here you can see the implementation of the Start Game screen. 
@@ -79,11 +80,16 @@ export function renderLobbyScreen(){
         alignItems: 'center'
     }} 
     uiBackground={{
-        color: Color4.Black()
+       color: palette.overlayBackground,
+    // color: Color4.create(0.2, 0.2, 0.2, 1),
+    //   textureMode: 'stretch',
+    //   texture: {
+    //    src: "Assets/Images/realm_bg.png"
+    //  }
     }}
     > 
       <UiEntity // startScreen
-    uiTransform={{
+    uiTransform={{ 
         
         width: canvasWidth  *lobbyParams.size,
         height: canvasWidth *1150/2048 *lobbyParams.size,

@@ -13,6 +13,8 @@ import { getPlayer } from '@dcl/sdk/src/players'
 import { showVictorySplashScreen } from './phylosopher-implementation/ui/victory-screen'
 import IIdea from './phylosopher-implementation/interface/i-idea'
 import { getLocalization } from './dcl-novel-engine/engine/parser/parser'
+import { characterTemplates } from './phylosopher-implementation/templates/character-template'
+import { buttonTemplates } from './phylosopher-implementation/templates/button-templates'
 
 async function startChapter(chapter: string) {
     console.log("Loading package: " + chapter)
@@ -27,8 +29,12 @@ async function startChapter(chapter: string) {
 
 showLoadingSplashScreen()
 
-export let novelEngine = new Engine("src/input/manifest.json")
-export const userCreatedController = new UserCreatedController();
+export let novelEngine = new Engine(
+    "src/input/manifest.json", 
+    characterTemplates, 
+    buttonTemplates, 
+    {["user-created-controller"]: new UserCreatedController()})
+
 export let philisophyQuest = new Quest()
 
 let _ideas: IIdea[] = [];
@@ -100,12 +106,6 @@ export function getIdeaByTarget(target: string): IIdea | undefined {
 }
 
 export async function main() {
-    novelEngine.onSequencesInitialized.push((s) => { 
-        userCreatedController.setSequences(s)
-    }) 
-    novelEngine.onFrameLoaded.push( async (f) => {
-        userCreatedController.onFrameLoaded(f)
-    })
     ReactEcsRenderer.setUiRenderer(RootCanvas)
     if (getPlayer()?.isGuest) showErrorSplashScreen(() => { }, "WARNING\n You need to connect to decentraland to be able to save the game and get rewards.")
 

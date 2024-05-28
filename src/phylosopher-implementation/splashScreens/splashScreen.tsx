@@ -22,7 +22,13 @@ export let renderLoadingSplashScreen = ()=>(
            display: loadingScreenVisible ? 'flex' :'none'
        }}
        uiBackground={{
-           color: Color4.Black()
+        
+         // color: Color4.Black()
+       color:palette.overlayBackground,
+        // textureMode: 'center',
+        // texture: {
+        //   src: "Assets/Images/realm_bg.png"n
+        // }
        }}
        > 
            <UiEntity

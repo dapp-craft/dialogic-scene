@@ -10,7 +10,6 @@ import { IFrameNote, notesTab } from "./ui/notes";
 import { setNoteButtonVisible } from "./buttonsCanvas";
 import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
 import { NovelController } from "../dcl-novel-engine/engine/util/controller";
-import { buttonConfig } from "./ui/button/buttonTemplates";
 
 /// <summary>
 /// This class is an example of class, which is responsible for handling the custom logic of the game.
@@ -27,7 +26,10 @@ export default class UserCreatedController extends NovelController
     /// <summary>
     /// This method is called when the frame is loaded
     /// </summary>
-    public onFrameLoaded(frame: Frame){
+    public onPreLoadFrame(frame: Frame): void {
+        
+    }
+    public onPostLoadFrame(frame: Frame){
 
         let ideas = getUnlockedIdeas(frame.parentSequence);
         let notes: IFrameNote[] = []
@@ -122,7 +124,7 @@ export default class UserCreatedController extends NovelController
             notesTab.closable = notesTab.notes.length == 0;
 
             novelEngine.getUiController().visible = true;
-            buttonConfig.refresh();
+            novelEngine.getUiController().buttonConfig.refresh();
             
         }
         else {
