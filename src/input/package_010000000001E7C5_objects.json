@@ -4337,7 +4337,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "Socrates.credibility = 5",
+            "Text": "Socrates.credibility = 5;\nEuthyphro.eutha2s5b1_open = false;\nEuthyphro.i1_unlock = false;\nEuthyphro.i2_unlock = false;\nEuthyphro.i3_unlock = false;\n",
             "Id": "0x010000000001E8AD",
             "Owner": "0x010000000001E8AB",
             "Connections": [
@@ -87115,9 +87115,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -2.33203125,
+            "w": 1.0,
+            "h": 5.6640625
           }
         },
         "Color": {
@@ -87153,9 +87153,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -1.888671875,
+            "w": 1.0,
+            "h": 4.77734375
           }
         },
         "Color": {
@@ -87191,9 +87191,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -2.298828125,
+            "w": 1.0,
+            "h": 5.59765625
           }
         },
         "Color": {

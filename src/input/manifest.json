@@ -3,7 +3,7 @@
     "set_UseScriptSupport": "True",
     "set_TextFormatter": "",
     "set_IncludedNodes": "Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets",
-    "set_IncludingAssets": "True",
+    "set_IncludingAssets": "False",
     "ExportVersion": "2.0",
     "RuleSetId": "010000000001E7BE",
     "RuleSetName": "Export Socrates"
@@ -47,7 +47,7 @@
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7C3_objects.json",
-          "Hash": "AyfUTthTnZLKQhQA/x7SW9TFR5J6RvZAVuGq4do9SKc="
+          "Hash": "4Hz4e5myC7AoU3ZYzZeAdIlQDyZvRMNX9yhuPNK1vsQ="
         },
         "Texts": {
           "FileName": "package_010000000001E7C3_localization.json",
@@ -61,11 +61,11 @@
       "Description": "",
       "IsDefaultPackage": false,
       "IsIncluded": true,
-      "ScriptFragmentHash": "RFm/teompWNdc51kMcfck3i1OGB7wnaalWv2Y/eZKYQ=",
+      "ScriptFragmentHash": "Lf1zmpu2h3WhT/yINoFs0UJdBO79hHh36+4slDvcZFQ=",
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7C5_objects.json",
-          "Hash": "ussea957FhNahUdQKKG6+zlEODGgD3ujSPYITB6uRsI="
+          "Hash": "HgKVL4fCxWbxiYS2IRH7BpaPuOJ0a9c1/W2iFd2WSts="
         },
         "Texts": {
           "FileName": "package_010000000001E7C5_localization.json",
@@ -79,11 +79,11 @@
       "Description": "",
       "IsDefaultPackage": false,
       "IsIncluded": true,
-      "ScriptFragmentHash": "Egy2pfO5VWouVFr4WCLoxFwrrYfTm3G+ppeX2z4zoJ0=",
+      "ScriptFragmentHash": "UcFj6ErL8u1wmzjmqej7gAisRmRENQjyZ6JaWGmTAUc=",
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7C7_objects.json",
-          "Hash": "Uyr5hSjQ+a8KqL1TjSiYr6vOEoneVIXTB6KV5tW4Gpk="
+          "Hash": "oTOfWXtMktonaLnvUcADX4rCRaGMegYAbmGCOh6gzEE="
         },
         "Texts": {
           "FileName": "package_010000000001E7C7_localization.json",
@@ -101,7 +101,7 @@
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7C9_objects.json",
-          "Hash": "09qZZDzspHhUMWdWf1qCa0Seedvzv58TqJMVhaWU+po="
+          "Hash": "TE7ylkvtI625ny/Q9t+Bk0PtPAjaQ0agYV7+u1+rElI="
         },
         "Texts": {
           "FileName": "package_010000000001E7C9_localization.json",
@@ -115,11 +115,11 @@
       "Description": "",
       "IsDefaultPackage": false,
       "IsIncluded": true,
-      "ScriptFragmentHash": "jyjZYUZZXITD51PimI1IJoxa/IaE4d+AtTzqANtWFVE=",
+      "ScriptFragmentHash": "Jl9WhOAa4lZ6Zc3ZbaesxnntnhKLHY1IsM9F4ivsvec=",
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7CB_objects.json",
-          "Hash": "7Zgttqy3mk4VaI3A+F1WNauZkfoedhG5Yvanfb+i4Ik="
+          "Hash": "hacx0Rda2s2Bj3Q1MBAxm5GxJMFou1lSVwbhcRrgYd4="
         },
         "Texts": {
           "FileName": "package_010000000001E7CB_localization.json",
@@ -133,11 +133,11 @@
       "Description": "",
       "IsDefaultPackage": false,
       "IsIncluded": true,
-      "ScriptFragmentHash": "ewO6b3Yh1D0SL9Mg/QsYBhX6s/65j9M9kmIXp5fBdoE=",
+      "ScriptFragmentHash": "6NGusQPTskmDblqy58+nged7V/Xi0JEYiMGUGXeW26A=",
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7CD_objects.json",
-          "Hash": "cCrI8YUcV4PTYvmGJSjTmuvycC6+2G8tfI/HgLPFJKE="
+          "Hash": "9oZwvy5T2y1m13cqIytzWMB9LD5d/Y9/5sNLCao1d0w="
         },
         "Texts": {
           "FileName": "package_010000000001E7CD_localization.json",
@@ -151,11 +151,11 @@
       "Description": "",
       "IsDefaultPackage": false,
       "IsIncluded": true,
-      "ScriptFragmentHash": "x7ebHaQ2kPgXV9NMW+xPloRK+UPKi/pf61GtejLETto=",
+      "ScriptFragmentHash": "IePmZlyWOW2UoKNK8Yjkd9xGgrlGFEteUEcyCeySjPU=",
       "Files": {
         "Objects": {
           "FileName": "package_010000000001E7CF_objects.json",
-          "Hash": "cTDzAXdp6OPQNz0Dh90s4Wf8Pes980Vw8pYwGyTJxXg="
+          "Hash": "gv2U1wTRm4+wyoT70tzmd1O1eZlOzMqDQCrVCj8o08I="
         },
         "Texts": {
           "FileName": "package_010000000001E7CF_localization.json",

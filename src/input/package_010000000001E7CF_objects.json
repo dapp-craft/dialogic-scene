@@ -5309,7 +5309,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "Socrates.credibility = 5",
+            "Text": "Socrates.credibility = 5;\nArbiter.arbitera1s1_open = true;\nArbiter.arbitera1s1c1_open = false;\nArbiter.arbitera3s3c1_open = false;\nArbiter.arbitera4s2b1_open = false;\nArbiter.arbitera4s2b2_open = false;\nArbiter.arbitera4s2b2c1_open = false;\nArbiter.arbitera4s3_open = true;\nArbiter.ChallengeButton_open = false;\nArbiter.i0_unlock = false;\nArbiter.i1_unlock = false;\nArbiter.i2_unlock = false;\nArbiter.i3_unlock = false;\nArbiter.i4_unlock = false;",
             "Id": "0x010000000001DB20",
             "Owner": "0x010000000001DB1C",
             "Connections": [
@@ -118601,9 +118601,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -2.33203125,
+            "w": 1.0,
+            "h": 5.6640625
           }
         },
         "Color": {
@@ -118639,9 +118639,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -1.888671875,
+            "w": 1.0,
+            "h": 4.77734375
           }
         },
         "Color": {
@@ -118677,9 +118677,9 @@
         "PreviewImage": {
           "ViewBox": {
             "x": 0.0,
-            "y": 0.0,
-            "w": 0.0,
-            "h": 0.0
+            "y": -2.298828125,
+            "w": 1.0,
+            "h": 5.59765625
           }
         },
         "Color": {
