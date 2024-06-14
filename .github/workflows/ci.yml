@@ -1,0 +1,24 @@
+name: deploy:test
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build-and-deploy-to-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
+      - name: install dependencies
+        run: npm i
+      - name: build
+        run: npm run build
+      - name: deploy
+        env: 
+          DCL_PRIVATE_KEY: ${{ secrets.DEPLOY_WORLDS_PKEY }}
+        run: npm run deploy -- --target-content https://worlds-content-server.decentraland.org
