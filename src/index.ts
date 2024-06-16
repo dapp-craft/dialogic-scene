@@ -110,35 +110,35 @@ export async function main() {
     if (getPlayer()?.isGuest) showErrorSplashScreen(() => { }, "WARNING\n You need to connect to decentraland to be able to save the game and get rewards.")
 
     console.log("Launch setting up quest")
-    let questInitialized = philisophyQuest.getCurrentChapter().then(async currentChapter => {
-        console.log("Current chapter: ", currentChapter)
-        if (currentChapter) {
-            createContinueButton(async () => {
-                showLoadingSplashScreen() // 
-                await startChapter(currentChapter!)
-                settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
-                hideLoadingSplashScreen()
-            })
-        } else if (currentChapter === null) {
-            showVictorySplashScreen
-        }
-        else createStartButton(async () => {
-            showLoadingSplashScreen()
-            try { 
-               if (await philisophyQuest.begin()) console.log("Starting quest")
-               else throw "Error starting quest"
-                if (currentChapter = await philisophyQuest.getCurrentChapter()) await startChapter(currentChapter)
-                else throw `Invalid chapter ${currentChapter}`
-                settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
-            } catch (e) {
-                console.error(e)
-                showErrorSplashScreen(() => { }, String(e))
-                return
-            } finally {
-                hideLoadingSplashScreen()
-            }
-        })
-    })
+    // let questInitialized = philisophyQuest.getCurrentChapter().then(async currentChapter => {
+    //     console.log("Current chapter: ", currentChapter)
+    //     if (currentChapter) {
+    //         createContinueButton(async () => {
+    //             showLoadingSplashScreen() // 
+    //             await startChapter(currentChapter!)
+    //             settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
+    //             hideLoadingSplashScreen()
+    //         })
+    //     } else if (currentChapter === null) {
+    //         showVictorySplashScreen
+    //     }
+    //     else createStartButton(async () => {
+    //         showLoadingSplashScreen()
+    //         try { 
+    //            if (await philisophyQuest.begin()) console.log("Starting quest")
+    //            else throw "Error starting quest"
+    //             if (currentChapter = await philisophyQuest.getCurrentChapter()) await startChapter(currentChapter)
+    //             else throw `Invalid chapter ${currentChapter}`
+    //             settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
+    //         } catch (e) {
+    //             console.error(e)
+    //             showErrorSplashScreen(() => { }, String(e))
+    //             return
+    //         } finally {
+    //             hideLoadingSplashScreen()
+    //         }
+    //     })
+    // })
 
     novelEngine.addOnNodeParsedHook((node: IHookNode, packageId: string) => {
         if (node.type == "ideaContent") {
@@ -172,7 +172,8 @@ export async function main() {
     })
 
     try {
-        await Promise.all([questInitialized, engineInitialized])
+      //  await Promise.all([questInitialized, engineInitialized])
+      await Promise.all([engineInitialized])
     } catch (e) {
         console.error(`Quest or engine initialization failure: ${e}`)
         showErrorSplashScreen(() => { }, String(e))
