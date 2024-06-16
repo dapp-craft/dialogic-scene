@@ -162,13 +162,13 @@ export async function main() {
     let engineInitialized = new Promise<void>(r => timers.setTimeout(r, 300)).then(async () => {
         buildMap()
         await novelEngine.addPackage("Prologue")
-        await novelEngine.addPackage("Chapter_1");
-        await novelEngine.addPackage("Chapter_2");
-        await novelEngine.addPackage("Chapter_3");
-        await novelEngine.addPackage("Chapter_4");
-        await novelEngine.addPackage("Chapter_5");
-        await novelEngine.addPackage("Chapter_6");
-        await novelEngine.addPackage("Victory");
+        // await novelEngine.addPackage("Chapter_1");
+        // await novelEngine.addPackage("Chapter_2");
+        // await novelEngine.addPackage("Chapter_3");
+        // await novelEngine.addPackage("Chapter_4");
+        // await novelEngine.addPackage("Chapter_5");
+        // await novelEngine.addPackage("Chapter_6");
+        // await novelEngine.addPackage("Victory");
     })
 
     try {
