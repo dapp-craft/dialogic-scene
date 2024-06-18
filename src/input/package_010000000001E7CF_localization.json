@@ -683,12 +683,6 @@
     },
     "Context": "Flow/arbiterp1_2/01_socrates: \"“Examine everything.” ^^^^^^^^^Ther...\""
   },
-  "DFr_F6450F46.Text": {
-    "": {
-      "Text": "“Examine everything.” ^^^^^^^^^There’s too much on the line for us to forget that now— ^^^^^^no matter how scary our opponent looks!"
-    },
-    "Context": "Flow/arbiterp1_2/01_socrates: \"“Examine everything.” ^^^^^^^^^Ther...\""
-  },
   "DFr_6B98C2E9.Text": {
     "": {
       "Text": "I ^^^trust you."
@@ -2085,7 +2079,7 @@
     "": {
       "Text": "Now you understand why I cannot accept your answer."
     },
-    "Context": "Flow/arbiterp3_2/02_ari: \"Now you understand why I cannot acc...\""
+    "Context": "Flow/arbiterp3_2/04_arbiter: \"Now you understand why I cannot acc...\""
   },
   "DFr_C7D1FA34.Text": {
     "": {
@@ -5140,12 +5134,6 @@
       "Text": "This... ^^^this is quite impressive, ^^^old friend!"
     },
     "Context": "Flow/arbitera4correct_1/06_protagoras: \"This... ^^^this is quite impressive...\""
-  },
-  "DFr_2657DFFC.Text": {
-    "": {
-      "Text": "This... ^^^this is quite impressive, ^^^old friend!"
-    },
-    "Context": "Flow/arbitera4correct_1/09_kant: \"This... ^^^this is quite impressive...\""
   },
   "DFr_66BB5B7F.Text": {
     "": {

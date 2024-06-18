@@ -242,7 +242,7 @@
       },
       "Template": {
         "environment": {
-          "themeSong": "0x0000000000000000"
+          "themeSong": "0x010000000001F026"
         }
       }
     },
@@ -79062,113 +79062,6 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000000B798",
-                "Target": "0x010000000000B797"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_06": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_05": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 9.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -9.0
-        },
-        "characterInFrame_02": {
-          "animations": 2,
-          "name": 5,
-          "directionOfView": 1,
-          "position": 3.0
-        },
-        "characterInFrame_01": {
-          "animations": 7,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -3.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_01",
-      "Properties": {
-        "TechnicalName": "DFr_726B769B",
-        "Id": "0x010000000000B797",
-        "Parent": "0x010000000000B66C",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x0100000000000973",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_726B769B.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 6625.0,
-          "y": 325.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1919645339,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B798",
-            "Owner": "0x010000000000B797"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B799",
-            "Owner": "0x010000000000B797",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
                 "TargetPin": "0x010000000000B670",
                 "Target": "0x010000000000B66C"
               }
@@ -79221,7 +79114,7 @@
           "position": 3.0
         },
         "characterInFrame_01": {
-          "animations": 2,
+          "animations": 7,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0

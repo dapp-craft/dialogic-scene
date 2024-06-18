@@ -9027,7 +9027,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -9122,7 +9122,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -11245,7 +11245,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -11340,7 +11340,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -14033,7 +14033,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -14128,7 +14128,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -15648,7 +15648,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -15743,7 +15743,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -23990,7 +23990,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -24085,7 +24085,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -27053,7 +27053,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -27623,7 +27623,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -32037,7 +32037,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -32132,7 +32132,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -35903,7 +35903,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -35998,7 +35998,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -42897,101 +42897,6 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000000001D220",
-                "Target": "0x010000000001D21F"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_04": {
-          "animations": 15,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 9.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -4.0
-        },
-        "characterInFrame_07": {
-          "name": 9,
-          "directionOfView": 1,
-          "position": 3.0,
-          "animations": 22
-        },
-        "characterInFrame_01": {
-          "animations": 9,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -2.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_05",
-      "Properties": {
-        "TechnicalName": "DFr_3DE56646",
-        "Id": "0x010000000001D21F",
-        "Parent": "0x010000000001D1D2",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x010000000000097B",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_3DE56646.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 3625.0,
-          "y": 325.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1038444102,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000001D220",
-            "Owner": "0x010000000001D21F"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000001D221",
-            "Owner": "0x010000000001D21F",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
                 "TargetPin": "0x010000000001D227",
                 "Target": "0x010000000001D226"
               }
@@ -43029,7 +42934,7 @@
           "name": 9,
           "directionOfView": 1,
           "position": 3.0,
-          "animations": 1
+          "animations": 22
         },
         "characterInFrame_01": {
           "animations": 9,
@@ -46752,7 +46657,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -47037,7 +46942,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -48177,7 +48082,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -48462,7 +48367,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -50300,7 +50205,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -50490,7 +50395,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -54181,7 +54086,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -54466,7 +54371,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 1,
-          "position": 3.0,
+          "position": 2.0,
           "animations": 1
         },
         "characterInFrame_01": {
@@ -62270,7 +62175,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -66279,7 +66184,7 @@
         "characterInFrame_07": {
           "name": 9,
           "directionOfView": 2,
-          "position": 12.0,
+          "position": 25.0,
           "animations": 22
         },
         "characterInFrame_01": {
