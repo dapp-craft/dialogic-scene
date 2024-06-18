@@ -9778,7 +9778,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -9897,7 +9897,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -10016,7 +10016,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -10135,7 +10135,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -10254,7 +10254,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -12991,7 +12991,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 2,
-          "position": -9.0
+          "position": -3.0
         }
       }
     },
@@ -25933,7 +25933,7 @@
           "animations": 3,
           "name": 1,
           "directionOfView": 2,
-          "position": -3.0
+          "position": -2.0
         }
       }
     },
@@ -39652,125 +39652,6 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x0100000000012856",
-                "Target": "0x0100000000012855"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_08": {
-          "name": 9,
-          "directionOfView": 2,
-          "position": -20.0,
-          "animations": 1
-        },
-        "characterInFrame_07": {
-          "name": 7,
-          "directionOfView": 2,
-          "position": -20.0,
-          "animations": 1
-        },
-        "characterInFrame_06": {
-          "animations": 1,
-          "name": 8,
-          "directionOfView": 2,
-          "position": -20.0
-        },
-        "characterInFrame_05": {
-          "animations": 1,
-          "name": 6,
-          "directionOfView": 2,
-          "position": -20.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 5,
-          "directionOfView": 2,
-          "position": -20.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -9.0
-        },
-        "characterInFrame_02": {
-          "animations": 3,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 3.0
-        },
-        "characterInFrame_01": {
-          "animations": 1,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -3.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_06",
-      "Properties": {
-        "TechnicalName": "DFr_2769B56B",
-        "Id": "0x0100000000012855",
-        "Parent": "0x0100000000012840",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x0100000000000973",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_2769B56B.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 600.0,
-          "y": 350.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 661239147,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000012856",
-            "Owner": "0x0100000000012855"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000012857",
-            "Owner": "0x0100000000012855",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
                 "TargetPin": "0x0100000000012844",
                 "Target": "0x0100000000012840"
               }
@@ -39835,7 +39716,7 @@
           "position": 3.0
         },
         "characterInFrame_01": {
-          "animations": 5,
+          "animations": 1,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0
@@ -44467,7 +44348,7 @@
           "animations": 15,
           "name": 2,
           "directionOfView": 1,
-          "position": 0.0
+          "position": 12.0
         },
         "characterInFrame_02": {
           "animations": 19,
@@ -44479,7 +44360,7 @@
           "animations": 1,
           "name": 1,
           "directionOfView": 1,
-          "position": -2.0
+          "position": -1.0
         }
       }
     },
@@ -58319,7 +58200,7 @@
       },
       "Template": {
         "node": {
-          "typeNode": 1,
+          "typeNode": 2,
           "autoScrollingTimer": null,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
@@ -90146,7 +90027,7 @@
       },
       "Template": {
         "node": {
-          "typeNode": 3,
+          "typeNode": 2,
           "autoScrollingTimer": null,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
@@ -95426,7 +95307,7 @@
       },
       "Template": {
         "node": {
-          "typeNode": 3,
+          "typeNode": 1,
           "autoScrollingTimer": null,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",

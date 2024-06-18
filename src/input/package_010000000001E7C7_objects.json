@@ -56499,7 +56499,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.7,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56596,113 +56596,6 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x010000020001166D",
-                "Target": "0x010000020001166C"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 3,
-          "autoScrollingTimer": 0.7,
-          "soundEffect": "0x010000000001EFEA",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 3,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 2.0,
-          "title": "“All Morals are Subjective”",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_06": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_05": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 9.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -9.0
-        },
-        "characterInFrame_02": {
-          "animations": 6,
-          "name": 6,
-          "directionOfView": 1,
-          "position": 3.0
-        },
-        "characterInFrame_01": {
-          "animations": 6,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -3.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_02",
-      "Properties": {
-        "TechnicalName": "DFr_5B1DAB01",
-        "Id": "0x010000020001166C",
-        "Parent": "0x0100000200010FE4",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x0100000000000993",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_5B1DAB01.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 5625.0,
-          "y": 2775.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 1528670977,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000020001166D",
-            "Owner": "0x010000020001166C"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000020001166E",
-            "Owner": "0x010000020001166C",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
                 "TargetPin": "0x0100000200011675",
                 "Target": "0x0100000200011674"
               }
@@ -56713,12 +56606,12 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 1.0,
-          "soundEffect": "0x0000000000000000",
+          "autoScrollingTimer": 2.0,
+          "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
-          "speedSpeech": 4.0,
-          "shakeCameraIntensity": 0.0,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 2.0,
           "title": "“All Morals are Subjective”",
           "moveCamera": 0.0,
           "hpButtonName": "credibility",
@@ -56820,7 +56713,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 1.0,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56927,7 +56820,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.5,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57034,7 +56927,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.5,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57141,7 +57034,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.5,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57355,7 +57248,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.5,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57461,8 +57354,8 @@
       },
       "Template": {
         "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
+          "typeNode": 3,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EF96",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,

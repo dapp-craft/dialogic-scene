@@ -52296,8 +52296,8 @@
                   "b": 0.905882359
                 },
                 "Label": "Return",
-                "TargetPin": "0x010000000001D85C",
-                "Target": "0x010000000001D85B"
+                "TargetPin": "0x010000000001F454",
+                "Target": "0x010000000001F453"
               },
               {
                 "Color": {
@@ -59088,8 +59088,8 @@
         "Text": "DFr_8606E971.Text",
         "ExternalId": "",
         "Position": {
-          "x": 11175.0,
-          "y": -275.0
+          "x": 11075.0,
+          "y": -400.0
         },
         "ZIndex": 346.0,
         "Size": {
@@ -66192,6 +66192,101 @@
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_05",
+      "Properties": {
+        "TechnicalName": "DFr_6A8EB163",
+        "Id": "0x010000000001F453",
+        "Parent": "0x010000000001D2B8",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_6A8EB163.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 11075.0,
+          "y": -125.0
+        },
+        "ZIndex": 346.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 1787736419,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F454",
+            "Owner": "0x010000000001F453"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F455",
+            "Owner": "0x010000000001F453",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001D866",
+                "Target": "0x010000000001D865"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "",
+          "moveCamera": -5.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_07": {
+          "name": 9,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 1
+        },
+        "characterInFrame_01": {
+          "animations": 6,
+          "name": 1,
+          "directionOfView": 1,
+          "position": -3.0
         }
       }
     },
