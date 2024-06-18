@@ -2,14 +2,14 @@
 	"ecs7": true,
 	"runtimeVersion": "7",
 	"display": {
-		"title": "SDK7 Scene Template",
-		"description": "template scene with SDK7",
+		"title": "Dialogic",
+		"description": "Dialogic is a narrative novel game where the player needs to use their logic to debate with different characters in order to counter the points the arguments made by his opponents. The goal is to persuade these characters through logical reasoning and ethical considerations. Dialogic blends narrative-driven gameplay with educational content about philosophy, encouraging players to explore different perspectives and deepen their understanding of philosophical concepts.",
 		"navmapThumbnail": "images/scene-thumbnail.png",
 		"favicon": "favicon_asset"
-	},
-	"owner": "",
-	"contact": {
-		"name": "SDK",
+	  },
+	  "owner": "",
+	  "contact": {
+		"name": "Dialogic",
 		"email": ""
 	},
 	"main": "bin/index.js",
