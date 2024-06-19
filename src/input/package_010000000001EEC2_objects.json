@@ -116,7 +116,7 @@
                   "g": 0.8862745,
                   "b": 0.905882359
                 },
-                "Label": "",
+                "Label": "Claim",
                 "TargetPin": "0x010000000001EEB5",
                 "Target": "0x010000000001EEB1"
               }
@@ -129,7 +129,7 @@
           "typeNode": 1,
           "autoScrollingTimer": null,
           "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x01000000000031EA",
+          "sceneOverlay": "0x010000000001F45B",
           "bubbleSpeech": 2,
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,

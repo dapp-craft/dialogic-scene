@@ -13,17 +13,17 @@ import { palette } from "../../dcl-novel-engine/engine/ui/palette";
  
 let visible = false;
 let _onClaim: ()=>void 
-export function drawVictoryChapterScreen(onClaim: ()=>void ){
+export function drawVictoryScreenButton(onClaim: ()=>void ){
 
     visible = true;
     
     engineInstance.getUiController().visible = false;
     _onClaim = onClaim;
 }
-export function hideVictoryChapterScreen( ){
+export function hideVictoryScreenButton( ){
     visible = false;
 }
-export function renderVictoryChapterScreen(){
+export function renderVictoryScreenButton(){
     return(<UiEntity
         uiTransform={{
             width: "100%",
@@ -33,20 +33,6 @@ export function renderVictoryChapterScreen(){
             justifyContent: 'center',
             display: visible ? 'flex':'none'
         }}>
-         <UiEntity
-            uiTransform = {{
-                width: canvasWidth,
-                height: canvasWidth * 1080/1920,
-                positionType: 'absolute',
-                alignItems: 'center',
-                justifyContent: 'center',
-            }}
-            uiBackground={{
-                textureMode: 'stretch',
-                texture: {
-                    src: "Assets/Images/cs_completed.jpeg"
-                }
-            }}>
 
              
               
@@ -75,7 +61,6 @@ export function renderVictoryChapterScreen(){
                     _onClaim();
                 }}
                 />
-            </UiEntity>
-        </UiEntity>
+    </UiEntity>
 )}
 

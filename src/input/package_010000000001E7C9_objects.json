@@ -93171,6 +93171,44 @@
       }
     },
     {
+      "Type": "Asset",
+      "AssetRef": "Assets/Images/victory.jpeg",
+      "Category": "Image",
+      "Properties": {
+        "TechnicalName": "Ast_FF8F6E29",
+        "Id": "0x010000000001F45B",
+        "Parent": "0x0100000000000105",
+        "DisplayName": "victory",
+        "Filename": "victory(F55A).jpeg",
+        "OriginalSource": "file:///C:/Users/grego/Downloads/victory.jpeg",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          }
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 720.0,
+          "y": 720.0
+        },
+        "ZIndex": 36.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "ShortId": 4287589929
+      }
+    },
+    {
       "Type": "UserFolder",
       "Properties": {
         "TechnicalName": "Ufo_025F9F6F",

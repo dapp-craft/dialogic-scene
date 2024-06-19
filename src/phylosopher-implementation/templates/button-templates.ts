@@ -188,6 +188,5 @@ export const buttonTemplates: IButtonTemplate[] = [
       }
     }
   },
-
   // // 0x0100000000005358
 ]

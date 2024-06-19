@@ -10,8 +10,8 @@ import { IFrameNote, notesTab } from "./ui/notes";
 import { setNoteButtonVisible } from "./buttonsCanvas";
 import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
 import { NovelController } from "../dcl-novel-engine/engine/util/novel-controller";
-import { drawVictoryChapterScreen, hideVictoryChapterScreen } from "./ui/victory-chapter";
 import { createQuitButton } from "./ui/startGame";
+import { drawVictoryScreenButton, hideVictoryScreenButton } from "./ui/victory-chapter";
 
 /// <summary>
 /// This class is an example of class, which is responsible for handling the custom logic of the game.
@@ -58,11 +58,17 @@ export default class UserCreatedController extends NovelController
 
     
 
-        if(frame.id == "0x010000000001EEB9")
-            drawVictoryChapterScreen(()=>{
-                createQuitButton(); 
-                hideVictoryChapterScreen()
+       if(frame.id == "0x010000000001EEB9"){
+        novelEngine.getUiController().visible = false;
+            timers.setTimeout(()=>{
+                novelEngine.getUiController().visible = false;
+            }, 30)
+         
+            drawVictoryScreenButton(()=>{
+                createQuitButton();
+                hideVictoryScreenButton();
         });
+        }
 
         if (this.HIDE_BUBBLE_ID.includes(frame.id)) {
             novelEngine.getUiController().visible = false;
@@ -152,3 +158,7 @@ export default class UserCreatedController extends NovelController
         }
     }
 }
+function drawVictoryChapterScreen(arg0: () => void) {
+    throw new Error("Function not implemented.");
+}
+

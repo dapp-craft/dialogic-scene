@@ -68,7 +68,7 @@ export function renderChapter(){
                     alignSelf: 'center',
                     margin: "2%"
                 }}
-              
+               
                 onMouseDown={()=>{
                    
                     newChapter(targetFrame);

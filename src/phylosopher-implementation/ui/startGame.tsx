@@ -165,7 +165,7 @@ export function renderLobbyScreen(){
                 timers.setTimeout(()=>{
           
                     locked = false;
-                    startVisible = false; 
+                    continueVisible = false; 
                 }, 500)
                 
             }

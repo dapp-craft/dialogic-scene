@@ -65,7 +65,7 @@ export function showLoadingSplashScreen(){
  export function hideLoadingSplashScreen(){
 
   if(novelEngine)
-    novelEngine.getUiController().blockInput = true;
+    novelEngine.getUiController().blockInput = false;
 
 
   timers.setTimeout(() => {
