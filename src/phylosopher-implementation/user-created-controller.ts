@@ -29,7 +29,7 @@ export default class UserCreatedController extends NovelController
     /// This method is called when the frame is loaded
     /// </summary>
     public onPreLoadFrame(frame: Frame): void {
-        
+        setCredibility(frame);
     }
     public onPostLoadFrame(frame: Frame){
 
@@ -73,7 +73,7 @@ export default class UserCreatedController extends NovelController
         else {
             novelEngine.getUiController().visible = true;
         }
-        setCredibility(frame);
+   
         setTitleText(frame.parameters.title);
         if (this.newChapterFrames.includes(frame.id)) {
             this.newChapterLogic(frame);

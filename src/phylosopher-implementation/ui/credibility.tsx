@@ -17,16 +17,11 @@ export function setCredibility(frame: Frame){
     let val = engineInstance._variables["Socrates.credibility"].value
 
     credibilityStats.visible = frame.parameters.showHpButton;
-
-    if(credibilityStats.visible && val && (val != credibilityStats.value) && typeof val === "number"){
+    if(credibilityStats.visible && val && typeof val === "number"){
 
         val = val*10;   
-
-        if(val > 100)
-            val = 100;
-        if(val < 0){ 
-            val = 0;
-        } 
+        val = Math.min(val, 100);
+        val = Math.max(val, 0);
         credibilityTween.to({value: val}, 1000).start();
     }
 }
