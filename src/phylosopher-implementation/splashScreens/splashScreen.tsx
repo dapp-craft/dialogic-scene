@@ -56,11 +56,17 @@ function loopedAnim(){
 export function showLoadingSplashScreen(){
   loadingScreenVisible = true;
   loadingProperties.stop = false;
-  novelEngine.getUiController().blockInput = true;
+  if(novelEngine)
+    novelEngine.getUiController().blockInput = true;
+
   loopedAnim();
  } 
  export function hideLoadingSplashScreen(){
-  novelEngine.getUiController().blockInput = false;
+
+  if(novelEngine)
+    novelEngine.getUiController().blockInput = true;
+
+
   timers.setTimeout(() => {
     loadingScreenVisible = false;
     loadingProperties.stop = true;
