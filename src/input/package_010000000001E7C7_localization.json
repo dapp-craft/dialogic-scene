@@ -1213,9 +1213,9 @@
   },
   "DFr_017B5CF8.Text": {
     "": {
-      "Text": "And there we go."
+      "Text": "Huh, ^^^^^how interesting."
     },
-    "Context": "Flow/protagorasp2.1/04_arbiter: \"And there we go.\""
+    "Context": "Flow/protagorasp2.1/04_arbiter: \"Huh, ^^^^^how interesting.\""
   },
   "DFr_E275257E.Text": {
     "": {
@@ -3052,12 +3052,6 @@
       "Text": "(...hmmm. ^^^^^^^^^Is that what he’s saying?)"
     },
     "Context": "Flow/protagorasa3/01_socrates: \"(...hmmm. ^^^^^^^^^Is that what he’...\""
-  },
-  "DFr_80DC8DC3.Text": {
-    "": {
-      "Text": "I really don’t see what’s wrong with yelling ^^^^^^^"
-    },
-    "Context": "Flow/protagorasa3/01_socrates: \"I really don’t see what’s wrong wit...\""
   },
   "DFr_9F106EB4.Text": {
     "": {

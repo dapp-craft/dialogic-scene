@@ -54028,8 +54028,8 @@
                   "b": 0.905882359
                 },
                 "Label": "",
-                "TargetPin": "0x01000002000113B5",
-                "Target": "0x01000002000113B4"
+                "TargetPin": "0x01000002000113BE",
+                "Target": "0x01000002000113BD"
               }
             ]
           }
@@ -55695,113 +55695,6 @@
     {
       "Type": "nodeTemplateFrame_02",
       "Properties": {
-        "TechnicalName": "DFr_80DC8DC3",
-        "Id": "0x01000002000113B4",
-        "Parent": "0x0100000200010FE4",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x0100000000000973",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_80DC8DC3.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 5625.0,
-          "y": 1025.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2161937859,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x01000002000113B5",
-            "Owner": "0x01000002000113B4"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x01000002000113B6",
-            "Owner": "0x01000002000113B4",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x01000002000113BE",
-                "Target": "0x01000002000113BD"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "“All Morals are Subjective”",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_06": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_05": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 9.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -9.0
-        },
-        "characterInFrame_02": {
-          "animations": 1,
-          "name": 6,
-          "directionOfView": 1,
-          "position": 3.0
-        },
-        "characterInFrame_01": {
-          "animations": 1,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -3.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_02",
-      "Properties": {
         "TechnicalName": "DFr_9F106EB4",
         "Id": "0x01000002000113BD",
         "Parent": "0x0100000200010FE4",
@@ -55818,7 +55711,7 @@
         "ExternalId": "",
         "Position": {
           "x": 5625.0,
-          "y": 1275.0
+          "y": 1175.0
         },
         "ZIndex": 0.0,
         "Size": {
@@ -56285,7 +56178,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.7,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56392,7 +56285,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 0.7,
+          "autoScrollingTimer": 2.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,

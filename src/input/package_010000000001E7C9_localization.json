@@ -385,9 +385,9 @@
   },
   "DFr_8904AA79.Text": {
     "": {
-      "Text": "By the end of the day, ^^^^^^ you will be thoroughly acquainted with both of us."
+      "Text": "(Well jeez, isn’t he a dramatic one...)"
     },
-    "Context": "Flow/hobbes_01/01_socrates: \"By the end of the day, ^^^^^^ you w...\""
+    "Context": "Flow/hobbes_01/01_socrates: \"(Well jeez, isn’t he a dramatic one...\""
   },
   "DFr_8A1D21D1.Text": {
     "": {
@@ -2927,12 +2927,6 @@
     },
     "Context": "Flow/hobbesa2_correct/01_socrates: \"What is there to stop these oh-so-s...\""
   },
-  "DFr_6707473E.Text": {
-    "": {
-      "Text": "What is there to stop these oh-so-selfish individuals from breaking a contract after it’s made?"
-    },
-    "Context": "Flow/hobbesa2_end/01_socrates: \"What is there to stop these oh-so-s...\""
-  },
   "DFr_2D757D24.Text": {
     "": {
       "Text": "!"
@@ -3142,12 +3136,6 @@
       "Text": "Well then, ^^^^keep looking! ^^^^^^^There has to be a flaw in his argument somewhere!"
     },
     "Context": "Flow/hobbesp3_2/02_ari: \"Well then, ^^^^keep looking! ^^^^^^...\""
-  },
-  "DFr_01A6A5F5.Text": {
-    "": {
-      "Text": "Are you two finished chatting over there?"
-    },
-    "Context": "Flow/hobbesp3_2/04_arbiter: \"Are you two finished chatting over...\""
   },
   "DFr_BA48D2E8.Text": {
     "": {

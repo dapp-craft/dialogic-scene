@@ -3653,6 +3653,12 @@
     },
     "Context": "Flow/kanta3/01_socrates: \"(Back to the top.)\""
   },
+  "DFr_6A8EB163.Text": {
+    "": {
+      "Text": "Oh god, ^^^^what do I do..."
+    },
+    "Context": "Flow/kanta3/01_socrates: \"Oh god, ^^^^what do I do...\""
+  },
   "DFr_7CF2609C.Text": {
     "": {
       "Text": "Kant! ^^^^I’ve been thinking..."
@@ -4060,12 +4066,6 @@
       "Text": "I guess that’s all we’re going to get out of Kant..."
     },
     "Context": "Flow/kanta3correct_2/01_socrates: \"I guess that’s all we’re going to g...\""
-  },
-  "DFr_6A8EB163.Text": {
-    "": {
-      "Text": "Oh god, ^^^^what do I do..."
-    },
-    "Context": "Flow/kanta3/01_socrates: \"Oh god, ^^^^what do I do...\""
   },
   "Hub_DA7AEFD3.idea.ideaDescription": {
     "": {

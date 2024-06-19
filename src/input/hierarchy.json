@@ -9378,11 +9378,6 @@
               "Type": "DialogueFragment"
             },
             {
-              "Id": "0x01000002000113B4",
-              "TechnicalName": "DFr_80DC8DC3",
-              "Type": "DialogueFragment"
-            },
-            {
               "Id": "0x01000002000113BD",
               "TechnicalName": "DFr_9F106EB4",
               "Type": "DialogueFragment"
@@ -12591,11 +12586,6 @@
           "Type": "Dialogue",
           "Children": [
             {
-              "Id": "0x010000000000D724",
-              "TechnicalName": "DFr_6707473E",
-              "Type": "DialogueFragment"
-            },
-            {
               "Id": "0x010000000000D72B",
               "TechnicalName": "DFr_2D757D24",
               "Type": "DialogueFragment"
@@ -12806,11 +12796,6 @@
             {
               "Id": "0x010000000000D873",
               "TechnicalName": "DFr_69EA95D2",
-              "Type": "DialogueFragment"
-            },
-            {
-              "Id": "0x010000000000D87A",
-              "TechnicalName": "DFr_01A6A5F5",
               "Type": "DialogueFragment"
             },
             {
