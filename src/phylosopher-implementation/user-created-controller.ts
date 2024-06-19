@@ -9,9 +9,9 @@ import Frame from "../dcl-novel-engine/engine/sequence/frame";
 import { IFrameNote, notesTab } from "./ui/notes";
 import { setNoteButtonVisible } from "./buttonsCanvas";
 import NodeType from "../dcl-novel-engine/engine/parser/enum/enum-type-node";
-import { NovelController } from "../dcl-novel-engine/engine/util/controller";
+import { NovelController } from "../dcl-novel-engine/engine/util/novel-controller";
 import { drawVictoryChapterScreen, hideVictoryChapterScreen } from "./ui/victory-chapter";
-import { createContinueButton, createQuitButton } from "./ui/startGame";
+import { createQuitButton } from "./ui/startGame";
 
 /// <summary>
 /// This class is an example of class, which is responsible for handling the custom logic of the game.

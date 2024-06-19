@@ -7,6 +7,7 @@ import UiStaticMethods from "../../dcl-novel-engine/engine/ui/ui-static-methods"
 import { note_button, settings_button } from "../buttonsCanvas";
 import { title } from "../ui/title";
 import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
+import { novelEngine } from "../..";
 
 // #region Loading Splash Screen
 export let loadingScreenVisible = true;
@@ -55,9 +56,11 @@ function loopedAnim(){
 export function showLoadingSplashScreen(){
   loadingScreenVisible = true;
   loadingProperties.stop = false;
+  novelEngine.getUiController().blockInput = true;
   loopedAnim();
  } 
  export function hideLoadingSplashScreen(){
+  novelEngine.getUiController().blockInput = false;
   timers.setTimeout(() => {
     loadingScreenVisible = false;
     loadingProperties.stop = true;
