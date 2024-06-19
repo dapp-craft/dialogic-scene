@@ -10,7 +10,7 @@ let victoryFunction = ()=>{};
 
 let tweenProps = {a:0, button_y: -50}
 let tween = new Tween(tweenProps)
-export function showVictorySplashScreen(onClick: ()=>void, exitAfterClick = true, ){
+export function showCompletedSplashScreen(onClick: ()=>void, exitAfterClick = true, ){
      if(exitAfterClick) 
         victoryFunction = ()=>{ onClick; saveAndQuit()}
     else 

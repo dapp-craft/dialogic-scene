@@ -19,14 +19,17 @@ import { palette } from "../../dcl-novel-engine/engine/ui/palette";
 let theme_sound: Entity|undefined = undefined;
 let continueVisible = false;
 let startVisible = false;
-
+let quitVisible = false;
 
 let startButtonFunction = ()=>{};
 let continueButtonFunction = ()=>{};
 let lobbyParams = {size: 1};
 let lobbyAnimation = new Tween(lobbyParams);
 
-
+export function createQuitButton(){
+    quitVisible = true;
+    lobbyParams.size = 1;
+}
 export function createContinueButton(action:()=>void)
 {
     continueVisible = true;
@@ -73,7 +76,7 @@ export function renderLobbyScreen(){
     uiTransform={{
         width: `${lobbyParams.size*100}%`,
         height: `${lobbyParams.size*100}%`,
-        display: continueVisible || startVisible ?'flex':'none', 
+        display: continueVisible || startVisible || quitVisible ?'flex':'none', 
         positionType: 'absolute',
         justifyContent: 'center',
         alignSelf: 'center',
@@ -141,7 +144,8 @@ export function renderLobbyScreen(){
         display: continueVisible ? 'flex':'none',
         alignItems: 'center',
         justifyContent: 'center',
-        flexDirection: "column"
+        flexDirection: "column",
+        positionType: 'absolute',
         
     }} 
     uiBackground={{
@@ -174,8 +178,37 @@ export function renderLobbyScreen(){
             if(theme_sound)
             soundController.stopMusicSound(theme_sound);
             saveAndQuit();
-        }, ()=>{continueVisible = false;},  "images/ui/UI_separate png/exit_button.png")
+        }, ()=>{continueVisible = false; startVisible = false; quitVisible = false},  "images/ui/UI_separate png/exit_button.png")
     }
     </UiEntity>
+
+
+    <UiEntity // continue screen
+    uiTransform={{
+        width: canvasWidth  *lobbyParams.size,
+        height: canvasWidth *1150/2048 *lobbyParams.size,
+        display: quitVisible ? 'flex':'none',
+        alignItems: 'center',
+        positionType: 'absolute',
+        justifyContent: 'center',
+        flexDirection: "column"
+        
+    }} 
+    uiBackground={{
+        textureMode: 'stretch',
+        texture: {
+            src: "images/ui/UI_separate png/start_screen.png"
+        }
+    }}>
+      {
+    // exit
+        button(()=>{
+            if(theme_sound)
+            soundController.stopMusicSound(theme_sound);
+            saveAndQuit();
+        }, ()=>{continueVisible = false; startVisible = false; quitVisible = false},  "images/ui/UI_separate png/exit_button.png")
+    }
+    </UiEntity>
+
     </UiEntity>
 )}

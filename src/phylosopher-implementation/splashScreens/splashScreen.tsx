@@ -9,7 +9,7 @@ import { title } from "../ui/title";
 import { Tween } from "../../dcl-novel-engine/engine/addons/tween";
 
 // #region Loading Splash Screen
-let loadingScreenVisible = true;
+export let loadingScreenVisible = true;
 let loadingProperties=  {text:"Loading ", stop: true}
 export let renderLoadingSplashScreen = ()=>(
     <UiEntity   
@@ -51,6 +51,7 @@ function loopedAnim(){
     loopedAnim();
   }, 500);
 } 
+
 export function showLoadingSplashScreen(){
   loadingScreenVisible = true;
   loadingProperties.stop = false;

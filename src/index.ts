@@ -10,7 +10,7 @@ import { settings } from './dcl-novel-engine/engine/ui/settings'
 import UserCreatedController from './phylosopher-implementation/user-created-controller'
 import IHookNode from './dcl-novel-engine/engine/parser/interface/i-hook-node'
 import { getPlayer } from '@dcl/sdk/src/players'
-import { showVictorySplashScreen } from './phylosopher-implementation/ui/victory-screen'
+import { showCompletedSplashScreen } from './phylosopher-implementation/ui/victory-screen'
 import IIdea from './phylosopher-implementation/interface/i-idea'
 import { getLocalization } from './dcl-novel-engine/engine/parser/parser'
 import { characterTemplates } from './phylosopher-implementation/templates/character-template'
@@ -120,7 +120,7 @@ export async function main() {
                 hideLoadingSplashScreen()
             })
         } else if (currentChapter === null) {
-            showVictorySplashScreen
+            showCompletedSplashScreen
         }
         else createStartButton(async () => {
             showLoadingSplashScreen()
@@ -207,7 +207,7 @@ export async function main() {
                 .then(startChapter)
                 .then(philisophyQuest.getNextChapter.bind(philisophyQuest))
                 .then(nextChapter => settings.properties.nextSavePointTitle = nextChapter ?? "never")
-                .catch(showVictorySplashScreen)//
+                .catch(showCompletedSplashScreen)//
                 .finally(hideLoadingSplashScreen)
             return false
         }

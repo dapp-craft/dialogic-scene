@@ -18,6 +18,7 @@ import { renderErrorSplashScreen, renderGameOverSplashScreen, renderLoadingSplas
 import { timers } from '@dcl-sdk/utils';
 import { renderLobbyScreen } from './phylosopher-implementation/ui/startGame';
 import { renderVictoryScreen } from './phylosopher-implementation/ui/victory-screen';
+import { renderVictoryChapterScreen } from './phylosopher-implementation/ui/victory-chapter';
 
 
 let was = false;
@@ -59,14 +60,16 @@ export let RootCanvas = ()=>(
         debugUI()
       }
       
-      
       {
         renderGameOverSplashScreen()
       }
-       {
+     
+      {
         renderVictoryScreen()
       } 
-  
+       {
+        renderVictoryChapterScreen()
+      } 
       {
         renderLoadingSplashScreen()
       }

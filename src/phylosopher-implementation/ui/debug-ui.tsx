@@ -108,5 +108,28 @@ export const debugUI = () => (
             }}
         />
     </UiEntity>
+    <UiEntity
+        uiTransform={{
+            height: "50%",
+            width: "100%",
+            position: {left: "30%", top: "100%"}
+        }}
+    >
+        <Button
+            uiTransform={{
+                width: "50%",
+                height: "100%",
+            }}
+            fontSize={20}
+            uiBackground={{
+                color: Color4.create(0, 1, 0.5, 0.1)
+            }}
+            value="End of Chapter"
+            textAlign="middle-center"
+            onMouseDown={() => {
+                novelEngine.showLastSequenceFrame();
+            }}
+        />
+    </UiEntity>
     
 </UiEntity>)
