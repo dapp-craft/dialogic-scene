@@ -34,11 +34,12 @@ export let renderLoadingSplashScreen = ()=>(
        > 
            <UiEntity
                uiTransform={{
-                    position: {right:"10%"},
-                   alignSelf: 'center'
+                    // position: {right:"10%"},
+                   alignSelf: 'center',
+                   width: 'auto'
                }}
                uiText={{value: loadingProperties.text, color: palette.textActive, fontSize: canvasWidth* 0.05,
-               textAlign: 'middle-left'}}/>
+               textAlign: 'middle-center'}}/>
        </UiEntity>
 )
 function loopedAnim(){ 
