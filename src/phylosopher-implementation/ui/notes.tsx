@@ -83,10 +83,10 @@ export class NotesTab{
             }}
             uiBackground={{
              
-                textureMode: 'stretch',
-                texture:{
-                    src: "images/ui/2 semester.png"
-                }
+                // textureMode: 'stretch',
+                // texture:{
+                //     src: "images/ui/2 semester.png"
+                // }
             }}
         />
         </UiEntity>
@@ -141,10 +141,10 @@ export class NotesTab{
                 
             }}
             uiBackground={{
-                // textureMode: 'stretch',
-                // texture:{
-                //     src: Resources.ui.notesBackground
-                // },
+                textureMode: 'stretch',
+                texture:{
+                    src: Resources.ui.notesBackground
+                },
             }}
             >
                    <UiEntity
