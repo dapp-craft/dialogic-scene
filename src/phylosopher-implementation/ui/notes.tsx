@@ -1,9 +1,9 @@
-import ReactEcs, { Label, UiEntity } from "@dcl/sdk/react-ecs";
+import ReactEcs, { Label, UiEntity, scaleFontSize } from "@dcl/sdk/react-ecs";
 import { Resources } from "../../dcl-novel-engine/resources";
 import { Color4, Vector3 } from "@dcl/sdk/math";
 import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 import { setNoteButtonVisible } from "../buttonsCanvas";
-import { canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
+import { canvasHeight, canvasWidth } from "../../dcl-novel-engine/engine/ui/canvasConstants";
 import { setTitleText } from "./title";
 import UiStaticMethods from "../../dcl-novel-engine/engine/ui/ui-static-methods";
 import { palette } from "../../dcl-novel-engine/engine/ui/palette";
@@ -58,18 +58,20 @@ export class NotesTab{
  
             value = {note.header}
             color= {Color4.fromHexString("#6D4C35")}
-            fontSize={canvasWidth* 0.014}
+            fontSize={canvasWidth * 0.015}
             > 
         </Label>
         <Label
             uiTransform={{
                 width: "60%",
+                
                 margin: "6%"
             
             }}
             color= {Color4.fromHexString("#6F4E37")}
-            value = {UiStaticMethods.addNewLine(note.text, 20,700)}
-            fontSize={canvasWidth* 0.009}
+            value = {UiStaticMethods.addNewLine(note.text, 24, 620)}
+            fontSize={canvasWidth * 0.01}
+            
             >
         </Label>
         <UiEntity
