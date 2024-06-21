@@ -64,12 +64,12 @@ export class NotesTab{
         <Label
             uiTransform={{
                 width: "60%",
-                margin: "8%"
+                margin: "6%"
             
             }}
             color= {Color4.fromHexString("#6F4E37")}
-            value = {UiStaticMethods.addNewLine(note.text, 20,600)}
-            fontSize={canvasWidth* 0.01}
+            value = {UiStaticMethods.addNewLine(note.text, 20,700)}
+            fontSize={canvasWidth* 0.009}
             >
         </Label>
         <UiEntity
@@ -182,7 +182,7 @@ export class NotesTab{
                         playSound("Assets/Audio/click.wav", false, Vector3.subtract(getPlayerPosition(), Vector3.create(0, 2, 0)))
 
                        if(!this.closable){
-                        let prev = engineInstance.getPrevousFrame()
+                            let prev = engineInstance.getPrevousFrame()
                             if(prev)
                                 engineInstance.showFrame(prev);
                        }
