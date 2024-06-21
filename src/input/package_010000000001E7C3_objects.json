@@ -49,8 +49,8 @@
                   "b": 0.905882359
                 },
                 "Label": "qwert1234",
-                "TargetPin": "0x0100000000003F8A",
-                "Target": "0x0100000000003F87"
+                "TargetPin": "0x010000000000FF1E",
+                "Target": "0x010000000000FF1D"
               }
             ]
           }
@@ -3448,113 +3448,6 @@
     {
       "Type": "nodeTemplateFrame_00",
       "Properties": {
-        "TechnicalName": "DFr_92B71B92",
-        "Id": "0x0100000000003F87",
-        "Parent": "0x0100000000003A1F",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x0100000000000997",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "",
-        "ExternalId": "",
-        "Position": {
-          "x": -825.0,
-          "y": 225.0
-        },
-        "ZIndex": 49.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 2461473682,
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x0100000000003F8A",
-            "Owner": "0x0100000000003F87"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "Socrates.credibility = 5;\nbilly.backing_open = false;\nbilly.i0_unlock = false;\nbilly.i1_unlock = false;\nbilly.prologuea1s1_open = true;\nbilly.prologuea1s1a_open = false;\nbilly.prologuea1s3_open = true;\nbilly.prologuea1s3a_open = false;\nbilly.prologuea3s2_open = true;\nbilly.prologuea4s1_open = true;\nbilly.prologuea4s2_open = true;\nbilly.prologuea4s3_open = true;\nEuthyphro.eutha2s5b1_open = false;\nEuthyphro.i1_unlock = false;\nEuthyphro.i2_unlock = false;\nEuthyphro.i3_unlock = false;\nHobbes.hobbesa2s3_open = true;\nHobbes.hobbesa2s3c1_open = false;\nHobbes.hobbesa3s3_open = true;\nHobbes.hobbesa3s3c1_open = false;\nHobbes.i1_unlock = false;\nHobbes.i2_unlock = false;\nHobbes.i3_unlock = false;\nHobbes.i4_unlock = false;\nMill.i1_unlock = false;\nMill.i2_unlock = false;\nMill.i3_unlock = false;\nArbiter.arbitera1s1_open = true;\nArbiter.arbitera1s1c1_open = false;\nArbiter.arbitera3s3c1_open = false;\nArbiter.arbitera4s2b1_open = false;\nArbiter.arbitera4s2b2_open = false;\nArbiter.arbitera4s2b2c1_open = false;\nArbiter.arbitera4s3_open = true;\nArbiter.ChallengeButton_open = false;\nArbiter.i0_unlock = false;\nArbiter.i1_unlock = false;\nArbiter.i2_unlock = false;\nArbiter.i3_unlock = false;\nArbiter.i4_unlock = false;\nKant.i1_unlock = false;\nKant.i2_unlock = false;\nKant.i3_unlock = false;\nKant.kanta3s3c1_open = false;\nKant.kanta3s4_open = false;\nProtagoras.i1_unlock = false;\nProtagoras.protagorasa1s4_open = true;\nProtagoras.protagorasa1s5_open = false;",
-            "Id": "0x0100000000003F8B",
-            "Owner": "0x0100000000003F87",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000FF1E",
-                "Target": "0x010000000000FF1D"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 2,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x0000000000000000",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": false
-        },
-        "characterInFrame_06": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_05": {
-          "animations": 1,
-          "name": 5,
-          "directionOfView": 1,
-          "position": 12.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 12.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 3,
-          "directionOfView": 1,
-          "position": 12.0
-        },
-        "characterInFrame_02": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 1,
-          "position": 2.0
-        },
-        "characterInFrame_01": {
-          "animations": 1,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -2.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_00",
-      "Properties": {
         "TechnicalName": "DFr_F9252347",
         "Id": "0x0100000000004ACD",
         "Parent": "0x0100000000003A1F",
@@ -4123,7 +4016,7 @@
         ],
         "OutputPins": [
           {
-            "Text": "",
+            "Text": "Socrates.credibility = 5;\nbilly.backing_open = false;\nbilly.i0_unlock = false;\nbilly.i1_unlock = false;\nbilly.prologuea1s1_open = true;\nbilly.prologuea1s1a_open = false;\nbilly.prologuea1s3_open = true;\nbilly.prologuea1s3a_open = false;\nbilly.prologuea3s2_open = true;\nbilly.prologuea4s1_open = true;\nbilly.prologuea4s2_open = true;\nbilly.prologuea4s3_open = true;\nEuthyphro.eutha2s5b1_open = false;\nEuthyphro.i1_unlock = false;\nEuthyphro.i2_unlock = false;\nEuthyphro.i3_unlock = false;\nHobbes.hobbesa2s3_open = true;\nHobbes.hobbesa2s3c1_open = false;\nHobbes.hobbesa3s3_open = true;\nHobbes.hobbesa3s3c1_open = false;\nHobbes.i1_unlock = false;\nHobbes.i2_unlock = false;\nHobbes.i3_unlock = false;\nHobbes.i4_unlock = false;\nMill.i1_unlock = false;\nMill.i2_unlock = false;\nMill.i3_unlock = false;\nArbiter.arbitera1s1_open = true;\nArbiter.arbitera1s1c1_open = false;\nArbiter.arbitera3s3c1_open = false;\nArbiter.arbitera4s2b1_open = false;\nArbiter.arbitera4s2b2_open = false;\nArbiter.arbitera4s2b2c1_open = false;\nArbiter.arbitera4s3_open = true;\nArbiter.ChallengeButton_open = false;\nArbiter.i0_unlock = false;\nArbiter.i1_unlock = false;\nArbiter.i2_unlock = false;\nArbiter.i3_unlock = false;\nArbiter.i4_unlock = false;\nKant.i1_unlock = false;\nKant.i2_unlock = false;\nKant.i3_unlock = false;\nKant.kanta3s3c1_open = false;\nKant.kanta3s4_open = false;\nProtagoras.i1_unlock = false;\nProtagoras.protagorasa1s4_open = true;\nProtagoras.protagorasa1s5_open = false;",
             "Id": "0x010000000000FF1F",
             "Owner": "0x010000000000FF1D",
             "Connections": [
