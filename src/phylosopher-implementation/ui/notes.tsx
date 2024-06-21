@@ -141,10 +141,10 @@ export class NotesTab{
                 
             }}
             uiBackground={{
-                textureMode: 'stretch',
-                texture:{
-                    src: Resources.ui.notesBackground
-                },
+                // textureMode: 'stretch',
+                // texture:{
+                //     src: Resources.ui.notesBackground
+                // },
             }}
             >
                    <UiEntity
