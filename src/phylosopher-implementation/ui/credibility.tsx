@@ -23,6 +23,9 @@ export function setCredibility(frame: Frame){
         val = Math.max(val, 0);
         credibilityTween.to({value: val}, 1000).start();
     }
+    if(frame.parameters.sceneOverlay?.displayName.includes("gameover")){
+        credibilityTween.to({value: 0}, 1000).start();
+    }
     
    
 }
