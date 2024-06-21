@@ -115,7 +115,7 @@ export default class UserCreatedController extends NovelController
             notesTab.rememberedTitle = frame.parameters.title;
 
             setTitleText("")
-
+            notesTab.closable = false;
             notesTab.visible = true;
 
             setNoteButtonVisible(false);

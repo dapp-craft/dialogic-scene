@@ -39,6 +39,7 @@ key = {"note_button"}
 
         setTitleText(notesTab.rememberedTitle);
         notesTab.visible = true;
+        notesTab.closable = true;
         soundController.playSound("Assets/Audio/click.wav", false, Vector3.create(0, 11.6, 0));
     }}
 />)
