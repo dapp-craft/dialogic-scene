@@ -25594,6 +25594,11 @@
               "Type": "DialogueFragment"
             }
           ]
+        },
+        {
+          "Id": "0x010000000001F45F",
+          "TechnicalName": "Hub_C831FFF8",
+          "Type": "Hub"
         }
       ]
     },

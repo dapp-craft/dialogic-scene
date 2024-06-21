@@ -51,7 +51,7 @@ function loopedAnim(){
     loadingProperties.text += "."
   timers.setTimeout(()=>{
     loopedAnim();
-  }, 500);
+  }, 250);
 } 
 
 export function showLoadingSplashScreen(){

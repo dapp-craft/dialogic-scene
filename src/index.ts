@@ -1,7 +1,7 @@
 import Engine from './dcl-novel-engine/engine/engine'
 import { timers } from '@dcl-sdk/utils'
 import { hideLoadingSplashScreen, showErrorSplashScreen, showGameOverSplashScreen, showLoadingSplashScreen } from './phylosopher-implementation/splashScreens/splashScreen'
-import { createContinueButton, createStartButton } from './phylosopher-implementation/ui/startGame'
+import { createContinueButton, createQuitButton, createStartButton } from './phylosopher-implementation/ui/startGame'
 import { buildMap } from './dcl-novel-engine/factory'
 import { Quest } from './quest'
 import { ReactEcsRenderer } from '@dcl/sdk/react-ecs'
@@ -15,6 +15,7 @@ import IIdea from './phylosopher-implementation/interface/i-idea'
 import { getLocalization } from './dcl-novel-engine/engine/parser/parser'
 import { characterTemplates } from './phylosopher-implementation/templates/character-template'
 import { buttonTemplates } from './phylosopher-implementation/templates/button-templates'
+import { createQuestsClient } from '@dcl/quests-client'
 
 async function startChapter(chapter: string) {
     console.log("Loading package: " + chapter)
@@ -120,8 +121,8 @@ export async function main() {
                 hideLoadingSplashScreen()
             })
         } else if (currentChapter === null) {
-            showCompletedSplashScreen
-        }
+            createQuitButton();
+        }  
         else createStartButton(async () => {
             showLoadingSplashScreen()
             try { 
@@ -186,8 +187,11 @@ export async function main() {
   
 
     novelEngine.addPreLoadFrameHook((previousNode: IHookNode | undefined, nextNode: IHookNode | undefined) => {
+    
+
         if (nextNode === undefined) return true;
         console.log(nextNode)
+        
 
         if (nextNode.type == "chapterConnector") {
             const properties = nextNode.data.Properties;
@@ -207,7 +211,7 @@ export async function main() {
                 .then(startChapter)
                 .then(philisophyQuest.getNextChapter.bind(philisophyQuest))
                 .then(nextChapter => settings.properties.nextSavePointTitle = nextChapter ?? "never")
-                .catch(showCompletedSplashScreen)//
+                .catch(showCompletedSplashScreen)
                 .finally(hideLoadingSplashScreen)
             return false
         }
