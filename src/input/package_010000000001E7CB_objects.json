@@ -17655,7 +17655,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -17750,7 +17750,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -17845,7 +17845,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -17940,7 +17940,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -18035,7 +18035,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -18130,7 +18130,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -18225,7 +18225,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
@@ -18320,7 +18320,7 @@
           "speedSpeech": 1.0,
           "shakeCameraIntensity": 0.0,
           "title": "",
-          "moveCamera": 1.0,
+          "moveCamera": 0.0,
           "hpButtonName": "credibility",
           "showHpButton": true
         },
