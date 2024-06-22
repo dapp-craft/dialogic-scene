@@ -16,18 +16,12 @@ export const credibilityStats = {
 export function setCredibility(frame: Frame){
     let val = engineInstance._variables["Socrates.credibility"].value
     credibilityStats.visible = frame.parameters.showHpButton;
-    if(val && typeof val === "number"){
-
+    if(typeof val === "number"){
         val = val*10;   
         val = Math.min(val, 100);
         val = Math.max(val, 0);
         credibilityTween.to({value: val}, 1000).start();
     }
-    if(frame.parameters.sceneOverlay?.displayName.includes("gameover")){
-        credibilityTween.to({value: 0}, 1000).start();
-    }
-    
-   
 }
 export let credibilityTween = new Tween(credibilityStats);
 export function credibility(){
