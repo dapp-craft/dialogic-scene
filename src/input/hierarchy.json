@@ -5893,6 +5893,11 @@
               "Type": "DialogueFragment"
             },
             {
+              "Id": "0x010000000000ACE3",
+              "TechnicalName": "Cnd_135DCC39",
+              "Type": "Condition"
+            },
+            {
               "Id": "0x010000000000ABCD",
               "TechnicalName": "DFr_B9E1760D",
               "Type": "DialogueFragment"
@@ -6036,6 +6041,11 @@
               "Id": "0x010000000000AE4C",
               "TechnicalName": "DFr_356CF798",
               "Type": "DialogueFragment"
+            },
+            {
+              "Id": "0x010000000000AE55",
+              "TechnicalName": "Cnd_AEF1A150",
+              "Type": "Condition"
             },
             {
               "Id": "0x010000000000AD92",
@@ -6216,6 +6226,11 @@
               "Id": "0x010000000000B0DA",
               "TechnicalName": "DFr_2DED9A6C",
               "Type": "DialogueFragment"
+            },
+            {
+              "Id": "0x010000000000B0E3",
+              "TechnicalName": "Cnd_FEF35C62",
+              "Type": "Condition"
             },
             {
               "Id": "0x010000000000B020",
@@ -6426,6 +6441,11 @@
               "Id": "0x010000000000B30F",
               "TechnicalName": "DFr_C14A9110",
               "Type": "DialogueFragment"
+            },
+            {
+              "Id": "0x010000000000B318",
+              "TechnicalName": "Cnd_0DDBA205",
+              "Type": "Condition"
             },
             {
               "Id": "0x010000000000B2D3",
@@ -6643,6 +6663,11 @@
               "Type": "DialogueFragment"
             },
             {
+              "Id": "0x010000000001F467",
+              "TechnicalName": "DFr_BBFEBF38",
+              "Type": "DialogueFragment"
+            },
+            {
               "Id": "0x010000000000B64A",
               "TechnicalName": "DFr_332F72DA",
               "Type": "DialogueFragment"
@@ -6676,31 +6701,6 @@
               "Id": "0x010000000000B653",
               "TechnicalName": "DFr_C3321AE1",
               "Type": "DialogueFragment"
-            },
-            {
-              "Id": "0x010000000000B4D3",
-              "TechnicalName": "Cnd_AB96EC7D",
-              "Type": "Condition"
-            },
-            {
-              "Id": "0x010000000000ACE3",
-              "TechnicalName": "Cnd_135DCC39",
-              "Type": "Condition"
-            },
-            {
-              "Id": "0x010000000000AE55",
-              "TechnicalName": "Cnd_AEF1A150",
-              "Type": "Condition"
-            },
-            {
-              "Id": "0x010000000000B0E3",
-              "TechnicalName": "Cnd_FEF35C62",
-              "Type": "Condition"
-            },
-            {
-              "Id": "0x010000000000B318",
-              "TechnicalName": "Cnd_0DDBA205",
-              "Type": "Condition"
             },
             {
               "Id": "0x010000000000B5C5",

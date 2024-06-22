@@ -8492,7 +8492,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -9369,7 +9369,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -10341,7 +10341,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -11313,7 +11313,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -23631,7 +23631,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -24709,7 +24709,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -25787,7 +25787,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -26865,7 +26865,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
@@ -35225,7 +35225,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0
@@ -35320,7 +35320,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0
@@ -35795,7 +35795,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0
@@ -35890,7 +35890,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -5.0
@@ -35985,7 +35985,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -5.0
@@ -36080,7 +36080,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -5.0
@@ -36175,7 +36175,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -5.0
@@ -36270,7 +36270,7 @@
           "animations": 7
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -5.0
@@ -36840,7 +36840,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 1,
           "position": -3.0
@@ -36935,7 +36935,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 1,
           "position": -3.0
@@ -37695,7 +37695,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 1,
           "position": -3.0
@@ -37790,7 +37790,7 @@
           "animations": 1
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 1,
           "position": -3.0

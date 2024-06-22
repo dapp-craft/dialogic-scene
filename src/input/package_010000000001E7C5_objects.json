@@ -10072,7 +10072,7 @@
           "position": 9.0
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 1,
           "position": 2.0
@@ -10607,7 +10607,7 @@
           "position": 12.0
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -4.0
@@ -10821,7 +10821,7 @@
           "position": 12.0
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -4.0
@@ -10928,7 +10928,7 @@
           "position": 12.0
         },
         "characterInFrame_01": {
-          "animations": 18,
+          "animations": 5,
           "name": 1,
           "directionOfView": 2,
           "position": -4.0
@@ -54273,8 +54273,19 @@
                   "b": 0.905882359
                 },
                 "Label": "Next",
-                "TargetPin": "0x010000000000B4D5",
-                "Target": "0x010000000000B4D3"
+                "TargetPin": "0x010000000000B4DA",
+                "Target": "0x010000000000B4D9"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "Return",
+                "TargetPin": "0x010000000000B634",
+                "Target": "0x010000000000B633"
               },
               {
                 "Color": {
@@ -73229,7 +73240,7 @@
         "ShortId": 3361295014,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Euthyphro.eutha2s5b1_open == true",
             "Id": "0x010000000000B4DA",
             "Owner": "0x010000000000B4D9"
           }
@@ -73292,8 +73303,8 @@
                   "b": 0.905882359
                 },
                 "Label": "Return",
-                "TargetPin": "0x010000000000B634",
-                "Target": "0x010000000000B633"
+                "TargetPin": "0x010000000001F468",
+                "Target": "0x010000000001F467"
               },
               {
                 "Color": {
@@ -76196,7 +76207,7 @@
         "ExternalId": "",
         "Position": {
           "x": 12875.0,
-          "y": 50.0
+          "y": -150.0
         },
         "ZIndex": 0.0,
         "Size": {
@@ -76206,7 +76217,7 @@
         "ShortId": 126966269,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Euthyphro.eutha2s5b1_open == false",
             "Id": "0x010000000000B634",
             "Owner": "0x010000000000B633"
           }
@@ -83509,6 +83520,113 @@
       }
     },
     {
+      "Type": "nodeTemplateFrame_01",
+      "Properties": {
+        "TechnicalName": "DFr_BBFEBF38",
+        "Id": "0x010000000001F467",
+        "Parent": "0x010000000000A9A2",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_BBFEBF38.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 13250.0,
+          "y": 375.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 3154034488,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F468",
+            "Owner": "0x010000000001F467"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F469",
+            "Owner": "0x010000000001F467",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000B642",
+                "Target": "0x010000000000B641"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“On Divine Disagreements”",
+          "moveCamera": -5.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_06": {
+          "animations": 24,
+          "name": 12,
+          "directionOfView": 5,
+          "position": 0.0
+        },
+        "characterInFrame_05": {
+          "animations": 24,
+          "name": 12,
+          "directionOfView": 5,
+          "position": 0.0
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_02": {
+          "animations": 1,
+          "name": 5,
+          "directionOfView": 1,
+          "position": 3.0
+        },
+        "characterInFrame_01": {
+          "animations": 1,
+          "name": 1,
+          "directionOfView": 1,
+          "position": -3.0
+        }
+      }
+    },
+    {
       "Type": "ideaSlate",
       "Properties": {
         "TechnicalName": "Hub_B884D439",
@@ -84908,78 +85026,6 @@
                 "Label": "",
                 "TargetPin": "0x010000000000AA5F",
                 "Target": "0x010000000000AA5E"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "Type": "Condition",
-      "Properties": {
-        "TechnicalName": "Cnd_AB96EC7D",
-        "Id": "0x010000000000B4D3",
-        "Parent": "0x010000000000A9A2",
-        "DisplayName": "Euthyphro.eutha2s5b1_open == false",
-        "Text": "",
-        "ExternalId": "",
-        "Position": {
-          "x": 11375.0,
-          "y": 325.0
-        },
-        "ZIndex": 440.0,
-        "Size": {
-          "w": 225.0,
-          "h": 100.0
-        },
-        "ShortId": 2878794877,
-        "Expression": "Euthyphro.eutha2s5b1_open == false",
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "InputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B4D5",
-            "Owner": "0x010000000000B4D3"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000000B4D6",
-            "Owner": "0x010000000000B4D3",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "Return",
-                "TargetPin": "0x010000000000B634",
-                "Target": "0x010000000000B633"
-              }
-            ]
-          },
-          {
-            "Text": "",
-            "Id": "0x010000000000B4D7",
-            "Owner": "0x010000000000B4D3",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "Next",
-                "TargetPin": "0x010000000000B4DA",
-                "Target": "0x010000000000B4D9"
               }
             ]
           }
