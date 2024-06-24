@@ -4259,6 +4259,12 @@
     },
     "Context": "Flow/euthyphro_p2_argument/05_euthypro: \"I admit this may be a source of con...\""
   },
+  "DFr_BBFEBF38.Text": {
+    "": {
+      "Text": "I don’t know what to do, ^^Ari. ^^^^This seems to have fixed many of the problems with his previous argument."
+    },
+    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"I don’t know what to do, ^^Ari. ^^^...\""
+  },
   "DFr_2C1B2033.Text": {
     "": {
       "Text": "...What now, ^^^^child?"
@@ -4637,11 +4643,11 @@
     },
     "Context": "Flow/euthyphro_p2_end_3/05_euthypro: \"...Yes, ^^^^^^Arbiter.\""
   },
-  "DFr_BBFEBF38.Text": {
+  "DFr_D5CFA8E9.Text": {
     "": {
-      "Text": "I don’t know what to do, ^^Ari. ^^^^This seems to have fixed many of the problems with his previous argument."
+      "Text": "Huh. ^^^^Interesting."
     },
-    "Context": "Flow/euthyphro_p2_argument/01_socrates: \"I don’t know what to do, ^^Ari. ^^^...\""
+    "Context": "Flow/euthyphro_p2_argument/02_ari: \"Huh. ^^^^Interesting.\""
   },
   "Hub_0698D9D2.idea.ideaDescription": {
     "": {
@@ -4729,9 +4735,9 @@
   },
   "Ntt_15DBE53D.DisplayName": {
     "": {
-      "Text": "05_euthypro"
+      "Text": "05_euthyphro"
     },
-    "Context": "Entities/05_euthypro"
+    "Context": "Entities/05_euthyphro"
   },
   "Ntt_484678B9.DisplayName": {
     "": {

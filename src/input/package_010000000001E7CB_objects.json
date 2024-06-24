@@ -14790,6 +14790,17 @@
                 "Label": "",
                 "TargetPin": "0x01000004000138B2",
                 "Target": "0x01000004000138B1"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F4B5",
+                "Target": "0x010000000001F4B4"
               }
             ]
           }
@@ -14853,7 +14864,7 @@
         "Text": "DFr_182CBA39.Text",
         "ExternalId": "",
         "Position": {
-          "x": 5025.0,
+          "x": 4750.0,
           "y": 2200.0
         },
         "ZIndex": 0.0,
@@ -14864,14 +14875,14 @@
         "ShortId": 405584441,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Mill.i2_unlock == true;",
             "Id": "0x01000004000138B2",
             "Owner": "0x01000004000138B1"
           }
         ],
         "OutputPins": [
           {
-            "Text": "Socrates.credibility += 1;",
+            "Text": "",
             "Id": "0x01000004000138B3",
             "Owner": "0x01000004000138B1",
             "Connections": [
@@ -32242,6 +32253,17 @@
                 "Label": "",
                 "TargetPin": "0x010000040001403D",
                 "Target": "0x010000040001403C"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F4C0",
+                "Target": "0x010000000001F4BF"
               }
             ]
           }
@@ -32305,7 +32327,7 @@
         "Text": "DFr_75A83F91.Text",
         "ExternalId": "",
         "Position": {
-          "x": 9075.0,
+          "x": 8775.0,
           "y": 2225.0
         },
         "ZIndex": 0.0,
@@ -32316,7 +32338,7 @@
         "ShortId": 1973960593,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Mill.i3_unlock == false;",
             "Id": "0x010000040001403D",
             "Owner": "0x010000040001403C"
           }
@@ -42161,6 +42183,196 @@
         },
         "characterInFrame_01": {
           "animations": 2,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_04",
+      "Properties": {
+        "TechnicalName": "DFr_2DCDDE01",
+        "Id": "0x010000000001F4B4",
+        "Parent": "0x01000004000134BC",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_2DCDDE01.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 5075.0,
+          "y": 2200.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 768466433,
+        "InputPins": [
+          {
+            "Text": "Mill.i2_unlock == false;",
+            "Id": "0x010000000001F4B5",
+            "Owner": "0x010000000001F4B4"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "Socrates.credibility += 1;",
+            "Id": "0x010000000001F4B6",
+            "Owner": "0x010000000001F4B4",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x01000004000138BC",
+                "Target": "0x01000004000138BB"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x010000000001EFA2",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“Morality comes from Happiness”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_07": {
+          "name": 8,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 1
+        },
+        "characterInFrame_01": {
+          "animations": 7,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_04",
+      "Properties": {
+        "TechnicalName": "DFr_A0C4E55D",
+        "Id": "0x010000000001F4BF",
+        "Parent": "0x0100000400013AF0",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_A0C4E55D.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 9125.0,
+          "y": 2225.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 2697258333,
+        "InputPins": [
+          {
+            "Text": "Mill.i3_unlock == true;",
+            "Id": "0x010000000001F4C0",
+            "Owner": "0x010000000001F4BF"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F4C1",
+            "Owner": "0x010000000001F4BF",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000400014047",
+                "Target": "0x0100000400014046"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x010000000001EFA2",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 1,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“Rules that Promote Happiness”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_07": {
+          "name": 8,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 2
+        },
+        "characterInFrame_01": {
+          "animations": 7,
           "name": 1,
           "directionOfView": 2,
           "position": -3.0

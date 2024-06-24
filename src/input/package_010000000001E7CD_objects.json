@@ -27114,6 +27114,17 @@
                 "Label": "",
                 "TargetPin": "0x010000000001CC11",
                 "Target": "0x010000000001CC10"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F497",
+                "Target": "0x010000000001F496"
               }
             ]
           }
@@ -27188,7 +27199,7 @@
         "ShortId": 2152838420,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Kant.i2_unlock == false",
             "Id": "0x010000000001CC11",
             "Owner": "0x010000000001CC10"
           }
@@ -30388,6 +30399,17 @@
                 "Label": "",
                 "TargetPin": "0x010000000001CD80",
                 "Target": "0x010000000001CD7F"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F4A1",
+                "Target": "0x010000000001F4A0"
               }
             ]
           }
@@ -30462,7 +30484,7 @@
         "ShortId": 3025067682,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Kant.i3_unlock == false;",
             "Id": "0x010000000001CD80",
             "Owner": "0x010000000001CD7F"
           }
@@ -51724,6 +51746,17 @@
                 "Label": "",
                 "TargetPin": "0x010000000001D592",
                 "Target": "0x010000000001D591"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F4AB",
+                "Target": "0x010000000001F4AA"
               }
             ]
           }
@@ -51787,7 +51820,7 @@
         "Text": "DFr_B0F1CC79.Text",
         "ExternalId": "",
         "Position": {
-          "x": 6025.0,
+          "x": 6200.0,
           "y": 2150.0
         },
         "ZIndex": 0.0,
@@ -51798,7 +51831,7 @@
         "ShortId": 2968636537,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Kant.kanta3s3c1_open == false;",
             "Id": "0x010000000001D592",
             "Owner": "0x010000000001D591"
           }
@@ -66287,6 +66320,291 @@
           "name": 1,
           "directionOfView": 2,
           "position": -2.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_05",
+      "Properties": {
+        "TechnicalName": "DFr_060AE3A7",
+        "Id": "0x010000000001F496",
+        "Parent": "0x010000000001CA2F",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000097B",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_060AE3A7.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 3500.0,
+          "y": 1750.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 101376935,
+        "InputPins": [
+          {
+            "Text": "Kant.i2_unlock == true",
+            "Id": "0x010000000001F497",
+            "Owner": "0x010000000001F496"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F498",
+            "Owner": "0x010000000001F496",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001CC5F",
+                "Target": "0x010000000001CC5E"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“The Categorical Imperative”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_07": {
+          "name": 9,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 22
+        },
+        "characterInFrame_01": {
+          "animations": 1,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_05",
+      "Properties": {
+        "TechnicalName": "DFr_F081B592",
+        "Id": "0x010000000001F4A0",
+        "Parent": "0x010000000001CA2F",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000096F",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_F081B592.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 5875.0,
+          "y": 2475.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 4035032466,
+        "InputPins": [
+          {
+            "Text": "Kant.i3_unlock == true;",
+            "Id": "0x010000000001F4A1",
+            "Owner": "0x010000000001F4A0"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F4A2",
+            "Owner": "0x010000000001F4A0",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001CD89",
+                "Target": "0x010000000001CD88"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“The Categorical Imperative”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 2,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -4.0
+        },
+        "characterInFrame_07": {
+          "name": 9,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 2
+        },
+        "characterInFrame_01": {
+          "animations": 3,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -2.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_05",
+      "Properties": {
+        "TechnicalName": "DFr_20FF88C6",
+        "Id": "0x010000000001F4AA",
+        "Parent": "0x010000000001D2B8",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000097B",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_20FF88C6.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 5850.0,
+          "y": 2150.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 553617606,
+        "InputPins": [
+          {
+            "Text": "Kant.kanta3s3c1_open == true;\n",
+            "Id": "0x010000000001F4AB",
+            "Owner": "0x010000000001F4AA"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F4AC",
+            "Owner": "0x010000000001F4AA",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001D5A5",
+                "Target": "0x010000000001D5A4"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“The Universality Test”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_07": {
+          "name": 9,
+          "directionOfView": 1,
+          "position": 3.0,
+          "animations": 2
+        },
+        "characterInFrame_01": {
+          "animations": 7,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
         }
       }
     },

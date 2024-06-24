@@ -2537,6 +2537,18 @@
     },
     "Context": "Flow/mills5.1/02_ari: \"No...\""
   },
+  "DFr_2DCDDE01.Text": {
+    "": {
+      "Text": "\"Huh, ^^^interesting."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"\"Huh, ^^^interesting.\""
+  },
+  "DFr_A0C4E55D.Text": {
+    "": {
+      "Text": "(Huh. ^^^^How interesting.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Huh. ^^^^How interesting.)\""
+  },
   "Hub_D68DFF62.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
@@ -2617,9 +2629,9 @@
   },
   "Ntt_15DBE53D.DisplayName": {
     "": {
-      "Text": "05_euthypro"
+      "Text": "05_euthyphro"
     },
-    "Context": "Entities/05_euthypro"
+    "Context": "Entities/05_euthyphro"
   },
   "Ntt_484678B9.DisplayName": {
     "": {

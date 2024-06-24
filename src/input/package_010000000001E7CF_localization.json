@@ -5633,6 +5633,18 @@
     },
     "Context": "Flow/arbitera4correct_7/05_euthypro: \"What?! ^^^^Now wait a minute—\""
   },
+  "DFr_831C86E3.Text": {
+    "": {
+      "Text": "Huh... interesting."
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Huh... interesting.\""
+  },
+  "DFr_4C961FF0.Text": {
+    "": {
+      "Text": "Hmmm. ^^^^^^With that said, ^^^though, ^^^I don't think we should forget these points."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Hmmm. ^^^^^^With that said, ^^^thou...\""
+  },
   "Hub_89C4E4F7.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
@@ -5791,9 +5803,9 @@
   },
   "Ntt_15DBE53D.DisplayName": {
     "": {
-      "Text": "05_euthypro"
+      "Text": "05_euthyphro"
     },
-    "Context": "Entities/05_euthypro"
+    "Context": "Entities/05_euthyphro"
   },
   "Ntt_484678B9.DisplayName": {
     "": {

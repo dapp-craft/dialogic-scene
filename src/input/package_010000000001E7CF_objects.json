@@ -50747,6 +50747,17 @@
                 "Label": "",
                 "TargetPin": "0x0100000000013183",
                 "Target": "0x0100000000013182"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F483",
+                "Target": "0x010000000001F482"
               }
             ]
           }
@@ -50834,8 +50845,8 @@
         "Text": "DFr_C215E843.Text",
         "ExternalId": "",
         "Position": {
-          "x": 7575.0,
-          "y": 1700.0
+          "x": 7675.0,
+          "y": 2225.0
         },
         "ZIndex": 0.0,
         "Size": {
@@ -50845,7 +50856,7 @@
         "ShortId": 3256215619,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Arbiter.arbitera3s3c1_open == false",
             "Id": "0x0100000000013183",
             "Owner": "0x0100000000013182"
           }
@@ -50953,8 +50964,8 @@
         "Text": "DFr_8EC6FF99.Text",
         "ExternalId": "",
         "Position": {
-          "x": 7575.0,
-          "y": 1950.0
+          "x": 7525.0,
+          "y": 2650.0
         },
         "ZIndex": 0.0,
         "Size": {
@@ -51072,8 +51083,8 @@
         "Text": "DFr_F9B2F344.Text",
         "ExternalId": "",
         "Position": {
-          "x": 7575.0,
-          "y": 2200.0
+          "x": 7525.0,
+          "y": 2900.0
         },
         "ZIndex": 0.0,
         "Size": {
@@ -81201,6 +81212,17 @@
                 "Label": "",
                 "TargetPin": "0x0100000000013B2F",
                 "Target": "0x0100000000013B2E"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001F48D",
+                "Target": "0x010000000001F48C"
               }
             ]
           }
@@ -81299,7 +81321,7 @@
         "ShortId": 2855920342,
         "InputPins": [
           {
-            "Text": "",
+            "Text": "Arbiter.arbitera4s2b2_open == false",
             "Id": "0x0100000000013B2F",
             "Owner": "0x0100000000013B2E"
           }
@@ -113141,6 +113163,244 @@
           "name": 1,
           "directionOfView": 1,
           "position": 0.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_06",
+      "Properties": {
+        "TechnicalName": "DFr_831C86E3",
+        "Id": "0x010000000001F482",
+        "Parent": "0x0100000000012DEC",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_831C86E3.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 7350.0,
+          "y": 2225.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 2199684835,
+        "InputPins": [
+          {
+            "Text": "Arbiter.arbitera3s3c1_open == true",
+            "Id": "0x010000000001F483",
+            "Owner": "0x010000000001F482"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F484",
+            "Owner": "0x010000000001F482",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000001318C",
+                "Target": "0x010000000001318B"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“Socrates Found the Answer”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_08": {
+          "name": 9,
+          "directionOfView": 2,
+          "position": -20.0,
+          "animations": 1
+        },
+        "characterInFrame_07": {
+          "name": 7,
+          "directionOfView": 2,
+          "position": -20.0,
+          "animations": 1
+        },
+        "characterInFrame_06": {
+          "animations": 1,
+          "name": 8,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_05": {
+          "animations": 1,
+          "name": 6,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 5,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -9.0
+        },
+        "characterInFrame_02": {
+          "animations": 3,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 3.0
+        },
+        "characterInFrame_01": {
+          "animations": 7,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_06",
+      "Properties": {
+        "TechnicalName": "DFr_4C961FF0",
+        "Id": "0x010000000001F48C",
+        "Parent": "0x0100000000013815",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x0100000000000973",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_4C961FF0.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 4350.0,
+          "y": 3400.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 1284906992,
+        "InputPins": [
+          {
+            "Text": "Arbiter.arbitera4s2b2_open == true",
+            "Id": "0x010000000001F48D",
+            "Owner": "0x010000000001F48C"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F48E",
+            "Owner": "0x010000000001F48C",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000013B38",
+                "Target": "0x0100000000013B37"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x0000000000000000",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“No Point in Trying”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_08": {
+          "name": 9,
+          "directionOfView": 2,
+          "position": -20.0,
+          "animations": 1
+        },
+        "characterInFrame_07": {
+          "name": 7,
+          "directionOfView": 1,
+          "position": -20.0,
+          "animations": 1
+        },
+        "characterInFrame_06": {
+          "animations": 1,
+          "name": 8,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_05": {
+          "animations": 2,
+          "name": 6,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 5,
+          "directionOfView": 2,
+          "position": -20.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -12.0
+        },
+        "characterInFrame_02": {
+          "animations": 2,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 3.0
+        },
+        "characterInFrame_01": {
+          "animations": 7,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -3.0
         }
       }
     },

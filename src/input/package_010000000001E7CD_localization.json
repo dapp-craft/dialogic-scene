@@ -4067,6 +4067,24 @@
     },
     "Context": "Flow/kanta3correct_2/01_socrates: \"I guess that’s all we’re going to g...\""
   },
+  "DFr_060AE3A7.Text": {
+    "": {
+      "Text": "Thus, ^^^one should never lie. ^^^^^^^ Ever."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Thus, ^^^one should never lie. ^^^^...\""
+  },
+  "DFr_F081B592.Text": {
+    "": {
+      "Text": "Hush. ^^^^^^Validation is always nice... ^^^^^^^^^even if it comes in a confusing package."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Hush. ^^^^^^Validation is always ni...\""
+  },
+  "DFr_20FF88C6.Text": {
+    "": {
+      "Text": "That is the other way the Universality Test can be failed."
+    },
+    "Context": "Flow/kanta3/09_kant: \"That is the other way the Universal...\""
+  },
   "Hub_DA7AEFD3.idea.ideaDescription": {
     "": {
       "Text": "My opponent only believes what he does because his face looks like a baboon’s backside."
@@ -4177,9 +4195,9 @@
   },
   "Ntt_15DBE53D.DisplayName": {
     "": {
-      "Text": "05_euthypro"
+      "Text": "05_euthyphro"
     },
-    "Context": "Entities/05_euthypro"
+    "Context": "Entities/05_euthyphro"
   },
   "Ntt_484678B9.DisplayName": {
     "": {

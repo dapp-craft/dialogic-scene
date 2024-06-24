@@ -55425,8 +55425,8 @@
                   "b": 0.905882359
                 },
                 "Label": "Back",
-                "TargetPin": "0x010000000000DFF4",
-                "Target": "0x010000000000DFF2"
+                "TargetPin": "0x010000000001F47C",
+                "Target": "0x010000000001F47B"
               },
               {
                 "Color": {
@@ -55737,8 +55737,8 @@
                   "b": 0.905882359
                 },
                 "Label": "Back",
-                "TargetPin": "0x010000000000D95F",
-                "Target": "0x010000000000D95E"
+                "TargetPin": "0x010000000001F47C",
+                "Target": "0x010000000001F47B"
               },
               {
                 "Color": {
@@ -89239,7 +89239,7 @@
         "Text": "",
         "ExternalId": "",
         "Position": {
-          "x": 9550.0,
+          "x": 9500.0,
           "y": 250.0
         },
         "ZIndex": 287.0,
@@ -89511,6 +89511,78 @@
                 "Label": "",
                 "TargetPin": "0x010000000000D974",
                 "Target": "0x010000000000D973"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "Condition",
+      "Properties": {
+        "TechnicalName": "Cnd_000C4156",
+        "Id": "0x010000000001F47B",
+        "Parent": "0x010000000000D93B",
+        "DisplayName": "Hobbes.hobbesa3s3_open == true",
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 9650.0,
+          "y": -75.0
+        },
+        "ZIndex": 287.0,
+        "Size": {
+          "w": 225.0,
+          "h": 100.0
+        },
+        "ShortId": 803158,
+        "Expression": "Hobbes.hobbesa3s3_open == true",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F47C",
+            "Owner": "0x010000000001F47B"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F47D",
+            "Owner": "0x010000000001F47B",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000D966",
+                "Target": "0x010000000000D965"
+              }
+            ]
+          },
+          {
+            "Text": "",
+            "Id": "0x010000000001F47E",
+            "Owner": "0x010000000001F47B",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000D95F",
+                "Target": "0x010000000000D95E"
               }
             ]
           }
