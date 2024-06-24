@@ -1,0 +1,198 @@
+{
+    "name": "Dialogic",
+    "description": "Dialogic is a narrative novel game where the player needs to use their logic to debate with different characters in order to counter the arguments made by his opponents.",
+    "imageUrl": "https://images.ctfassets.net/ea2ybdmmn1kv/3ZWmepXxoHB6obGymUZA1V/c373c008f8a7883b6d3a46096bed7d1d/about-background-9b042b07b1fec70f004ed94da87bd309.webp",
+    "definition": {
+        "steps": [
+            {
+                "id": "Prologue",
+                "description": "Prologue of novel",
+                "tasks": [
+                    {
+                        "id": "complete_prologue",
+                        "description": "complete prologue",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Prologue"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_1",
+                "description": "First chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter1",
+                        "description": "complete first chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_1"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_2",
+                "description": "Second chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter2",
+                        "description": "complete second chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_2"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_3",
+                "description": "Thirth chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter3",
+                        "description": "complete thirth chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_3"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_4",
+                "description": "Fourth chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter4",
+                        "description": "complete fourth chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_4"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_5",
+                "description": "Fifth chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter5",
+                        "description": "complete fifth chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_5"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Chapter_6",
+                "description": "Sixth chapter",
+                "tasks": [
+                    {
+                        "id": "complete_chapter6",
+                        "description": "complete sixth chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Chapter_6"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "Victory",
+                "description": "Last Chapter",
+                "tasks": [
+                    {
+                        "id": "complete_victory",
+                        "description": "complete victory chapter",
+                        "actionItems": [
+                            {
+                                "type": "CUSTOM",
+                                "parameters": {
+                                    "id": "Victory"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "connections": [
+            {
+                "stepFrom": "Prologue",
+                "stepTo": "Chapter_1"
+            },
+            {
+                "stepFrom": "Chapter_1",
+                "stepTo": "Chapter_2"
+            },
+            {
+                "stepFrom": "Chapter_2",
+                "stepTo": "Chapter_3"
+            },
+            {
+                "stepFrom": "Chapter_3",
+                "stepTo": "Chapter_4"
+            },
+            {
+                "stepFrom": "Chapter_4",
+                "stepTo": "Chapter_5"
+            },
+            {
+                "stepFrom": "Chapter_5",
+                "stepTo": "Chapter_6"
+            },
+            {
+                "stepFrom": "Chapter_6",
+                "stepTo": "Victory"
+            }
+        ]
+    },
+    "reward": {
+        "hook": {
+            "webhookUrl": "https://rewards.decentraland.org/api/rewards",
+            "requestBody": {
+                "campaign_key": "",
+                "user": "{user_address}"
+            }
+        },
+        "items": [
+            {
+                "name": "Reward",
+                "imageLink": "https://images.ctfassets.net/ea2ybdmmn1kv/3ZWmepXxoHB6obGymUZA1V/c373c008f8a7883b6d3a46096bed7d1d/about-background-9b042b07b1fec70f004ed94da87bd309.webp"
+            }
+        ]
+    }
+}
