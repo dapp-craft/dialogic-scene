@@ -56178,7 +56178,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56285,7 +56285,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56392,7 +56392,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56499,7 +56499,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EFEA",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56606,7 +56606,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56713,7 +56713,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56820,7 +56820,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -56927,7 +56927,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x0000000000000000",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57141,7 +57141,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EF90",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,
@@ -57248,7 +57248,7 @@
       "Template": {
         "node": {
           "typeNode": 3,
-          "autoScrollingTimer": 2.0,
+          "autoScrollingTimer": 1.0,
           "soundEffect": "0x010000000001EF96",
           "sceneOverlay": "0x0000000000000000",
           "bubbleSpeech": 3,

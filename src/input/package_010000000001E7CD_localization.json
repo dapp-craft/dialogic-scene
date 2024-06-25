@@ -2327,6 +2327,18 @@
     },
     "Context": "Flow/kanta2/01_socrates: \"*sigh* ^^^^^Okay, ^^^^okay. ^^^^^^^...\""
   },
+  "DFr_060AE3A7.Text": {
+    "": {
+      "Text": "Thus, ^^^one should never lie. ^^^^^^^ Ever."
+    },
+    "Context": "Flow/kanta2/09_kant: \"Thus, ^^^one should never lie. ^^^^...\""
+  },
+  "DFr_F081B592.Text": {
+    "": {
+      "Text": "Hush. ^^^^^^Validation is always nice... ^^^^^^^^^even if it comes in a confusing package."
+    },
+    "Context": "Flow/kanta2/02_ari: \"Hush. ^^^^^^Validation is always ni...\""
+  },
   "DFr_6F1E499A.Text": {
     "": {
       "Text": "Hold on just a moment!"
@@ -3659,6 +3671,12 @@
     },
     "Context": "Flow/kanta3/01_socrates: \"Oh god, ^^^^what do I do...\""
   },
+  "DFr_20FF88C6.Text": {
+    "": {
+      "Text": "That is the other way the Universality Test can be failed."
+    },
+    "Context": "Flow/kanta3/09_kant: \"That is the other way the Universal...\""
+  },
   "DFr_7CF2609C.Text": {
     "": {
       "Text": "Kant! ^^^^I’ve been thinking..."
@@ -4066,24 +4084,6 @@
       "Text": "I guess that’s all we’re going to get out of Kant..."
     },
     "Context": "Flow/kanta3correct_2/01_socrates: \"I guess that’s all we’re going to g...\""
-  },
-  "DFr_060AE3A7.Text": {
-    "": {
-      "Text": "Thus, ^^^one should never lie. ^^^^^^^ Ever."
-    },
-    "Context": "Flow/kanta2/09_kant: \"Thus, ^^^one should never lie. ^^^^...\""
-  },
-  "DFr_F081B592.Text": {
-    "": {
-      "Text": "Hush. ^^^^^^Validation is always nice... ^^^^^^^^^even if it comes in a confusing package."
-    },
-    "Context": "Flow/kanta2/02_ari: \"Hush. ^^^^^^Validation is always ni...\""
-  },
-  "DFr_20FF88C6.Text": {
-    "": {
-      "Text": "That is the other way the Universality Test can be failed."
-    },
-    "Context": "Flow/kanta3/09_kant: \"That is the other way the Universal...\""
   },
   "Hub_DA7AEFD3.idea.ideaDescription": {
     "": {

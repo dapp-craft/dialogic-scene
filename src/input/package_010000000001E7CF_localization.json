@@ -2205,7 +2205,7 @@
     "": {
       "Text": "..."
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"...\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"...\""
   },
   "DFr_1FCB1F74.Text": {
     "": {
@@ -2217,31 +2217,31 @@
     "": {
       "Text": "Hmph."
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"Hmph.\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"Hmph.\""
   },
   "DFr_201BC821.Text": {
     "": {
       "Text": "My child, ^^^^^you are STILL a blasphemer. ^^^^^^^^^"
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"My child, ^^^^^you are STILL a blas...\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"My child, ^^^^^you are STILL a blas...\""
   },
   "DFr_F520BF57.Text": {
     "": {
       "Text": "Rest assured, ^^^^^the Gods WILL smite you, ^^^^^one day."
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"Rest assured, ^^^^^the Gods WILL sm...\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"Rest assured, ^^^^^the Gods WILL sm...\""
   },
   "DFr_96AB3637.Text": {
     "": {
       "Text": "...But... ^^^^^^^until then, ^^I suppose I could lend you a hand."
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"...But... ^^^^^^^until then, ^^I su...\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"...But... ^^^^^^^until then, ^^I su...\""
   },
   "DFr_094DF2EB.Text": {
     "": {
       "Text": "Being men, we are all incredibly flawed... ^^^^our only hope lies in helping each other."
     },
-    "Context": "Flow/arbiterp3_4/05_euthypro: \"Being men, we are all incredibly fl...\""
+    "Context": "Flow/arbiterp3_4/05_euthyphro: \"Being men, we are all incredibly fl...\""
   },
   "DFr_5AE55287.Text": {
     "": {
@@ -2541,7 +2541,7 @@
     "": {
       "Text": "Scripture, ^^^even."
     },
-    "Context": "Flow/arbitera3/05_euthypro: \"Scripture, ^^^even.\""
+    "Context": "Flow/arbitera3/05_euthyphro: \"Scripture, ^^^even.\""
   },
   "DFr_8F0BFD54.Text": {
     "": {
@@ -3071,6 +3071,12 @@
     },
     "Context": "Flow/arbitera3/04_arbiter: \"You seem to be grasping at straws....\""
   },
+  "DFr_831C86E3.Text": {
+    "": {
+      "Text": "Huh... interesting."
+    },
+    "Context": "Flow/arbitera3/01_socrates: \"Huh... interesting.\""
+  },
   "DFr_209C016C.Text": {
     "": {
       "Text": "The time has come to end this charade."
@@ -3201,7 +3207,7 @@
     "": {
       "Text": "Yes, ^^^my child?"
     },
-    "Context": "Flow/arbitera3end/05_euthypro: \"Yes, ^^^my child?\""
+    "Context": "Flow/arbitera3end/05_euthyphro: \"Yes, ^^^my child?\""
   },
   "DFr_698308D4.Text": {
     "": {
@@ -3213,13 +3219,13 @@
     "": {
       "Text": "Of course."
     },
-    "Context": "Flow/arbitera3end/05_euthypro: \"Of course.\""
+    "Context": "Flow/arbitera3end/05_euthyphro: \"Of course.\""
   },
   "DFr_FEDB8F35.Text": {
     "": {
       "Text": "“Human beings are fallible and vain. ^^^^They make mistakes.”"
     },
-    "Context": "Flow/arbitera3end_1/05_euthypro: \"“Human beings are fallible and vain...\""
+    "Context": "Flow/arbitera3end_1/05_euthyphro: \"“Human beings are fallible and vain...\""
   },
   "DFr_C66BB44E.Text": {
     "": {
@@ -3501,13 +3507,13 @@
     "": {
       "Text": "I knew it!!! ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^I knew you were up to no good, ^^^^^^^^^^^^^^^^^my child!"
     },
-    "Context": "Flow/arbiterp4_1/05_euthypro: \"I knew it!!! ^^^^^^^^^^^^^^^^^^^^^^...\""
+    "Context": "Flow/arbiterp4_1/05_euthyphro: \"I knew it!!! ^^^^^^^^^^^^^^^^^^^^^^...\""
   },
   "DFr_195CAB2E.Text": {
     "": {
       "Text": "Trying to lower us all to your level... ^^^^^^^^^make us into accountants..."
     },
-    "Context": "Flow/arbiterp4_1/05_euthypro: \"Trying to lower us all to your leve...\""
+    "Context": "Flow/arbiterp4_1/05_euthyphro: \"Trying to lower us all to your leve...\""
   },
   "DFr_12CB398F.Text": {
     "": {
@@ -3543,7 +3549,7 @@
     "": {
       "Text": "Oh. ^^^^^^Good. ^^^^^^^^Thank the gods."
     },
-    "Context": "Flow/arbiterp4_1/05_euthypro: \"Oh. ^^^^^^Good. ^^^^^^^^Thank the g...\""
+    "Context": "Flow/arbiterp4_1/05_euthyphro: \"Oh. ^^^^^^Good. ^^^^^^^^Thank the g...\""
   },
   "DFr_CFB32AFD.Text": {
     "": {
@@ -4881,7 +4887,7 @@
     "": {
       "Text": "Oh gods, ^^^^^give me the strength to assist this ingrate..."
     },
-    "Context": "Flow/arbitera4/05_euthypro: \"Oh gods, ^^^^^give me the strength...\""
+    "Context": "Flow/arbitera4/05_euthyphro: \"Oh gods, ^^^^^give me the strength...\""
   },
   "DFr_0D96A798.Text": {
     "": {
@@ -4906,6 +4912,12 @@
       "Text": "(Just a little more... ^^^^I can’t let Ari down, not now!)"
     },
     "Context": "Flow/arbitera4/01_socrates: \"(Just a little more... ^^^^I can’t...\""
+  },
+  "DFr_4C961FF0.Text": {
+    "": {
+      "Text": "Hmmm. ^^^^^^With that said, ^^^though, ^^^I don't think we should forget these points."
+    },
+    "Context": "Flow/arbitera4/01_socrates: \"Hmmm. ^^^^^^With that said, ^^^thou...\""
   },
   "DFr_443CF9C4.Text": {
     "": {
@@ -4983,7 +4995,7 @@
     "": {
       "Text": "!!!"
     },
-    "Context": "Flow/arbitera4correct/05_euthypro: \"!!!\""
+    "Context": "Flow/arbitera4correct/05_euthyphro: \"!!!\""
   },
   "DFr_6378AF25.Text": {
     "": {
@@ -5631,19 +5643,7 @@
     "": {
       "Text": "What?! ^^^^Now wait a minute—"
     },
-    "Context": "Flow/arbitera4correct_7/05_euthypro: \"What?! ^^^^Now wait a minute—\""
-  },
-  "DFr_831C86E3.Text": {
-    "": {
-      "Text": "Huh... interesting."
-    },
-    "Context": "Flow/arbitera3/01_socrates: \"Huh... interesting.\""
-  },
-  "DFr_4C961FF0.Text": {
-    "": {
-      "Text": "Hmmm. ^^^^^^With that said, ^^^though, ^^^I don't think we should forget these points."
-    },
-    "Context": "Flow/arbitera4/01_socrates: \"Hmmm. ^^^^^^With that said, ^^^thou...\""
+    "Context": "Flow/arbitera4correct_7/05_euthyphro: \"What?! ^^^^Now wait a minute—\""
   },
   "Hub_89C4E4F7.idea.ideaDescription": {
     "": {

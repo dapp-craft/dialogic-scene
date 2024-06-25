@@ -935,6 +935,12 @@
     },
     "Context": "Flow/milla1start/01_socrates: \"Oh. ^^^^^^Right-o, ^^^^then.\""
   },
+  "DFr_2DCDDE01.Text": {
+    "": {
+      "Text": "\"Huh, ^^^interesting."
+    },
+    "Context": "Flow/milla1start/01_socrates: \"\"Huh, ^^^interesting.\""
+  },
   "DFr_121F2B01.Text": {
     "": {
       "Text": "Old chap, ^^^you seem to be having quite a bit of trouble."
@@ -1931,6 +1937,12 @@
     },
     "Context": "Flow/milla2/12_notification: \"“Rule Nuances” added to the Idea Sl...\""
   },
+  "DFr_A0C4E55D.Text": {
+    "": {
+      "Text": "(Huh. ^^^^How interesting.)"
+    },
+    "Context": "Flow/milla2/01_socrates: \"(Huh. ^^^^How interesting.)\""
+  },
   "DFr_1F2D0065.Text": {
     "": {
       "Text": "The game’s up, ^^^^^“old chap.”"
@@ -2536,18 +2548,6 @@
       "Text": "No..."
     },
     "Context": "Flow/mills5.1/02_ari: \"No...\""
-  },
-  "DFr_2DCDDE01.Text": {
-    "": {
-      "Text": "\"Huh, ^^^interesting."
-    },
-    "Context": "Flow/milla1start/01_socrates: \"\"Huh, ^^^interesting.\""
-  },
-  "DFr_A0C4E55D.Text": {
-    "": {
-      "Text": "(Huh. ^^^^How interesting.)"
-    },
-    "Context": "Flow/milla2/01_socrates: \"(Huh. ^^^^How interesting.)\""
   },
   "Hub_D68DFF62.idea.ideaDescription": {
     "": {

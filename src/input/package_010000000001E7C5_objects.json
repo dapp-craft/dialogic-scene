@@ -71742,7 +71742,7 @@
         "Text": "DFr_FC680498.Text",
         "ExternalId": "",
         "Position": {
-          "x": 9950.0,
+          "x": 9900.0,
           "y": 2475.0
         },
         "ZIndex": 0.0,
@@ -76893,6 +76893,113 @@
           "name": 1,
           "directionOfView": 1,
           "position": -3.0
+        }
+      }
+    },
+    {
+      "Type": "nodeTemplateFrame_01",
+      "Properties": {
+        "TechnicalName": "DFr_D5CFA8E9",
+        "Id": "0x010000000001F470",
+        "Parent": "0x010000000000A9A2",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000096F",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_D5CFA8E9.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 9525.0,
+          "y": 2475.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 3587156201,
+        "InputPins": [
+          {
+            "Text": "Euthyphro.eutha2s5b1_open == true",
+            "Id": "0x010000000001F471",
+            "Owner": "0x010000000001F470"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000001F472",
+            "Owner": "0x010000000001F470",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000B40D",
+                "Target": "0x010000000000B40C"
+              }
+            ]
+          }
+        ]
+      },
+      "Template": {
+        "node": {
+          "typeNode": 1,
+          "autoScrollingTimer": null,
+          "soundEffect": "0x010000000001EFA8",
+          "sceneOverlay": "0x0000000000000000",
+          "bubbleSpeech": 2,
+          "speedSpeech": 1.0,
+          "shakeCameraIntensity": 0.0,
+          "title": "“On Divine Disagreements”",
+          "moveCamera": 0.0,
+          "hpButtonName": "credibility",
+          "showHpButton": true
+        },
+        "characterInFrame_06": {
+          "animations": 24,
+          "name": 12,
+          "directionOfView": 5,
+          "position": 0.0
+        },
+        "characterInFrame_05": {
+          "animations": 24,
+          "name": 12,
+          "directionOfView": 5,
+          "position": 0.0
+        },
+        "characterInFrame_04": {
+          "animations": 1,
+          "name": 4,
+          "directionOfView": 1,
+          "position": 9.0
+        },
+        "characterInFrame_03": {
+          "animations": 1,
+          "name": 2,
+          "directionOfView": 2,
+          "position": -4.0
+        },
+        "characterInFrame_02": {
+          "animations": 2,
+          "name": 5,
+          "directionOfView": 1,
+          "position": 3.0
+        },
+        "characterInFrame_01": {
+          "animations": 1,
+          "name": 1,
+          "directionOfView": 2,
+          "position": -2.0
         }
       }
     },
@@ -83634,113 +83741,6 @@
           "name": 1,
           "directionOfView": 2,
           "position": -3.0
-        }
-      }
-    },
-    {
-      "Type": "nodeTemplateFrame_01",
-      "Properties": {
-        "TechnicalName": "DFr_D5CFA8E9",
-        "Id": "0x010000000001F470",
-        "Parent": "0x010000000000A9A2",
-        "MenuText": "",
-        "StageDirections": "",
-        "Speaker": "0x010000000000096F",
-        "SplitHeight": 64.0,
-        "Color": {
-          "r": 0.784313738,
-          "g": 0.8862745,
-          "b": 0.905882359
-        },
-        "Text": "DFr_D5CFA8E9.Text",
-        "ExternalId": "",
-        "Position": {
-          "x": 9575.0,
-          "y": 2475.0
-        },
-        "ZIndex": 0.0,
-        "Size": {
-          "w": 225.0,
-          "h": 200.0
-        },
-        "ShortId": 3587156201,
-        "InputPins": [
-          {
-            "Text": "Euthyphro.eutha2s5b1_open == true",
-            "Id": "0x010000000001F471",
-            "Owner": "0x010000000001F470"
-          }
-        ],
-        "OutputPins": [
-          {
-            "Text": "",
-            "Id": "0x010000000001F472",
-            "Owner": "0x010000000001F470",
-            "Connections": [
-              {
-                "Color": {
-                  "a": 1.0,
-                  "r": 0.784313738,
-                  "g": 0.8862745,
-                  "b": 0.905882359
-                },
-                "Label": "",
-                "TargetPin": "0x010000000000B40D",
-                "Target": "0x010000000000B40C"
-              }
-            ]
-          }
-        ]
-      },
-      "Template": {
-        "node": {
-          "typeNode": 1,
-          "autoScrollingTimer": null,
-          "soundEffect": "0x010000000001EFA8",
-          "sceneOverlay": "0x0000000000000000",
-          "bubbleSpeech": 2,
-          "speedSpeech": 1.0,
-          "shakeCameraIntensity": 0.0,
-          "title": "“On Divine Disagreements”",
-          "moveCamera": 0.0,
-          "hpButtonName": "credibility",
-          "showHpButton": true
-        },
-        "characterInFrame_06": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_05": {
-          "animations": 24,
-          "name": 12,
-          "directionOfView": 5,
-          "position": 0.0
-        },
-        "characterInFrame_04": {
-          "animations": 1,
-          "name": 4,
-          "directionOfView": 1,
-          "position": 9.0
-        },
-        "characterInFrame_03": {
-          "animations": 1,
-          "name": 2,
-          "directionOfView": 2,
-          "position": -4.0
-        },
-        "characterInFrame_02": {
-          "animations": 2,
-          "name": 5,
-          "directionOfView": 1,
-          "position": 3.0
-        },
-        "characterInFrame_01": {
-          "animations": 1,
-          "name": 1,
-          "directionOfView": 2,
-          "position": -2.0
         }
       }
     },
