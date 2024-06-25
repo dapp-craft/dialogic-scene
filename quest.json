@@ -185,13 +185,13 @@
             "webhookUrl": "https://rewards.decentraland.org/api/rewards",
             "requestBody": {
                 "campaign_key": "",
-                "user": "{user_address}"
+                "beneficiary": "{user_address}"
             }
         },
         "items": [
             {
-                "name": "Reward",
-                "imageLink": "https://images.ctfassets.net/ea2ybdmmn1kv/3ZWmepXxoHB6obGymUZA1V/c373c008f8a7883b6d3a46096bed7d1d/about-background-9b042b07b1fec70f004ed94da87bd309.webp"
+                "name": "Dialogic Skull Mask",
+                "imageLink": "https://peer.decentraland.org/lambdas/collections/contents/urn:decentraland:matic:collections-v2:0x5cac2736d11a3423463d7103eda23b0dd4bb00f6:0/thumbnail"
             }
         ]
     }

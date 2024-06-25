@@ -13,7 +13,7 @@ export class Quest {
     constructor() {
         // f13a4848-0493-4bdb-8db3-9368fe45ccb0 NEW
         // b253fd1b-32de-4d51-85b0-0b33263e20a1 REWARD
-        this.QUEST_ID = 'cdcae308-e9d0-4a66-8ad6-7d652550d66d'
+        this.QUEST_ID = '5db7c3be-f9f4-4c3b-92a3-799f86349447'
         this.ws = 'wss://quests-rpc.decentraland.org'
         this.ready = new Promise((res, rej) => {this.resolveReady = res; this.rejectReady = rej})
         this.connect()
