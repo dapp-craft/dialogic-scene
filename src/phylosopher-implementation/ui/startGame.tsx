@@ -33,11 +33,13 @@ export function createQuitButton(){
 export function createContinueButton(action:()=>void)
 {
     continueVisible = true;
+    lobbyAnimation.to({size: 1}, 1000).start();
     theme_sound = soundController.playMusicSound("Assets/Audio/Decentraland_Philosophy Game_Reflection Theme.mp3", true, Vector3.create(0, 11, 0));
     continueButtonFunction = action;
 }
 export function createStartButton(action:()=>void){
     startVisible = true;
+    lobbyAnimation.to({size: 1}, 1000).start();
     theme_sound = soundController.playMusicSound("Assets/Audio/Decentraland_Philosophy Game_Reflection Theme.mp3", true, Vector3.create(0, 11, 0));
     startButtonFunction = action;
 }
@@ -154,7 +156,7 @@ export function renderLobbyScreen(){
             src: "images/ui/UI_separate png/start_screen.png"
         }
     }}>
-    { // start new game
+    { 
         button(()=>{
             if(!locked){
                 if(theme_sound)
@@ -183,7 +185,7 @@ export function renderLobbyScreen(){
     </UiEntity>
 
 
-    <UiEntity // continue screen
+    <UiEntity 
     uiTransform={{
         width: canvasWidth  *lobbyParams.size,
         height: canvasWidth *1150/2048 *lobbyParams.size,

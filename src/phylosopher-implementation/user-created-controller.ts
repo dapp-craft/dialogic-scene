@@ -137,7 +137,6 @@ export default class UserCreatedController extends NovelController
                 }
             }
             notesTab.closable = notesTab.notes.length == 0;
-
             novelEngine.getUiController().visible = true;
             novelEngine.getUiController().buttonConfig.refresh();
             

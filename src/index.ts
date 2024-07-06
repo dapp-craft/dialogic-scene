@@ -114,12 +114,7 @@ export async function main() {
     let questInitialized = philisophyQuest.getCurrentChapter().then(async currentChapter => {
         console.log("Current chapter: ", currentChapter)
         if (currentChapter) {
-            createContinueButton(async () => {
-                showLoadingSplashScreen() // 
-                await startChapter(currentChapter!)
-                settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
-                hideLoadingSplashScreen()
-            })
+            createContinueButton(continueGame)
         } else if (currentChapter === null) {
             createQuitButton();
         }  
@@ -203,8 +198,8 @@ export async function main() {
                 if (sequence) novelEngine.showFrame(sequence.firstFrame)
                 else console.error("First frame not found")
             }
-
             showLoadingSplashScreen()
+            
             philisophyQuest.advance()
                 .then(philisophyQuest.getCurrentChapter.bind(philisophyQuest))
                 .then(nextChapter => { if (!nextChapter) throw "End of game"; else return nextChapter })
@@ -218,4 +213,15 @@ export async function main() {
         return true
     })
 
+}
+export async function continueGame() {
+    showLoadingSplashScreen()
+    const currentChapter = await philisophyQuest.getCurrentChapter()
+    if (currentChapter) {
+        await startChapter(currentChapter)
+        settings.properties.nextSavePointTitle = await philisophyQuest.getNextChapter() ?? "never"
+    } else {
+        showErrorSplashScreen(() => { }, "No saved game found")
+    }
+    hideLoadingSplashScreen()
 }

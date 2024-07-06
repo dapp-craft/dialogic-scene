@@ -6,6 +6,9 @@ import { changeRealm, movePlayerTo } from "~system/RestrictedActions";
 import { timers } from "@dcl-sdk/utils";
 import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 import { hideLoadingSplashScreen, showLoadingSplashScreen } from "../splashScreens/splashScreen";
+import { createContinueButton } from "./startGame";
+import { continueGame, novelEngine } from "../..";
+import { soundController } from "../../dcl-novel-engine/engine/util/sound-controller";
 
 
 // this function needs to move player on new location and remove all resources.
@@ -36,7 +39,6 @@ export function saveAndQuit(){
 }
 
 function newChapter(target:string){
-    visible = false; 
     engineInstance.getUiController().visible = true;
     engineInstance.showFrame(target)
 }   
@@ -50,14 +52,15 @@ export function drawNewChapter(target:string){
     engineInstance.getUiController().visible = false;
 }
 export function renderChapter(){
+
     return(<UiEntity
         uiTransform={{
             width: "100%",
             height: "100%",
             alignItems: 'center',
             positionType: 'absolute',
-            pointerFilter: 'block',
             justifyContent: 'center',
+            pointerFilter: 'block',
             display: visible ? 'flex':'none'
         }}>
               <UiEntity
@@ -70,7 +73,8 @@ export function renderChapter(){
                 }}
                
                 onMouseDown={()=>{
-                   
+                    visible = false; 
+                    soundController.playSound("Assets/Audio/click.wav", false, Vector3.create(0, 2, 0));
                     newChapter(targetFrame);
                 }}
                 />
@@ -84,9 +88,27 @@ export function renderChapter(){
                 }}
               
                 onMouseDown={()=>{
+                    visible = false; 
+                    soundController.playSound("Assets/Audio/click.wav", false, Vector3.create(0, 2, 0));
                     saveAndQuit();
                 }}
+                /> 
+             <UiEntity
+                uiTransform={{
+                    width: "30%",
+                    height:"50%",
+                    position: { top: "0%", right:"5%"},
+                    alignSelf: 'center',
+                    positionType: 'absolute',
+                    margin:"2%",
+                }}
+                onMouseDown={()=>{ 
+                    visible = false; 
+                    soundController.playSound("Assets/Audio/click.wav", false, Vector3.create(0, 2, 0));
+                    createContinueButton(continueGame);
+                }}
                 />
+       
         </UiEntity>
 )}
 
