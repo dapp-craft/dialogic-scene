@@ -1,5 +1,5 @@
 import ReactEcs, { Label, UiEntity, scaleFontSize } from "@dcl/sdk/react-ecs";
-import { Resources } from "../../dcl-novel-engine/resources";
+import { Resources } from "./resources";
 import { Color4, Vector3 } from "@dcl/sdk/math";
 import { engineInstance } from "../../dcl-novel-engine/engine/engine";
 import { setNoteButtonVisible } from "../buttonsCanvas";

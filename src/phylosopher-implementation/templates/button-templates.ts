@@ -1,8 +1,8 @@
 import { InputAction } from "@dcl/sdk/ecs";
-import { Resources } from "../../dcl-novel-engine/resources";
 import { Color4 } from "@dcl/ecs-math";
 import { ButtonConfig } from "../../dcl-novel-engine/engine/ui/button/buttonConfig";
 import { IButtonTemplate } from "../../dcl-novel-engine/engine/ui/button/renderedButton";
+import { Resources } from "../ui/resources";
 
 /// <reference path="../../../dcl-novel-engine/engine/ui/button/buttonConfig.ts" />
 /// <reference path="../../../dcl-novel-engine/engine/ui/button/renderedButton.tsx" />

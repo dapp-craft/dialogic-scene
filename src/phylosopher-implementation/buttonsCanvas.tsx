@@ -1,5 +1,5 @@
 import ReactEcs, { UiEntity } from "@dcl/sdk/react-ecs";
-import { Resources } from "../dcl-novel-engine/resources";
+import { Resources } from "./ui/resources";
 import { canvasWidth } from "../dcl-novel-engine/engine/ui/canvasConstants";
 import { settings } from "../dcl-novel-engine/engine/ui/settings";
 import { Vector3 } from "@dcl/sdk/math";
